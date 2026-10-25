@@ -145,12 +145,12 @@ def _parse_topic_block(block: str, category_name: str, output_dir: str) -> Optio
     topics_list = []
     if topics_match:
         topics_str = topics_match.group(1)
-        # Match both single and double quoted strings, and backtick-quoted
-        topic_items = re.findall(r'["\']([^"\']+)["\']|`([^`]+)`', topics_str)
-        for groups in topic_items:
-            # Each match returns a tuple of groups, pick the non-empty one
-            topic = groups[0] if groups[0] else groups[1]
-            topics_list.append(topic)
+        raw_items = re.findall(r"'((?:\\'|[^'])*)'|\"((?:\\\"|[^\"])*)\"|`([^`]+)`", topics_str)
+        for groups in raw_items:
+            item = next(g for g in groups if g)
+            item = item.replace(r"\'", "'").replace(r'\"', '"').strip()
+            if item:
+                topics_list.append(item)
 
     return TopicInfo(
         id=id_match.group(1),
