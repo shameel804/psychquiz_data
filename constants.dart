@@ -1,181 +1,217 @@
-// python3 generate_pipeline.py prompts "Qualitative Research" --topic intro_what_is
-// python3 generate_pipeline.py process "Qualitative Research"
+// python3 generate_pipeline.py prompts "Positive Psychology" --topic intro_what_is
+// python3 generate_pipeline.py process "Positive Psychology"
 // Read the file staging/INSTRUCTIONS.md and follow all instructions. For each task, read the prompt file, generate the quiz JSON following ALL rules, and write the output to the specified output file path.
 
 class Constants {
     static const Map<String, List<Map<String, dynamic>>> allTypes = {
-   // =====================================================
-    // RESEARCH & ASSESSMENT
     // =====================================================
-    "Research Methods": [
+    // SPECIALIZED FIELDS
+    // =====================================================
+    "Forensic Psychology": [
       {
-        'id': 'resm_experimental',
-        'title': "Experimental Research",
+        'id': 'for_criminal',
+        'title': "Criminal Psychology",
         'tier': 'free',
         'topics': [
-          'True experiments and quasi-experiments',
-          'Between-subjects vs. within-subjects designs',
-          'Control groups and placebos',
-          'Random assignment',
+          'Criminal behavior theories',
+          'Psychopathy and antisocial behavior',
+          'Criminal profiling',
+          'Risk assessment',
         ],
       },
       {
-        'id': 'resm_nonexperimental',
-        'title': "Non-Experimental Methods",
+        'id': 'for_legal',
+        'title': "Psychology & the Legal System",
         'tier': 'free',
         'topics': [
-          'Correlational studies',
-          'Survey research',
-          'Case studies',
-          'Content analysis',
+          'Eyewitness testimony reliability',
+          'Jury decision making',
+          'Competency and insanity evaluations',
+          'Expert witness role',
         ],
       },
       {
-        'id': 'resm_qualitative',
-        'title': "Qualitative Research",
+        'id': 'for_correctional',
+        'title': "Correctional Psychology",
         'tier': 'vip',
         'topics': [
-          'Grounded theory',
-          'Phenomenological research',
-          'Ethnography',
-          'Thematic analysis',
+          'Prison psychology',
+          'Rehabilitation programs',
+          'Recidivism prediction',
+          'Juvenile justice psychology',
         ],
       },
     ],
 
-    "Statistics for Psychology": [
+    "Military Psychology": [
       {
-        'id': 'stats_descriptive',
-        'title': "Descriptive Statistics",
+        'id': 'mil_combat',
+        'title': "Combat Psychology",
         'tier': 'free',
         'topics': [
-          'Measures of central tendency',
-          'Measures of variability',
-          'Normal distribution',
-          'Data visualization',
+          'Combat stress reactions',
+          'PTSD in military populations',
+          'Resilience training programs',
+          'Moral injury',
         ],
       },
       {
-        'id': 'stats_inferential',
-        'title': "Inferential Statistics",
-        'tier': 'free',
-        'topics': [
-          'Hypothesis testing (null and alternative)',
-          't-tests and ANOVA',
-          'Chi-square tests',
-          'Effect size and power analysis',
-        ],
-      },
-      {
-        'id': 'stats_advanced',
-        'title': "Advanced Statistical Methods",
+        'id': 'mil_assessment',
+        'title': "Military Assessment & Selection",
         'tier': 'vip',
         'topics': [
-          'Regression analysis',
-          'Factor analysis',
-          'Meta-analysis',
-          'Structural equation modeling',
+          'Psychological fitness evaluations',
+          'Leadership assessment',
+          'Special operations selection',
+          'Deployment readiness',
         ],
       },
     ],
 
-    "Psychometrics & Testing": [
+    "Positive Psychology": [
       {
-        'id': 'psym_reliability',
-        'title': "Reliability & Validity",
+        'id': 'pos_wellbeing',
+        'title': "Well-being & Flourishing",
         'tier': 'free',
         'topics': [
-          'Test-retest and internal consistency',
-          'Content, criterion, and construct validity',
-          'Face validity',
-          'Standard error of measurement',
+          'PERMA model (Seligman)',
+          'Subjective well-being',
+          'Hedonic vs. eudaimonic happiness',
+          'Well-being interventions',
         ],
       },
       {
-        'id': 'psym_construction',
-        'title': "Test Construction",
+        'id': 'pos_strengths',
+        'title': "Character Strengths & Virtues",
         'tier': 'free',
         'topics': [
-          'Item writing and analysis',
-          'Norming and standardization',
-          'Classical test theory',
-          'Item response theory basics',
+          'VIA classification of strengths',
+          'Strengths-based approach',
+          'Gratitude and its effects',
+          'Mindfulness and meditation',
         ],
       },
       {
-        'id': 'psym_types',
-        'title': "Types of Psychological Tests",
+        'id': 'pos_resilience',
+        'title': "Resilience & Post-Traumatic Growth",
         'tier': 'vip',
         'topics': [
-          'Achievement and aptitude tests',
-          'Personality inventories',
-          'Neuropsychological batteries',
-          'Projective measures',
+          'Resilience factors',
+          'Post-traumatic growth model',
+          'Coping and thriving',
+          'Resilience interventions',
+        ],
+      },
+      {
+        'id': 'pos_flow',
+        'title': "Flow & Optimal Experience",
+        'tier': 'vip',
+        'topics': [
+          'Csikszentmihalyi\'s flow theory',
+          'Conditions for flow',
+          'Flow in work and education',
+          'Measuring flow states',
         ],
       },
     ],
 
-    "Ethics in Psychology": [
+    "Community Psychology": [
       {
-        'id': 'eth_principles',
-        'title': "Ethical Principles",
+        'id': 'comm_prevention',
+        'title': "Prevention & Early Intervention",
         'tier': 'free',
         'topics': [
-          'APA ethics code overview',
-          'Beneficence and nonmaleficence',
-          'Informed consent process',
-          'Confidentiality and its limits',
+          'Primary, secondary, tertiary prevention',
+          'Community needs assessment',
+          'Program development and evaluation',
+          'Empowerment and advocacy',
         ],
       },
       {
-        'id': 'eth_research',
-        'title': "Ethics in Research",
-        'tier': 'free',
-        'topics': [
-          'IRB review process',
-          'Deception and debriefing',
-          'Vulnerable populations',
-          'Data integrity and fabrication',
-        ],
-      },
-      {
-        'id': 'eth_practice',
-        'title': "Ethics in Clinical Practice",
+        'id': 'comm_social',
+        'title': "Social Justice & Equity",
         'tier': 'vip',
         'topics': [
-          'Dual relationships and boundaries',
-          'Competence and scope of practice',
-          'Mandatory reporting',
-          'Ethical dilemmas in therapy',
+          'Health disparities',
+          'Community organizing',
+          'Policy advocacy',
+          'Participatory action research',
         ],
       },
     ],
 
-    "Qualitative Research": [
+    "Neuropsychology": [
       {
-        'id': 'qual_methods',
-        'title': "Qualitative Methods",
+        'id': 'neuro_assessment',
+        'title': "Neuropsychological Assessment",
         'tier': 'free',
         'topics': [
-          'Interviews and focus groups',
-          'Participant observation',
-          'Document analysis',
-          'Reflexivity in research',
+          'Common neuropsychological tests',
+          'Assessment of memory and attention',
+          'Executive function testing',
+          'Report writing and interpretation',
         ],
       },
       {
-        'id': 'qual_analysis',
-        'title': "Qualitative Data Analysis",
+        'id': 'neuro_disorders',
+        'title': "Neuropsychological Disorders",
+        'tier': 'free',
+        'topics': [
+          'Traumatic brain injury',
+          'Stroke and cerebrovascular disorders',
+          'Neurodegenerative diseases',
+          'Epilepsy and seizure disorders',
+        ],
+      },
+      {
+        'id': 'neuro_rehab',
+        'title': "Cognitive Rehabilitation",
         'tier': 'vip',
         'topics': [
-          'Coding and categorization',
-          'Thematic analysis procedures',
-          'Narrative analysis',
-          'Trustworthiness and rigor',
+          'Rehabilitation strategies',
+          'Compensatory techniques',
+          'Technology-assisted rehabilitation',
+          'Outcome measurement',
         ],
       },
     ],
 
+    "Counseling Psychology": [
+      {
+        'id': 'coun_skills',
+        'title': "Core Counseling Skills",
+        'tier': 'free',
+        'topics': [
+          'Active listening',
+          'Empathic responding',
+          'Open and closed questioning',
+          'Summarizing and reflecting',
+        ],
+      },
+      {
+        'id': 'coun_modalities',
+        'title': "Counseling Modalities",
+        'tier': 'free',
+        'topics': [
+          'Individual counseling',
+          'Career counseling',
+          'Multicultural counseling',
+          'Online and telehealth counseling',
+        ],
+      },
+      {
+        'id': 'coun_crisis',
+        'title': "Crisis & Trauma Counseling",
+        'tier': 'vip',
+        'topics': [
+          'Crisis intervention models',
+          'Trauma-informed care principles',
+          'Grief and loss counseling',
+          'Disaster mental health',
+        ],
+      },
+    ],
+  
   };
 
 }
