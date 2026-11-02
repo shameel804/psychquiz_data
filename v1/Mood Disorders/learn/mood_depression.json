@@ -1,0 +1,155 @@
+{
+    "id": "learn_mood_depression",
+    "topicId": "mood_depression",
+    "topicTitle": "Major Depressive Disorder",
+    "description": "Examine the diagnostic criteria, neurobiology, cognitive models, and evidence-based treatments for Major Depressive Disorder",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mood_depression_1",
+            "type": "content",
+            "title": "Introduction to Major Depressive Disorder",
+            "content": "# Major Depressive Disorder (MDD)\n\n**Major Depressive Disorder (MDD)** is one of the leading causes of disability worldwide, affecting over 300 million individuals globally across all demographics.\n\n## Core Definition\nMDD is not transient sadness or normal grief; it is a severe, episodic, and potentially recurrent clinical syndrome characterized by persistent low mood, pervasive loss of pleasure, neurovegetative dysfunction, and cognitive impairment.\n\n## Epidemiology:\n- **Lifetime Prevalence**: Approx 15% to 20% in the general population.\n- **Gender Ratio**: 2:1 female-to-male ratio emerging in early adolescence (approx 1.5 to 2.5 times higher in women).\n- **Peak Onset**: Late adolescence through mid-twenties, though onset can occur at any life stage.\n- **Recurrence Risk**: After a single depressive episode, the risk of recurrence is approx 50%; after two episodes, 70%; after three episodes, >= 90%."
+        },
+        {
+            "id": "mood_depression_2",
+            "type": "content",
+            "title": "DSM-5-TR Diagnostic Criteria",
+            "content": "# DSM-5-TR Diagnostic Criteria for MDD\n\nTo meet diagnostic criteria for MDD, an individual must experience **at least 5 of the following 9 symptoms** during the same **2-week period**, representing a clear change from prior functioning.\n\n## Mandatory Cardinal Symptoms (At Least ONE Required):\n1. **Depressed Mood**: Most of the day, nearly every day (subjective sadness, emptiness, or observed tearfulness).\n2. **Anhedonia**: Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day.\n\n## Additional Diagnostic Symptoms (At Least 4 More):\n3. **Weight / Appetite Changes**: Significant weight loss without dieting, weight gain, or appetite changes.\n4. **Sleep Disturbance**: Insomnia (initial, middle, or terminal early-morning awakening) or hypersomnia.\n5. **Psychomotor Alterations**: Psychomotor agitation or retardation observable by others.\n6. **Fatigue**: Loss of energy nearly every day.\n7. **Worthlessness / Excessive Guilt**: Feelings of worthlessness or inappropriate guilt.\n8. **Cognitive Impairment**: Diminished ability to think, concentrate, or make decisions.\n9. **Suicidal Ideation**: Recurrent thoughts of death, suicidal ideation, or suicide attempts."
+        },
+        {
+            "id": "mood_depression_3",
+            "type": "content",
+            "title": "The SIG E CAPS Mnemonic",
+            "content": "# Clinical Assessment: SIG E CAPS\n\nClinicians commonly memorize the 9 DSM criteria using the classic psychiatric mnemonic **SIG E CAPS** (originally written as a Latin prescription for energy capsules):\n\n```\n+-----------------------------------------------------------+\n| S - Sleep disturbance (insomnia or hypersomnia)           |\n| I - Interest diminished (anhedonia) [CARDINAL]            |\n| G - Guilt or feelings of worthlessness                    |\n| E - Energy loss or chronic fatigue                        |\n| C - Concentration difficulties or indecisiveness         |\n| A - Appetite / weight changes                             |\n| P - Psychomotor retardation or agitation                  |\n| S - Suicidal thoughts or recurrent ideation               |\n+-----------------------------------------------------------+\n```\n\nPlus **Depressed Mood** [CARDINAL] to complete the diagnostic constellation."
+        },
+        {
+            "id": "mood_depression_quiz_1",
+            "type": "quiz",
+            "title": "MDD Diagnostic Criteria Check",
+            "content": "Verify knowledge of DSM-5-TR criteria for MDD.",
+            "quizQuestion": "According to DSM-5-TR, a diagnosis of Major Depressive Episode requires at least five symptoms lasting two weeks, including at least ONE of which two cardinal symptoms?",
+            "quizOptions": [
+                "Insomnia or Psychomotor agitation",
+                "Depressed mood or Anhedonia (loss of interest/pleasure)",
+                "Fatigue or Excessive guilt",
+                "Weight loss or Suicidal ideation"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_depression_4",
+            "type": "content",
+            "title": "Diagnostic Subtypes and Specifiers",
+            "content": "# MDD Clinical Specifiers\n\nDSM-5-TR includes specific designations that guide pharmacological and psychotherapeutic treatment.\n\n## Key Specifiers:\n- **With Melancholic Features**: Profound anhedonia, lack of mood reactivity, worse in morning, early morning awakening, anorexia/weight loss, marked psychomotor retardation (high biological subtype; responds well to TCAs/ECT).\n- **With Atypical Features**: Mood reactivity (mood brightens in response to positive events), significant weight gain/hyperphagia, hypersomnia, 'leaden paralysis', and long-standing rejection sensitivity.\n- **With Psychotic Features**: Delusions or hallucinations (mood-congruent guilt/poverty or mood-incongruent); requires combination of antidepressant + antipsychotic or ECT.\n- **With Peripartum Onset**: Symptoms commence during pregnancy or within 4 weeks postpartum.\n- **With Seasonal Pattern (SAD)**: Recurrent episodes during specific seasons (typically winter); responds to bright light therapy."
+        },
+        {
+            "id": "mood_depression_5",
+            "type": "content",
+            "title": "Neurobiological Etiology: The HPA Axis",
+            "content": "# The Neuroendocrinology of Depression\n\nChronic stress dysregulates the **Hypothalamic-Pituitary-Adrenal (HPA) axis**, generating severe systemic neurotoxicity.\n\n## The Glucocorticoid Cascade:\n1. Chronic psychological stress triggers excessive corticotropin-releasing hormone (CRH) release from the hypothalamus.\n2. Stimulates ACTH from the anterior pituitary, causing adrenal cortex hypersecretion of **cortisol**.\n3. In healthy brains, cortisol provides negative feedback by binding to glucocorticoid receptors in the hippocampus.\n4. In severe depression, hippocampal glucocorticoid receptors down-regulate, causing failure of negative feedback (demonstrated by non-suppression on the **Dexamethasone Suppression Test**).\n5. Prolonged cortisol exposure causes **hippocampal atrophy** (loss of dendritic spines and reduced neurogenesis), directly correlating with memory deficits and depression duration."
+        },
+        {
+            "id": "mood_depression_6",
+            "type": "content",
+            "title": "Neuroinflammation and Immune Dysregulation",
+            "content": "# The Inflammatory Model of Depression\n\nEmerging psychiatric research links chronic low-grade inflammation directly to depressive symptomatology.\n\n## Clinical and Laboratory Evidence:\n- Depressed patients exhibit significantly elevated circulating **pro-inflammatory cytokines**:\n  - Interleukin-6 (IL-6)\n  - Tumor Necrosis Factor-alpha (TNF-alpha)\n  - C-Reactive Protein (CRP)\n\n## Sickness Behavior:\n- Cytokines cross the blood-brain barrier and induce 'sickness behavior' in microglia (lethargy, anhedonia, anorexia, social withdrawal, hypersomnia).\n- Cytokines activate the enzyme **indoleamine 2,3-dioxygenase (IDO)**, which diverts tryptophan away from serotonin synthesis toward the neurotoxic **kynurenine pathway**, generating quinolinic acid (an NMDA receptor agonist causing excitotoxic damage)."
+        },
+        {
+            "id": "mood_depression_quiz_2",
+            "type": "quiz",
+            "title": "Neurobiology of Depression Check",
+            "content": "Verify comprehension of endocrine and neuroimmune factors.",
+            "quizQuestion": "In chronic severe depression, sustained elevation of which hormone leads to hippocampal volume loss and failure of negative feedback?",
+            "quizOptions": [
+                "Melatonin",
+                "Cortisol",
+                "Oxytocin",
+                "Thyroxine"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_depression_7",
+            "type": "content",
+            "title": "Cognitive Models: Aaron Beck's Cognitive Triad",
+            "content": "# Aaron Beck's Cognitive Model of Depression\n\nIn the 1960s, Aaron T. Beck formulated the premier cognitive framework of depression.\n\n## The Negative Cognitive Triad:\nDepression is maintained by automatic negative evaluations across three core domains:\n\n```\n                  +----------------------------+\n                  |   Negative View of SELF    |\n                  | ('I am defective/worthless')|\n                  +----------------------------+\n                                |\n                                v\n     +--------------------------+--------------------------+\n     |                                                     |\n     v                                                     v\n+----------------------------+             +----------------------------+\n|   Negative View of WORLD   |<----------->|   Negative View of FUTURE  |\n|('World is unfair/demanding')|             |('Things will never improve')|\n+----------------------------+             +----------------------------+\n```\n\n## Depressogenic Schemas:\n- Latent cognitive templates formed during early childhood adversity.\n- Activated by matching adult stressors (e.g., loss, failure, rejection).\n- Filter reality through systematic cognitive biases (selective abstraction, overgeneralization, personalization)."
+        },
+        {
+            "id": "mood_depression_8",
+            "type": "content",
+            "title": "Learned Helplessness and Hopelessness Theory",
+            "content": "# Behavioral & Attributional Models\n\n## Martin Seligman's Learned Helplessness (1967):\n- Animals exposed to inescapable, uncontrollable electric shocks learned that their actions were futile.\n- When subsequently placed in a shuttle box with an easy escape route, they made no effort to escape, passively enduring shocks.\n- Demonstrates that perceived lack of control produces motivational, cognitive, and emotional deficits identical to human depression.\n\n## Abramson & Alloy: Reformulated Attributional Model:\nDepression risk is heightened when individuals make specific causal attributions for negative life events:\n- **Internal**: 'It is entirely my fault.' (vs. External: 'The exam was difficult.')\n- **Stable**: 'I will always be this incompetent.' (vs. Unstable: 'I had a bad day.')\n- **Global**: 'I am a failure at everything.' (vs. Specific: 'I am weak at calculus.')"
+        },
+        {
+            "id": "mood_depression_9",
+            "type": "content",
+            "title": "Susan Nolen-Hoeksema: Response Styles and Rumination",
+            "content": "# Rumination Theory of Depression\n\nFormulated by **Susan Nolen-Hoeksema**, Response Styles Theory examines how individuals cope with initial depressive distress.\n\n## Rumination Defined:\n- Repetitive, passive focus on the causes, meanings, and consequences of one's depressive symptoms without engaging in active problem-solving.\n- *'Why do I always feel this way? What is wrong with me? Why can't I just snap out of it?'*\n\n## Consequences of Rumination:\n- Enhances negative, mood-congruent autobiographical memory recall.\n- Impairs effective interpersonal problem-solving.\n- Drives away social support networks through exhausting interpersonal dynamics.\n- Extends the duration and predicts future recurrence of depressive episodes.\n- Explains part of the higher prevalence of depression observed in women, who statistically report higher tendencies toward ruminative coping."
+        },
+        {
+            "id": "mood_depression_quiz_3",
+            "type": "quiz",
+            "title": "Cognitive Theories Check",
+            "content": "Verify understanding of depressive cognitive models.",
+            "quizQuestion": "In Abramson's reformulated learned helplessness model, which attributional style for negative events creates the highest risk for clinical depression?",
+            "quizOptions": [
+                "External, unstable, and specific",
+                "Internal, stable, and global",
+                "Internal, unstable, and specific",
+                "External, stable, and global"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_depression_10",
+            "type": "content",
+            "title": "Psychotherapeutic Treatments for MDD",
+            "content": "# Evidence-Based Psychotherapy for MDD\n\nMultiple structured psychotherapies demonstrate robust empirical efficacy equivalent to pharmacotherapy in mild-to-moderate depression.\n\n## First-Line Modalities:\n- **Cognitive Behavioral Therapy (CBT)**: Identifies automatic thoughts, modifies schemas, and engages in behavioral experiments.\n- **Behavioral Activation (BA)**: Standalone treatment targeting inactivity and isolation by scheduling mastery and pleasure activities to re-establish environmental reward reinforcement.\n- **Interpersonal Psychotherapy (IPT)** (Klerman & Weissman): Time-limited (12-16 weeks) treatment focusing on four interpersonal problem areas:\n  1. Unresolved grief and bereavement\n  2. Interpersonal role disputes (conflicts with partner, boss, family)\n  3. Role transitions (divorce, new career, retirement)\n  4. Interpersonal deficits / social isolation."
+        },
+        {
+            "id": "mood_depression_11",
+            "type": "content",
+            "title": "Pharmacological Treatment Algorithm",
+            "content": "# Pharmacotherapy Algorithm for MDD\n\nClinical guidelines (CANMAT, APA) recommend a systematic, stepped-care approach:\n\n## Stepped Protocol:\n1. **Step 1: First-Line Monotherapy**\n   - Initiate SSRI, SNRI, Bupropion, or Mirtazapine. Titrate to therapeutic range; evaluate response at 4 to 6 weeks.\n2. **Step 2: Optimization**\n   - If partial response, increase to maximum tolerated dose.\n3. **Step 3: Switch or Augment**\n   - If zero response: Switch to another first-line agent (different class).\n   - If partial response (approx 25% to 50% improvement): Augment with **Lithium**, **Atypical Antipsychotic (Aripiprazole, Quetiapine)**, or combine an SSRI with Bupropion or Mirtazapine (California Rocket Fuel).\n4. **Step 4: Third-Line Interventions**\n   - TCAs, MAOIs, Esketamine nasal spray, or Neuromodulation."
+        },
+        {
+            "id": "mood_depression_12",
+            "type": "content",
+            "title": "Neuromodulation: ECT, TMS, and VNS",
+            "content": "# Neuromodulation Therapies\n\nWhen pharmacotherapy and psychotherapy fail, neurostimulation techniques offer potent therapeutic alternatives.\n\n## 1. Electroconvulsive Therapy (ECT):\n- The most effective acute treatment in psychiatry (remission rate 70% to 80% in treatment-resistant depression and psychotic depression).\n- Brief electrical stimulus induces a generalized therapeutic cerebral seizure (> 20-25 seconds) under general anesthesia and muscle relaxation.\n- Primary adverse effect: Transient retrograde and anterograde memory impairment.\n\n## 2. Repetitive Transcranial Magnetic Stimulation (rTMS):\n- Non-invasive magnetic pulses applied over the left dorsolateral prefrontal cortex (DLPFC) to stimulate hypoactive cortical circuits.\n- No anesthesia required; zero cognitive side effects.\n\n## 3. Vagus Nerve Stimulation (VNS) & Deep Brain Stimulation (DBS):\n- Implanted devices for chronic, intractable treatment resistance."
+        },
+        {
+            "id": "mood_depression_quiz_4",
+            "type": "quiz",
+            "title": "Neuromodulation Check",
+            "content": "Verify clinical indications for ECT and TMS.",
+            "quizQuestion": "Which intervention boasts the highest acute remission rate (70% to 80%) for severe, treatment-resistant depression with psychotic features or acute catatonia?",
+            "quizOptions": [
+                "Light therapy box",
+                "Electroconvulsive Therapy (ECT)",
+                "Psychoanalytic dream analysis",
+                "Single-agent SSRI monotherapy"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_depression_13",
+            "type": "content",
+            "title": "Psychosocial and Lifestyle Interventions",
+            "content": "# Lifestyle Psychiatry in Depression\n\nModern psychiatric care incorporates biological lifestyle factors that exert measurable neurogenic and anti-inflammatory effects.\n\n## Evidence-Based Lifestyle Pillars:\n- **Aerobic Exercise**: Moderate-to-vigorous exercise 3-5 times weekly matches antidepressant efficacy in mild-to-moderate depression by elevating BDNF, endorphins, and hippocampal neurogenesis.\n- **Sleep Optimization**: Restoring circadian entrainment through cognitive behavioral therapy for insomnia (CBT-I) and consistent sleep architecture.\n- **Anti-Inflammatory Nutrition**: Mediterranean diet (high in omega-3 polyunsaturated fatty acids, polyphenols, and fiber) reduces systemic inflammatory markers.\n- **Social Connectedness**: Combating loneliness and isolation, which activate neuroendocrine stress responses identical to physical danger."
+        },
+        {
+            "id": "mood_depression_14",
+            "type": "content",
+            "title": "Prognosis and the Kindling Hypothesis",
+            "content": "# Course of Illness and Kindling\n\nRobert Post's **Kindling Hypothesis** explains the progression of affective disorders over a patient's lifespan.\n\n## The Kindling Progression:\n- **Early Depressive Episodes**: Strongly triggered by major environmental psychosocial life stressors (bereavement, divorce, trauma).\n- **Neurobiological Sensitization**: Each untreated episode leaves neurobiological scars (dendritic pruning, chronic microglial activation, epigenetic modifications).\n- **Later Depressive Episodes**: The neural threshold for episode onset progressively lowers. Eventually, subsequent depressive episodes trigger **spontaneously** without any identifiable external life stressor.\n\n> **Clinical Imperative:** Aggressive early intervention and full symptomatic remission are critical to halt progressive neurobiological kindling."
+        },
+        {
+            "id": "mood_depression_15",
+            "type": "content",
+            "title": "Summary of Major Depressive Disorder",
+            "content": "# Major Depressive Disorder Summary\n\n## Master Summary Points:\n1. **Diagnostic Rule**: 5 of 9 symptoms for at least 2 weeks, with at least one being Depressed Mood or Anhedonia (SIG E CAPS).\n2. **HPA Axis Toxicity**: Glucocorticoid receptor down-regulation causes sustained cortisol elevation and hippocampal dendritic atrophy.\n3. **Cognitive Triad**: Beck's negative views of Self, World, and Future maintain depressive schemas.\n4. **Attributional Vulnerability**: Internal, stable, and global explanations for failure fuel learned helplessness.\n5. **Multimodal Treatment**: First-line SSRIs/SNRIs, evidence-based psychotherapies (CBT, BA, IPT), and neuromodulation (ECT/TMS) for severe resistance.\n6. **Kindling Prevention**: Achieving complete remission halts neuroprogressive decline and spontaneous recurrence."
+        }
+    ]
+}

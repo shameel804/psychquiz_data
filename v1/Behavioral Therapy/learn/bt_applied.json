@@ -1,0 +1,155 @@
+{
+  "id": "learn_bt_applied",
+  "topicId": "bt_applied",
+  "topicTitle": "Applied Behavior Analysis",
+  "description": "Master Applied Behavior Analysis (ABA), analyzing Functional Behavior Assessments (FBA), Discrete Trial Training (DTT), Natural Environment Training, ABA in Autism Spectrum Disorder, and ethical controversies.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "bt_applied_1",
+      "type": "content",
+      "title": "Foundations of Applied Behavior Analysis",
+      "content": "# Applied Behavior Analysis (ABA)\n\n**Applied Behavior Analysis (ABA)** is the scientific discipline devoted to the development, implementation, and empirical evaluation of environmental modifications to produce socially significant improvements in human behavior.\n\n## Baer, Wolf, and Risley (1968): The 7 Dimensions of ABA:\n1. **Applied:** Focuses on socially significant behaviors that directly improve the client's everyday life.\n2. **Behavioral:** Focuses on precise, objective, observable, and measurable behaviors.\n3. **Analytic:** Demonstrates experimental control over the occurrence and non-occurrence of the behavior.\n4. **Technological:** Procedures are described with such operational precision that any trained practitioner can replicate them flawlessly.\n5. **Conceptually Systematic:** Interventions are derived directly from established behavioral principles.\n6. **Effective:** Produces substantial, clinically meaningful behavioral change.\n7. **Generality:** Gains persist across time, people, and novel environments."
+    },
+    {
+      "id": "bt_applied_2",
+      "type": "content",
+      "title": "Functional Behavior Assessment (FBA): The ABCs",
+      "content": "# Functional Behavior Assessment (FBA)\n\nThe cornerstone of all ABA practice is the **Functional Behavior Assessment (FBA)**. In ABA, no intervention is ever designed based on a diagnostic label alone; it is designed based on the **function** the behavior serves for the individual.\n\n## The Three-Term Contingency (The ABCs of Behavior):\n- **A - Antecedent:** The environmental conditions, triggers, or setting events immediately preceding the behavior.\n- **B - Behavior:** The operationalized, measurable physical response emitted by the individual.\n- **C - Consequence:** The environmental event immediately following the behavior that reinforces or maintains it.\n\n```\n[ Antecedent: Math Worksheet Handed Out ]\n                   |\n                   v\n[ Behavior: Child Throws Chair and Screams ]\n                   |\n                   v\n[ Consequence: Sent to Principal's Office / Escape Task ]\n```"
+    },
+    {
+      "id": "bt_applied_3",
+      "type": "content",
+      "title": "The Four Functions of Human Behavior",
+      "content": "# The Four Environmental Functions of Behavior\n\nDecades of empirical behavioral analysis reveal that virtually all challenging human behaviors (aggression, self-injury, tantrums, disruption) are maintained by one or more of **four universal functions** (Acronym: **SEAT**).\n\n## The SEAT Functions:\n1. **S - Sensory / Automatic Reinforcement:** The behavior itself feels good or soothes internal physical discomfort (e.g., hand-flapping, rocking, scratching an itch; operates independent of social consequences).\n2. **E - Escape / Avoidance:** The behavior functions to delay, terminate, or avoid an unpleasant demand, task, or environment (e.g., throwing a tantrum to escape math homework).\n3. **A - Attention:** The behavior functions to elicit social engagement, reactions, eye contact, or scolding from caregivers or peers.\n4. **T - Tangibles / Access:** The behavior functions to obtain a physical object, food, activity, or toy (e.g., screaming in a grocery store to get a candy bar)."
+    },
+    {
+      "id": "bt_applied_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: FBA & The Four Functions",
+      "content": "Verify your understanding of Functional Behavior Assessment and the SEAT functions.",
+      "quizQuestion": "A child screams and knocks over a desk every time a challenging reading worksheet is distributed, resulting in the teacher sending the child out to the quiet hallway. What primary function does this behavior serve?",
+      "quizOptions": [
+        "Automatic sensory pleasure",
+        "Escape / Avoidance of an aversive academic demand",
+        "Obtaining tangible food items",
+        "Unconscious id catharsis"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "bt_applied_4",
+      "type": "content",
+      "title": "Functional Analysis: Iwata's Methodology",
+      "content": "# Experimental Functional Analysis: Brian Iwata (1982)\n\nWhile descriptive FBA relies on observation, **Functional Analysis (FA)** is an experimental methodology that systematically manipulates antecedents and consequences to demonstrate causal control over severe problem behaviors (e.g., self-injurious head-banging).\n\n## Iwata's Four Test Conditions:\n1. **Attention Condition:** The therapist ignores the client until the target behavior occurs, delivering brief social attention ('Stop that, you'll hurt yourself').\n2. **Demand / Escape Condition:** The therapist presents difficult academic tasks, granting a 30-second break immediately upon target behavior occurrence.\n3. **Alone Condition:** The client is placed in a barren room without toys or demands, testing for automatic sensory reinforcement.\n4. **Play / Control Condition:** Free access to toys, frequent non-contingent attention, and zero demands (establishes baseline zero problem behavior)."
+    },
+    {
+      "id": "bt_applied_5",
+      "type": "content",
+      "title": "Functional Communication Training (FCT)",
+      "content": "# Functional Communication Training (FCT)\n\nPioneered by Edward Carr and Mark Durand (1985), **FCT** is the gold standard replacement strategy for problem behaviors.\n\n## The Core Logic of FCT:\n- Challenging behaviors are often crude, desperate forms of **non-verbal communication** used by individuals who lack functional language.\n- FCT identifies the underlying function (via FBA) and teaches an **alternative, socially acceptable communicative response** that accomplishes the exact same outcome with less effort!\n\n## Clinical Example:\n- *Problem:* A non-verbal autistic boy bites his hand to escape difficult shoe-tying tasks.\n- *FCT Intervention:* The boy is taught to tap a visual PECS picture card reading 'BREAK PLEASE'.\n- Whenever he taps the card, the task is immediately paused, rendering the self-injurious biting obsolete."
+    },
+    {
+      "id": "bt_applied_6",
+      "type": "content",
+      "title": "Ivar Lovaas: Early Intensive Behavioral Intervention",
+      "content": "# Early Intensive Behavioral Intervention (EIBI)\n\nIn 1987, **O. Ivar Lovaas** published a landmark longitudinal study at UCLA demonstrating that **Early Intensive Behavioral Intervention (EIBI)**\u2014providing 40 hours per week of one-on-one ABA before age 4\u2014enabled 47% of autistic children to achieve normal intellectual and educational functioning.\n\n## The Paradigm Shift:\n- Overturned the prevailing medical dogma that autism was an untreatable, hopeless biological condition requiring lifelong institutionalization.\n- Proved that early, intensive environmental behavioral engineering could radically reshape neural circuitry and developmental trajectories."
+    },
+    {
+      "id": "bt_applied_7",
+      "type": "content",
+      "title": "Discrete Trial Training (DTT)",
+      "content": "# Discrete Trial Training (DTT)\n\n**Discrete Trial Training (DTT)** is a highly structured, repetitive instructional methodology that breaks complex skills down into isolated, single learning units.\n\n## The Anatomy of a Single Discrete Trial:\n```\n[1. Discriminative Stimulus (SD)] ---> [2. Prompt] ---> [3. Learner Response] ---> [4. Consequence (SR)]\n  ('Touch blue block')              (Hand-over-hand)        (Touches block)            ('Great job!' + Treat)\n                                                                                                |\n                                                                                                v\n                                                                                 [5. Inter-Trial Interval]\n```\n\n## The Five Components:\n1. **SD (Instruction):** Clear, concise command delivered without extra verbal clutter.\n2. **Prompt:** Temporary assistance provided to guarantee a correct response.\n3. **Response:** The learner's action.\n4. **Reinforcement / Correction:** Immediate positive reward for correct response; neutral correction for error.\n5. **Inter-Trial Interval (ITI):** A brief 2- to 3-second pause before the next trial."
+    },
+    {
+      "id": "bt_applied_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: DTT & FCT",
+      "content": "Assess your understanding of Functional Communication Training and Discrete Trial Training.",
+      "quizQuestion": "In Functional Communication Training (FCT), what is the primary therapeutic strategy used to eliminate severe challenging behavior?",
+      "quizOptions": [
+        "Administering physical punishment whenever the behavior occurs",
+        "Teaching an alternative, socially acceptable communicative response (such as a sign or picture card) that achieves the exact same function as the problem behavior",
+        "Ignoring the child completely for 48 hours",
+        "Prescribing high-dose sedatives"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "bt_applied_8",
+      "type": "content",
+      "title": "Prompting and Prompt Fading Hierarchies",
+      "content": "# Prompting and Fading in Skill Acquisition\n\nTo ensure learners do not experience repeated, demoralizing failures, ABA employs **errorless learning** using systematic prompts.\n\n## The Prompt Hierarchy (Most-to-Least vs. Least-to-Most):\n1. **Full Physical Prompt:** Hand-over-hand guiding the child's body.\n2. **Partial Physical Prompt:** Guiding gently at the elbow or wrist.\n3. **Model Prompt:** The therapist demonstrates the action for the child to imitate.\n4. **Gestural Prompt:** Pointing, nodding, or glancing toward the correct object.\n5. **Verbal Prompt:** Spoken hint or instruction.\n6. **Independent:** The child responds accurately to the natural environmental SD alone.\n\n## Prompt Fading:\nGradually reducing assistance over successive trials to prevent **prompt dependency** (where a child refuses to act until prompted)."
+    },
+    {
+      "id": "bt_applied_9",
+      "type": "content",
+      "title": "Natural Environment Training (NET)",
+      "content": "# Natural Environment Training (NET)\n\nWhile Discrete Trial Training (DTT) provides rapid acquisition in a sterile, distraction-free room, modern ABA balances DTT with **Natural Environment Training (NET)**.\n\n## Hallmarks of NET:\n- **Child-Led & Play-Based:** Conducted in natural settings (living room, playground, grocery store) using the child's spontaneous interests as teaching opportunities.\n- **Natural Reinforcers:** If a child asks for bubbles, the reinforcer is playing with bubbles (functional relationship), not an arbitrary M&M candy.\n- **Superior Generalization:** Teaches skills directly within the social and physical environments where they will actually be used."
+    },
+    {
+      "id": "bt_applied_10",
+      "type": "content",
+      "title": "Verbal Behavior: B.F. Skinner's Operants",
+      "content": "# Skinner's Analysis of Verbal Behavior (1957)\n\nIn his masterpiece *Verbal Behavior*, B.F. Skinner analyzed human language not through formal grammatical syntax, but through its **functional operant categories**.\n\n## The Primary Verbal Operants in ABA:\n1. **Mand (Request / Demand):** Controlled by a state of deprivation or motivating operation (MO); asks for something wanted (*Child feels thirsty -> says 'Juice' -> gets juice*).\n2. **Tact (Label / Contact):** Controlled by a non-verbal sensory stimulus; labels the environment (*Child sees an airplane -> says 'Airplane' -> receives social praise*).\n3. **Echoic (Imitation):** Repeating what another person says (*Therapist says 'Cookie' -> Child repeats 'Cookie'*).\n4. **Intraverbal (Conversational):** Answering questions or responding to another person's speech without visual cues (*'What is your name?' -> 'David'*)."
+    },
+    {
+      "id": "bt_applied_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Prompting & Verbal Operants",
+      "content": "Verify your understanding of prompt fading and Skinner's verbal operants.",
+      "quizQuestion": "In B.F. Skinner's analysis of verbal behavior used extensively in ABA, which verbal operant is driven by a motivating state of deprivation and functions as an explicit request or demand?",
+      "quizOptions": [
+        "Tact",
+        "Echoic",
+        "Mand",
+        "Intraverbal"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "bt_applied_11",
+      "type": "content",
+      "title": "Ethical Controversies & Neurodiversity Critiques",
+      "content": "# The Neurodiversity Critique of Traditional ABA\n\nIn recent years, the **Autistic Self-Advocacy Network (ASAN)** and the neurodiversity movement have raised profound ethical critiques against historical and traditional ABA practices.\n\n## Major Ethical Criticisms:\n- **Forced Camouflaging / Masking:** Historical ABA targeted harmless autistic self-regulatory behaviors (**stimming**\u2014such as hand-flapping, rocking, or avoiding eye contact) to force autistic children to appear indistinguishable from neurotypical peers, causing severe long-term mental health trauma and autistic burnout.\n- **Compliance Over Autonomy:** Heavy emphasis on immediate, unquestioning compliance to adult commands can leave autistic individuals vulnerable to sexual abuse and exploitation because they are trained never to say 'no'.\n- **Historical Use of Aversives:** Early protocols (e.g., Lovaas's electric shock grids and slap punishments; the Judge Rotenberg Center) inflicted severe physical harm."
+    },
+    {
+      "id": "bt_applied_12",
+      "type": "content",
+      "title": "Modern Trauma-Informed & Assent-Based ABA",
+      "content": "# The Evolution Toward Assent-Based ABA\n\nIn response to neurodiversity advocacy, contemporary ABA is undergoing a profound paradigm shift toward **Trauma-Informed, Assent-Based Practice** (Hanley, 2020).\n\n## Core Principles of Modern Assent-Based ABA:\n- **Respecting Assent and Dissent:** Ongoing monitoring of the child's non-verbal body language; if the child expresses distress, walks away, or pushes materials away (dissent), the therapist pauses immediately, respecting autonomy.\n- **Protecting Harmless Stimming:** Self-soothing stimming behaviors that do not cause physical injury or property damage are protected as valid neurodivergent coping mechanisms.\n- **Focus on Meaningful Communication:** Prioritizing functional communication (FCT), bodily safety, and life independence over forced robotic compliance or eye contact."
+    },
+    {
+      "id": "bt_applied_13",
+      "type": "content",
+      "title": "ABA in Organizational & Health Settings (OBM)",
+      "content": "# Organizational Behavior Management (OBM)\n\nApplied Behavior Analysis extends far beyond autism, providing powerful performance management tools in corporate, industrial, and healthcare settings.\n\n## Organizational Applications:\n- **Workplace Safety:** Behavioral safety audits reducing factory injuries by reinforcing correct ergonomics and protective gear usage.\n- **Performance Management:** Setting precise behavioral benchmarks and implementing performance feedback dashboards to boost corporate productivity.\n- **Healthcare Adherence:** Utilizing behavioral prompts and contingent reinforcers to improve chronic medication adherence in diabetes and dialysis patients."
+    },
+    {
+      "id": "bt_applied_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Neurodiversity & Assent",
+      "content": "Assess your understanding of contemporary ethical reforms in ABA.",
+      "quizQuestion": "How does contemporary 'Assent-Based' Applied Behavior Analysis fundamentally differ from historical compliance-based ABA?",
+      "quizOptions": [
+        "It uses louder acoustic alarms to force eye contact",
+        "It actively monitors and honors the client's verbal and non-verbal signals of consent or dissent, protects harmless self-regulatory stimming, and prioritizes autonomy over robotic compliance",
+        "It bans all forms of positive reinforcement",
+        "It is administered exclusively via automated smartphone apps"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "bt_applied_14",
+      "type": "content",
+      "title": "Single-Subject Experimental Designs in ABA",
+      "content": "# Rigorous Experimental Verification in ABA\n\nABA proves that an intervention is effective using within-subject **single-case research designs**.\n\n## Common ABA Experimental Architectures:\n- **Reversal (ABAB) Design:** Proves experimental control by demonstrating that behavior changes systematically upon introduction, removal, and reintroduction of the intervention.\n- **Multiple Baseline Design:** Evaluates an intervention introduced across staggered time points across multiple participants, settings, or behaviors, eliminating history confounds without requiring therapeutic withdrawal."
+    },
+    {
+      "id": "bt_applied_15",
+      "type": "content",
+      "title": "Summary of Applied Behavior Analysis",
+      "content": "# Synthesis of Applied Behavior Analysis\n\nApplied Behavior Analysis provides an unyielding empirical framework for unlocking human potential and transforming challenging behaviors into empowered communication.\n\n## Core Principles Review:\n1. **The Seven Dimensions:** Applied, behavioral, analytic, technological, conceptually systematic, effective, and generalized (Baer et al.).\n2. **Functional Understanding (FBA):** All behavior serves a purpose: Sensory, Escape, Attention, or Tangibles (SEAT).\n3. **Functional Replacement:** FCT replaces dangerous actions with functional communication.\n4. **Instructional Precision:** Discrete Trial Training (DTT) and Natural Environment Training (NET) scaffold learning via prompt hierarchies.\n5. **Ethical Evolution:** The modern transition toward trauma-informed, assent-based care ensures behavioral science honors neurodivergent dignity and autonomy."
+    }
+  ]
+}

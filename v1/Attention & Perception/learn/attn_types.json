@@ -1,0 +1,155 @@
+{
+    "id": "learn_attn_types",
+    "topicId": "attn_types",
+    "topicTitle": "Types of Attention",
+    "description": "Analyze the major operational types of attention, distinguishing selective focus, divided multitasking capacity, sustained vigilance, and executive supervisory control.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "attn_types_1",
+            "type": "content",
+            "title": "The Spectrum of Attentional Capabilities",
+            "content": "# The Four Core Types of Attention\n\nAttention is not a single, homogeneous mental faculty. Depending on task demands, the human brain deploys four distinct operational modes:\n\n```\n                                  [ATTENTION]\n                                       |\n         +-----------------+-----------+-----------+-----------------+\n         |                 |                       |                 |\n    [Selective]        [Divided]              [Sustained]       [Executive]\n    (Filtering)      (Multitasking)           (Vigilance)      (Conflict Control)\n```\n\n## The Four Dimensions:\n1. **Selective Attention:** Focusing on target stimuli while actively ignoring competing distractors.\n2. **Divided Attention:** Splitting cognitive resources across multiple concurrent tasks.\n3. **Sustained Attention:** Maintaining focused alertness over prolonged temporal intervals.\n4. **Executive Attention:** Inhibiting inappropriate responses, planning, and resolving cognitive conflict."
+        },
+        {
+            "id": "attn_types_2",
+            "type": "content",
+            "title": "Selective Attention in Daily Life",
+            "content": "# Selective Attention\n\nSelective attention is the cognitive mechanism that grants priority to task-relevant stimuli while suppressing irrelevant noise.\n\n## The Stroop Effect (John Ridley Stroop, 1935):\n- Participants view color words printed in conflicting ink colors (e.g., the word **RED** printed in blue ink).\n- Task: Name the **ink color** aloud while ignoring the printed word.\n\n## Why the Stroop Interference Occurs:\n- Reading words is an over-learned, automatic skill in literate adults.\n- Naming colors is a controlled, slower cognitive operation.\n- When the two processes conflict, the automatic word-reading pathway intrudes, requiring the prefrontal cortex to exert effortful selective inhibition.\n- Reaction times are significantly slower for incongruent words than congruent or neutral stimuli."
+        },
+        {
+            "id": "attn_types_3",
+            "type": "content",
+            "title": "Divided Attention & Multitasking Capacity",
+            "content": "# Divided Attention and Multitasking\n\nCan humans truly process two demanding tasks simultaneously?\n\n## Kahneman's Capacity Model (1973):\n- Attention is a single, central pool of limited computational energy (**general capacity**).\n- Allocation of this limited capacity depends on:\n  * Current physiological arousal levels\n  * Enduring cognitive dispositions (involuntary capture)\n  * Momentary task intentions and goals\n\n## The Dual-Task Paradigm:\n- Participants perform Task A alone (baseline), Task B alone (baseline), and Task A + Task B concurrently (**dual-task**).\n- If performance on either task degrades during concurrent execution, the two tasks exceed available attentional capacity."
+        },
+        {
+            "id": "attn_types_quiz_1",
+            "type": "quiz",
+            "title": "Selective & Divided Attention Check",
+            "content": "Verify your understanding of selective focus and divided multitasking capacity!",
+            "quizQuestion": "In the classic Stroop task, naming the ink color of the word 'BLUE' printed in green ink takes longer than naming the ink color of a solid green rectangle. What causes this delay?",
+            "quizOptions": [
+                "Color recognition is completely disabled by iconic memory decay",
+                "Automatic word-reading interferes with controlled color-naming, requiring active inhibition",
+                "The participant experiences temporary change blindness",
+                "The task exceeds the sensory register's physical capacity"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_types_4",
+            "type": "content",
+            "title": "Multiple Resource Theory (Wickens)",
+            "content": "# Wickens' Multiple Resource Theory\n\nChristopher Wickens (1984) proposed that rather than a single central pool, the human mind possesses **multiple, independent pools of attentional resources**.\n\n```\nDimensions of Attentional Resources:\n1. Processing Stages:    [Perception / Cognition]  vs.  [Action / Responding]\n2. Sensory Modalities:   [Visual]                  vs.  [Auditory]\n3. Processing Codes:     [Spatial]                 vs.  [Verbal / Linguistic]\n4. Visual Channels:      [Focal / Central]         vs.  [Ambient / Peripheral]\n```\n\n## The Interference Rule:\n- Two tasks that draw from the **same** resource dimension (e.g., reading a text while watching a video\u2014both visual/verbal) cause severe interference.\n- Two tasks drawing from **separate** dimensions (e.g., driving a car [visual/spatial] while listening to an audio lecture [auditory/verbal]) can be performed with minimal cross-talk!"
+        },
+        {
+            "id": "attn_types_5",
+            "type": "content",
+            "title": "Automaticity vs. Controlled Processing",
+            "content": "# Shiffrin & Schneider's Dual Processing (1977)\n\nRichard Shiffrin and Walter Schneider classified human information processing into two qualitative modes based on practice and cognitive load:\n\n| Feature | Controlled Processing | Automatic Processing |\n|---|---|---|\n| Awareness | Conscious, deliberate | Subconscious, effortless |\n| Capacity Demand | Consumes heavy attentional resources | Minimal or zero attentional load |\n| Speed | Slow, serial | Fast, parallel |\n| Flexibility | Highly adaptable to novel situations | Rigid, difficult to modify or suppress |\n| Development | Immediate / Instant | Requires thousands of consistent practice trials |\n\n## Shifting from Controlled to Automatic:\n- Learning to drive a manual transmission car begins as agonizingly controlled processing (tracking clutch, gas, mirrors, gears simultaneously).\n- After thousands of hours, the motor subroutines become fully automated, liberating executive resources for conversation or route planning."
+        },
+        {
+            "id": "attn_types_6",
+            "type": "content",
+            "title": "The Myth of Multitasking: Task Switching",
+            "content": "# The Myth of Concurrent Multitasking\n\nCognitive neuroscience demonstrates that what people intuitively describe as \"multitasking\" is almost always rapid **task switching**.\n\n## The Switch Cost:\n- When individuals switch between two tasks (Task A <--> Task B), reaction times slow down and error rates surge.\n- **Why Switch Costs Occur:**\n  1. **Goal Shifting:** The prefrontal cortex must actively switch intentions (\"Now I want to write the email, now I want to analyze the spreadsheet\").\n  2. **Rule Activation:** The cognitive system must load the new task rules into working memory while suppressing residual mental sets from the previous task.\n\n## The Driving While Phoning Paradox:\n- Strayer and Johnston (2001) showed that talking on a hands-free cellular phone increases accident risk as much as legal alcohol intoxication.\n- The deficit is not physical (holding the phone); it is **cognitive diversion** of executive attention away from the visual driving scene!"
+        },
+        {
+            "id": "attn_types_quiz_2",
+            "type": "quiz",
+            "title": "Multiple Resources & Automaticity Check",
+            "content": "Evaluate your understanding of Wickens' theory and automaticity!",
+            "quizQuestion": "According to Wickens' Multiple Resource Theory, which of the following task pairings will produce the LEAST mutual interference?",
+            "quizOptions": [
+                "Reading a text message while reading a road navigation sign (two visual-verbal tasks)",
+                "Listening to a podcast while dictating an email reply (two auditory-verbal tasks)",
+                "Tracking a visual flight path with a joystick while listening to verbal air-traffic radio instructions (separate modalities and codes)",
+                "Watching a video lecture while proofreading an essay (two visual tasks)"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "attn_types_7",
+            "type": "content",
+            "title": "Sustained Attention & Vigilance",
+            "content": "# Sustained Attention (Vigilance)\n\n**Sustained attention** is the capacity to maintain continuous focus and alert responsiveness to rare, unpredictable target events over prolonged time spans.\n\n## Historical Origin: The Mackworth Clock Test (1948)\n- Norman Mackworth studied British Royal Air Force radar operators during World War II who were missing German submarine radar blips.\n- Designed a test where a clock hand ticked once per second; occasionally, it made an unpredictable \"double jump\".\n- **The Vigilance Decrement:** Within 20 to 30 minutes, operator target-detection accuracy plummeted by 10% to 15%!\n\n## The Vigilance Decrement:\n- A universal human cognitive phenomenon: prolonged unbroken monitoring causes a steep drop in perceptual detection sensitivity."
+        },
+        {
+            "id": "attn_types_8",
+            "type": "content",
+            "title": "Theories of the Vigilance Decrement",
+            "content": "# Why Does Vigilance Fail Over Time?\n\nCognitive psychologists have formulated two opposing theoretical models to explain the vigilance decrement:\n\n## 1. Resource Depletion Theory (Warm, Parasuraman, Matthews)\n- Sustained monitoring is mentally exhausting and cognitively demanding.\n- Information-processing resources deplete steadily over time without replenishment, causing performance collapse.\n- Supported by neuroimaging showing massive glucose and oxygen consumption in the right prefrontal cortex during vigilance tasks.\n\n## 2. Mind Wandering / Under-Arousal Theory (Robertson et al.)\n- Highly repetitive, monotonous monitoring tasks produce sensory habituation and cortical under-arousal.\n- The brain shifts inward into daydreaming and default mode network activation due to lack of stimulation."
+        },
+        {
+            "id": "attn_types_9",
+            "type": "content",
+            "title": "Executive Attention: Conflict and Supervisory Control",
+            "content": "# Executive Attention\n\nExecutive attention acts as the cognitive supervisor that coordinates actions, suppresses habitual errors, and manages goal-directed behavior.\n\n## Norman & Shallice's SAS Model (1986):\n- How does the brain select actions?\n\n```\nIncoming Cues ---> [Contention Scheduling] ---> Automatic Habitual Action\n                          ^\n                          |\n             [Supervisory Attentional System (SAS)] ---> Overrides Habit when Novel / Dangerous\n```\n\n## Contention Scheduling vs. The SAS:\n- **Contention Scheduling:** Fast, automatic arbitration among well-learned behavioral schemas based on trigger strength.\n- **Supervisory Attentional System (SAS):** Recruited when situations are novel, dangerous, error-prone, or require overriding strong prepotent impulses (e.g., slamming brakes when an animal runs into the road)."
+        },
+        {
+            "id": "attn_types_quiz_3",
+            "type": "quiz",
+            "title": "Vigilance & Executive Control Check",
+            "content": "Test your mastery of sustained vigilance dynamics and the SAS model!",
+            "quizQuestion": "In Norman and Shallice's action selection model, which system is specifically recruited when a situation requires overcoming a powerful habitual impulse or planning a novel response?",
+            "quizOptions": [
+                "Contention Scheduling",
+                "The Supervisory Attentional System (SAS)",
+                "The Sensory Register Buffer",
+                "The Preattentive Pop-Out System"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_types_10",
+            "type": "content",
+            "title": "The Flanker Task and Simon Effect",
+            "content": "# Experimental Paradigms in Executive Attention\n\nPsychologists measure executive conflict resolution through standardized behavioral paradigms:\n\n## 1. Eriksen Flanker Task\n- Participants identify a central target arrow flanked by distracting arrows:\n  * **Congruent:** `>>>>>` (all point right; fast response)\n  * **Incongruent:** `<<><<` (flankers conflict with center; slow response)\n- Incongruent flankers trigger automatic motor preparation in the incorrect direction, requiring executive suppression.\n\n## 2. The Simon Effect\n- Participants respond to a visual stimulus (e.g., red square -> press left key; green circle -> press right key).\n- When the red square appears on the *right* side of the display, reaction times slow down significantly.\n- **Key Insight:** Spatial location automatically activates the ipsilateral motor response, even when location is completely irrelevant to the task instruction!"
+        },
+        {
+            "id": "attn_types_11",
+            "type": "content",
+            "title": "Neurobiological Basis of Attentional Types",
+            "content": "# Neural Circuitry of Attentional Types\n\nMapping the four types of attention across brain architecture:\n\n| Attentional Type | Primary Neural Substrates | Key Chemical Systems |\n|---|---|---|\n| **Selective** | Pulvinar, Superior Colliculus, Frontal Eye Fields | Acetylcholine, Glutamate |\n| **Divided** | Bilateral Prefrontal Cortex, Corpus Callosum | Dopamine |\n| **Sustained** | Right Frontoparietal Network, Locus Coeruleus | Norepinephrine (Noradrenaline) |\n| **Executive** | Anterior Cingulate Cortex (ACC), Dorsolateral Prefrontal Cortex (DLPFC) | Dopamine, GABA |"
+        },
+        {
+            "id": "attn_types_12",
+            "type": "content",
+            "title": "Individual Differences & Working Memory Span",
+            "content": "# Individual Differences in Attentional Control\n\nWhy do some individuals resist distraction far better than others?\n\n## Working Memory Capacity (WMC) as Attentional Control:\n- Michael Kane and Randall Engle demonstrated that high-WMC individuals possess superior executive attentional control.\n- **Experimental Proof:**\n  * High-WMC subjects show significantly smaller Stroop interference effects than low-WMC subjects.\n  * High-WMC subjects are much less prone to having their attention captured by their own name in dichotic listening experiments!\n\n## Action Video Games & Attention:\n- Daphne Bavelier and Shawn Green demonstrated that action video game players exhibit enhanced visual attention, broader spatial distribution of focus, and faster visual enumeration without sacrificing accuracy."
+        },
+        {
+            "id": "attn_types_quiz_4",
+            "type": "quiz",
+            "title": "Attentional Conflict & Neurobiology Check",
+            "content": "Verify your understanding of executive conflict tasks and neurotransmitter systems!",
+            "quizQuestion": "Which neuromodulator, produced primarily in the brainstem locus coeruleus, is critically responsible for maintaining cortical alertness during sustained vigilance tasks?",
+            "quizOptions": [
+                "Norepinephrine",
+                "Serotonin",
+                "Oxytocin",
+                "Melatonin"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "attn_types_13",
+            "type": "content",
+            "title": "Technological Disruptions to Attention",
+            "content": "# Attentional Fragmentation in the Digital Era\n\nThe modern digital environment presents unprecedented challenges to sustained and selective attention:\n\n## 1. Continuous Partial Attention (Linda Stone)\n- Users keep continuous peripheral tabs on multiple information streams (social media, email, notifications) without ever engaging in deep, sustained focus.\n\n## 2. Attentional Residue (Sophie Leroy)\n- When switching rapidly from Task A to Task B, the human mind does not transition instantaneously.\n- Cognitive \"residue\" from Task A continues to occupy working memory, substantially impairing cognitive performance on Task B.\n\n## 3. The Pomodoro Protocol & Intermittent Rest\n- Working in focused 25-minute bursts separated by 5-minute cognitive breaks prevents the classic vigilance decrement and restores executive capacity."
+        },
+        {
+            "id": "attn_types_14",
+            "type": "content",
+            "title": "Ergonomics and Safety Implications",
+            "content": "# Applied Attention in High-Risk Environments\n\nUnderstanding attentional types saves lives across safety-critical professions:\n\n## 1. Transportation & Air Traffic Control\n- Air traffic control shifts are capped at 90 to 120 minutes of continuous radar monitoring before mandatory rest periods, directly preventing the fatal vigilance decrement.\n\n## 2. Automotive Design\n- Replacing physical dashboard knobs (which leverage tactile procedural memory) with smooth touchscreens forces drivers to use visual selective attention, dangerously increasing off-road glance durations.\n\n## 3. Surgical Operating Rooms\n- Implementing the \"sterile cockpit rule\" during critical operative moments eliminates ambient chatter, protecting surgeons' executive working memory."
+        },
+        {
+            "id": "attn_types_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Types of Attention\n\n## Core Taxonomies Mastered:\n\n### 1. Selective Attention\n- Focuses on targets while inhibiting distractors (Stroop effect demonstrates automatic interference).\n\n### 2. Divided Attention\n- Multitasking depends on resource pools (Wickens). True concurrent multitasking is rare; most behavior involves costly task switching.\n\n### 3. Sustained Attention (Vigilance)\n- Performance drops over time (Mackworth Clock Test). Explained by resource depletion and mind-wandering theories.\n\n### 4. Executive Attention\n- Resolves cognitive conflict (Flanker task, Simon effect).\n- Norman & Shallice's Supervisory Attentional System overrides automatic contention scheduling.\n\n> **Up Next:** Explore what happens when attentional filters break down in **Attention Failures**!"
+        }
+    ]
+}

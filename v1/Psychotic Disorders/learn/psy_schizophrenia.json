@@ -1,0 +1,155 @@
+{
+    "id": "learn_psy_schizophrenia",
+    "topicId": "psy_schizophrenia",
+    "topicTitle": "Schizophrenia",
+    "description": "Master the clinical phenomenology, positive and negative symptoms, diagnostic criteria, neurodevelopment, and neurochemical theories of Schizophrenia",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "psy_schizophrenia_1",
+            "type": "content",
+            "title": "Introduction to Schizophrenia",
+            "content": "# Foundations of Schizophrenia\n\n**Schizophrenia** is a chronic, severe neuropsychiatric syndrome characterized by profound disturbances in thought, perception, emotional regulation, and behavior.\n\n## Historical Foundations:\n- **Benedict Morel** (1852): Coined *demence precoce* (premature dementia) to describe adolescent cognitive deterioration.\n- **Emil Kraepelin** (1899): Synthesized catatonia, hebephrenia, and paranoia into a single nosological entity: **Dementia Praecox**, characterized by early onset and irreversible cognitive decline (distinguishing it from manic-depressive illness).\n- **Eugen Bleuler** (1908): Renamed the condition **Schizophrenia** ('split mind') to denote a fragmentation or split between thought, emotion, and behavior.\n  - Bleuler's Four A's (Fundamental Symptoms): **Associations** (loose associations), **Affect** (blunted/inappropriate), **Autism** (social withdrawal/fantasy), **Ambivalence** (paralyzing conflicting impulses)."
+        },
+        {
+            "id": "psy_schizophrenia_2",
+            "type": "content",
+            "title": "DSM-5-TR Diagnostic Criteria for Schizophrenia",
+            "content": "# DSM-5-TR Diagnostic Criteria\n\nTo meet diagnostic criteria for Schizophrenia, an individual must exhibit **at least two of the following five symptoms** for a significant portion of time during a **1-month period** (or less if treated successfully).\n\n## The Mandatory Rule: At Least ONE Must Be 1, 2, or 3:\n1. **Delusions**\n2. **Hallucinations**\n3. **Disorganized speech** (e.g., frequent derailment or incoherence)\n4. **Grossly disorganized or catatonic behavior**\n5. **Negative symptoms** (e.g., diminished emotional expression or avolition)\n\n## Chronicity and Longitudinal Requirement (Criterion C):\n- Continuous signs of the disturbance must persist for **at least 6 months**.\n- This 6-month period must include at least 1 month of active-phase symptoms (or less if treated) and may include prodromal or residual phases."
+        },
+        {
+            "id": "psy_schizophrenia_3",
+            "type": "content",
+            "title": "Positive Symptoms: Hallucinations and Delusions",
+            "content": "# Positive Symptoms: Distortions of Reality\n\n**Positive symptoms** represent an excess or distortion of normal psychological functioning.\n\n## 1. Hallucinations:\n- Perception-like experiences that occur without an external stimulus, vivid and clear with the full force of actual perceptions.\n- **Auditory Hallucinations**: By far the most common in schizophrenia (approx 70% to 80%). Typically voices (familiar or unfamiliar) perceived as distinct from one's own thoughts.\n- Hallmarks: Hearing voices conversing with each other or running a running commentary on the patient's behavior.\n\n## 2. Delusions:\n- Fixed, unshakeable false beliefs firmly held despite clear contradictory evidence.\n- **Persecutory Delusions**: Belief that one is being tormented, spied on, poisoned, or harassed.\n- **Delusions of Reference**: Belief that casual environmental cues (billboards, newscasters) are directed specifically at them.\n- **Bizarre Delusions**: Beliefs that are physically impossible (e.g., *'An alien removed my brain and replaced it with a radio transmitter'*)."
+        },
+        {
+            "id": "psy_schizophrenia_quiz_1",
+            "type": "quiz",
+            "title": "Diagnostic Criteria Check",
+            "content": "Verify DSM-5-TR diagnostic requirements for schizophrenia.",
+            "quizQuestion": "According to DSM-5-TR, a diagnosis of schizophrenia requires continuous signs of disturbance for at least 6 months, and active-phase symptoms must include at least ONE of which three core symptoms?",
+            "quizOptions": [
+                "Avolition, Anhedonia, or Alogia",
+                "Delusions, Hallucinations, or Disorganized Speech",
+                "Depressed mood, Insomnia, or Weight loss",
+                "Catatonia, Muscle rigidity, or Panic attacks"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_schizophrenia_4",
+            "type": "content",
+            "title": "Disorganized Speech and Formal Thought Disorder",
+            "content": "# Disorganized Thought and Language\n\nSchizophrenia severely disrupts the syntax and associative organization of human thinking (**Formal Thought Disorder**).\n\n## Key Linguistic Phenomena:\n- **Loose Associations (Derailment)**: Ideas slip from one topic to another that is obliquely related or completely unrelated.\n- **Tangentiality**: Answers to questions veer off on an unrelated trajectory without ever reaching the point.\n- **Incoherence ('Word Salad')**: Speech is so severely disorganized that it is completely incomprehensible, resembling words tossed together randomly.\n- **Neologisms**: Creating completely made-up words that have private symbolic meaning to the patient.\n- **Clang Associations**: Selecting words based on their sound or rhyming rather than semantic meaning (*'The boat, the float, the goat took a coat'*).\n- **Poverty of Content**: Speech is fluent and voluminous, but conveys virtually zero substantive information."
+        },
+        {
+            "id": "psy_schizophrenia_5",
+            "type": "content",
+            "title": "Grossly Disorganized and Catatonic Behavior",
+            "content": "# Disorganized Behavior and Catatonia\n\n## Grossly Disorganized Behavior:\n- Manifests in unpredictable agitation, childlike silliness, inappropriate sexual behavior, bizarre public dress (wearing 4 winter coats in summer), or severe hoarding of garbage.\n\n## Catatonia (Motor Syndrome):\n- Can occur in schizophrenia, bipolar disorder, and major depression.\n- **Stupor**: Complete immobility and unresponsiveness to the environment.\n- **Waxy Flexibility (Flexibilitas Cerea)**: Slight, even resistance to positioning by the examiner, with the patient maintaining bizarre postures for hours.\n- **Negativism**: Opposition or lack of response to instructions or external stimuli.\n- **Mutism**: Complete absence of verbal response.\n- **Echolalia & Echopraxia**: Pathological, senseless parroting of another's words or mimicking their movements.\n\n*Emergency Treatment for Catatonia:* High-dose IV Lorazepam challenge or immediate bilateral ECT."
+        },
+        {
+            "id": "psy_schizophrenia_6",
+            "type": "content",
+            "title": "Negative Symptoms: The 5 A's",
+            "content": "# Negative Symptoms: The Deficit Syndrome\n\n**Negative symptoms** represent a loss, deficit, or absence of normal emotional and behavioral capabilities. They are the strongest predictor of long-term disability and poor functional recovery.\n\n## The Classic 5 A's of Negative Symptoms:\n1. **Avolition (Apathy)**: Severe lack of motivation or ability to initiate and persist in goal-directed activities (e.g., sitting for hours without engaging in work or self-care).\n2. **Alogia (Poverty of Speech)**: Diminished speech output; brief, concrete, unelaborated responses.\n3. **Anhedonia**: Inability to experience pleasure (especially **anticipatory anhedonia** - inability to anticipate future enjoyment).\n4. **Asociality**: Lack of interest in social interactions and relationships.\n5. **Affective Flattening (Blunted Affect)**: Marked reduction in facial expressiveness, eye contact, voice intonation (monotone), and bodily gesturing."
+        },
+        {
+            "id": "psy_schizophrenia_quiz_2",
+            "type": "quiz",
+            "title": "Negative Symptoms Check",
+            "content": "Verify knowledge of negative symptoms in schizophrenia.",
+            "quizQuestion": "Which negative symptom describes a profound reduction or inability to initiate and persist in basic goal-directed activities (such as personal hygiene or work)?",
+            "quizOptions": [
+                "Alogia",
+                "Avolition",
+                "Anhedonia",
+                "Asociality"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_schizophrenia_7",
+            "type": "content",
+            "title": "Cognitive Deficits in Schizophrenia",
+            "content": "# Cognitive Impairment: The Core Deficit\n\nWhile positive symptoms attract clinical attention, **cognitive deficits** represent the fundamental, neurodegenerative core of schizophrenia.\n\n## Affected Cognitive Domains:\n- **Working Memory**: Inability to hold and manipulate information in mind over short intervals (governed by the dorsolateral prefrontal cortex).\n- **Executive Functioning**: Impaired planning, cognitive flexibility, abstract reasoning, and problem-solving (demonstrated on the Wisconsin Card Sorting Test).\n- **Processing Speed**: Profound slowing in information processing.\n- **Verbal Learning and Memory**: Significant reduction in encoding and retentive recall.\n\n## Clinical Profile:\n- Cognitive deficits are typically present in the **premorbid and prodromal phases** before the first psychotic episode.\n- They do NOT respond to first-generation or second-generation antipsychotic medications."
+        },
+        {
+            "id": "psy_schizophrenia_8",
+            "type": "content",
+            "title": "The Neurodevelopmental Hypothesis",
+            "content": "# The Neurodevelopmental Paradigm\n\nFormulated by Daniel Weinberger and Robin Murray, the **Neurodevelopmental Hypothesis** posits that schizophrenia is the long-delayed behavioral manifestation of abnormal brain development occurring early in life.\n\n## The Two-Hit Model:\n\n```\n+-------------------------------------------------------------+\n| FIRST HIT: Early Neurodevelopmental Vulnerability          |\n| - Genetic risk (polygenic architecture)                     |\n| - In utero / perinatal insults (maternal influenza, severe  |\n|   starvation, obstetrical complications, maternal stress)   |\n| - Results in altered neuronal migration and synaptogenesis  |\n+-------------------------------------------------------------+\n                               |\n                               v (Decade-long silent incubation)\n+-------------------------------------------------------------+\n| SECOND HIT: Adolescent Brain Maturation & Environmental Hits|\n| - Excessive adolescent synaptic pruning in prefrontal cortex|\n| - Stressful life events / elevated cortisol                 |\n| - Heavy adolescent cannabis use                             |\n+-------------------------------------------------------------+\n                               |\n                               v\n          [First Psychotic Episode in Early Adulthood]\n```"
+        },
+        {
+            "id": "psy_schizophrenia_9",
+            "type": "content",
+            "title": "The Dopamine Hypothesis: Classical and Revised",
+            "content": "# The Dopamine Hypothesis\n\n## The Classical Dopamine Hypothesis (1960s-1970s):\n- Posited that schizophrenia is caused by generalized cerebral dopamine hyperactivity.\n- Evidence: All effective antipsychotics block dopamine D2 receptors; dopamine-elevating drugs (amphetamines, cocaine, L-dopa) induce paranoid psychosis.\n\n## The Revised Dopamine Hypothesis (Davis et al., 1991):\nResolves why D2 blockers treat hallucinations but fail to cure negative symptoms:\n\n```\n+-------------------------------------------------------------+\n| Mesolimbic Pathway (VTA to Nucleus Accumbens):             |\n| HYPERACTIVITY of Dopamine ---> POSITIVE SYMPTOMS            |\n| (Hallucinations, delusions, aberrant salience)              |\n+-------------------------------------------------------------+\n                               +\n+-------------------------------------------------------------+\n| Mesocortical Pathway (VTA to Prefrontal Cortex):            |\n| HYPOACTIVITY of Dopamine ---> NEGATIVE & COGNITIVE SYMPTOMS |\n| (Avolition, blunted affect, executive dysfunction)          |\n+-------------------------------------------------------------+\n```"
+        },
+        {
+            "id": "psy_schizophrenia_quiz_3",
+            "type": "quiz",
+            "title": "Dopamine Hypothesis Check",
+            "content": "Verify understanding of the revised dopamine model.",
+            "quizQuestion": "According to the modern revised dopamine hypothesis of schizophrenia, negative and cognitive symptoms result from:",
+            "quizOptions": [
+                "Hyperactivity of dopamine in the mesolimbic tract",
+                "Hypoactivity (deficiency) of dopamine transmission in the mesocortical prefrontal cortex",
+                "Excessive serotonin degradation in the gut enteric nervous system",
+                "Complete atrophy of the spinal motor neurons"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_schizophrenia_10",
+            "type": "content",
+            "title": "The Glutamate and NMDA Receptor Hypofunction Model",
+            "content": "# The Glutamate Hypothesis\n\nThe **Glutamate Hypothesis** explains both positive, negative, and cognitive symptoms through a unified upstream mechanism.\n\n## Phencyclidine (PCP) and Ketamine Observations:\n- In the 1980s-1990s, researchers observed that sub-anesthetic doses of PCP and Ketamine (non-competitive **NMDA glutamate receptor antagonists**) induce the *entire* clinical syndrome of schizophrenia: auditory hallucinations, delusions, severe formal thought disorder, negative symptoms, and cognitive deficits.\n\n## Cortical Interneuron Dysfunction:\n- NMDA receptors on **GABAergic parvalbumin-positive fast-spiking interneurons** in the prefrontal cortex are hypofunctional.\n- These interneurons fail to inhibit downstream pyramidal glutamatergic projection neurons.\n- Results in cortical disinhibition and excitotoxicity, while downstream projections to the ventral tegmental area (VTA) drive aberrant mesolimbic dopamine surges."
+        },
+        {
+            "id": "psy_schizophrenia_11",
+            "type": "content",
+            "title": "Genetics and Heritability of Schizophrenia",
+            "content": "# Heritability and Polygenic Architecture\n\nSchizophrenia is among the most genetically determined conditions in medicine, with an estimated **heritability of approx 80%**.\n\n## Concordance Rates in Family Studies:\n- **General Population**: Approx 1.0%\n- **First-Degree Relative (Parent or Sibling)**: Approx 6% to 10%\n- **Dizygotic (Fraternal) Twins**: Approx 12% to 17%\n- **Both Parents Affected**: Approx 40% to 45%\n- **Monozygotic (Identical) Twins**: Approx **45% to 50%**\n\n## Genomic Discoveries (GWAS Consortia):\n- Over 250 common risk loci identified.\n- Strongest genetic signal located in the **Major Histocompatibility Complex (MHC)** region on chromosome 6, specifically the **Complement Component 4 (C4)** gene.\n- Overexpression of C4 promotes excessive complement-mediated **synaptic pruning** during adolescent neurodevelopment."
+        },
+        {
+            "id": "psy_schizophrenia_12",
+            "type": "content",
+            "title": "Structural and Functional Brain Abnormalities",
+            "content": "# Neuroimaging Findings in Schizophrenia\n\nDecades of structural MRI and post-mortem neuropathology demonstrate consistent, reproducible anatomical anomalies:\n\n## 1. Ventricular Enlargement:\n- Marked, progressive enlargement of the **lateral ventricles** and **third ventricle**, reflecting loss of surrounding periventricular cortical and subcortical tissue.\n\n## 2. Cortical Gray Matter Reductions:\n- Widespread bilateral gray matter thinning, particularly pronounced in the **dorsolateral prefrontal cortex (DLPFC)** and **superior temporal gyrus (Heschl's gyrus)**.\n- Loss of neuropil (dendritic arborization and synaptic spines) rather than loss of neuronal cell bodies.\n\n## 3. Limbic System Reductions:\n- Significant volume reductions in the **hippocampus** (causing memory fragmentation) and **amygdala**."
+        },
+        {
+            "id": "psy_schizophrenia_quiz_4",
+            "type": "quiz",
+            "title": "Neuroanatomy Check",
+            "content": "Verify knowledge of neuroimaging findings in schizophrenia.",
+            "quizQuestion": "What is the most consistent and replicated structural neuroimaging finding observed in patients with schizophrenia compared to healthy controls?",
+            "quizOptions": [
+                "Massive hypertrophy of the cerebellar hemispheres",
+                "Enlargement of the lateral and third cerebral ventricles accompanied by cortical gray matter thinning",
+                "Absence of the corpus callosum",
+                "Complete obliteration of the pituitary gland"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_schizophrenia_13",
+            "type": "content",
+            "title": "Clinical Course: Prodrome, Active Phase, and Residual",
+            "content": "# The Longitudinal Course of Schizophrenia\n\nSchizophrenia typically unfolds through three chronological phases across the lifespan:\n\n```\n[Premorbid Phase] ---> [Prodromal Phase] ---> [Active Psychotic Phase] ---> [Residual Phase]\n(Subtle motor/social)   (Social withdrawal,      (Prominent hallucinations,    (Negative symptoms,\n                        attenuated ideas)         delusions, disorganization)   cognitive deficits)\n```\n\n## The Prodromal Phase:\n- Emerges 1 to 3 years prior to the first frank psychotic break.\n- Features: Drop in school/work performance, social withdrawal, neglect of personal hygiene, blunted affect, and **attenuated psychotic symptoms** (fleeting odd beliefs, mild sensory illusions).\n- Early detection and intervention during the prodromal phase can prevent or delay progression to full-blown psychosis."
+        },
+        {
+            "id": "psy_schizophrenia_14",
+            "type": "content",
+            "title": "Environmental Risk Factors: Cannabis and Stress",
+            "content": "# Environmental Stressors and Gene-Environment Interaction\n\nGenetics provides the biological vulnerability, but environmental factors often trigger the onset.\n\n## Major Proven Environmental Risk Factors:\n- **Adolescent Cannabis Use**: High-potency THC use during adolescent brain maturation confers a **2- to 4-fold increased risk** of developing schizophrenia; accelerates psychotic onset by 2-3 years. THC disrupts endocannabinoid-mediated synaptic pruning.\n- **Urbanicity**: Growing up in high-density urban environments doubles the risk (social stress, pollution, social fragmentation).\n- **Immigration and Minority Status**: Social defeat, chronic discrimination, and isolation increase risk.\n- **Paternal Age**: Advanced paternal age (> 45-50 years) increases risk due to de novo germline genetic mutations in spermatogenesis."
+        },
+        {
+            "id": "psy_schizophrenia_15",
+            "type": "content",
+            "title": "Summary of Schizophrenia",
+            "content": "# Schizophrenia Summary\n\n## Core Principles:\n1. **Diagnostic Threshold**: At least 2 of 5 symptoms for 1 month (with continuous disturbance for >= 6 months); must include Delusions, Hallucinations, or Disorganized Speech.\n2. **Positive vs. Negative**: Positive symptoms are distortions of reality (hallucinations, delusions); Negative symptoms are functional deficits (Avolition, Alogia, Anhedonia, Asociality, Affective flattening).\n3. **Cognitive Impairment**: The fundamental, unremitting core deficit (working memory, executive dysfunction).\n4. **Dual Dopamine Architecture**: Mesolimbic hyperdopaminergia drives positive symptoms; mesocortical hypodopaminergia drives negative symptoms.\n5. **NMDA Hypofunction**: Glutamate receptor hypofunction on GABA interneurons unifies cortical cognitive disruption with subcortical dopamine surges.\n6. **Neurodevelopmental Model**: Two-hit model of early in utero vulnerability followed by adolescent synaptic pruning (C4 gene) and environmental triggers (cannabis, urban stress)."
+        }
+    ]
+}

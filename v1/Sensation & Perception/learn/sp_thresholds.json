@@ -1,0 +1,155 @@
+{
+    "id": "learn_sp_thresholds",
+    "topicId": "sp_thresholds",
+    "topicTitle": "Thresholds & Signal Detection",
+    "description": "Master psychophysical measurement: absolute thresholds, difference thresholds and Weber's law, Fechner's logarithmic scaling, signal detection theory (hits, misses, false alarms), and sensory adaptation.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sp_thresholds_1",
+            "type": "content",
+            "title": "Welcome to Psychophysics",
+            "content": "# Thresholds & Signal Detection Theory\n\nHow faint a sound can human ears detect? How much sugar must be dissolved in a cup of coffee before you notice a change in sweetness?\n\nThese questions form the core of **Psychophysics** - the foundational branch of psychology founded by Gustav Fechner in 1860 that studies the quantitative relationships between physical stimulus intensities and subjective psychological sensations.\n\n## In This Module, You Will Learn:\n- The Absolute Threshold and classic sensory detection baselines\n- The Difference Threshold (Just Noticeable Difference) and Weber's Law\n- Signal Detection Theory (SDT) and decision-making criteria\n- The biological mechanics and survival advantages of Sensory Adaptation"
+        },
+        {
+            "id": "sp_thresholds_2",
+            "type": "content",
+            "title": "The Absolute Threshold",
+            "content": "# The Absolute Threshold\n\n## Definition:\n- The **Absolute Threshold** is the minimum physical stimulus intensity required for an organism to detect a stimulus **50% of the time**.\n\n## Why 50% of the Time?\n- Human sensory detection is not an all-or-none switch. Due to background neural noise, momentary fluctuations in attention, and metabolic fatigue, detection exists along an S-shaped psychometric curve.\n- A stimulus exactly at the absolute threshold is detected on half of the experimental trials and missed on the other half."
+        },
+        {
+            "id": "sp_thresholds_3",
+            "type": "content",
+            "title": "Classic Human Sensory Absolute Thresholds",
+            "content": "# Human Absolute Thresholds Under Ideal Conditions\n\nUnder pristine laboratory conditions with zero background noise, human sensory receptors display extraordinary sensitivity (Galanter, 1962):\n\n| Sensory Modality | Established Absolute Threshold Benchmark |\n|---|---|\n| **Vision** | A single candle flame seen from 30 miles away on a clear, pitch-black night |\n| **Audition** | The ticking of a mechanical watch from 20 feet away in a completely quiet room |\n| **Taste** | One teaspoon of sugar dissolved in two gallons of water |\n| **Smell** | One drop of perfume diffused throughout a three-room apartment |\n| **Touch** | The wing of a bee falling onto your cheek from a distance of 1 centimeter |"
+        },
+        {
+            "id": "sp_thresholds_quiz_1",
+            "type": "quiz",
+            "title": "Absolute Threshold Check",
+            "content": "Assess your understanding of the absolute threshold definition!",
+            "quizQuestion": "In psychophysics, what is the exact operational definition of an Absolute Threshold?",
+            "quizOptions": [
+                "The maximum stimulus intensity that human sensory receptors can tolerate without pain",
+                "The minimum stimulus intensity detected by an observer exactly 50% of the time",
+                "The point at which sensory adaptation permanently halts neural firing",
+                "The intensity required for 100% flawless detection on every single trial"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sp_thresholds_4",
+            "type": "content",
+            "title": "The Difference Threshold (JND)",
+            "content": "# The Difference Threshold (JND)\n\n## Definition:\n- The **Difference Threshold**, also known as the **Just Noticeable Difference (JND)**, is the minimum physical difference between two stimuli required for an observer to detect a difference **50% of the time**.\n\n## The Concept:\n- If you hold a 100-gram weight in your hand, adding a single grain of sand (0.01 grams) is undetectable.\n- You must add a specific minimal amount of additional weight before your somatosensory cortex detects that the object has become heavier.\n- This minimal required change is the JND."
+        },
+        {
+            "id": "sp_thresholds_5",
+            "type": "content",
+            "title": "Weber's Law: Constant Proportions",
+            "content": "# Weber's Law: Constant Proportions\n\nGerman physiologist **Ernst Weber** made a profound discovery: *The size of the Just Noticeable Difference is not a constant absolute amount, but a constant proportion of the initial stimulus intensity!*\n\n## The Mathematical Principle:\n```\nChange in Intensity (Delta I) / Original Intensity (I) = Constant (k)\n```\n\n- If the Weber constant (**k**) for weight is 2% (0.02):\n  - For a 100-gram weight, you need to add **2 grams** to notice a difference.\n  - For a 1,000-gram weight, adding 2 grams is completely imperceptible! You must add **20 grams** to detect a difference!\n- **Key Takeaway:** As stimulus intensity increases, the amount of change needed to detect a difference increases proportionally."
+        },
+        {
+            "id": "sp_thresholds_6",
+            "type": "content",
+            "title": "Weber Fractions Across Senses",
+            "content": "# Weber Constants Across Sensory Modalities\n\nDifferent human sensory systems exhibit distinct Weber fractions (**k**), reflecting their evolutionary sensitivity:\n\n| Modality | Physical Stimulus Dimension | Weber Fraction (k) |\n|---|---|---|\n| **Electric Shock** | Electrical current across skin | approx 0.01 (1%) - extremely sensitive |\n| **Light** | Visual brightness intensity | approx 0.08 (8%) |\n| **Weight** | Lifted somatic weight | approx 0.02 (2%) |\n| **Sound** | Auditory frequency / pitch | approx 0.003 (0.3%) |\n| **Sound** | Auditory loudness / intensity | approx 0.05 (5%) |\n| **Taste** | Saltiness concentration in water | approx 0.20 (20%) - least sensitive |"
+        },
+        {
+            "id": "sp_thresholds_quiz_2",
+            "type": "quiz",
+            "title": "Weber's Law Check",
+            "content": "Evaluate your understanding of Weber's Law and proportional change!",
+            "quizQuestion": "According to Weber's Law, if an individual can just barely detect a 2-gram weight difference when holding a 100-gram object, how many grams must be added to a 500-gram object to notice a difference?",
+            "quizOptions": [
+                "2 grams",
+                "5 grams",
+                "10 grams",
+                "20 grams"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sp_thresholds_7",
+            "type": "content",
+            "title": "Fechner's Law: Logarithmic Sensation",
+            "content": "# Fechner's Law: Scaling the Mind\n\nBuilding upon Weber's work, **Gustav Fechner** formulated the first mathematical law of cognitive psychology (**Fechner's Law**):\n\n```\nSubjective Psychological Sensation (S) = k x log(Physical Stimulus Intensity)\n```\n\n## The Logarithmic Reality:\n- Physical intensity must increase exponentially for subjective psychological sensation to increase linearly in arithmetic steps!\n- To double the perceived brightness of a room, you cannot merely double the number of lightbulbs; you must increase light intensity tenfold.\n- (This logarithmic scaling protects our sensory systems from being instantly overwhelmed by the vast physical ranges found in nature)."
+        },
+        {
+            "id": "sp_thresholds_8",
+            "type": "content",
+            "title": "Signal Detection Theory (SDT): Overview",
+            "content": "# Signal Detection Theory (SDT)\n\nTraditional psychophysics assumed that sensory thresholds were fixed biological constants. In the 1960s, **Signal Detection Theory (SDT)** revolutionized psychology by recognizing that detection is NOT purely sensory:\n\n> *Detecting a stimulus depends on both the physical intensity of the signal AND the observer's psychological decision criterion, motivation, expectation, and fatigue!*\n\n## The Two Realities:\nIn any detection task (e.g., a radiologist scanning a mammogram for tumor signals, or an air traffic controller watching a radar screen), there are two components:\n1. **Signal:** The target stimulus being searched for.\n2. **Noise:** All background interference (environmental noise, machine static, and internal random firing in the nervous system)."
+        },
+        {
+            "id": "sp_thresholds_9",
+            "type": "content",
+            "title": "The Four SDT Outcomes Matrix",
+            "content": "# The Signal Detection Matrix\n\nEvery signal detection trial produces one of **Four Discrete Outcomes** based on the presence of the signal and the observer's decision:\n\n```\n                                    TRUE PHYSICAL STATE\n                            Signal Present       |       Signal Absent\n                       +-------------------------+-------------------------+\nDECISION:              |           HIT           |       FALSE ALARM       |\n'YES, Signal Detected' | (Correct Detection)     | (False Positive)        |\n                       +-------------------------+-------------------------+\nDECISION:              |          MISS           |    CORRECT REJECTION    |\n'NO, Signal Not Seen'  | (False Negative)        | (True Negative)         |\n                       +-------------------------+-------------------------+\n```\n\n- **Hit:** Signal is present, and observer says 'YES'.\n- **Miss:** Signal is present, and observer says 'NO'.\n- **False Alarm:** Signal is absent, and observer says 'YES'.\n- **Correct Rejection:** Signal is absent, and observer says 'NO'."
+        },
+        {
+            "id": "sp_thresholds_quiz_3",
+            "type": "quiz",
+            "title": "Signal Detection Matrix Check",
+            "content": "Verify your comprehension of the four Signal Detection Theory outcomes!",
+            "quizQuestion": "An airport security officer reviewing an X-ray luggage screen sounds an emergency alarm believing there is a weapon inside a suitcase, but manual inspection reveals it was only an umbrella. Which SDT outcome occurred?",
+            "quizOptions": [
+                "Hit",
+                "Miss",
+                "False Alarm",
+                "Correct Rejection"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sp_thresholds_10",
+            "type": "content",
+            "title": "Sensitivity (d') and Response Bias (beta)",
+            "content": "# Sensitivity (d') vs. Response Bias (beta)\n\nSignal Detection Theory mathematically separates two distinct psychological dimensions:\n\n## 1. Perceptual Sensitivity (d-prime / d'):\n- The observer's true sensory capacity to distinguish signals from background noise.\n- Determined by physiological hardware (e.g., quality of eyes, clarity of radar screen).\n- If a person has sharp vision and good equipment, **d'** is high; if vision is degraded by cataracts, **d'** is low.\n\n## 2. Response Bias / Criterion (beta / c):\n- The observer's subjective decision strategy or willingness to say 'YES' under uncertainty, driven by payoffs and penalties:\n  - **Liberal Criterion:** Says 'YES' frequently; maximizes Hits, but suffers many False Alarms (e.g., radiologist looking for cancer - missing a tumor is fatal, so they flag any suspicious shadow).\n  - **Conservative Criterion:** Says 'YES' only when 100% certain; minimizes False Alarms, but suffers many Misses (e.g., jury declaring a defendant guilty)."
+        },
+        {
+            "id": "sp_thresholds_11",
+            "type": "content",
+            "title": "Receiver Operating Characteristic (ROC)",
+            "content": "# The ROC Curve: Mapping Performance\n\nIn Signal Detection Theory, an observer's performance across varying criteria is plotted as a **Receiver Operating Characteristic (ROC) Curve**:\n\n```\n  1.0 +                 .*   (High Sensitivity d' = 3.0)\n      |              .*\n      |           .*\nHIT   |        .*\nRATE  |     .*\n      |  .*                  (Low Sensitivity d' = 1.0)\n      |.*-----------------   (Zero Sensitivity d' = 0: Pure Chance)\n  0.0 +-------------------+\n     0.0      FALSE ALARM RATE      1.0\n```\n\n- **The Diagonal Line (d' = 0):** Pure chance guessing (Hit rate equals False Alarm rate).\n- **Bowed Curve:** The further the curve bows toward the top-left corner (100% Hits, 0% False Alarms), the higher the observer's true sensory sensitivity **d'**."
+        },
+        {
+            "id": "sp_thresholds_12",
+            "type": "content",
+            "title": "Sensory Adaptation: Mechanics & Purpose",
+            "content": "# Sensory Adaptation: Tuning Out Constancy\n\n## Definition:\n- **Sensory Adaptation** is the diminishing sensitivity of sensory receptors to constant, unchanging environmental stimulation over time.\n\n## Real-World Examples:\n- Stepping into a heavily chlorinated swimming pool: it feels freezing at first, but feels comfortably warm after 5 minutes.\n- Putting on a wristwatch or wool sweater: you feel the fabric pressing on your skin initially, but within seconds you completely lose conscious awareness of it.\n- Entering a friend's apartment: you immediately smell their pet cat, but they smell nothing because their olfactory receptors have adapted.\n\n## Cellular Mechanism:\n- Prolonged static stimulation causes sensory receptor cells to decrease their action potential firing rates."
+        },
+        {
+            "id": "sp_thresholds_quiz_4",
+            "type": "quiz",
+            "title": "Sensitivity & Adaptation Check",
+            "content": "Assess your understanding of sensory adaptation and response bias!",
+            "quizQuestion": "Why do our eyes not undergo complete sensory adaptation to static images in everyday life, which would cause an unmoving visual scene to completely vanish from sight?",
+            "quizOptions": [
+                "Rods and cones do not contain photopigments",
+                "The eyes constantly execute microscopic involuntary tremors called microsaccades that continuously shift light across fresh photoreceptors",
+                "Visual signals bypass the thalamus entirely",
+                "The lens constantly flips upside down"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sp_thresholds_13",
+            "type": "content",
+            "title": "Why Don't Our Eyes Adapt? Microsaccades",
+            "content": "# Visual Adaptation & Microsaccades\n\nIf sensory receptors adapt to static stimulation, *why doesn't an unmoving page of text fade into gray while you stare at it?*\n\n## The Biological Solution: Microsaccades\n- Even when you stare fixedly at a single point, your eyes execute involuntary, microscopic tremors and rapid drift movements called **Microsaccades** several times per second.\n- These tiny vibrations ensure that the visual image on the retina is constantly shifting across new, unfatigued rods and cones!\n\n## The Stabilized Retinal Image Experiment (Riggs, 1953):\n- Researchers attached tiny mirrors onto contact lenses, causing visual images to move in exact synchrony with eye tremors (stabilizing the image on the exact same photoreceptors).\n- **The Result:** Within 3 seconds, the image began to fracture and vanished completely into blank gray! The moment the image was jiggled, it reappeared instantly!"
+        },
+        {
+            "id": "sp_thresholds_14",
+            "type": "content",
+            "title": "Evolutionary Advantages of Adaptation",
+            "content": "# The Evolutionary Genius of Sensory Adaptation\n\nWhy did natural selection engineer sensory adaptation into virtually every living animal?\n\n## The Survival Rationale:\n- The sensory environment contains infinite sensory noise (the hum of air conditioning, the pressure of your shoes, the ambient temperature).\n- If our brains processed all static inputs with equal intensity, conscious cognitive processing would instantly crash from sensory overload.\n- **Adaptation frees up cognitive bandwidth:** It silences static, predictable background noise so the nervous system can stay laser-focused on **novelty and change** (which usually signal food, mating opportunities, or predators!)."
+        },
+        {
+            "id": "sp_thresholds_15",
+            "type": "content",
+            "title": "Course 5 Summary & Sensory Synthesis",
+            "content": "# Course 5 Summary: Sensation & Perception\n\n## Master Curriculum Reviewed:\n- **Vision:** Eye anatomy (cornea, pupil, lens accommodation, retina), rods vs. cones, foveal acuity, visual pathway (optic chiasm to V1 feature detectors), dual streams (Ventral 'WHAT' vs. Dorsal 'WHERE/HOW'), trichromatic & opponent-process color synthesis, and binocular/monocular depth cues.\n- **Hearing & Non-Visual Senses:** Auditory mechanics (eardrum, ossicles, cochlear basilar membrane hair cells), pitch perception (Place Theory + Frequency/Volley Principle), gustation (5 tastes), olfaction (direct limbic projection), cutaneous touch, Gate-Control Theory of pain, and vestibular balance.\n- **Perceptual Processes:** Bottom-up (data-driven) vs. top-down (concept-driven), Gestalt organization (figure-ground, closure, proximity), perceptual constancies (size, shape, color), and inattentional/change blindness.\n- **Thresholds & Psychophysics:** Absolute threshold (detected 50% of the time), Difference threshold / JND, Weber's Law (Delta I / I = k), Fechner's logarithmic scaling, Signal Detection Theory (Hits, Misses, False Alarms, Correct Rejections; d' sensitivity vs. beta response bias), and Sensory Adaptation (microsaccades).\n\n> **Congratulations!** You have completed all learning modules for **Sensation & Perception**. Next, we enter **States of Consciousness** to explore sleep, dreams, hypnosis, drugs, and awareness!"
+        }
+    ]
+}

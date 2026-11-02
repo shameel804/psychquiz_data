@@ -1,0 +1,155 @@
+{
+    "id": "learn_mood_bipolar",
+    "topicId": "mood_bipolar",
+    "topicTitle": "Bipolar Disorders",
+    "description": "Understand the spectrum of Bipolar Disorders, differentiating Bipolar I, Bipolar II, cyclothymia, mania, and hypomania",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mood_bipolar_1",
+            "type": "content",
+            "title": "Introduction to Bipolar Spectrum Disorders",
+            "content": "# The Bipolar Spectrum\n\n**Bipolar disorders** are severe, chronic, and episodic affective illnesses characterized by cyclical oscillations between pathological elevations in mood (mania or hypomania) and debilitating depressive states.\n\n## Historical Evolution:\n- **Aretaeus of Cappadocia** (1st century CE) first recognized that melancholia and mania were manifestations of the same single underlying illness.\n- **Emil Kraepelin** (1899) coined **Manic-Depressive Insanity**, distinguishing it from Dementia Praecox (schizophrenia) by its episodic, non-deteriorating course.\n\n## Diagnostic Classifications:\n1. **Bipolar I Disorder**: Requires at least one lifetime full manic episode.\n2. **Bipolar II Disorder**: Requires at least one hypomanic episode AND at least one major depressive episode (never a full manic episode).\n3. **Cyclothymic Disorder**: Chronic (>= 2 years) fluctuating mood disturbances that do not meet full episode criteria."
+        },
+        {
+            "id": "mood_bipolar_2",
+            "type": "content",
+            "title": "Manic Episode Diagnostic Criteria",
+            "content": "# DSM-5-TR Criteria: Manic Episode\n\nA distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally increased goal-directed activity or energy, lasting **at least 1 week** (or any duration if hospitalization is necessary).\n\n## Symptom Criterion B: At Least 3 Symptoms (4 if Mood is Only Irritable):\n1. **Inflated self-esteem or grandiosity** (from uncritical self-confidence to grandiose delusions of divine identity or vast wealth).\n2. **Decreased need for sleep** (e.g., feels fully rested after only 2-3 hours of sleep).\n3. **More talkative than usual or pressure to keep talking** (pressured speech).\n4. **Flight of ideas or subjective experience that thoughts are racing**.\n5. **Distractibility** (attention too easily drawn to unimportant external stimuli).\n6. **Increase in goal-directed activity** (socially, at work, sexually) or **psychomotor agitation**.\n7. **Excessive involvement in risky activities** with high potential for painful consequences (unrestrained buying sprees, sexual indiscretions, foolish business investments)."
+        },
+        {
+            "id": "mood_bipolar_3",
+            "type": "content",
+            "title": "The DIG FAST Mnemonic",
+            "content": "# Clinical Assessment: DIG FAST\n\nClinicians evaluate manic and hypomanic states using the widely recognized diagnostic mnemonic **DIG FAST**:\n\n```\n+-------------------------------------------------------------+\n| D - Distractibility                                         |\n| I - Indiscretion (excessive involvement in risky activities)|\n| G - Grandiosity or inflated self-esteem                     |\n| F - Flight of ideas / racing thoughts                       |\n| A - Activity increase (goal-directed) or psychomotor agitation\n| S - Sleep deficit (markedly decreased need for sleep)        |\n| T - Talkativeness (pressured, unstoppable speech)            |\n+-------------------------------------------------------------+\n```\n\n> **Critical Clinical Hallmark:** Decreased *need* for sleep is distinct from insomnia. Insomniacs desperately want to sleep but cannot; manic individuals feel energetic, euphoric, and powerful despite only 2 hours of rest."
+        },
+        {
+            "id": "mood_bipolar_quiz_1",
+            "type": "quiz",
+            "title": "Mania Symptoms Check",
+            "content": "Verify knowledge of manic episode criteria.",
+            "quizQuestion": "In evaluating manic symptoms using the DIG FAST mnemonic, how is the sleep symptom accurately characterized?",
+            "quizOptions": [
+                "Exhaustion accompanied by terminal early morning awakening",
+                "Decreased need for sleep while feeling completely rested and energized",
+                "Excessive hypersomnia exceeding 14 hours daily",
+                "Sleep paralysis accompanied by hypnagogic hallucinations"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_bipolar_4",
+            "type": "content",
+            "title": "Bipolar I vs. Bipolar II: The Critical Boundary",
+            "content": "# Bipolar I vs. Bipolar II\n\nDifferentiating Bipolar I from Bipolar II is a critical psychiatric distinction.\n\n| Clinical Feature | Bipolar I Disorder | Bipolar II Disorder |\n|------------------|--------------------|---------------------|\n| Mood Elevation | **Full Mania** | **Hypomania** |\n| Duration Required | Minimum 7 days (or any if hospitalized) | Minimum 4 consecutive days |\n| Functional Impact | **Severe impairment**; social/occupational incapacitation | Noticeable change, but **NO severe impairment** |\n| Hospitalization | Often required | **Rule-Out**: If hospitalized, it is Bipolar I |\n| Psychotic Symptoms | Can occur (mood congruent or incongruent) | **Rule-Out**: If psychosis occurs, it is Bipolar I |\n| Major Depressive Episode | Common, but technically not required for diagnosis | **Mandatory**: Must have >= 1 lifetime MDE |"
+        },
+        {
+            "id": "mood_bipolar_5",
+            "type": "content",
+            "title": "Understanding Hypomania",
+            "content": "# The Clinical Nature of Hypomania\n\n**Hypomania** represents a milder, non-psychotic elevation of mood and energy.\n\n## Diagnostic Boundaries (DSM-5-TR):\n- Minimum duration of **4 consecutive days**.\n- Observable by colleagues and friends as an unmistakable change from the person's baseline demeanor.\n- Increased productivity, sharp wit, charisma, sociability, and reduced sleep.\n\n## Why Hypomania is Dangerous:\n- Patients typically find hypomania highly pleasurable and ego-syntonic; they rarely seek help during hypomanic phases.\n- It inevitably destabilizes into either severe dysphoric mania or a debilitating, treatment-resistant **bipolar depression**.\n- Unrecognized hypomania often leads to misdiagnosis of Unipolar Major Depression. Prescribing antidepressant monotherapy can trigger severe manic switches or rapid cycling."
+        },
+        {
+            "id": "mood_bipolar_6",
+            "type": "content",
+            "title": "Cyclothymic Disorder",
+            "content": "# Cyclothymic Disorder (Cyclothymia)\n\n**Cyclothymic Disorder** is a chronic, fluctuating mood disturbance representing a sub-threshold bipolar illness.\n\n## Diagnostic Criteria (DSM-5-TR):\n- For at least **2 years** (1 year in children and adolescents), there are numerous periods with hypomanic symptoms that do not meet full hypomanic criteria, and numerous periods with depressive symptoms that do not meet full Major Depressive Episode criteria.\n- Symptoms must be present for at least half the time, and the individual has not been without symptoms for more than **2 consecutive months** at a time.\n- Full criteria for major depressive, manic, or hypomanic episodes have **never** been met.\n\n## Prognosis:\nApprox 15% to 50% of individuals diagnosed with cyclothymic disorder eventually develop full-blown Bipolar I or Bipolar II Disorder."
+        },
+        {
+            "id": "mood_bipolar_quiz_2",
+            "type": "quiz",
+            "title": "Bipolar Classification Check",
+            "content": "Assess diagnostic boundaries across bipolar subtypes.",
+            "quizQuestion": "A patient experiences recurring hypomanic episodes and severe major depressive episodes, but has never experienced a full manic episode or psychotic symptoms. What is the diagnosis?",
+            "quizOptions": [
+                "Bipolar I Disorder",
+                "Bipolar II Disorder",
+                "Cyclothymic Disorder",
+                "Schizoaffective Disorder"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_bipolar_7",
+            "type": "content",
+            "title": "Mixed Features: The Most Dangerous State",
+            "content": "# Bipolar with Mixed Features\n\nHistorically called 'mixed mania', DSM-5 uses the specifier **'With Mixed Features'**, which can apply to manic, hypomanic, or depressive episodes.\n\n## Clinical Profile:\n- Co-existence of manic energy alongside depressive dysphoria simultaneously.\n- *Example:* A patient with racing thoughts, severe psychomotor agitation, and pressured speech who is simultaneously crying, expressing worthlessness, and consumed by intense suicidal impulses.\n\n## Clinical Danger:\n- Represents the **highest suicide risk period** in all of psychiatry.\n- Combines depressive despair and hopelessness with manic energy, impulsivity, and physical mobilization necessary to execute lethal self-harm.\n- Treatment: Strict avoidance of antidepressant medications; immediate initiation of mood stabilizers (Valproate, SGAs)."
+        },
+        {
+            "id": "mood_bipolar_8",
+            "type": "content",
+            "title": "Rapid Cycling Bipolar Disorder",
+            "content": "# Rapid Cycling Specifier\n\n**Rapid Cycling** designates an accelerated, severe form of bipolar illness.\n\n## Diagnostic Definition:\n- The occurrence of **at least 4 distinct mood episodes** (manic, hypomanic, mixed, or major depressive) within a **12-month period**.\n- Episodes must be demarcated either by partial or full remission for at least 2 months, or by a direct switch to an episode of the opposite polarity.\n\n## Clinical Characteristics:\n- Affects approx 10% to 20% of bipolar patients (higher prevalence in females).\n- Associated with hypothyroidism, substance abuse, and secondary neurological insults.\n- **Iatrogenic Induction**: Frequently triggered or accelerated by the use of traditional antidepressant medications.\n- **Treatment Choice**: Valproate (Depakote) or combination mood stabilizer regimens demonstrate superiority over lithium monotherapy."
+        },
+        {
+            "id": "mood_bipolar_9",
+            "type": "content",
+            "title": "Neurobiology and Genetics of Bipolar Disorder",
+            "content": "# Genetics and Pathophysiology\n\nBipolar Disorder is among the most heritable conditions in medicine.\n\n## Heritability:\n- Twin studies demonstrate heritability estimates of **70% to 85%** (monozygotic concordance approx 40% to 70% vs. dizygotic approx 5% to 10%).\n- Complex polygenic architecture sharing overlapping risk loci with schizophrenia (e.g., CACNA1C voltage-gated calcium channel genes, ANK3).\n\n## Neurobiological Abnormalities:\n- **Mitochondrial Dysfunction**: Impaired cellular energy metabolism and abnormal intracellular calcium homeostasis.\n- **Circadian Clock Dysregulation**: Profound vulnerability in molecular clock genes (CLOCK, PER3); circadian rhythm disruption (jet lag, sleep loss) is the single most potent trigger of acute mania.\n- **Fronto-Limbic Dysregulation**: Hyperactive amygdala/ventral striatum reactivity combined with hypoactive prefrontal cortical cognitive control."
+        },
+        {
+            "id": "mood_bipolar_quiz_3",
+            "type": "quiz",
+            "title": "Bipolar Features Check",
+            "content": "Verify knowledge of mixed features and rapid cycling.",
+            "quizQuestion": "What is the defining criterion for applying the 'Rapid Cycling' specifier in Bipolar Disorder?",
+            "quizOptions": [
+                "Experiencing mood switches between day and night",
+                "Experiencing at least four distinct mood episodes within a 12-month period",
+                "Failing to respond to three consecutive mood stabilizers",
+                "Daily oscillation between mania and severe catatonia"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_bipolar_10",
+            "type": "content",
+            "title": "Treatment of Acute Mania",
+            "content": "# Acute Mania Pharmacotherapy\n\nAcute mania is a psychiatric emergency requiring rapid behavioral control, mood stabilization, and safety preservation.\n\n## First-Line Pharmacotherapy Options:\n1. **Atypical Antipsychotics (SGAs)**:\n   - Olanzapine, Risperidone, Quetiapine, Aripiprazole, Asenapine, Cariprazine.\n   - Fastest onset of action (effective within hours to days).\n2. **Mood Stabilizers**:\n   - **Lithium**: Gold standard, especially for classic euphoric mania.\n   - **Valproate (Divalproex Sodium)**: Oral loading (20-30 mg/kg/day) provides rapid manic control; preferred in mixed mania.\n3. **Combination Therapy**:\n   - For severe, psychotic mania: Combining an SGA with Lithium or Valproate produces significantly higher response rates than monotherapy.\n4. **Short-Term Benzodiazepines**:\n   - Lorazepam or Clonazepam for acute sedation and restoring sleep."
+        },
+        {
+            "id": "mood_bipolar_11",
+            "type": "content",
+            "title": "Treatment of Bipolar Depression",
+            "content": "# The Challenge of Bipolar Depression\n\nBipolar patients spend over **75% of their symptomatic time in the depressive phase**, which is responsible for the vast majority of disability and suicide.\n\n## The Antidepressant Controversy:\n- Antidepressant monotherapy is **contraindicated** in Bipolar I Disorder due to high risks of triggering mania, hypomania, cycle acceleration, or mixed states.\n\n## Evidence-Based Treatments for Bipolar Depression:\n- **Quetiapine (Seroquel)**: 300 mg at bedtime (monotherapy efficacy).\n- **Lurasidone (Latuda)**: Highly effective; low metabolic risk; dosed with food.\n- **Cariprazine (Vraylar)**: D3-preferring dopamine partial agonist.\n- **Lamotrigine (Lamictal)**: Excellent maintenance protection against depressive relapse.\n- **Olanzapine-Fluoxetine (Symbyax)**: Only approved antidepressant combination."
+        },
+        {
+            "id": "mood_bipolar_12",
+            "type": "content",
+            "title": "Psychosocial Interventions: IPSRT and FFT",
+            "content": "# Specialized Psychotherapies for Bipolar Disorder\n\nWhile medication is the mandatory cornerstone of bipolar treatment, adjunctive psychotherapy significantly reduces relapse rates.\n\n## 1. Interpersonal and Social Rhythm Therapy (IPSRT):\n- Developed by **Ellen Frank** based on circadian instability models.\n- Patients track daily social routines: wake time, first contact with another person, work start, dinner, and bed time using the **Social Rhythm Metric (SRM)**.\n- Stabilizing external social zeitgebers (time-givers) preserves circadian clock stability, preventing manic and depressive switches.\n\n## 2. Family-Focused Therapy (FFT) (David Miklowitz):\n- Educates family members on early warning signs and improves communication to reduce **High Expressed Emotion (critical, hostile, over-involved family dynamics)**, which triggers relapse."
+        },
+        {
+            "id": "mood_bipolar_quiz_4",
+            "type": "quiz",
+            "title": "Bipolar Psychotherapy Check",
+            "content": "Verify understanding of psychosocial modalities.",
+            "quizQuestion": "Which specialized psychotherapy stabilizes circadian biological rhythms and daily social routines (zeitgebers) to prevent bipolar relapse?",
+            "quizOptions": [
+                "Interpersonal and Social Rhythm Therapy (IPSRT)",
+                "Dialectical Behavior Therapy (DBT)",
+                "Systematic Desensitization",
+                "Prolonged Exposure Therapy"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "mood_bipolar_13",
+            "type": "content",
+            "title": "Long-Term Prophylaxis and Monitoring",
+            "content": "# Maintenance and Relapse Prevention\n\nBipolar disorder is an incurable lifelong illness requiring continuous prophylactic maintenance therapy.\n\n## Early Warning Signs (The Relapse Signature):\n- Each patient has a idiosyncratic 'relapse signature':\n  - **Impending Mania**: Sleep drops to 4 hours without fatigue; increased spending; texting at 3 AM; sudden grand projects.\n  - **Impending Depression**: Withdrawal from texts; skipped showers; delayed morning waking; carbohydrate craving.\n\n## Advance Directives and Safety Planning:\n- During euthymic periods, patients complete psychiatric advance directives detailing hospital preferences and designating trusted individuals to intervene if mania impairs reality testing."
+        },
+        {
+            "id": "mood_bipolar_14",
+            "type": "content",
+            "title": "Comorbidity and Differential Diagnosis",
+            "content": "# Comorbidities and Diagnostic Overlap\n\nOver 60% of bipolar patients meet criteria for at least one comorbid psychiatric disorder.\n\n## Frequent Comorbidities:\n- **Substance Use Disorders (SUD)**: Present in > 40% to 50% of bipolar patients; often driven by self-medication attempts during dysphoria or disinhibition during mania.\n- **Anxiety Disorders**: Panic disorder and GAD worsen overall prognosis.\n- **ADHD**: High co-occurrence; differentiating ADHD from pediatric bipolar disorder requires examining episodic vs. chronic courses.\n- **Borderline Personality Disorder (BPD)**: BPD mood shifts occur in hours in response to interpersonal abandonment; bipolar mood episodes last days to weeks and feature true vegetative shifts (decreased sleep need)."
+        },
+        {
+            "id": "mood_bipolar_15",
+            "type": "content",
+            "title": "Summary of Bipolar Spectrum Disorders",
+            "content": "# Bipolar Spectrum Disorders Summary\n\n## Master Summary:\n1. **Diagnostic Distinction**: Bipolar I requires >= 1 manic episode (severe impairment/psychosis/hospitalization); Bipolar II requires hypomania + major depression (no mania).\n2. **The Manic Core**: DIG FAST (Distractibility, Indiscretion, Grandiosity, Flight of ideas, Activity increase, Sleep deficit, Talkativeness).\n3. **Mixed States & Suicide**: Co-existence of manic agitation and depressive despair represents the most lethal phase.\n4. **High Heritability**: 70% to 85% heritability linked to calcium channel genes and circadian clock vulnerability.\n5. **Pharmacotherapy Rules**: Antidepressant monotherapy is contraindicated; First-line treatments are Lithium, Valproate, and SGAs (quetiapine, lurasidone for depression).\n6. **Circadian Anchors**: IPSRT and social rhythm stability serve as indispensable protective buffers against recurrence."
+        }
+    ]
+}

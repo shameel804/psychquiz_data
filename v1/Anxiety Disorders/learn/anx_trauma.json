@@ -1,0 +1,155 @@
+{
+    "id": "learn_anx_trauma",
+    "topicId": "anx_trauma",
+    "topicTitle": "Trauma & Stressor-Related Disorders",
+    "description": "Examine the phenomenology, neurobiology, and evidence-based treatments for PTSD, Acute Stress Disorder, Complex PTSD, and Adjustment Disorders",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "anx_trauma_1",
+            "type": "content",
+            "title": "Introduction to Trauma & Stressor-Related Disorders",
+            "content": "# The Trauma Spectrum\n\n**Trauma- and Stressor-Related Disorders** represent a unique diagnostic chapter in DSM-5-TR where the explicit clinical etiology is an external environmental exposure (traumatic stressor or life adversity).\n\n## Diagnostic Classifications:\n1. **Posttraumatic Stress Disorder (PTSD)**: Severe, enduring traumatic reaction lasting > 1 month.\n2. **Acute Stress Disorder (ASD)**: Acute traumatic reaction occurring between 3 days and 1 month following trauma exposure.\n3. **Adjustment Disorders**: Maladaptive emotional or behavioral reactions to identifiable non-catastrophic life stressors (divorce, job loss).\n4. **Complex PTSD (CPTSD)**: Recognized in ICD-11; results from prolonged, repeated, inescapable interpersonal trauma (child abuse, domestic captivity).\n5. **Reactive Attachment Disorder (RAD)** & **Disinhibited Social Engagement Disorder (DSED)**: Pediatric attachment disturbances resulting from severe developmental neglect."
+        },
+        {
+            "id": "anx_trauma_2",
+            "type": "content",
+            "title": "PTSD: Criterion A Traumatic Stressor",
+            "content": "# DSM-5-TR PTSD: Criterion A\n\nTo qualify for a diagnosis of PTSD, an individual must have been exposed to **death, threatened death, actual or threatened serious injury, or actual or threatened sexual violence** in one or more of four specific ways:\n\n## The Four Exposure Pathways:\n1. **Direct Exposure**: Directly experiencing the traumatic event.\n2. **Witnessing**: Witnessing, in person, the event as it occurred to others.\n3. **Learning of Trauma**: Learning that the traumatic event occurred to a close family member or close friend (in cases of death, the event must have been violent or accidental).\n4. **Repeated Extreme Exposure to Aversive Details**: Experiencing repeated or extreme exposure to aversive details of traumatic events (e.g., first responders collecting human remains, police officers repeatedly exposed to details of child abuse).\n\n*Explicit Exclusion:* Criterion A does NOT apply to exposure through media, television, movies, or pictures, unless work-related."
+        },
+        {
+            "id": "anx_trauma_3",
+            "type": "content",
+            "title": "The Four PTSD Symptom Clusters (BCDE)",
+            "content": "# The Four Diagnostic Symptom Clusters of PTSD\n\nFollowing a Criterion A exposure, symptoms must persist for **more than 1 month** across four distinct symptom clusters:\n\n## 1. Criterion B: Intrusion Symptoms (At least 1 required)\n- Involuntary, intrusive distressing memories; distressing traumatic dreams; **dissociative flashbacks**; intense physiological reactivity upon exposure to trauma cues.\n\n## 2. Criterion C: Persistent Avoidance (At least 1 required)\n- Avoidance of trauma-related internal thoughts, feelings, or memories.\n- Avoidance of trauma-related external reminders (people, places, conversations, objects).\n\n## 3. Criterion D: Negative Alterations in Cognition and Mood (At least 2 required)\n- Inability to recall important aspects of trauma (dissociative amnesia); exaggerated negative beliefs about self or world ('I am bad', 'The world is completely dangerous'); distorted blame of self or others; persistent negative emotional state (shame, guilt, horror); anhedonia; estrangement from others; inability to feel positive emotions.\n\n## 4. Criterion E: Alterations in Arousal and Reactivity (At least 2 required)\n- Irritability / aggressive outbursts; hypervigilance; exaggerated startle response; concentration impairment; sleep disturbance; reckless behavior."
+        },
+        {
+            "id": "anx_trauma_quiz_1",
+            "type": "quiz",
+            "title": "PTSD Diagnostic Criteria Check",
+            "content": "Verify knowledge of DSM-5-TR PTSD criteria.",
+            "quizQuestion": "According to DSM-5-TR, what is the mandatory minimum symptom duration required to distinguish Posttraumatic Stress Disorder (PTSD) from Acute Stress Disorder (ASD)?",
+            "quizOptions": [
+                "At least 48 hours",
+                "More than 1 month",
+                "At least 6 months",
+                "At least 1 year"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_trauma_4",
+            "type": "content",
+            "title": "Acute Stress Disorder (ASD)",
+            "content": "# Acute Stress Disorder (ASD)\n\n**ASD** captures acute, immediate post-traumatic reactions occurring in the immediate aftermath of a Criterion A trauma.\n\n## Diagnostic Core (DSM-5-TR):\n- **Duration**: Symptoms must last from **3 days to 1 month** following the trauma.\n- **Symptom Constellation**: Requires at least **9 of 14 symptoms** across five categories (intrusion, negative mood, dissociation, avoidance, arousal).\n- Emphasizes prominent **dissociative symptoms** (depersonalization, derealization, altered sense of reality).\n\n## Clinical Significance:\n- Developed to identify individuals in acute distress who are at high risk for developing chronic PTSD.\n- Approx 50% of individuals with ASD subsequently progress to full-blown PTSD.\n- **Early Intervention**: Early trauma-focused CBT administered during the ASD window significantly prevents long-term conversion into chronic PTSD."
+        },
+        {
+            "id": "anx_trauma_5",
+            "type": "content",
+            "title": "Dissociation in Trauma: Depersonalization & Derealization",
+            "content": "# The Dissociative Subtype of PTSD\n\nDSM-5 added an explicit **Dissociative Subtype** of PTSD, characterized by high trait dissociation.\n\n## Diagnostic Features (Must meet full PTSD + one or both):\n1. **Depersonalization**: Persistent or recurrent experiences of feeling detached from, and as if one were an outside observer of, one's mental processes or body (*'I feel as if I am watching myself from the ceiling'* or *'My body is not mine'*).\n2. **Derealization**: Persistent or recurrent experiences of unreality of surroundings (*'The world feels dreamlike, distant, foggy, or artificial'*).\n\n## Neurobiological Distinction:\n- **Classic PTSD**: Fronto-limbic under-modulation (hypoactive prefrontal cortex fails to suppress hyperactive amygdala, causing hyperarousal, tachycardia, panic).\n- **Dissociative Subtype**: Fronto-limbic **over-modulation** (excessive prefrontal inhibition shuts down limbic reactivity, producing emotional numbing, bradycardia, and depersonalization)."
+        },
+        {
+            "id": "anx_trauma_6",
+            "type": "content",
+            "title": "Complex PTSD (CPTSD): The ICD-11 Paradigm",
+            "content": "# Complex PTSD (CPTSD)\n\nFormulated by **Judith Herman** (1992) and formally codified in the World Health Organization's **ICD-11**, Complex PTSD recognizes the unique psychological sequelae of prolonged, severe, inescapable interpersonal captivity (child abuse, human trafficking, torture, chronic domestic violence).\n\n## The Six Core CPTSD Domains:\nConsists of the **Three Core PTSD Symptoms**:\n1. Re-experiencing in the here-and-now (vivid flashbacks with sensory reliving).\n2. Avoidance of traumatic reminders.\n3. Persistent perception of heightened current threat (hypervigilance).\n\nPlus **Three Severe Disturbances in Self-Organization (DSO)**:\n4. **Severe Affect Dysregulation**: Extreme emotional reactivity, violent anger, dissociation, emotional numbing.\n5. **Negative Self-Concept**: Pervasive, unshakeable beliefs of being permanently broken, defective, dirty, or worthless, accompanied by profound shame and guilt.\n6. **Interpersonal Difficulties**: Chronic inability to sustain relationships or feel closeness."
+        },
+        {
+            "id": "anx_trauma_quiz_2",
+            "type": "quiz",
+            "title": "Complex PTSD Check",
+            "content": "Verify understanding of ICD-11 Complex PTSD.",
+            "quizQuestion": "In addition to standard PTSD symptoms, ICD-11 Complex PTSD requires which three Disturbances in Self-Organization (DSO)?",
+            "quizOptions": [
+                "Manic grandiosity, flight of ideas, and sleep loss",
+                "Affect dysregulation, negative self-concept, and chronic interpersonal difficulties",
+                "Auditory hallucinations, thought broadcasting, and catatonia",
+                "Vasovagal syncope, muscle atrophy, and agoraphobia"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_trauma_7",
+            "type": "content",
+            "title": "Neurobiology of PTSD: Amygdala, PFC, and Hippocampus",
+            "content": "# Neurobiological Architecture of PTSD\n\nNeuroimaging studies reveal a characteristic tripartite neurocircuit disruption in PTSD:\n\n```\n+-------------------------------------------------------------+\n| Prefrontal Cortex (mPFC / vmPFC / ACC)                      |\n| HYPOACTIVE: Fails to exert top-down inhibitory control     |\n+-------------------------------------------------------------+\n                               |\n                               v\n+-------------------------------------------------------------+\n| Amygdala (Central Nucleus)                                  |\n| HYPERACTIVE: Relentless hyper-vigilance & alarm triggering  |\n+-------------------------------------------------------------+\n                               |\n                               v\n+-------------------------------------------------------------+\n| Hippocampus (Volume Reduction & Impairment)                 |\n| DYSFUNCTIONAL: Fails to contextualize memories in time/place|\n+-------------------------------------------------------------+\n```\n\n## Loss of Contextualization:\nBecause the hippocampus is impaired by chronic glucocorticoid neurotoxicity, traumatic memories remain fragmented and un-contextualized. When a sensory reminder triggers, the brain believes the trauma is occurring **right now in the present moment**."
+        },
+        {
+            "id": "anx_trauma_8",
+            "type": "content",
+            "title": "Prolonged Exposure (PE) Therapy",
+            "content": "# Prolonged Exposure (PE) Therapy\n\nDeveloped by **Edna Foa**, Prolonged Exposure is an evidence-based manualized therapy (typically 10-15 sessions) grounded in emotional processing theory.\n\n## The Two Core Exposure Components:\n1. **Imaginal Exposure**:\n   - Patient visualizes the traumatic event in the present tense with eyes closed, describing it out loud in vivid detail repeatedly for 45-60 minutes in session.\n   - Patient listens to audio recordings of the session daily for homework.\n   - Integrates fragmented memories and disconfirms the belief that memories themselves are dangerous or intolerable.\n2. **In Vivo Exposure**:\n   - Systematically approaching safe, non-dangerous trauma-related situations, places, and cues previously avoided (e.g., driving past the accident site, wearing similar clothing)."
+        },
+        {
+            "id": "anx_trauma_9",
+            "type": "content",
+            "title": "Cognitive Processing Therapy (CPT)",
+            "content": "# Cognitive Processing Therapy (CPT)\n\nDeveloped by **Patricia Resick**, CPT is a 12-session manualized cognitive protocol focusing on identifying and modifying unhelpful trauma beliefs.\n\n## Key Concepts in CPT:\n- **Stuck Points**: Rigid, extreme, or distorted beliefs about the trauma that prevent recovery (*'If I hadn't gone out that night, I wouldn't have been assaulted'*; *'Nobody can ever be trusted'*).\n- **Assimilation**: Forcing new traumatic data into pre-existing belief systems, leading to self-blame (*'Good things happen to good people; I was attacked, therefore I must be bad'*).\n- **Over-Accommodation**: Dramatically altering global beliefs to an extreme degree (*'The entire world is completely hostile and unsafe'*).\n- **Accommodation**: Healthy cognitive restructuring balancing realistic safety with reasonable trust.\n\n## Five Core Thematic Domains Analyzed in CPT:\nSafety, Trust, Power/Control, Esteem, and Intimacy."
+        },
+        {
+            "id": "anx_trauma_quiz_3",
+            "type": "quiz",
+            "title": "Trauma Psychotherapy Check",
+            "content": "Verify knowledge of CPT and PE models.",
+            "quizQuestion": "In Cognitive Processing Therapy (CPT), what term describes rigid, maladaptive trauma-related beliefs (such as self-blame) that keep patients trapped in distress?",
+            "quizOptions": [
+                "Archetypal complexes",
+                "Stuck points",
+                "Reaction formations",
+                "Top-dog demands"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_trauma_10",
+            "type": "content",
+            "title": "Eye Movement Desensitization and Reprocessing (EMDR)",
+            "content": "# EMDR Therapy\n\nDeveloped in 1989 by **Francine Shapiro**, EMDR is an empirically validated eight-phase trauma psychotherapy.\n\n## The Adaptive Information Processing (AIP) Model:\n- Traumatic memories become pathologically frozen in state-specific neural networks without adaptive processing.\n- EMDR pairs traumatic memory recall with **bilateral sensory stimulation** (rhythmic horizontal eye movements, alternating auditory tones, or bilateral tactile taps).\n\n## Working Memory Tax Hypothesis:\n- Extensive cognitive science reveals that bilateral eye movements tax working memory capacity.\n- When a patient holds a traumatic image in mind while tracking moving lights, the working memory load degrades the image's vividness and emotional intensity.\n- Upon memory reconsolidation, the trauma memory is re-stored with significantly reduced affective valence."
+        },
+        {
+            "id": "anx_trauma_11",
+            "type": "content",
+            "title": "Pharmacotherapy for PTSD: SSRIs and Prazosin",
+            "content": "# Pharmacological Management of PTSD\n\n## First-Line Pharmacotherapy:\n- **Sertraline (Zoloft)** and **Paroxetine (Paxil)** are the only two FDA-approved medications for PTSD.\n- Moderate effect sizes across hyperarousal, intrusion, and avoidance symptoms.\n\n## Prazosin for Trauma-Related Nightmares:\n- **Mechanism**: Centrally active **alpha-1 adrenergic receptor antagonist**.\n- Trauma triggers excessive central noradrenergic outflow during REM sleep, causing autonomic arousal and vivid combat/trauma nightmares.\n- Prazosin crosses the blood-brain barrier and blocks noradrenergic hyperactivation, consolidating REM sleep architecture and dramatically reducing nightmares.\n\n## Critical Contraindication:\n- **Benzodiazepines are strictly contraindicated in PTSD**: They interfere with extinction learning, worsen psychotherapy outcomes, and carry high substance dependence risks in traumatized populations."
+        },
+        {
+            "id": "anx_trauma_12",
+            "type": "content",
+            "title": "Novel Frontiers: MDMA-Assisted Psychotherapy",
+            "content": "# Psychedelic Breakthrough: MDMA-Assisted Psychotherapy\n\nPhase 3 clinical trials (MAPS) demonstrate dramatic efficacy for **MDMA-assisted psychotherapy** in severe, chronic, treatment-resistant PTSD (approx 67% to 71% of participants no longer met PTSD criteria at 18-week follow-up).\n\n## Neuropharmacological Mechanism of MDMA:\n- Causes massive release of presynaptic **serotonin, dopamine, and norepinephrine**, while elevating circulating **oxytocin** (the bonding hormone).\n- **Amygdala Attenuation**: Drastically quiets fear and hyperarousal centers.\n- **Prefrontal Cortex & VTA Activation**: Enhances executive processing and social bonding.\n- **Widening the Window of Tolerance**: Allows patients to revisit horrific traumatic memories without emotional flooding or dissociative numbing, facilitating deep memory reconsolidation."
+        },
+        {
+            "id": "anx_trauma_quiz_4",
+            "type": "quiz",
+            "title": "PTSD Pharmacotherapy Check",
+            "content": "Verify knowledge of PTSD medications.",
+            "quizQuestion": "Which medication is widely prescribed in PTSD to selectively reduce trauma-related nightmares and sleep disturbance by blocking central alpha-1 adrenergic receptors?",
+            "quizOptions": [
+                "Prazosin",
+                "Diazepam",
+                "Lithium carbonate",
+                "Haloperidol"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "anx_trauma_13",
+            "type": "content",
+            "title": "Adjustment Disorders (DSM-5-TR)",
+            "content": "# Adjustment Disorders\n\n**Adjustment Disorders** represent the most commonly diagnosed condition in consultation-liaison psychiatry and outpatient clinics.\n\n## Diagnostic Core Criteria:\n- Development of emotional or behavioral symptoms in response to an **identifiable stressor** (non-catastrophic: divorce, financial strain, retirement, illness) occurring **within 3 months** of stressor onset.\n- Symptoms are clinically significant as manifested by:\n  1. Marked distress that is out of proportion to the severity of the stressor.\n  2. Significant impairment in social or occupational functioning.\n- Does not meet criteria for another mental disorder (e.g., MDD).\n- **Remission Rule**: Once the stressor or its consequences have terminated, symptoms do **NOT persist for more than an additional 6 months**."
+        },
+        {
+            "id": "anx_trauma_14",
+            "type": "content",
+            "title": "Debriefing Controversy: Why CISD Can Harm",
+            "content": "# The Critical Incident Stress Debriefing (CISD) Hazard\n\nFollowing mass disasters (school shootings, terrorist attacks), group psychological debriefing was historically mandated within 24-72 hours.\n\n## Research Findings on CISD:\n- Rigorous randomized controlled trials demonstrate that single-session **CISD is ineffective and can actually increase the incidence of PTSD**.\n- **Why CISD is Harmful**:\n  - Forces acute trauma victims to verbalize details before their biological stress response has stabilized.\n  - Disrupts natural human resilience and spontaneous social buffering.\n  - Pathologizes normal transient post-trauma distress.\n\n## The Evidence-Based Replacement: Psychological First Aid (PFA)\n- Focuses on practical safety, comfort, basic biological needs (food, water, shelter), reuniting families, and gentle listening *without* forced emotional processing."
+        },
+        {
+            "id": "anx_trauma_15",
+            "type": "content",
+            "title": "Summary of Trauma & Stressor-Related Disorders",
+            "content": "# Trauma & Stressor-Related Disorders Summary\n\n## Master Clinical Principles:\n1. **Diagnostic Thresholds**: Criterion A trauma requires exposure to actual or threatened death, serious injury, or sexual violence; ASD lasts 3 days to 1 month; PTSD persists > 1 month.\n2. **The Tripartite Circuit**: Hypoactive prefrontal cortex fails to inhibit a hyperactive amygdala, while a compromised hippocampus fails to contextualize memories in time.\n3. **Complex PTSD (ICD-11)**: Severe childhood/interpersonal captivity adds disturbances in self-organization (affect dysregulation, negative self-concept, relational dysfunction).\n4. **First-Line Psychotherapies**: Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), and EMDR facilitate memory reconsolidation.\n5. **Pharmacotherapy**: Sertraline and Paroxetine are FDA-approved; Prazosin targets nightmares; Benzodiazepines are strictly contraindicated.\n6. **Resilience vs. Debriefing**: Avoid forced debriefing (CISD); utilize supportive Psychological First Aid (PFA)."
+        }
+    ]
+}

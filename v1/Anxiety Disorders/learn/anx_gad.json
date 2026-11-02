@@ -1,0 +1,155 @@
+{
+    "id": "learn_anx_gad",
+    "topicId": "anx_gad",
+    "topicTitle": "Generalized Anxiety & Panic Disorder",
+    "description": "Understand the clinical phenomenology, cognitive mechanisms, neurobiology, and evidence-based treatments for Generalized Anxiety Disorder and Panic Disorder",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "anx_gad_1",
+            "type": "content",
+            "title": "Introduction to Anxiety Disorders",
+            "content": "# The Architecture of Anxiety\n\n**Anxiety disorders** are the most prevalent class of psychiatric conditions, with lifetime prevalence exceeding 30% in the general population.\n\n## Adaptive Fear vs. Pathological Anxiety:\n- **Fear**: An acute, neurobiologically hardwired alarm response to an immediate, identifiable external danger (fight-or-flight sympathetic mobilization).\n- **Anxiety**: A future-oriented, anticipatory emotional state characterized by apprehension, muscle tension, and chronic vigilance regarding unpredictable potential threats.\n\n## Pathological Anxiety:\nAnxiety becomes a clinical disorder when it is:\n1. Disproportionate to actual objective threat.\n2. Chronic and uncontrollable.\n3. Induces significant distress or impairment across occupational, social, or personal domains."
+        },
+        {
+            "id": "anx_gad_2",
+            "type": "content",
+            "title": "Generalized Anxiety Disorder: DSM-5-TR Criteria",
+            "content": "# Generalized Anxiety Disorder (GAD)\n\n**GAD** is characterized by chronic, pervasive, excessive worry across multiple life domains ('free-floating anxiety').\n\n## DSM-5-TR Diagnostic Criteria:\n- **Excessive anxiety and worry** occurring more days than not for **at least 6 months**, about a number of events or activities (work, health, finances, family).\n- The individual finds it **difficult to control the worry**.\n\n## Associated Somatic Symptoms (At Least 3 of 6 Required for Adults):\n1. Restlessness or feeling keyed up / on edge.\n2. Being easily fatigued.\n3. Difficulty concentrating or mind going blank.\n4. Irritability.\n5. Muscle tension (the physical hallmark of GAD).\n6. Sleep disturbance (difficulty falling or staying asleep, or restless unsatisfying sleep)."
+        },
+        {
+            "id": "anx_gad_3",
+            "type": "content",
+            "title": "Cognitive Models of GAD: Borkovec's Avoidance Theory",
+            "content": "# Why Do People Worry? Borkovec's Model\n\nThomas Borkovec formulated the **Avoidance Theory of Worry** to explain why chronic worry is so resistant to extinction.\n\n## Worry as a Cognitive Avoidance Strategy:\n- Worry is primarily verbal-linguistic rather than visual-imagery based.\n- Verbal worry dampens acute somatic sympathetic arousal: it prevents vivid catastrophic mental imagery from forming.\n- By worrying verbally, the individual avoids experiencing the intense physiological pain of raw emotion.\n\n## The Negative Reinforcement Trap:\n```\nCatastrophic Cue ---> Verbal Worry ---> Somatic Arousal Dampened (Relief)\n                                  |\n                                  v\n            Catastrophe Does Not Occur (Real World)\n                                  |\n                                  v\n     Belief Reinforced: 'Worrying prevented disaster!'\n```\n\nWorry is powerfully maintained by negative reinforcement because catastrophes rarely happen."
+        },
+        {
+            "id": "anx_gad_quiz_1",
+            "type": "quiz",
+            "title": "GAD Theory Check",
+            "content": "Verify knowledge of cognitive models of GAD.",
+            "quizQuestion": "According to Borkovec's avoidance theory of worry, why is chronic verbal worrying negatively reinforced?",
+            "quizOptions": [
+                "It causes profound muscle relaxation",
+                "It dampens acute autonomic somatic arousal and suppresses vivid threatening imagery",
+                "It immediately increases GABA synthesis in the hippocampus",
+                "It resolves objective external problems without behavioral action"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_gad_4",
+            "type": "content",
+            "title": "Intolerance of Uncertainty in GAD",
+            "content": "# Intolerance of Uncertainty (IU)\n\nDeveloped by Michel Dugas and colleagues, **Intolerance of Uncertainty (IU)** is the cognitive engine driving GAD.\n\n## Core Characteristics of High IU:\n- Tendency to react negatively on an emotional, cognitive, and behavioral level to uncertain situations.\n- Belief that uncertainty reflects danger, unfairness, and personal incompetence: *'I must be 100% certain, or disaster will strike.'*\n- Treating the mere possibility of an adverse event as a guarantee of its occurrence.\n\n## Maladaptive Coping Driven by IU:\n- **Excessive Information Seeking**: Compulsively Googling symptoms, checking reviews, re-reading emails.\n- **Reassurance Seeking**: Repeatedly asking partners or clinicians: *'Is everything going to be okay?'*\n- **Hyper-Planning**: Creating endless contingency lists for hypothetical crises."
+        },
+        {
+            "id": "anx_gad_5",
+            "type": "content",
+            "title": "Panic Attacks: Phenomenology and Symptoms",
+            "content": "# Anatomy of a Panic Attack\n\nA **panic attack** is an abrupt surge of intense fear or intense discomfort that reaches a peak **within minutes**.\n\n## DSM-5-TR Symptoms (At Least 4 of 13 Required):\n- **Cardiovascular**: Palpitations, pounding heart, accelerated heart rate.\n- **Respiratory**: Sensations of shortness of breath, smothering, choking feeling.\n- **Autonomic / Neurological**: Sweating, trembling or shaking, dizziness, light-headedness, faintness, chills or heat sensations, paresthesias (numbness or tingling sensations).\n- **Gastrointestinal**: Chest pain or discomfort, nausea or abdominal distress.\n- **Cognitive Hallmarks**: Derealization (feelings of unreality) or depersonalization (being detached from oneself); fear of losing control or 'going crazy'; **fear of dying**.\n\n> **Important Distinction:** A panic attack is an episodic event that can occur across any psychiatric disorder (depression, PTSD, phobias) or spontaneously in healthy individuals; it is NOT a standalone disorder."
+        },
+        {
+            "id": "anx_gad_6",
+            "type": "content",
+            "title": "Panic Disorder: Diagnostic Criteria",
+            "content": "# Panic Disorder (DSM-5-TR)\n\nPanic Disorder is diagnosed when panic attacks become recurrent and dictate the patient's lifestyle.\n\n## Mandatory Diagnostic Requirements:\n1. **Recurrent, unexpected panic attacks** (surges occurring 'out of the blue' without an obvious trigger).\n2. At least one of the attacks has been followed by **1 month (or more)** of one or both of the following:\n   - **Persistent concern or worry about additional panic attacks** or their consequences (e.g., losing control, having a heart attack, 'going crazy').\n   - **A significant maladaptive change in behavior** related to the attacks (e.g., behaviors designed to avoid having panic attacks, such as avoidance of exercise, caffeine, or unfamiliar locations).\n3. Not attributable to substances (caffeine toxicity, stimulant abuse) or medical conditions (hyperthyroidism, pheochromocytoma, arrhythmia)."
+        },
+        {
+            "id": "anx_gad_quiz_2",
+            "type": "quiz",
+            "title": "Panic Disorder Criteria Check",
+            "content": "Assess diagnostic criteria for Panic Disorder.",
+            "quizQuestion": "In addition to recurrent unexpected panic attacks, what duration of persistent anticipatory worry or maladaptive behavioral avoidance is required to diagnose Panic Disorder?",
+            "quizOptions": [
+                "48 hours",
+                "At least 1 month",
+                "At least 6 months",
+                "At least 1 year"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_gad_7",
+            "type": "content",
+            "title": "David Clark's Cognitive Model of Panic",
+            "content": "# Clark's Cognitive Model: Catastrophic Misinterpretation\n\nBritish psychologist **David M. Clark** formulated the definitive cognitive mechanism of panic disorder.\n\n## The Vicious Circle of Panic:\n\n```\n                  [Internal or External Trigger]\n                   (Exercise, caffeine, stress)\n                                |\n                                v\n                 [Perceived Threat / Sensation]\n                   (Heart flutters, dizziness)\n                                |\n                                v\n                         [State of Apprehension]\n                                |\n                                v\n                    [Body Sensations Intensify]\n                   (Adrenaline, hyperventilation)\n                                |\n                                v\n         [CATASTROPHIC MISINTERPRETATION OF SENSATIONS]\n              ('I am having a fatal heart attack!')\n                                |\n                                +----> Spikes Panic Attack\n```\n\nThe attack is ignited and sustained by misinterpreting benign physiological sensations as signs of impending medical catastrophe."
+        },
+        {
+            "id": "anx_gad_8",
+            "type": "content",
+            "title": "Interoceptive Conditioning and Agoraphobia",
+            "content": "# Interoceptive Conditioning & Agoraphobic Spread\n\n## Interoceptive Conditioning:\n- Classical conditioning where internal bodily sensations (accelerated pulse, warmth, lightheadedness) serve as **Conditioned Stimuli (CS)**.\n- After pairing with panic, slight natural elevations in heart rate (walking upstairs, sexual intimacy) automatically trigger conditioned panic responses.\n\n## The Emergence of Agoraphobia:\n- Patients begin avoiding situations where escape might be difficult or help unavailable if panic strikes:\n  - Crowded malls, movie theaters, public transportation, highways, bridges.\n- Over time, safety zones constrict until patients may become homebound.\n- DSM-5 separates Agoraphobia and Panic Disorder into two distinct diagnoses that can be coded together."
+        },
+        {
+            "id": "anx_gad_9",
+            "type": "content",
+            "title": "Neurobiology of Panic: The Amygdala and Suffocation False Alarm",
+            "content": "# Neurobiological Models of Panic\n\n## The Amygdala Fear Network:\n- In panic disorder, the 'fear circuit' (amygdala, hippocampus, medial prefrontal cortex) exhibits heightened sensitivity.\n- The central nucleus of the amygdala projects to:\n  - **Lateral Hypothalamus**: Activates sympathetic nervous system.\n  - **Locus Coeruleus**: Surges norepinephrine release.\n  - **Parabrachial Nucleus**: Triggers hyperventilation and respiratory dyspnea.\n\n## Donald Klein's Suffocation False Alarm Theory:\n- The brain possesses an evolved physiological monitor (sensitive to carbon dioxide and lactate) that signals impending suffocation.\n- In panic disorder, this monitor is pathologically hypersensitive.\n- Inhaling **35% CO2** or intravenous **sodium lactate** reliably provokes full panic attacks in panic patients, but rarely in healthy controls."
+        },
+        {
+            "id": "anx_gad_quiz_3",
+            "type": "quiz",
+            "title": "Neurobiology of Panic Check",
+            "content": "Verify knowledge of biological theories of panic.",
+            "quizQuestion": "Donald Klein's 'Suffocation False Alarm' theory posits that panic attacks are triggered by hypersensitive brainstem monitoring of which physiological parameter?",
+            "quizOptions": [
+                "Blood glucose levels",
+                "Carbon dioxide (CO2) and lactate levels",
+                "Core body temperature drop",
+                "Serum potassium concentration"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_gad_10",
+            "type": "content",
+            "title": "Cognitive Behavioral Therapy for Panic: Interoceptive Exposure",
+            "content": "# Interoceptive Exposure in CBT\n\n**Interoceptive Exposure** is the gold-standard psychological intervention for Panic Disorder (David Barlow's Panic Control Treatment).\n\n## The Procedure: Deliberate Provocation\nClients deliberately induce feared somatic sensations in the safety of the clinic to achieve habituation and break catastrophic interpretations:\n\n| Feared Sensation | Provocation Exercise |\n|------------------|----------------------|\n| Shortness of breath | Breathing through a narrow drinking straw for 2 minutes |\n| Tachycardia / Palpitations | Running in place or rapid step-ups for 1 minute |\n| Dizziness / Vertigo | Spinning in a swivel chair for 60 seconds |\n| Derealization / Dissociation | Staring at a strobe light or into a mirror for 2 minutes |\n| Hyperventilation | Hyperventilating deeply at 60 breaths/min for 90 seconds |\n\n> **Core Insight:** The patient learns experiential safety: *'My heart is racing, but I am not dying.'*"
+        },
+        {
+            "id": "anx_gad_11",
+            "type": "content",
+            "title": "Physiological Techniques: Diaphragmatic Breathing and PMR",
+            "content": "# Physiological Regulation Techniques\n\nSomatic management techniques activate the parasympathetic nervous system to counteract sympathetic hyperarousal.\n\n## 1. Diaphragmatic Breathing (Paced Respiration):\n- Normal anxiety triggers shallow, rapid thoracic breathing (hyperventilation).\n- Hyperventilation blows off CO2 (respiratory alkalosis), causing cerebral vasoconstriction, lightheadedness, and tingling, which fuels panic.\n- **Paced Protocol**: Inhale through nose for 4 seconds (expanding abdomen), hold for 2 seconds, exhale slowly through pursed lips for 6 seconds.\n\n## 2. Progressive Muscle Relaxation (PMR) (Edmund Jacobson):\n- Systematically tensing specific muscle groups for 5-7 seconds, then suddenly releasing tension for 15-20 seconds.\n- Teaches somatic discrimination between physical tension and true relaxation."
+        },
+        {
+            "id": "anx_gad_12",
+            "type": "content",
+            "title": "Pharmacotherapy for GAD and Panic Disorder",
+            "content": "# Pharmacological Management\n\n## First-Line Pharmacotherapy:\n- **SSRIs and SNRIs** (Sertraline, Escitalopram, Venlafaxine, Duloxetine) are the first-line agents for both GAD and Panic Disorder.\n- **Starting Dose Rule for Panic**: Begin at **half the standard starting dose** (e.g., Sertraline 12.5-25 mg) because panic patients are exquisitely sensitive to initial transient 5-HT2C activating side effects.\n\n## Adjunctive and Second-Line Medications:\n- **Buspirone**: Highly effective for GAD (not effective for panic).\n- **Pregabalin / Gabapentin**: Effective second-line options for GAD in European guidelines.\n- **Benzodiazepines**: Rapid acute relief; recommended only for short-term crisis stabilization (1-2 weeks) due to tolerance, dependence, and blunting of CBT exposure efficacy."
+        },
+        {
+            "id": "anx_gad_quiz_4",
+            "type": "quiz",
+            "title": "Anxiety Pharmacotherapy Check",
+            "content": "Verify clinical pharmacotherapy guidelines.",
+            "quizQuestion": "Why must SSRI therapy for Panic Disorder be initiated at half the standard starting dose?",
+            "quizOptions": [
+                "To prevent sudden massive renal excretion",
+                "To prevent heightened anxiety and panic caused by initial transient serotonergic activation",
+                "Because panic patients possess duplicated CYP2D6 genes",
+                "To avoid immediate permanent cardiac conduction blockade"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_gad_13",
+            "type": "content",
+            "title": "Differential Diagnosis: Medical Mimics of Anxiety",
+            "content": "# Medical Mimics of GAD and Panic\n\nNumerous systemic medical disorders present with symptoms identical to acute anxiety and panic.\n\n## Essential Medical Workup:\n- **Hyperthyroidism**: Weight loss, resting tachycardia, heat intolerance, tremor, severe anxiety (Screen TSH/Free T4).\n- **Pheochromocytoma**: Rare neuroendocrine tumor secreting excessive catecholamines; presents with episodic headache, sweating, and severe paroxysmal hypertension.\n- **Cardiac Arrhythmias**: Supraventricular tachycardia (SVT), mitral valve prolapse (obtain ECG and Holter monitor).\n- **Hypoglycemia**: Diaphoresis, tremor, palpitations, confusion.\n- **Substance Toxicity / Withdrawal**: Excessive caffeine consumption (> 400 mg/day), energy drinks, alcohol withdrawal, stimulant use."
+        },
+        {
+            "id": "anx_gad_14",
+            "type": "content",
+            "title": "Safety Behaviors and Relapse Prevention",
+            "content": "# Safety Behaviors: The Invisible Barrier\n\n**Safety behaviors** are subtle, covert actions individuals perform to prevent an anticipated catastrophe.\n\n## Examples of Safety Behaviors in Panic & GAD:\n- Carrying water bottles, anti-anxiety pills, or paper bags everywhere.\n- Sitting exclusively next to exits or aisle seats.\n- Holding onto walls or railings to prevent fainting.\n- Checking pulse or blood pressure repeatedly.\n\n## Why Safety Behaviors Preserve Anxiety:\n- The patient attributes survival to the behavior: *'I only survived that panic attack because I gripped my water bottle.'*\n- Treatment requires **exposure with safety behavior elimination** to demonstrate that anxiety subsides naturally on its own."
+        },
+        {
+            "id": "anx_gad_15",
+            "type": "content",
+            "title": "Summary of GAD and Panic Disorder",
+            "content": "# GAD & Panic Disorder Summary\n\n## Master Clinical Pearls:\n1. **GAD Definition**: Excessive, uncontrollable worry across multiple domains for >= 6 months with somatic symptoms (muscle tension hallmark).\n2. **Avoidance Theory of GAD**: Verbal worry dampens acute somatic arousal, reinforcing worry as a cognitive escape.\n3. **Panic Disorder**: Recurrent unexpected panic attacks followed by >= 1 month of anticipatory fear or behavioral avoidance.\n4. **Clark's Cognitive Circle**: Catastrophic misinterpretation of benign physical sensations drives panic attacks.\n5. **Interceptive Exposure**: Gold-standard treatment; deliberately provoking bodily symptoms (spinning, straw breathing) to disconfirm catastrophic beliefs.\n6. **Pharmacotherapy**: SSRIs/SNRIs are first-line; initiate at half-dose in panic disorder to prevent paradoxical agitation."
+        }
+    ]
+}

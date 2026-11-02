@@ -1,0 +1,155 @@
+{
+    "id": "learn_attn_failures",
+    "topicId": "attn_failures",
+    "topicTitle": "Attention Failures",
+    "description": "Investigate the cognitive mechanisms underlying breakdowns in conscious perception, including inattentional blindness, change blindness, the attentional blink, mind wandering, and ADHD.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "attn_failures_1",
+            "type": "content",
+            "title": "When the Mind Fails to See",
+            "content": "# Breakdowns in Conscious Awareness\n\nMost people hold a powerful intuitive belief that if a prominent, distinct object enters their field of vision, they will automatically see it. Cognitive science proves this belief is a complete illusion!\n\n## The Grand Illusion of Vision:\n- Our subjective experience feels like an uninterrupted, high-resolution panoramic movie of the world.\n- In reality, we process only a tiny fraction of the visual scene in rich detail at any given moment.\n- Without focused visual attention, sensory stimuli fail to enter conscious awareness.\n\n## Major Attention Failure Phenomena:\n1. **Inattentional Blindness:** Failing to see fully visible, unexpected objects.\n2. **Change Blindness:** Failing to detect large visual changes across disruptions.\n3. **Attentional Blink:** A temporary temporal gap in conscious perception.\n4. **Mind Wandering & ADHD:** Dysregulations of internal attentional governance."
+        },
+        {
+            "id": "attn_failures_2",
+            "type": "content",
+            "title": "Inattentional Blindness: The Invisible Gorilla",
+            "content": "# Inattentional Blindness (Mack & Rock, 1998)\n\n**Inattentional blindness** is the psychological phenomenon where an individual fails to perceive an unexpected, fully visible object because attention is intensely engaged on another task.\n\n## Simons & Chabris's Famous Gorilla Study (1999):\n- Participants watched a short video of two teams (wearing black or white shirts) passing basketballs.\n- Task: Count the exact number of passes made by the team wearing white shirts.\n\n## The Shocking Discovery:\n- Mid-way through the video, a woman dressed in a full gorilla suit walks into the center of the court, thumps her chest, and walks off (on screen for 9 seconds).\n- **Result:** Approximately **50% of viewers completely failed to see the gorilla!**\n- Eyetracking confirmed viewers often looked directly at the gorilla with their eyes, but their visual attention was locked on white shirts."
+        },
+        {
+            "id": "attn_failures_3",
+            "type": "content",
+            "title": "Change Blindness: The Door Study",
+            "content": "# Change Blindness (Simons & Levin)\n\n**Change blindness** is the striking inability to detect substantial changes to objects or scenes when the change coincides with a brief visual disruption (e.g., an eye blink, a flicker, or a passing occlusion).\n\n## The \"Door Study\" (Simons & Levin, 1998):\n- An experimenter approached pedestrian strangers on a college campus asking for directions.\n- While the pedestrian gave directions, two workmen carrying a large wooden door walked directly between them, momentarily blocking the pedestrian's view.\n- During the 1-second visual occlusion, the original experimenter swapped places with a completely different workman holding the door!\n- **Outcome:** Over **50% of pedestrians failed to notice that the person they were talking to had changed into someone else!**"
+        },
+        {
+            "id": "attn_failures_quiz_1",
+            "type": "quiz",
+            "title": "Inattentional & Change Blindness Check",
+            "content": "Verify your understanding of inattentional blindness and change blindness paradigms!",
+            "quizQuestion": "In Simons and Chabris's classic 1999 experiment, why did roughly half of the participants completely fail to see the gorilla walking across the basketball court?",
+            "quizOptions": [
+                "The gorilla appeared during an eye blink when visual receptors were offline",
+                "Participants' selective attention was heavily engaged in counting passes made by the white-shirt team",
+                "The gorilla was presented below the threshold of sensory iconic memory",
+                "The visual display suffered from the Stroop interference effect"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_failures_4",
+            "type": "content",
+            "title": "The Flicker Paradigm (Rensink)",
+            "content": "# Rensink's Flicker Paradigm\n\nRonald Rensink (1997) devised the **flicker paradigm** to demonstrate how dependent human vision is on transient motion cues:\n\n```\n[Original Image] ---> [Brief Blank Gray Screen (80 ms)] ---> [Modified Image] ---> [Blank Screen] ...\n```\n\n## Why We Fail to See Changes:\n- Under normal conditions, any change in a visual scene creates a localized **motion transient** that automatically grabs bottom-up attention (orienting network).\n- The blank flicker screen creates a global, whole-screen luminance transient.\n- This global transient drowns out the local motion signal, forcing the observer to search the image serially, item by item, until the changed object is directly attended!\n\n## Real-World Examples:\n- Movie continuity errors (cups changing color or props moving between camera cuts) pass unnoticed by millions of viewers because cuts disrupt motion transients."
+        },
+        {
+            "id": "attn_failures_5",
+            "type": "content",
+            "title": "The Attentional Blink",
+            "content": "# The Attentional Blink (Raymond, Shapiro, & Arnell)\n\nWhile inattentional blindness represents a spatial failure, the **Attentional Blink** is a profound temporal failure of conscious perception.\n\n## Rapid Serial Visual Presentation (RSVP):\n- Rapid stream of letters flashed in the exact same location at a rate of 10 items per second (100 ms per item).\n- Participants must identify two embedded target numbers (Target 1: **T1**; Target 2: **T2**).\n\n```\nTarget Accuracy for T2:\n100% |  *** (Lag 1 Sparing)                                    *** (Full Recovery)\n     |     *                                                  *\n     |      *                                                *\n     |       * (THE BLINK: Deficit at 200 - 500 ms)         *\n  0% |________*********************************************_________\n             Lag 1        Lag 2       Lag 3       Lag 5      Lag 8\n```\n\n## The Attentional Blink Window:\n- When T2 appears 200 to 500 ms after T1, detection of T2 drops dramatically.\n- **Why?** Working memory consolidation of T1 occupies central executive resources, temporarily closing the conscious gateway to T2!"
+        },
+        {
+            "id": "attn_failures_6",
+            "type": "content",
+            "title": "Mechanisms Behind the Attentional Blink",
+            "content": "# Computational Models of the Attentional Blink\n\nWhy does the brain experience a temporal \"blink\"?\n\n## 1. Two-Stage Model (Chun & Potter, 1995)\n- **Stage 1 (Perceptual Processing):** High capacity, automatic sensory extraction. Both T1 and T2 successfully reach Stage 1.\n- **Stage 2 (Consolidation):** Limited capacity, serial working memory consolidation. T1 monopolizes Stage 2. T2 must wait in Stage 1, where its vulnerable trace decays or gets overwritten by the subsequent mask.\n\n## 2. Emotional Modulation:\n- If T2 is an emotionally charged word (e.g., *MURDER*, *FIRE*), it \"breaks through\" the attentional blink and is perceived with high accuracy!\n- Amygdala activation provides bottom-up priority routing that overrides the central bottleneck."
+        },
+        {
+            "id": "attn_failures_quiz_2",
+            "type": "quiz",
+            "title": "Attentional Blink Check",
+            "content": "Evaluate your understanding of temporal attentional limits and the RSVP paradigm!",
+            "quizQuestion": "In a Rapid Serial Visual Presentation (RSVP) task, what primary cognitive bottleneck causes the Attentional Blink for Target 2 (T2)?",
+            "quizOptions": [
+                "The eyes undergo a physical reflexive blink that closes the eyelids",
+                "Sensory iconic memory completely erases T1 before it can be identified",
+                "Working memory consolidation of T1 temporarily occupies central processing capacity, leaving T2 vulnerable to decay",
+                "The pupil constricts, preventing light from reaching the retina"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "attn_failures_7",
+            "type": "content",
+            "title": "Mind Wandering and the Default Mode Network",
+            "content": "# Mind Wandering & Daydreaming\n\nAttentional failures do not only involve external visual distractors; they frequently stem from internal decoupling.\n\n## The Prevalence of Mind Wandering:\n- Killingsworth and Gilbert (2010) used smartphone experience sampling across thousands of adults.\n- **Finding:** People mind-wander approximately **46.9% of their waking hours!**\n- Furthermore, mind-wandering strongly correlated with reduced happiness (*\"A wandering mind is an unhappy mind\"*).\n\n## The Default Mode Network (DMN):\n- A large-scale brain network (medial prefrontal cortex, posterior cingulate cortex, angular gyrus).\n- Activates when an individual is not engaged in goal-directed, externally focused tasks.\n- Responsible for self-referential thought, autobiographical memory recall, and future planning."
+        },
+        {
+            "id": "attn_failures_8",
+            "type": "content",
+            "title": "Attentional Decoupling and Executive Control",
+            "content": "# The Attentional Decoupling Hypothesis (Schooler)\n\nJonathan Schooler proposed that mind wandering occurs through **attentional decoupling**:\n\n```\n[External Environment] ===(Decoupling)===\\   /===> [Internal Self-Referential World]\n                                          \\ /\n                                    [Mind Wandering]\n```\n\n## The Mechanisms of Decoupling:\n- Attentional resources detach from the external sensory stream and turn inward to support internal thoughts.\n- During decoupling, event-related potentials (ERPs like the P300) in response to external sensory stimuli are drastically attenuated.\n- **Zoning Out vs. Tuning Out:**\n  * **Tuning Out:** You are aware that your mind has wandered.\n  * **Zoning Out:** Mind wandering occurs completely without meta-awareness (reading a full page of a book and realizing you took in zero information)."
+        },
+        {
+            "id": "attn_failures_9",
+            "type": "content",
+            "title": "ADHD: Neurobiology of Attentional Dysregulation",
+            "content": "# Attention-Deficit/Hyperactivity Disorder (ADHD)\n\nADHD is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interfere with functioning.\n\n## Misconception vs. Reality:\n- **Misconception:** ADHD is a total \"lack\" of attention.\n- **Reality:** ADHD is a disorder of **attentional regulation** and executive self-control. Individuals can experience intense **hyperfocus** on intrinsically rewarding, highly stimulating tasks (gaming, coding), but struggle to deploy voluntary attention on low-reward tasks.\n\n## Neurobiological Substrates:\n- Delayed maturation and under-activation of the **prefrontal cortex** and **striatum** (basal ganglia).\n- **Catecholamine Dysregulation:** Deficits in tonic and phasic signaling of **dopamine** (reward/motivation) and **norepinephrine** (alerting/signal-to-noise ratio)."
+        },
+        {
+            "id": "attn_failures_quiz_3",
+            "type": "quiz",
+            "title": "Mind Wandering & ADHD Check",
+            "content": "Test your knowledge of the Default Mode Network and ADHD neurobiology!",
+            "quizQuestion": "Which large-scale brain network activates when an individual disengages from external task demands to engage in internal mind wandering and autobiographical thinking?",
+            "quizOptions": [
+                "Dorsal Attentional Network",
+                "Default Mode Network (DMN)",
+                "Visual Occipital Loop",
+                "Motor Reticulospinal Tract"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_failures_10",
+            "type": "content",
+            "title": "Hemispatial Neglect (Unilateral Neglect)",
+            "content": "# Hemispatial Neglect: Neurological Attention Failure\n\n**Hemispatial neglect** is a profound neurological syndrome typically resulting from stroke damage to the **right inferior parietal lobe** (temporoparietal junction).\n\n## Clinical Manifestations:\n- Patients ignore, lose awareness of, and fail to respond to stimuli on the contralesional (left) side of space.\n- **Examples:**\n  * Eating food only from the right half of the plate.\n  * Shaving only the right side of the face or applying makeup only to the right eye.\n  * When asked to draw a clock face, drawing all twelve numbers cramped onto the right half!\n\n## Crucial Distinction from Blindness:\n- Neglect is NOT a visual sensory deficit (patients have intact optic nerves and visual cortex).\n- It is an attentional failure: the brain's orienting network can no longer allocate conscious attention to the left coordinate frame."
+        },
+        {
+            "id": "attn_failures_11",
+            "type": "content",
+            "title": "B\u00e1lint's Syndrome",
+            "content": "# B\u00e1lint's Syndrome\n\nB\u00e1lint's syndrome is an extraordinary neurological disorder caused by bilateral damage to the posterior parietal cortex.\n\n## The Triad of Symptoms:\n1. **Simultanagnosia:** The profound inability to perceive more than one object at a time. If shown a comb and a toothbrush, the patient can see either the comb or the toothbrush, but never both simultaneously!\n2. **Optic Ataxia:** Severe deficit in visually guided reaching (inability to coordinate arm movements toward visual targets).\n3. **Ocular Apraxia:** Difficulty initiating voluntary saccades and shifting gaze to fixate on new visual targets.\n\n> **Theoretical Link:** Simultanagnosia provides dramatic clinical proof of Feature Integration Theory: without parietal spatial mechanisms, the brain cannot bind or perceive multiple visual objects concurrently."
+        },
+        {
+            "id": "attn_failures_12",
+            "type": "content",
+            "title": "Real-World Consequences of Attention Failures",
+            "content": "# Deadly Real-World Lapses in Attention\n\nEveryday attention failures have catastrophic consequences across society:\n\n## 1. Looked-But-Failed-To-See (LBFTS) Driving Accidents\n- Automobile drivers pull out directly in front of approaching motorcycles or bicycles at intersections.\n- Drivers looked directly down the road, but because their attentional schema was tuned exclusively for large cars and trucks, the motorcycle triggered inattentional blindness!\n\n## 2. Radiology & Medical Screening Errors\n- Trafton Drew et al. (2013) placed an image of a gorilla (48 times larger than an average lung nodule) inside CT lung scans.\n- **83% of expert radiologists completely failed to notice the gorilla!**\n\n## 3. Airport Luggage Screening\n- Low prevalence effect: rare threats (guns, bombs) are missed significantly more often than common items."
+        },
+        {
+            "id": "attn_failures_quiz_4",
+            "type": "quiz",
+            "title": "Neurological & Applied Attention Check",
+            "content": "Verify your comprehension of neurological neglect and real-world attention failures!",
+            "quizQuestion": "A stroke patient with damage to the right inferior parietal lobe eats food exclusively from the right side of their plate and draws a clock with all numbers crowded on the right. What disorder do they exhibit?",
+            "quizOptions": [
+                "B\u00e1lint's syndrome",
+                "Hemispatial neglect",
+                "Inattentional blindness",
+                "The Stroop effect"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_failures_13",
+            "type": "content",
+            "title": "Remediating Attention Deficits",
+            "content": "# Evidence-Based Interventions for Attention Failures\n\nCan attentional capacity and control be enhanced or remediated?\n\n## 1. Mindfulness-Based Interventions\n- Mindfulness meditation trains sustained attention and meta-awareness.\n- Reduces attentional decoupling and shrinks Default Mode Network hyperactivity, yielding measurable reductions in the attentional blink.\n\n## 2. Pharmacological Treatment in ADHD\n- Psychostimulant medications (methylphenidate, amphetamines) block dopamine and norepinephrine reuptake in the prefrontal cortex.\n- Normalizes prefrontal signaling, stabilizing executive control networks and reducing distractibility.\n\n## 3. Cognitive Rehabilitation for Neglect\n- Prism adaptation therapy optically shifts the visual field to the right, forcing the brain's motor-spatial systems to recalibrate toward the left hemispace."
+        },
+        {
+            "id": "attn_failures_14",
+            "type": "content",
+            "title": "Designing Ergonomic Safeguards",
+            "content": "# Human Factors Engineering Against Attention Failures\n\nEngineers design fail-safe systems acknowledging the limits of human attention:\n\n## Protective Design Systems:\n- **Auditory & Tactile Redundancy:** Since visual attention is prone to inattentional blindness, vehicle blind-spot systems use loud auditory chimes or steering wheel vibrations (tactile cues) to bypass visual bottlenecks.\n- **Automatic Emergency Braking (AEB):** Vehicles employ radar and cameras to initiate braking autonomously when driver inattentional blindness occurs.\n- **Dual-Reader Protocols in Medicine:** Having two independent radiologists or AI diagnostic algorithms evaluate scans reduces missed lung nodules."
+        },
+        {
+            "id": "attn_failures_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Attention Failures\n\n## Foundational Principles Mastered:\n\n### 1. Perceptual Blindness Phenomena\n- **Inattentional Blindness:** Failing to perceive unexpected visible objects when attention is engaged elsewhere (Invisible Gorilla).\n- **Change Blindness:** Inability to detect large scene modifications across visual disruptions (Door Study, Flicker Paradigm).\n\n### 2. Temporal Attentional Bottlenecks\n- **Attentional Blink:** Temporary 200-500 ms deficit in detecting a second target during rapid serial visual streams (RSVP).\n\n### 3. Internal Attentional Breakdown\n- **Mind Wandering:** Driven by Default Mode Network activation and attentional decoupling from the external world.\n- **ADHD:** Neurodevelopmental impairment of prefrontal dopamine and norepinephrine attentional regulation.\n\n### 4. Neurological Syndromes\n- **Hemispatial Neglect:** Contralesional attentional loss following right parietal lesions.\n- **B\u00e1lint's Syndrome:** Simultanagnosia and optic ataxia from bilateral parietal trauma.\n\n> **Congratulations!** You have completed the **Attention & Perception** curriculum. You are now prepared to explore **Language & Thought**!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_rm_ethics",
+    "topicId": "rm_ethics",
+    "topicTitle": "Research Ethics",
+    "description": "Master the rigorous ethical standards governing psychological research: human subject protections, Institutional Review Boards (IRB), informed consent, permissible deception, debriefing, and animal welfare.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "rm_ethics_1",
+            "type": "content",
+            "title": "Introduction to Research Ethics",
+            "content": "# Research Ethics in Psychology\n\nScientific curiosity must never supersede human dignity, participant welfare, or moral responsibility.\n\nThroughout history, when researchers prioritized experimental ambition over ethical vigilance, human beings suffered physical injury, severe psychological trauma, and deep betrayal of trust.\n\n## The Bedrock of Modern Research:\nToday, every psychological investigation is strictly governed by national legal statutes, international declarations, and the American Psychological Association (APA) Ethics Code.\n\n## In This Module, You Will Learn:\n- The historical foundations of human subject protections (Nuremberg Code, Belmont Report)\n- The absolute requirements of informed consent and voluntary participation\n- Strict regulations governing active deception and mandatory post-experimental debriefing\n- The functions and review tiers of Institutional Review Boards (IRBs)\n- Ethical standards and oversight for animal research"
+        },
+        {
+            "id": "rm_ethics_2",
+            "type": "content",
+            "title": "Historical Milestones: Nuremberg to Belmont",
+            "content": "# The Evolution of Human Subject Protections\n\nModern research ethics codes were forged in response to tragic historical human rights violations:\n\n## 1. The Nuremberg Code (1947)\n- Formulated following the Nuremberg War Crimes trials of Nazi physicians who performed sadistic medical experiments on concentration camp prisoners.\n- Established that **voluntary, informed consent of human subjects is absolutely essential**.\n\n## 2. The Declaration of Helsinki (1964)\n- Adopted by the World Medical Association; emphasized that participant health and welfare must always take precedence over the interests of science and society.\n\n## 3. The Tuskegee Syphilis Study (1932-1972)\n- The US Public Health Service tracked 600 low-income African American men with syphilis, withholding effective penicillin treatment for 40 years to observe the natural progression of fatal disease.\n- Exposed catastrophic exploitation of vulnerable minority populations."
+        },
+        {
+            "id": "rm_ethics_3",
+            "type": "content",
+            "title": "The Belmont Report: Three Foundational Principles",
+            "content": "# The Belmont Report (1979)\n\nIn response to the Tuskegee revelations, the US National Commission for the Protection of Human Subjects issued **The Belmont Report**, establishing three foundational ethical pillars:\n\n### 1. Respect for Persons\n- Acknowledges individual autonomy: capable individuals must be allowed to make voluntary, educated decisions about participation.\n- Mandates special protections for individuals with diminished autonomy (children, prisoners, cognitively impaired persons).\n\n### 2. Beneficence\n- Obligation to **maximize potential benefits** while **minimizing all potential risks and physical or psychological harms**.\n\n### 3. Justice\n- Fairness in the distribution of research burdens and benefits. Vulnerable, marginalized groups must not bear the risks of research while wealthy elites reap the benefits."
+        },
+        {
+            "id": "rm_ethics_quiz_1",
+            "type": "quiz",
+            "title": "Belmont Principles Check",
+            "content": "Assess your understanding of historical research ethics and the Belmont Report!",
+            "quizQuestion": "Which Belmont Report ethical principle mandates that the risks and burdens of research must be distributed fairly across all segments of society, preventing the exploitation of vulnerable groups?",
+            "quizOptions": [
+                "Beneficence",
+                "Justice",
+                "Respect for Persons",
+                "Fidelity"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rm_ethics_4",
+            "type": "content",
+            "title": "Informed Consent in Research",
+            "content": "# The Mandate of Informed Consent\n\nInformed consent is not a mere bureaucratic signature; it is an active, ongoing educational dialogue between researcher and participant.\n\n## Mandatory Elements of Research Consent:\n- **Clear Purpose & Duration:** Explanation of the experimental aims, procedures, and anticipated time commitment.\n- **Right to Decline or Withdraw:** Clear affirmation that participation is 100% voluntary, and the participant can withdraw at any time without penalty or loss of benefits.\n- **Risks & Discomforts:** Disclosing foreseeable physical discomforts, emotional triggers, or psychological distress.\n- **Confidentiality Protections:** Explicit description of how data will be anonymized, encrypted, and stored securely.\n- **Incentives & Compensation:** Transparent disclosure of monetary payment, gift cards, or course credit.\n- **Contact Information:** Direct contact details for both the primary investigator and the institutional IRB."
+        },
+        {
+            "id": "rm_ethics_5",
+            "type": "content",
+            "title": "Vulnerable Populations & Assent",
+            "content": "# Protecting Vulnerable Populations\n\nCertain demographic groups cannot legally provide informed consent or are at heightened risk of coercion:\n\n## Protected Vulnerable Classes:\n- **Minors (Under Age 18):** Legal guardians must sign a formal **Informed Consent document**. In addition, the minor child must provide developmentally appropriate written or verbal **Assent** (willing agreement to participate).\n- **Prisoners & Inmates:** Incarcerated individuals are vulnerable to subtle coercion (e.g., participating in studies hoping for parole benefits). IRBs require special community prisoner advocates to review studies involving inmates.\n- **Cognitively Impaired & Psychiatric Inpatients:** Requires legally authorized representatives when severe psychosis, advanced dementia, or traumatic brain injury impairs decision-making capacity.\n- **Economically & Educationally Disadvantaged:** Safeguarded against excessive monetary inducements that constitute undue influence or financial coercion."
+        },
+        {
+            "id": "rm_ethics_6",
+            "type": "content",
+            "title": "Deception in Psychological Research",
+            "content": "# Deception: When and Why Is It Allowed?\n\nIf social psychologists studying bystander intervention informed subjects beforehand: *'We are testing whether you will help a person faking an epileptic seizure'*, participants would act unnaturally, invalidating the study.\n\n## Types of Deception:\n- **Passive Deception (Omission):** Withholding the full specific hypothesis until the conclusion of testing.\n- **Active Deception (Commission):** Misleading participants with staged confederates, false feedback on tests, or rigged equipment.\n\n## Strict APA Conditions for Deception:\n1. The study holds significant scientific, educational, or applied value.\n2. No effective, non-deceptive alternative methodologies exist.\n3. Deception is **strictly prohibited** regarding physical risks, severe emotional pain, or bodily danger.\n4. Complete, comprehensive debriefing is conducted as early as feasible."
+        },
+        {
+            "id": "rm_ethics_quiz_2",
+            "type": "quiz",
+            "title": "Consent & Deception Check",
+            "content": "Evaluate your understanding of research consent standards and permissible deception!",
+            "quizQuestion": "Under APA ethical regulations, under which of the following circumstances is experimental deception strictly and absolutely prohibited?",
+            "quizOptions": [
+                "When the study utilizes an active control group receiving a placebo",
+                "When deception involves concealing foreseeable physical pain or severe emotional distress",
+                "When the study investigates visual cognitive reaction times",
+                "When participants are undergraduate university students"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rm_ethics_7",
+            "type": "content",
+            "title": "The Debriefing Process",
+            "content": "# The Mandatory Debriefing Protocol\n\nWhenever deception or emotional stress is involved in a study, the researcher must conduct a comprehensive **Debriefing Session** immediately after participant completion:\n\n## Mandatory Components of Debriefing:\n- **Full Disclosure:** Revealing the true scientific purpose and hypotheses of the study.\n- **De-Hoaxing:** Explaining why deception was necessary and disclosing that confederates were actors or test feedback was computer-generated.\n- **Desensitization:** Providing psychological reassurance to alleviate any temporary anxiety, embarrassment, or self-doubt induced by the experiment.\n- **Educational Benefit:** Answering participant questions and providing resources or psychological support contacts if needed.\n- **Post-Debriefing Consent:** Allowing participants the option to withdraw their data after discovering they were deceived."
+        },
+        {
+            "id": "rm_ethics_8",
+            "type": "content",
+            "title": "Institutional Review Boards (IRB)",
+            "content": "# Institutional Review Boards (IRBs)\n\nUnder federal law (the Common Rule), every university, hospital, and research foundation receiving federal funding must maintain an **Institutional Review Board (IRB)**.\n\n## Composition of the Board:\n- Must include at least five members with diverse professional backgrounds.\n- At least one scientist, at least one non-scientist (e.g., philosopher, ethicist, lawyer), and at least one unaffiliated community member representing community values.\n\n## The Primary Responsibility:\n- Conduct an objective **Risk-Benefit Analysis** to ensure that potential scientific knowledge gained substantially justifies any minimal participant risks.\n- Verify that consent forms are written in plain, accessible language (approx 8th-grade reading level).\n- Ensure equitable subject recruitment free from discriminatory exclusion."
+        },
+        {
+            "id": "rm_ethics_9",
+            "type": "content",
+            "title": "The Three Levels of IRB Review",
+            "content": "# The Three Tiers of IRB Review\n\nProtocols submitted to an IRB are categorized into one of three review streams based on risk level:\n\n```\n[ LEVEL 1: EXEMPT REVIEW ]\n- Less than minimal risk\n- Anonymous educational surveys, archival public records, naturalistic public observation\n- Reviewed rapidly by a single board administrator\n\n[ LEVEL 2: EXPEDITED REVIEW ]\n- Minimal risk (risk no greater than everyday life or routine medical physical exams)\n- Non-invasive biospecimens (saliva), standard cognitive EEG tasks, voice recordings\n- Reviewed by the IRB chair and designated reviewers\n\n[ LEVEL 3: FULL BOARD REVIEW ]\n- Greater than minimal risk\n- Vulnerable populations (children, prisoners), invasive physiological interventions, active deception\n- Requires formal meeting and quorum vote of the entire assembled committee\n```"
+        },
+        {
+            "id": "rm_ethics_quiz_3",
+            "type": "quiz",
+            "title": "IRB Functions Check",
+            "content": "Verify your comprehension of Institutional Review Board tiers and responsibilities!",
+            "quizQuestion": "An anonymous survey measuring college student study habits that collects zero personally identifiable demographic information would most likely qualify for which tier of IRB review?",
+            "quizOptions": [
+                "Full Committee Board Review",
+                "Expedited Review",
+                "Exempt Review",
+                "Administrative Subpoena Review"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "rm_ethics_10",
+            "type": "content",
+            "title": "Animal Welfare & IACUC Standards",
+            "content": "# Ethics in Animal Research\n\nApproximately 7% to 8% of psychological research involves animal subjects (predominantly rodents, pigeons, and non-human primates). Animal research provides foundational insights into neurobiology, drug addiction, memory formation, and sensory physiology.\n\n## Institutional Animal Care and Use Committee (IACUC):\n- Inspects animal housing facilities at least semiannually.\n- Requires veterinarians and independent community advocates.\n\n## The \"3 Rs\" Principles (Russell & Burch):\n- **Replacement:** Substituting non-sentient computational algorithms or in vitro tissue models whenever possible.\n- **Reduction:** Utilizing efficient factorial designs to minimize the total number of animal lives needed.\n- **Refinement:** Refining surgical, handling, and housing techniques to alleviate pain, minimize stress, and provide environmental enrichment."
+        },
+        {
+            "id": "rm_ethics_11",
+            "type": "content",
+            "title": "Scientific Integrity: Plagiarism & Fabrication",
+            "content": "# Scientific Integrity & Professional Misconduct\n\nEthical duties extend beyond participant safety to the honest reporting of scientific findings. The APA Ethics Code strictly condemns **Research Misconduct**:\n\n## Three Cardinal Sins of Scientific Misconduct:\n\n### 1. Fabrication\n- Inventing fraudulent data, records, or participants out of thin air (e.g., Diederik Stapel fabricating complete datasets for dozens of published social psychology papers).\n\n### 2. Falsification\n- Manipulating research equipment, omitting contradictory data points, or modifying figures to produce a false impression.\n\n### 3. Plagiarism\n- Appropriating another scholar's ideas, text, or research results without proper scholarly attribution or citation."
+        },
+        {
+            "id": "rm_ethics_12",
+            "type": "content",
+            "title": "Authorship & Data Sharing Ethics",
+            "content": "# Authorship Ethics & Transparent Data Sharing\n\n## Authorship Standards (APA Standard 8.12):\n- Authorship credit must reflect significant scientific contributions (conceptual design, statistical analysis, or drafting text).\n- Merely providing laboratory funding or possessing department chair status does **not** justify authorship ('Honorary Authorship' is strictly unethical).\n\n## Open Data Sharing (Standard 8.14):\n- Once research findings are published, psychologists must make raw, anonymized data available to qualified scientific peers for independent verification and re-analysis.\n- Withholding data to conceal errors or prevent replication is an ethical violation."
+        },
+        {
+            "id": "rm_ethics_quiz_4",
+            "type": "quiz",
+            "title": "Scientific Integrity & Animal Ethics Check",
+            "content": "Synthesize your understanding of animal welfare principles and scientific misconduct!",
+            "quizQuestion": "In animal research ethics governed by IACUC committees, what principle of the '3 Rs' mandates refining surgical procedures and administering anesthesia to minimize animal pain and distress?",
+            "quizOptions": [
+                "Replacement",
+                "Refinement",
+                "Reduction",
+                "Replication"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rm_ethics_13",
+            "type": "content",
+            "title": "Ethics in Digital & Internet Research",
+            "content": "# Research Ethics in the Digital Age\n\nThe expansion of big data, social media scraping, and online testing platforms has created novel ethical frontiers:\n\n## Modern Digital Dilemmas:\n- **Public vs. Private Online Spaces:** Is scraping millions of public social media posts without explicit consent ethical? (The controversial 2014 Facebook Emotional Contagion study manipulated 700,000 users' news feeds without informed consent, triggering widespread ethical outrage).\n- **Digital Anonymity & IP Tracking:** Ensuring online survey platforms do not record participant IP addresses or geotags that could compromise confidentiality.\n- **Data Breaches & Cloud Encryption:** Mandatory end-to-end encryption for electronic psychometric databases."
+        },
+        {
+            "id": "rm_ethics_14",
+            "type": "content",
+            "title": "The Ethical Researcher's Creed",
+            "content": "# The Ethical Researcher's Creed\n\nEvery psychological scientist carries a solemn covenant with humanity:\n\n```\n[ Respect Human Dignity ] ---------> Voluntary Informed Consent\n[ Strive for Beneficence ] --------> Minimize Harm, Maximize Welfare\n[ Stand for Justice ] -------------> Equitable, Non-Exploitative Sampling\n[ Maintain Scientific Truth ] -----> Honest Data Reporting & Open Science\n```\n\n- The pursuit of scientific truth is meaningful only when conducted with unyielding moral integrity.\n- Protecting the rights, privacy, and well-being of research participants is the supreme law of psychological science."
+        },
+        {
+            "id": "rm_ethics_15",
+            "type": "content",
+            "title": "Course 3 Summary & Key Takeaways",
+            "content": "# Course 3 Summary: Research Methods in Psychology\n\n## Foundations Mastered in Course 3:\n- **The Scientific Method:** Testable hypotheses, operationalization, IV, DV, and experimental controls.\n- **Research Designs:** Experimental (causality), Correlational (prediction), Longitudinal vs. Cross-Sectional, Case Studies, and Surveys.\n- **Sampling & Data Collection:** Target population vs. sample (**mu** vs. **x-bar**, **sigma** vs. **s**), random sampling, sampling bias, behavioral telemetry, and psychometric reliability/validity.\n- **Basic Statistics:** Central tendency (mean, median, mode), variability (standard deviation), Pearson's r, **H0** vs. **Ha**, **p-values** (significance when **p-value** <= **alpha**), Type I/II errors, and Cohen's d.\n- **Research Ethics:** Belmont Report (Respect, Beneficence, Justice), informed consent, IRB review tiers, debriefing, IACUC animal welfare (3 Rs: Replace, Reduce, Refine), and scientific integrity.\n\n> **Congratulations!** You have completed all learning modules for **Research Methods in Psychology**. Next, we explore the fascinating **Biological Bases of Behavior**!"
+        }
+    ]
+}

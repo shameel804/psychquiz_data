@@ -1,0 +1,155 @@
+{
+    "id": "learn_attn_models",
+    "topicId": "attn_models",
+    "topicTitle": "Models of Attention",
+    "description": "Explore the foundational cognitive models of selective attention, comparing early selection filter models, attenuation theory, late selection accounts, and spatial attentional metaphors.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "attn_models_1",
+            "type": "content",
+            "title": "The Nature of Attention",
+            "content": "# The Science of Attention\n\nWilliam James famously wrote in 1890: *\"Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought.\"*\n\n## Why We Need Attention:\n- The sensory organs are bombarded with millions of bits of information every second.\n- The central nervous system possesses strictly limited computational capacity.\n- **Attention** functions as the selective gateway that filters, prioritizes, and focuses cognitive resources on behaviorally relevant inputs.\n\n## Core Questions in Attention Modeling:\n- Where is the informational bottleneck located in cognitive processing?\n- Is unattended information filtered out completely, attenuated, or processed semantically?\n- How do spatial metaphors (spotlights, zoom lenses) describe visual selection?"
+        },
+        {
+            "id": "attn_models_2",
+            "type": "content",
+            "title": "Dichotic Listening & Shadowing",
+            "content": "# The Dichotic Listening Paradigm\n\nTo investigate how humans select auditory information, British psychologist Colin Cherry (1953) developed the **dichotic listening task**.\n\n```\nLeft Ear:  [\"The cat sat on the mat...\"] ---> Attend & Repeat (\"Shadow\")\n                                            ^\n                                            |\nRight Ear: [\"President Lincoln went to...\"] --> Unattended / Ignored\n```\n\n## The Shadowing Protocol:\n- Participants wear stereo headphones delivering two different spoken messages simultaneously to each ear.\n- Participants are instructed to repeat one message aloud word-for-word as it plays (**shadowing**).\n\n## Cherry's Surprising Findings:\n- Participants shadowed the attended ear with high accuracy.\n- For the unattended ear, listeners noticed low-level physical changes (voice changed from male to female, or switched to a pure tone).\n- Listeners completely failed to notice language changes (switching to German), reversed speech, or when the same word was repeated 35 times!"
+        },
+        {
+            "id": "attn_models_3",
+            "type": "content",
+            "title": "Broadbent's Early Selection Filter Model",
+            "content": "# Broadbent's Filter Model (1958)\n\nDonald Broadbent formulated the first comprehensive information-processing theory of attention, known as the **Early Selection Filter Model**.\n\n```\n[Sensory Inputs] ---> [Sensory Buffer] ---> [Selective Filter] ---> [Detector / Semantic] ---> [Memory Store]\n(Both Ears)           (Physical Store)      (All-or-None Switch)    (Higher Meaning)           (LTM)\n                                                   |\n                                         [Unattended Dropped]\n```\n\n## Architectural Components:\n1. **Sensory Buffer:** Temporarily holds all sensory inputs based on physical characteristics (pitch, ear location, loudness).\n2. **Selective Filter:** An all-or-none mechanical filter that selects one channel based purely on sensory features, blocking all others immediately.\n3. **Detector:** Processes the semantic meaning of the selected channel only.\n\n## Classification:\n- An **Early Selection** model because filtering occurs *before* semantic processing takes place."
+        },
+        {
+            "id": "attn_models_quiz_1",
+            "type": "quiz",
+            "title": "Early Selection Check",
+            "content": "Verify your understanding of Broadbent's filter model and dichotic listening!",
+            "quizQuestion": "According to Donald Broadbent's early selection filter model, on what basis does the selective filter choose which sensory message enters higher-level semantic processing?",
+            "quizOptions": [
+                "The grammatical structure of the sentence",
+                "The emotional significance of the words",
+                "Physical characteristics such as voice pitch or spatial ear location",
+                "The frequency with which the words appear in conversational English"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "attn_models_4",
+            "type": "content",
+            "title": "Challenges to Early Selection: The Cocktail Party Effect",
+            "content": "# Cracks in the Early Filter Model\n\nBroadbent's rigid all-or-none model was quickly challenged by empirical anomalies:\n\n## 1. The Cocktail Party Effect (Moray, 1959):\n- Neville Moray discovered that when a participant's own name was spoken into the *unattended* ear during shadowing, about one-third of participants immediately noticed it!\n- If unattended information were completely blocked prior to semantic analysis, a person could never recognize their own name.\n\n## 2. Gray & Wedderburn's 'Dear Aunt Jane' Study (1960):\n- Stimuli were presented alternating across ears:\n  * Left Ear: \"Dear\" (word) ... \"7\" (digit) ... \"Jane\" (word)\n  * Right Ear: \"9\" (digit) ... \"Aunt\" (word) ... \"6\" (digit)\n- Listeners instructed to shadow the left ear spontaneously reported hearing: *\"Dear Aunt Jane\"*!\n- Demonstrates that attention tracked semantic meaning across physical sensory channels, violating Broadbent's physical filter rule."
+        },
+        {
+            "id": "attn_models_5",
+            "type": "content",
+            "title": "Treisman's Attenuation Theory",
+            "content": "# Treisman's Attenuation Theory (1964)\n\nAnne Treisman proposed an elegant modification: replacing Broadbent's all-or-none bottleneck with a flexible **attenuator**.\n\n```\n[Sensory Inputs] ---> [Attenuator (Volume Knob)] ---> [Dictionary Unit] ---> [Conscious Awareness]\n                      - Attended: Strong Signal        - Varying Activation\n                      - Unattended: Weakened/Turned     Thresholds\n                        Down\n```\n\n## How Attenuation Works:\n- Unattended inputs are not obliterated; they are merely **turned down** in signal volume.\n- **The Dictionary Unit:** Contains mental representations of words, each with an activation threshold.\n  * **Low Threshold:** High-priority words (your name, \"Fire!\", danger cues) require very weak signals to fire.\n  * **High Threshold:** Unfamiliar, irrelevant words require strong, fully attended signals to cross the threshold."
+        },
+        {
+            "id": "attn_models_6",
+            "type": "content",
+            "title": "Late Selection Models (Deutsch & Deutsch)",
+            "content": "# Late Selection Models\n\nJ. Anthony Deutsch and Diana Deutsch (1963) and Donald Norman (1968) took semantic processing a step further with the **Late Selection Model**.\n\n```\n[All Inputs] ---> [Full Sensory & Semantic Processing] ---> [Late Selection Filter] ---> [Conscious Memory/Response]\n```\n\n## The Radical Claim:\n- **All** incoming sensory signals are fully processed for semantic meaning automatically, without any attentional bottleneck.\n- The bottleneck occurs **late**, right before information enters conscious awareness or guides motor response.\n- **Empirical Evidence (MacKay, 1973):**\n  * Attended ear: \"They threw stones at the bank today.\"\n  * Unattended ear: Either the word \"river\" or \"money\".\n  * Test: Participants interpreted \"bank\" as a riverbank or financial institution matching the unattended word, proving unconscious semantic comprehension!"
+        },
+        {
+            "id": "attn_models_quiz_2",
+            "type": "quiz",
+            "title": "Attenuation vs Late Selection Check",
+            "content": "Evaluate differences between Treisman's attenuator and Deutsch & Deutsch's late selection!",
+            "quizQuestion": "In Anne Treisman's attenuation model, why does a person hear their own name across a noisy room even when paying attention to a different conversation?",
+            "quizOptions": [
+                "Their own name has an exceptionally low activation threshold in the dictionary unit",
+                "The selective filter completely disables all auditory processing of other voices",
+                "Unattended voices are amplified by the physical sensory buffer",
+                "The name is processed only after motor response selection occurs"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "attn_models_7",
+            "type": "content",
+            "title": "Perceptual Load Theory (Lavie)",
+            "content": "# Lavie's Perceptual Load Theory\n\nNilli Lavie (1995) resolved the decades-long \"early vs. late selection\" debate by introducing **Perceptual Load Theory**.\n\n## The Core Resolution:\nLocus of selection depends on the perceptual demands of the task at hand:\n\n### 1. High Perceptual Load (Early Selection)\n- Task involves complex displays, numerous items, or difficult perceptual discriminations.\n- All available attentional capacity is consumed by the primary task.\n- Distractors cannot be processed semantically -> **Early selection occurs**.\n\n### 2. Low Perceptual Load (Late Selection)\n- Task is perceptually simple (e.g., finding a bright red X among three small grey Os).\n- Spare attentional capacity automatically spills over to process peripheral distractors -> **Late selection occurs**.\n\n> **Insight:** Selection is not rigid; it dynamically shifts between early and late depending on computational task load."
+        },
+        {
+            "id": "attn_models_8",
+            "type": "content",
+            "title": "Spatial Metaphors: Spotlight and Zoom Lens",
+            "content": "# Spatial Models of Visual Attention\n\nHow do we direct visual attention across space?\n\n## 1. Posner's Attentional Spotlight (1980)\n- Visual attention operates like a focused **spotlight** illuminating a specific region of the visual field.\n- Stimuli within the spotlight beam are processed with heightened perceptual clarity and accelerated reaction times.\n- **Three Mental Operations:** Disengage from current focus -> Move/Shift to new locus -> Engage target.\n\n## 2. Eriksen's Zoom-Lens Metaphor (1986)\n- Attention has an adjustable beam size, like a camera's zoom lens.\n- **Trade-off Rule:**\n  * As the attentional beam expands to cover a wider visual area, processing resolution per unit area drops.\n  * Narrowing the beam concentrates cognitive power onto fine-grained spatial details."
+        },
+        {
+            "id": "attn_models_9",
+            "type": "content",
+            "title": "Feature Integration Theory (Treisman & Gelade)",
+            "content": "# Feature Integration Theory (FIT)\n\nAnne Treisman and Garry Gelade (1980) formulated FIT to explain how the brain binds disparate visual properties (color, shape, motion) into unified objects.\n\n```\n[Visual Stimulus] ---> [Preattentive Stage] -----------> [Focused Attention Stage] ---> [Unified Object]\n                       - Features extracted in parallel  - Features bound serially via\n                       - (Red, Circle, Vertical)          spatial spotlight\n```\n\n## The Two Stages:\n1. **Preattentive Stage:** Occurs automatically and rapidly in parallel without conscious effort. Basic low-level visual features are extracted across the entire visual field in separate cortical maps.\n2. **Focused Attention Stage:** Requires active spatial attention to glue/bind co-localized features together at a specific spatial coordinate.\n\n## Feature Search vs. Conjunction Search:\n- **Feature Search (Pop-out):** Target differs by a single feature (finding a red O among blue Os); target pops out independent of set size!\n- **Conjunction Search:** Target combines two features (finding a red O among red Xs and blue Os); requires slow, serial visual search."
+        },
+        {
+            "id": "attn_models_quiz_3",
+            "type": "quiz",
+            "title": "Visual Attention & FIT Check",
+            "content": "Test your mastery of Feature Integration Theory and visual search paradigms!",
+            "quizQuestion": "According to Feature Integration Theory, searching for a green circle among green squares and red circles represents which type of search?",
+            "quizOptions": [
+                "Parallel feature search with automatic pop-out",
+                "Serial conjunction search requiring focused spatial attention to bind features",
+                "Auditory dichotic shadowing search",
+                "Subliminal semantic priming search"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attn_models_10",
+            "type": "content",
+            "title": "Illusory Conjunctions",
+            "content": "# Illusory Conjunctions\n\nWhat happens when focused attention is prevented from binding features together during visual processing?\n\n## Treisman & Schmidt's Experiment (1982):\n- Participants were briefly flashed displays containing two black digits flanking three colored letters (e.g., a green 'X', red 'O', blue 'T') for 200 milliseconds.\n- Primary task: Accurately report the two black digits.\n- Secondary task: Report the letters and colors.\n\n## The Phenomenon:\n- Participants frequently reported seeing a red 'X' or green 'T' (**illusory conjunctions**)!\n- **Scientific Significance:** Features (color and shape) float unbound in the preattentive stage; without sufficient spatial attention time, the brain erroneously glues together features from different physical objects."
+        },
+        {
+            "id": "attn_models_11",
+            "type": "content",
+            "title": "Neural Networks of Attentional Control",
+            "content": "# Posner and Petersen's Attentional Networks\n\nMichael Posner and Steven Petersen (1990) identified three anatomically and functionally distinct neural networks governing attention:\n\n## 1. Alerting Network\n- Maintains a vigilant, wakeful, ready state.\n- **Brain Areas:** Locus coeruleus, right frontal and parietal cortex.\n- **Neurotransmitter:** Norepinephrine.\n\n## 2. Orienting Network\n- Directs spatial attention to sensory stimuli in the visual field.\n- **Brain Areas:** Superior colliculus, pulvinar nucleus of thalamus, temporoparietal junction (TPJ), superior parietal lobule.\n- **Neurotransmitter:** Acetylcholine.\n\n## 3. Executive Control Network\n- Resolves conflict between competing thoughts, suppresses habitual responses, and allocates working memory resources.\n- **Brain Areas:** Anterior Cingulate Cortex (ACC), Dorsolateral Prefrontal Cortex (DLPFC).\n- **Neurotransmitter:** Dopamine."
+        },
+        {
+            "id": "attn_models_12",
+            "type": "content",
+            "title": "Ventral vs. Dorsal Attentional Streams",
+            "content": "# Dorsal and Ventral Attentional Systems (Corbetta & Shulman)\n\nModern cognitive neuroscience distinguishes top-down goal-driven attention from bottom-up stimulus-driven capture:\n\n```\nTop-Down Goal Selection:   [Dorsal Network: FEF + IPS]   ---> Deliberate, voluntary search\n                                     ^\n                                     |\nBottom-Up Circuit Breaker: [Ventral Network: TPJ + VFC]  ---> Unexpected, salient capture\n```\n\n## 1. Dorsal Attentional Network (DAN)\n- Comprises the Frontal Eye Fields (FEF) and Intraparietal Sulcus (IPS).\n- Bilateral; mediates endogenous, top-down voluntary attentional guidance.\n\n## 2. Ventral Attentional Network (VAN)\n- Comprises the Temporoparietal Junction (TPJ) and Ventral Frontal Cortex (VFC).\n- Strongly right-lateralized; functions as an alerting \"circuit breaker\" that shifts attention when unexpected, behaviorally critical events occur."
+        },
+        {
+            "id": "attn_models_quiz_4",
+            "type": "quiz",
+            "title": "Attentional Neuroscience Check",
+            "content": "Verify your understanding of neural networks governing attention!",
+            "quizQuestion": "Which brain structure within the executive attentional network is critically activated during tasks requiring conflict resolution and error detection, such as the Stroop task?",
+            "quizOptions": [
+                "Anterior Cingulate Cortex",
+                "Primary Visual Cortex",
+                "Cerebellar vermis",
+                "Lateral geniculate nucleus"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "attn_models_13",
+            "type": "content",
+            "title": "Comparing Attention Theories",
+            "content": "# Comprehensive Model Synthesis\n\nComparing how major attention models conceptualize sensory selection:\n\n| Model | Bottleneck Locus | Mechanism | Fate of Unattended Stimuli |\n|---|---|---|---|\n| **Broadbent Filter** | Early (Pre-semantic) | All-or-none physical switch | Completely discarded without meaning |\n| **Treisman Attenuation** | Intermediate | Volume knob / threshold dictionary | Weakened; processed if activation threshold is low |\n| **Deutsch-Norman Late** | Late (Post-semantic) | Response filter | Fully processed semantically; unselected for awareness |\n| **Lavie Perceptual Load** | Dynamic (Early or Late) | Capacity consumption | Early under high load; late under low load |\n| **Treisman FIT** | Spatial / Object level | Feature binding via spotlight | Extracted as floating preattentive features |"
+        },
+        {
+            "id": "attn_models_14",
+            "type": "content",
+            "title": "Technological and Clinical Applications",
+            "content": "# Applied Attentional Engineering\n\nAttentional models drive real-world design across aviation, computing, and clinical medicine:\n\n## 1. Heads-Up Displays (HUDs) in Aviation\n- Applying spatial spotlight principles to project vital flight data directly within the pilot's visual field, reducing the costly disengage-shift-engage cycle of looking down at instrument panels.\n\n## 2. Web Interface & Advertising Architecture\n- Exploiting bottom-up saliency maps and pop-out features (contrasting colors, motion) to guide user gaze toward conversion buttons without overloading perceptual capacity.\n\n## 3. Clinical Assessment of Attentional Deficits\n- The Attention Network Test (ANT) isolates alerting, orienting, and executive networks, providing diagnostic profiles for ADHD, autism, and traumatic brain injury."
+        },
+        {
+            "id": "attn_models_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Models of Attention\n\n## Core Principles Mastered:\n\n### 1. Auditory Selection Frameworks\n- **Broadbent Early Filter:** All-or-none physical selection prior to semantic comprehension.\n- **Treisman Attenuation:** Attenuator volume control with thresholded dictionary units.\n- **Deutsch & Deutsch Late Selection:** Full semantic analysis occurs prior to the selection bottleneck.\n\n### 2. Perceptual Load Theory (Lavie)\n- Reconciled early vs. late selection: High load forces early selection, while low load allows late distractor processing.\n\n### 3. Spatial and Visual Search Models\n- Posner's spotlight and Eriksen's zoom-lens illustrate spatial allocation trade-offs.\n- Treisman's Feature Integration Theory separates parallel preattentive feature extraction from serial spatial conjunction binding.\n\n### 4. Neural Control Systems\n- Tripartite networks: Alerting (norepinephrine), Orienting (acetylcholine), Executive (dopamine/ACC).\n- Dorsal (voluntary top-down) vs. Ventral (stimulus-driven circuit breaker) streams.\n\n> **Up Next:** Explore how humans deploy attention across tasks in **Types of Attention**!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "learn_eth_principles",
+  "topicId": "eth_principles",
+  "topicTitle": "Ethical Principles",
+  "description": "Examine foundational ethical principles governing psychology, analyzing the APA Ethics Code, beneficence and nonmaleficence, informed consent mandates, and confidentiality boundaries.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "eth_principles_1",
+      "type": "content",
+      "title": "Foundations of Psychological Ethics",
+      "content": "# The Moral Architecture of Psychology\n\n**Psychological ethics** represents the philosophical, moral, and professional framework that governs research, clinical practice, assessment, and pedagogy in psychological science.\n\n## Why Ethics is Paramount:\n- Psychologists hold immense fiduciary power, diagnostic authority, and interpersonal influence over vulnerable human clients, patients, students, and research participants.\n- Historical abuses (e.g., Tuskegee syphilis study, Milgram obedience experiments, Watson's Little Albert experiment) proved that scientific curiosity without moral boundaries leads directly to human exploitation and severe trauma.\n\n## The APA Ethics Code:\n- Published by the American Psychological Association: *Ethical Principles of Psychologists and Code of Conduct* (originally drafted in 1953; continuously amended).\n- **Two-Tiered Architecture:**\n  1. **General Principles (Aspirational):** Lofty moral ideals to inspire ethical striving.\n  2. **Ethical Standards (Enforceable):** Mandatory, enforceable behavioral rules with disciplinary sanctions upon violation."
+    },
+    {
+      "id": "eth_principles_2",
+      "type": "content",
+      "title": "The Five General Ethical Principles (APA)",
+      "content": "# The Five Aspirational Principles\n\nThe preamble of the APA Ethics Code articulates five core philosophical principles intended to guide psychologists toward the highest ethical ideals of the profession.\n\n## The Five Pillars:\n1. **Principle A: Beneficence and Nonmaleficence:** Psychologists strive to benefit those with whom they work and take care to do no harm.\n2. **Principle B: Fidelity and Responsibility:** Establishing relationships of trust, upholding professional standards of conduct, clarifying roles, and managing conflicts of interest.\n3. **Principle C: Integrity:** Promoting accuracy, honesty, and truthfulness in the science, teaching, and practice of psychology; avoiding fraudulent claims or subterfuge.\n4. **Principle D: Justice:** Recognizing that fairness and equity entitle all persons to access and benefit from the contributions of psychology and to equal quality in processes and services.\n5. **Principle E: Respect for People's Rights and Dignity:** Respecting the dignity and worth of all people, and the rights of individuals to privacy, confidentiality, and self-determination."
+    },
+    {
+      "id": "eth_principles_3",
+      "type": "content",
+      "title": "Beneficence and Nonmaleficence in Practice",
+      "content": "# Principle A: Doing Good & Preventing Harm\n\nDerived from the Hippocratic medical tradition (*Primum non nocere* - 'First, do no harm'), **Beneficence and Nonmaleficence** serve as the supreme ethical compass in psychology.\n\n## Key Operational Applications:\n- **Safeguarding Welfare:** Psychologists safeguard the welfare and human rights of the individuals with whom they interact professionally, as well as the welfare of animal subjects in research.\n- **Resolving Conflicts:** When professional conflicts arise, psychologists attempt to resolve these disputes in a responsible fashion that avoids or minimizes harm.\n- **Self-Care and Impairment:** Psychologists must remain continuously aware of their own physical, emotional, and mental health, taking proactive steps (such as seeking therapy or reducing caseloads) to prevent personal impairment from harming clients.\n- **Misuse of Influence:** Recognizing that because professional judgments affect human lives, psychologists guard against personal, financial, social, organizational, or political factors that might lead to misuse of their expertise."
+    },
+    {
+      "id": "eth_principles_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: APA Principles",
+      "content": "Verify your understanding of the APA's foundational ethical architecture.",
+      "quizQuestion": "In the APA Ethics Code, what is the crucial structural distinction between the General Principles and the Ethical Standards?",
+      "quizOptions": [
+        "General Principles apply only to animal research, while Ethical Standards apply to human clinical therapy",
+        "General Principles are aspirational moral goals, whereas Ethical Standards are mandatory, enforceable rules",
+        "Ethical Standards were abolished in 1953",
+        "General Principles carry automatic felony criminal penalties"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_principles_4",
+      "type": "content",
+      "title": "The Informed Consent Process",
+      "content": "# The Doctrine of Informed Consent\n\n**Informed consent** is not a mere bureaucratic signature on a piece of paper; it is an ongoing, collaborative dialogue that honors individual autonomy and self-determination.\n\n## The Three Essential Legal Elements:\n1. **Capacity (Competence):** The individual must possess the cognitive capacity to understand the nature, risks, and implications of the proposed action.\n2. **Information (Disclosure):** The psychologist must disclose all relevant information in understandable, non-technical language.\n3. **Voluntariness (Free Choice):** Consent must be granted freely, without coercion, duress, undue influence, or subtle manipulation.\n\n## Mandatory Disclosures in Psychotherapy:\n- Nature and anticipated course of therapy.\n- Financial arrangements and billing fees.\n- Involvement of third parties (e.g., insurance companies, training supervisors).\n- The limits of confidentiality."
+    },
+    {
+      "id": "eth_principles_5",
+      "type": "content",
+      "title": "Assent for Minors & Diminished Capacity",
+      "content": "# Assent and Legally Authorized Representatives\n\nWhen working with children, minors, or individuals with severe neurocognitive impairments, special consent protocols must be executed.\n\n## The Consent vs. Assent Architecture:\n- **Legal Consent:** Can only be legally granted by a parent, court-appointed legal guardian, or legally authorized representative.\n- **Developmental Assent:** Psychologists must still explain the proposed assessment or therapeutic intervention to the minor or incapacitated person in developmentally appropriate, child-friendly language, actively seeking their personal agreement (**assent**).\n\n## Respecting Dissent:\n- A child's overt distress, refusal, or clear objection must be taken seriously and evaluated with caregivers, preventing forced therapeutic interventions except in life-threatening emergencies."
+    },
+    {
+      "id": "eth_principles_6",
+      "type": "content",
+      "title": "Confidentiality: The Sacred Trust",
+      "content": "# The Core Principle of Confidentiality\n\n**Confidentiality** is the ethical duty and legal obligation of psychologists to protect private patient disclosures from unauthorized disclosure to third parties.\n\n## Why Confidentiality is Vital:\n- Effective psychological therapy and assessment require clients to disclose their deepest shames, traumatic memories, illicit behaviors, and existential fears.\n- Without an absolute guarantee that disclosures will remain private, clients will withhold critical information, preventing therapeutic healing and accurate diagnosis.\n\n## Confidentiality vs. Privileged Communication:\n- **Confidentiality:** An overarching professional ethical and legal duty covering all client information across all settings.\n- **Privileged Communication:** A narrower legal statutory right in evidentiary law that protects clients from having their confidential therapy records subpoenaed or disclosed in a court of law without their consent."
+    },
+    {
+      "id": "eth_principles_7",
+      "type": "content",
+      "title": "Limits of Confidentiality: Mandatory Exceptions",
+      "content": "# When Confidentiality Must Be Broken\n\nConfidentiality is not absolute. Psychologists have a legal and ethical mandate to breach confidentiality in specific, well-defined emergency situations.\n\n## Universal Mandatory Exceptions:\n1. **Imminent Harm to Self (Suicidality):** When a client presents an active, imminent danger of taking their own life, the clinician must take active protective steps (e.g., notifying emergency contacts, facilitating crisis hospitalization).\n2. **Imminent Harm to Others (Duty to Warn / Protect):** Specific, credible threats of lethal violence directed toward an identifiable victim.\n3. **Child Abuse or Neglect:** Mandatory reporting laws require immediate reports to Child Protective Services upon reasonable suspicion of physical, sexual, or severe emotional child abuse.\n4. **Elder or Dependent Adult Abuse:** Mandatory reporting of physical abuse, abandonment, or financial exploitation of vulnerable seniors.\n5. **Valid Court Orders:** Legitimate judicial orders signed by a judge (distinct from standard attorney subpoenas)."
+    },
+    {
+      "id": "eth_principles_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Informed Consent & Confidentiality",
+      "content": "Assess your understanding of consent elements and mandatory exceptions to confidentiality.",
+      "quizQuestion": "Under which of the following circumstances is a psychologist legally and ethically required to breach client confidentiality?",
+      "quizOptions": [
+        "A client admits that they cheated on their spouse five years ago",
+        "A client discloses that they currently abuse and neglect their 6-year-old child",
+        "A client's employer calls demanding to know the client's diagnostic status",
+        "A client admits they voted for a political candidate the psychologist dislikes"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_principles_8",
+      "type": "content",
+      "title": "The Tarasoff Case: Duty to Protect",
+      "content": "# Tarasoff v. Regents of the University of California\n\nThe landmark legal case establishing the clinician's obligation to protect third parties is **Tarasoff (1974, 1976)**.\n\n## The Tragic Case Summary:\n- Prosenjit Poddar, a student at UC Berkeley, disclosed to his university psychologist (Dr. Lawrence Moore) his explicit intent to murder Tatiana Tarasoff upon her return from Brazil.\n- Dr. Moore notified campus police, who briefly questioned Poddar and released him after he promised to stay away. No one ever warned Tatiana Tarasoff or her family.\n- Weeks later, Poddar brutally stabbed and murdered Tatiana Tarasoff.\n\n## The California Supreme Court Ruling:\n- *'The protective privilege ends where the public peril begins.'*\n- Established the legal **Duty to Warn and Duty to Protect** identifiable third parties when a patient presents a serious danger of violence, requiring clinicians to notify the potential victim and law enforcement."
+    },
+    {
+      "id": "eth_principles_9",
+      "type": "content",
+      "title": "Fidelity and Responsibility",
+      "content": "# Principle B: Fidelity and Professional Integrity\n\n**Fidelity and Responsibility** govern how psychologists conduct themselves toward clients, colleagues, and the wider civic community.\n\n## Key Mandates:\n- **Clarifying Professional Roles:** Psychologists clarify their roles and obligations to all parties (e.g., when hired by a corporation to evaluate employees, making clear that the corporation is the client, not the employee).\n- **Managing Conflicts of Interest:** Refusing engagements where personal, financial, or political interests could compromise objectivity or exploit clients.\n- **Peer Accountability:** Psychologists do not look away from ethical misconduct among colleagues; they address informal violations collegially or file formal ethics complaints when substantial harm occurs.\n- **Pro Bono Service:** Encouraged to contribute a portion of professional time for little or no financial compensation to serve indigent populations."
+    },
+    {
+      "id": "eth_principles_10",
+      "type": "content",
+      "title": "Integrity and Deception Standards",
+      "content": "# Principle C: Integrity in Science and Practice\n\nPsychologists promote accuracy, honesty, and truthfulness, prohibiting fraud, fabrication, and misrepresentation.\n\n## Integrity in Public Statements:\n- Prohibits false, deceptive, or fraudulent public statements regarding credentials, academic degrees, clinical success rates, or institutional affiliations.\n- Media appearances (television, podcasts, books) must ensure commentary is grounded in established psychological literature rather than sensationalist speculation.\n\n## Subterfuge & Deception Limits:\n- Deception in research is strictly prohibited unless justified by profound prospective scientific value and where non-deceptive alternative procedures are unavailable.\n- Deception regarding severe physical pain or emotional trauma is absolutely prohibited under all circumstances."
+    },
+    {
+      "id": "eth_principles_11",
+      "type": "content",
+      "title": "Justice and Equitable Access",
+      "content": "# Principle D: Justice and Anti-Discrimination\n\nThe principle of **Justice** demands that the benefits of psychological science and therapy be made equitably available to all individuals without prejudice.\n\n## Eliminating Bias:\n- Psychologists exercise reasonable judgment and take precautions to ensure that their potential biases, boundaries of competence, and limitations of expertise do not lead to or condone unjust practices.\n- Prohibits unfair discrimination based on age, gender, gender identity, race, ethnicity, culture, national origin, religion, sexual orientation, disability, or socioeconomic status.\n\n## Culturally Competent Care:\n- Recognizing that Western psychological frameworks cannot be arbitrarily imposed on diverse cultural groups without validated cultural adaptation."
+    },
+    {
+      "id": "eth_principles_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Tarasoff & Integrity",
+      "content": "Verify your understanding of Tarasoff legal duty and scientific integrity.",
+      "quizQuestion": "What fundamental legal principle was established by the California Supreme Court in the landmark Tarasoff case?",
+      "quizOptions": [
+        "Psychologists may never disclose client statements under any circumstances",
+        "Therapists have a legal duty to protect and warn identifiable third parties when a patient poses an imminent, serious threat of lethal violence",
+        "Psychotherapy records must be published online for transparency",
+        "Clients cannot be billed for missed appointments"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_principles_12",
+      "type": "content",
+      "title": "Respect for Rights and Dignity",
+      "content": "# Principle E: Dignity and Self-Determination\n\nPsychologists respect the dignity, inherent worth, and fundamental human rights of all individuals.\n\n## Privacy and Autonomy:\n- Upholding individual rights to self-determination, recognizing that clients have the sovereign right to make their own life choices (including choosing to terminate therapy or pursue unconventional lifestyles), provided it does not harm others.\n\n## Special Vulnerability Protections:\n- Psychologists are aware that special safeguards may be necessary to protect the rights and welfare of persons or communities whose vulnerabilities impair autonomous decision making (e.g., prisoners, cognitively impaired elderly, traumatized refugees, undocumented migrants)."
+    },
+    {
+      "id": "eth_principles_13",
+      "type": "content",
+      "title": "Ethical Decision-Making Models",
+      "content": "# Navigating Complex Ethical Dilemmas\n\nEthical practice is not about memorizing a rigid rulebook; it requires an active, structured **ethical decision-making process** (Koocher & Keith-Spiegel).\n\n## The 8-Step Ethical Decision Framework:\n1. **Identify the Problem:** Articulate the precise dilemma, stakeholders, and potential harms.\n2. **Consult the Ethics Code:** Review relevant APA standards and state legal statutes.\n3. **Determine Nature and Dimensions:** Consider moral principles (beneficence, autonomy, justice).\n4. **Consult Knowledgeable Colleagues:** Seek confidential peer supervision from experienced ethicists.\n5. **Generate Potential Courses of Action:** Brainstorm creative solutions beyond binary extremes.\n6. **Evaluate Consequences of All Options:** Test each option against the 'universalizability' test and public disclosure test.\n7. **Select and Execute the Optimal Course:** Implement with professional documentation.\n8. **Reflect on Outcomes:** Monitor effects and adjust if unanticipated complications arise."
+    },
+    {
+      "id": "eth_principles_14",
+      "type": "content",
+      "title": "Record Keeping & Digital Privacy",
+      "content": "# Contemporary Ethical Challenges: Digital Care\n\nThe expansion of telehealth, electronic health records (EHR), and artificial intelligence creates novel ethical landscapes.\n\n## HIPAA Compliance & Data Security:\n- The Health Insurance Portability and Accountability Act (HIPAA) mandates strict technical and administrative safeguards for electronic protected health information (ePHI).\n- Psychologists must use encrypted, HIPAA-compliant telehealth video platforms, maintaining secure cloud backups.\n\n## Ethical Dilemmas in Social Media:\n- Psychologists avoid accepting personal social media 'friend requests' from active or former clients to prevent boundary violations and preserve the sanctity of the therapeutic frame."
+    },
+    {
+      "id": "eth_principles_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Decision Making & Technology",
+      "content": "Assess your understanding of ethical decision frameworks and digital boundaries.",
+      "quizQuestion": "When a psychologist faces a complex, ambiguous ethical dilemma where two principles conflict, what is the most professionally sound immediate step?",
+      "quizOptions": [
+        "Guess randomly based on immediate emotional gut reaction",
+        "Engage in a structured ethical decision-making model and seek confidential consultation with knowledgeable colleagues",
+        "Immediately terminate all active clients to avoid liability",
+        "Post the details publicly on an online forum to poll public opinion"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_principles_15",
+      "type": "content",
+      "title": "Summary of Ethical Principles",
+      "content": "# Synthesis of Psychological Ethics\n\nEthical principles are the moral compass that preserves the integrity of psychological science and protects the human dignity of those we serve.\n\n## Core Principles Review:\n1. **Aspirational vs. Enforceable:** The five General Principles inspire; the Ethical Standards mandate.\n2. **Beneficence & Nonmaleficence:** Do good and do no harm; safeguard client welfare above institutional convenience.\n3. **Informed Consent:** An ongoing dialogue ensuring capacity, full information, and uncoerced voluntariness.\n4. **Confidentiality & Limits:** Sacred trust breached only for imminent suicide, duty to protect identifiable third parties (Tarasoff), and mandatory abuse reporting.\n5. **Ethical Rigor:** Structured decision-making models, peer consultation, and digital boundary maintenance ensure high professional standards."
+    }
+  ]
+}

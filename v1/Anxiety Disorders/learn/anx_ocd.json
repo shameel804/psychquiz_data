@@ -1,0 +1,155 @@
+{
+    "id": "learn_anx_ocd",
+    "topicId": "anx_ocd",
+    "topicTitle": "OCD & Related Disorders",
+    "description": "Master the diagnostic features, neurocircuitry, and cognitive-behavioral treatments for Obsessive-Compulsive Disorder, BDD, Hoarding, and Trichotillomania",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "anx_ocd_1",
+            "type": "content",
+            "title": "Introduction to OCD and Related Disorders",
+            "content": "# The Obsessive-Compulsive Spectrum\n\nIn DSM-5, **Obsessive-Compulsive and Related Disorders (OCRDs)** were moved out of the Anxiety Disorders chapter into an independent diagnostic category.\n\n## The OCRD Chapter Includes:\n1. **Obsessive-Compulsive Disorder (OCD)**: Intrusive obsessions and repetitive compulsions.\n2. **Body Dysmorphic Disorder (BDD)**: Preoccupation with perceived defects in physical appearance.\n3. **Hoarding Disorder**: Persistent difficulty discarding possessions regardless of actual value.\n4. **Trichotillomania (Hair-Pulling Disorder)**: Recurrent pulling out of one's own hair.\n5. **Excoriation (Skin-Picking Disorder)**: Recurrent picking at skin resulting in lesions.\n\n## Unifying Core Feature:\nRepetitive thoughts, preoccupations, or repetitive behavioral or mental rituals driven by distress, urge, or impaired behavioral inhibition."
+        },
+        {
+            "id": "anx_ocd_2",
+            "type": "content",
+            "title": "OCD: Defining Obsessions vs. Compulsions",
+            "content": "# Anatomy of OCD: DSM-5-TR Criteria\n\nOCD requires the presence of obsessions, compulsions, or both, which are time-consuming (**taking > 1 hour per day**) or cause clinically significant impairment.\n\n## 1. Obsessions Defined:\n- **Recurrent, persistent, intrusive, and unwanted thoughts, urges, or images** that cause marked anxiety or distress.\n- The individual attempts to ignore, suppress, or neutralize them with some other thought or action.\n\n## 2. Compulsions Defined:\n- **Repetitive behaviors** (hand washing, ordering, checking) or **mental acts** (praying, counting, repeating words silently) that the individual feels driven to perform in response to an obsession or according to rigid rules.\n- Behaviors are aimed at preventing or reducing anxiety or preventing a dreaded event, but are **not connected in a realistic way** or are clearly excessive."
+        },
+        {
+            "id": "anx_ocd_3",
+            "type": "content",
+            "title": "Common OCD Symptom Dimensions",
+            "content": "# Major OCD Symptom Dimensions\n\nFactor-analytic studies identify four consistent multidimensional symptom clusters in OCD:\n\n1. **Contamination and Cleaning**:\n   - Obsessions: Fear of germs, chemicals, bodily fluids, dirt.\n   - Compulsions: Excessive washing, sanitizing, ritualized bathing, avoidance of public handles.\n2. **Harm / Responsibility and Checking**:\n   - Obsessions: Intrusive thoughts of causing a fire, burglary, or hitting a pedestrian while driving.\n   - Compulsions: Repeatedly checking locks, stoves, checking rear-view mirrors.\n3. **Symmetry, Completeness, and Ordering**:\n   - Obsessions: Urge for perfect balance, alignment, or exactness; intense 'not-just-right' experiences (NJREs).\n   - Compulsions: Lining up objects symmetrically, tapping patterns.\n4. **Taboo Intrusive Thoughts**:\n   - Obsessions: Unwanted sexual, blasphemous religious (scrupulosity), or violent intrusive images.\n   - Compulsions: Mental neutralization rituals, silent prayer repetitions, reassurance seeking."
+        },
+        {
+            "id": "anx_ocd_quiz_1",
+            "type": "quiz",
+            "title": "OCD Dimensions Check",
+            "content": "Verify knowledge of OCD definitions and dimensions.",
+            "quizQuestion": "What is the mandatory minimum daily time requirement specified in DSM-5-TR for obsessions and compulsions to meet diagnostic threshold?",
+            "quizOptions": [
+                "At least 15 minutes per week",
+                "More than 1 hour per day (or causing clinically significant distress/impairment)",
+                "At least 6 continuous hours daily",
+                "Continuous presence during REM sleep cycles"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_ocd_4",
+            "type": "content",
+            "title": "Cognitive Models: Salkovskis and Thought-Action Fusion",
+            "content": "# Cognitive Theory of OCD (Paul Salkovskis)\n\nNormal individuals have intrusive thoughts. In 1978, Rachman & de Silva proved that **90% of healthy people experience intrusive thoughts identical in content to OCD patients** (e.g., swerving into traffic, dropping a baby).\n\n## Why Does OCD Develop?\n- The problem is NOT the intrusive thought itself, but the **catastrophic meaning and personal responsibility** assigned to it.\n\n## Cognitive Distortions in OCD:\n- **Inflated Responsibility**: Believing one has the power and duty to prevent catastrophic harm.\n- **Thought-Action Fusion (TAF)**:\n  - **Moral TAF**: Believing that having an immoral thought is morally equivalent to performing the action.\n  - **Likelihood TAF**: Believing that having a thought about an event increases the objective probability of that event happening."
+        },
+        {
+            "id": "anx_ocd_5",
+            "type": "content",
+            "title": "The OCD Negative Reinforcement Cycle",
+            "content": "# The Compulsive Vicious Cycle\n\n```\n                  [Intrusive Trigger/Thought]\n                    ('My hands touched germs')\n                                |\n                                v\n                 [Inflated Appraisal of Danger]\n                     ('I will infect my family')\n                                |\n                                v\n                   [Intense Anxiety / Distress]\n                                |\n                                v\n                    [Compulsive Ritual / Act]\n                  (Washing hands 10 times in bleach)\n                                |\n                                v\n             [Temporary Anxiety Reduction (Relief)]\n                                |\n                                +----> Negatively reinforces compulsion\n                                       and cements belief that ritual\n                                       prevented disaster!\n```\n\nCompulsions provide short-term relief, which guarantees the obsession will return with higher intensity."
+        },
+        {
+            "id": "anx_ocd_6",
+            "type": "content",
+            "title": "Neurobiology of OCD: The CSTC Loop",
+            "content": "# The Cortico-Striato-Thalamo-Cortical (CSTC) Circuit\n\nOCD is driven by a localized hyperactive neurocircuit known as the **CSTC loop** (the 'worry circuit' or brain error detector).\n\n## Anatomy of the CSTC Loop:\n1. **Orbitofrontal Cortex (OFC)**: Evaluates emotional significance, social rules, and errors; hyperactive in OCD ('Something is terribly wrong!').\n2. **Anterior Cingulate Cortex (ACC)**: Detects cognitive conflict and error signaling; drives the relentless sense of tension.\n3. **Caudate Nucleus (Striatum)**: Acts as a central filter or gating mechanism for behavioral routines. In OCD, the caudate fails to filter out hyperactive OFC signals.\n4. **Thalamus**: Relays unfiltered distressing messages back to the frontal cortex, locking the brain in an endless recursive loop.\n\n```\nOrbitofrontal Cortex / ACC <---> Striatum (Caudate) <---> Thalamus\n```"
+        },
+        {
+            "id": "anx_ocd_quiz_2",
+            "type": "quiz",
+            "title": "OCD Neurocircuitry Check",
+            "content": "Verify knowledge of the neurocircuitry of OCD.",
+            "quizQuestion": "Which cerebral circuit exhibits marked hyperactivity on neuroimaging and fails to filter out intrusive error signals in patients with OCD?",
+            "quizOptions": [
+                "Hypothalamic-Pituitary-Adrenal (HPA) axis",
+                "Cortico-Striato-Thalamo-Cortical (CSTC) loop",
+                "Spinocerebellar tract",
+                "Tuberoinfundibular dopamine pathway"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_ocd_7",
+            "type": "content",
+            "title": "Exposure and Response Prevention (ERP)",
+            "content": "# Exposure and Response Prevention (ERP)\n\nPioneered by **Edna Foa**, ERP is the gold-standard psychological treatment for OCD, producing durable recovery in 70% to 80% of patients.\n\n## The Two Indispensable Components:\n1. **Exposure**: Deliberately confronting feared stimuli, thoughts, or images that provoke obsessive distress (e.g., touching a public doorknob, reading an intrusive sentence).\n2. **Response Prevention (RP)**: Strict, voluntary refusal to perform the compulsive ritual, mental neutralization, or safety behavior (e.g., refraining from washing hands or saying silent prayers).\n\n## The Mechanism of Recovery:\n- Demonstrates that anxiety peaks, plateaus, and naturally drops without performing the ritual (habituation).\n- Builds new safety memories disconfirming catastrophic responsibility beliefs."
+        },
+        {
+            "id": "anx_ocd_8",
+            "type": "content",
+            "title": "Pharmacotherapy for OCD: High-Dose SSRIs",
+            "content": "# Pharmacological Treatment of OCD\n\nPharmacotherapy for OCD differs substantially from the treatment of major depression across three critical parameters:\n\n## The Three Distinct Rules of OCD Pharmacotherapy:\n1. **Higher Dosing**: Requires doses at or above the maximum recommended antidepressant range:\n   - Sertraline: up to 200-400 mg/day (vs. 100-200 mg in MDD).\n   - Fluoxetine: up to 80-120 mg/day (vs. 20-40 mg in MDD).\n   - Escitalopram: up to 30-40 mg/day (vs. 10-20 mg in MDD).\n2. **Longer Trial Duration**: Requires **10 to 12 weeks** of continuous high-dose therapy to assess clinical response (vs. 4-6 weeks for depression).\n3. **Clomipramine (Anafranil)**: Gold-standard tertiary TCA; most potent pharmacological agent for OCD; reserved for SSRI failures due to cardiac toxicity and anticholinergic side effects.\n\n*Augmentation Strategy:* Adding low-dose atypical antipsychotics (Aripiprazole, Risperidone) provides dopaminergic striatal blockade."
+        },
+        {
+            "id": "anx_ocd_9",
+            "type": "content",
+            "title": "Body Dysmorphic Disorder (BDD)",
+            "content": "# Body Dysmorphic Disorder (BDD)\n\n**BDD** is characterized by preoccupation with one or more perceived defects or flaws in physical appearance that are **unobservable or appear slight to others**.\n\n## Diagnostic Criteria (DSM-5-TR):\n- Performance of repetitive behaviors (mirror checking, excessive grooming, skin picking, reassurance seeking) or mental acts (comparing appearance with others) in response to appearance concerns.\n- Causes significant distress or impairment.\n- Not better explained by an eating disorder.\n\n## Specifier: Muscle Dysmorphia\nPreoccupation with the belief that one's body build is too small or insufficiently muscular (predominantly in males).\n\n## Clinical Reality:\nCosmetic surgery, dermatological treatments, and dental procedures **do NOT improve BDD**; patients typically become more distressed or shift fixations to a new body area."
+        },
+        {
+            "id": "anx_ocd_quiz_3",
+            "type": "quiz",
+            "title": "BDD Clinical Knowledge Check",
+            "content": "Verify clinical management of Body Dysmorphic Disorder.",
+            "quizQuestion": "Why is referral for plastic or cosmetic surgery contraindicated for patients presenting with Body Dysmorphic Disorder (BDD)?",
+            "quizOptions": [
+                "Surgical anesthesia causes permanent memory loss in BDD",
+                "Cosmetic surgery fails to improve BDD symptoms and frequently worsens distress or shifts obsessions to a new body part",
+                "BDD patients have a genetic inability to form scar tissue",
+                "Plastic surgery immediately cures all obsessive thoughts permanently"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_ocd_10",
+            "type": "content",
+            "title": "Hoarding Disorder",
+            "content": "# Hoarding Disorder (DSM-5-TR)\n\nHoarding was designated as an independent diagnosis in DSM-5, distinct from classic OCD.\n\n## Diagnostic Core Criteria:\n1. Persistent difficulty discarding or parting with possessions, **regardless of their actual value**.\n2. Driven by a perceived need to save items and distress associated with discarding them.\n3. Results in the accumulation of possessions that **congest and clutter active living areas** and substantially compromise their intended use.\n\n## Differences from Classic OCD:\n- Thoughts in hoarding are typically **ego-syntonic** (saving items feels comforting, creative, and responsible) whereas OCD obsessions are ego-dystonic.\n- Hoarding lacks the repetitive intrusive distress seen in classic OCD rituals.\n- Extremely poor response to standard SSRI medications; requires specialized cognitive-behavioral hoarding protocols."
+        },
+        {
+            "id": "anx_ocd_11",
+            "type": "content",
+            "title": "Trichotillomania and Excoriation Disorder",
+            "content": "# Body-Focused Repetitive Behaviors (BFRBs)\n\n## 1. Trichotillomania (Hair-Pulling Disorder):\n- Recurrent pulling out of one's hair resulting in hair loss (scalp, eyebrows, eyelashes).\n- Repeated attempts to decrease or stop hair pulling.\n- Often accompanied by oral manipulation (trichophagia - chewing or swallowing hair, risking life-threatening gastrointestinal **trichobezoars** or 'Rapunzel syndrome').\n\n## 2. Excoriation (Skin-Picking) Disorder:\n- Recurrent skin picking resulting in lesions (face, arms, hands); causes tissue damage and infection.\n\n## Treatment: Habit Reversal Training (HRT) (Azrin & Nunn):\n1. **Awareness Training**: Identifying early sensory triggers, postures, and antecedents.\n2. **Competing Response Training**: Engaging in an incompatible physical action (e.g., clenching fists, holding a stress ball) for 1-2 minutes upon feeling the urge.\n3. **Stimulus Control**: Modifying environment (wearing gloves, covering mirrors)."
+        },
+        {
+            "id": "anx_ocd_12",
+            "type": "content",
+            "title": "PANDAS and Pediatric Autoimmune OCD",
+            "content": "# PANDAS and PANS\n\n## PANDAS Defined:\n- **Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections**.\n\n## Pathophysiology: Molecular Mimicry\n- A subset of children experience sudden, overnight, explosive onset of severe OCD symptoms, tics, and emotional lability following a **Group A beta-hemolytic streptococcal infection** (strep throat).\n- The child's immune system produces antibodies against streptococcal M-proteins that cross-react with neuronal antigens in the **basal ganglia striatum** (identical to Sydenham chorea in rheumatic fever).\n\n## Clinical Diagnosis & Treatment:\n- Abrupt 'overnight' dramatic onset ('my child woke up a completely different person').\n- Confirmed with elevated anti-streptolysin O (ASO) or anti-DNase B titers.\n- Medical management: Antibiotic prophylaxis, NSAIDs, plasma exchange, or IVIG."
+        },
+        {
+            "id": "anx_ocd_quiz_4",
+            "type": "quiz",
+            "title": "PANDAS & BFRB Check",
+            "content": "Verify knowledge of PANDAS and habit reversal.",
+            "quizQuestion": "In PANDAS, what biological mechanism links a prior streptococcal infection to sudden, explosive pediatric OCD symptoms?",
+            "quizOptions": [
+                "Direct bacterial invasion of cerebral ventricles",
+                "Molecular mimicry where anti-strep antibodies cross-react with basal ganglia neurons",
+                "Massive depletion of acetylcholine at neuromuscular junctions",
+                "Degeneration of cerebellar Purkinje cells"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "anx_ocd_13",
+            "type": "content",
+            "title": "Neurosurgical and Neuromodulation Treatments for Severe OCD",
+            "content": "# Interventional Neuromodulation for Refractory OCD\n\nFor severe, disabling OCD refractory to multiple high-dose SSRI trials, clomipramine, antipsychotic augmentation, and intensive ERP:\n\n## 1. Deep Brain Stimulation (DBS):\n- Implantation of bilateral electrical leads into the **ventral capsule / ventral striatum (VC/VS)** or **subthalamic nucleus (STN)** connected to an implanted pulse generator.\n- Delivers continuous high-frequency stimulation to disrupt hyperactive CSTC firing; produces 40% to 60% response rates in severe intractable cases.\n\n## 2. Anterior Capsulotomy and Cingulotomy:\n- Stereotactic ablative lesioning (via radiofrequency or Gamma Knife radiation) interrupting white matter tracts in the anterior limb of the internal capsule or anterior cingulate cortex.\n\n## 3. Deep Transcranial Magnetic Stimulation (dTMS):\n- FDA-approved specialized H-coil targeting the bilateral medial prefrontal cortex and ACC."
+        },
+        {
+            "id": "anx_ocd_14",
+            "type": "content",
+            "title": "Insight Specifiers across the OCRD Spectrum",
+            "content": "# Insight Specifiers in DSM-5-TR\n\nEvery OCRD diagnosis requires specifying the level of insight regarding delusional conviction:\n\n## The Insight Continuum:\n1. **With Good or Fair Insight**: Individual recognizes that obsessive-compulsive beliefs are definitely or probably not true, or that they may or may not be true.\n2. **With Poor Insight**: Individual thinks obsessive-compulsive beliefs are probably true.\n3. **With Absent Insight / Delusional Beliefs**: Individual is completely convinced that obsessive-compulsive beliefs are 100% true (e.g., completely convinced that their skin looks deformed or that failure to tap 4 times will cause their mother's death).\n\n> **Diagnostic Insight:** Even with delusional conviction, patients with OCD are NOT diagnosed with a psychotic disorder; they are diagnosed with 'OCD with absent insight/delusional beliefs'."
+        },
+        {
+            "id": "anx_ocd_15",
+            "type": "content",
+            "title": "Summary of OCD & Related Disorders",
+            "content": "# OCD & Related Disorders Summary\n\n## Core Formulations:\n1. **Obsessions & Compulsions**: Intrusive, distress-provoking thoughts paired with repetitive physical or mental neutralizing rituals (> 1 hour/day).\n2. **Cognitive Drivers**: Salkovskis' inflated responsibility and Thought-Action Fusion maintain obsessive significance.\n3. **CSTC Loop**: Hyperactive circuit connecting the Orbitofrontal Cortex, Anterior Cingulate, Caudate, and Thalamus.\n4. **ERP Gold Standard**: Exposure and Response Prevention extinguishes rituals and disconfirms fear.\n5. **High-Dose SSRIs**: Requires higher doses and longer trials (10-12 weeks) than depression treatment.\n6. **Spectrum Scope**: BDD (preoccupation with perceived defects), Hoarding (inability to discard), Trichotillomania/Excoriation (BFRBs treated with Habit Reversal Training), PANDAS (autoimmune post-strep)."
+        }
+    ]
+}

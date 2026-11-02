@@ -1,0 +1,155 @@
+{
+  "id": "learn_eth_research",
+  "topicId": "eth_research",
+  "topicTitle": "Ethics in Research",
+  "description": "Master research ethics in psychological science, covering the Belmont Report, Institutional Review Boards (IRB), deception protocols, debriefing, vulnerable populations, and scientific data integrity.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "eth_research_1",
+      "type": "content",
+      "title": "Historical Catalyst: Research Scandals",
+      "content": "# The Genesis of Research Ethics\n\nContemporary research ethics codes did not emerge from abstract academic musings; they were forged in response to horrifying human rights atrocities and unethical scientific experiments.\n\n## Foundational Historical Scandals:\n1. **The Nuremberg Trials (1947):** Nazi physician experiments conducted on concentration camp prisoners without consent. Led directly to the **Nuremberg Code**, mandating voluntary informed consent.\n2. **The Tuskegee Syphilis Study (1932-1972):** U.S. Public Health Service tracked 600 impoverished African American men with syphilis, deliberately withholding penicillin treatment for decades after it was proven curative in 1947 to study the natural progression of untreated death.\n3. **Milgram Obedience Experiments (1961):** Deceived participants into believing they were administering lethal 450-volt electric shocks to a screaming victim, inducing severe acute psychological trauma.\n4. **Stanford Prison Experiment (Philip Zimbardo, 1971):** Simulated prison simulation aborted after 6 days due to sadistic guard abuse and student emotional breakdowns."
+    },
+    {
+      "id": "eth_research_2",
+      "type": "content",
+      "title": "The Belmont Report (1979)",
+      "content": "# The Belmont Report: Core Principles\n\nDrafted by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, the **Belmont Report** serves as the moral bedrock of human subjects federal regulations in the United States.\n\n## The Three Ethical Pillars:\n\n### 1. Respect for Persons:\n- Acknowledges the personal autonomy of individuals.\n- Requires that persons with diminished autonomy (minors, prisoners, cognitively impaired) be provided special protective safeguards.\n- *Operationalized via:* **Informed Consent**.\n\n### 2. Beneficence:\n- Obligation to maximize potential benefits while minimizing potential harms and risks.\n- *Operationalized via:* Systematic **Risk-Benefit Analysis**.\n\n### 3. Justice:\n- Fair distribution of the burdens and benefits of research. One social group (e.g., poor institutionalized patients) must not bear all the risks of research while another group enjoys the therapeutic fruits.\n- *Operationalized via:* Fair, equitable **Subject Selection**."
+    },
+    {
+      "id": "eth_research_3",
+      "type": "content",
+      "title": "The Institutional Review Board (IRB)",
+      "content": "# The Institutional Review Board (IRB)\n\nAn **Institutional Review Board (IRB)** is an independent federally mandated committee composed of scientists, non-scientists, and community members tasked with reviewing, approving, and monitoring all research involving human participants.\n\n## Core Mandate:\n- To ensure that human participants are treated ethically, risks are minimized and reasonable in relation to anticipated benefits, and informed consent is properly executed.\n\n## The Three Tiers of IRB Review:\n1. **Exempt Review:** Negligible risk involving benign procedures (e.g., anonymous educational surveys, naturalistic observation in public spaces).\n2. **Expedited Review:** Minimal risk research that does not exceed the risks encountered in daily life or routine physical/psychological exams (e.g., non-invasive biometric recordings, standard cognitive tests).\n3. **Full Board Review:** Greater than minimal risk, involving vulnerable populations, invasive physical manipulations, stressful social deceptions, or sensitive illicit disclosures."
+    },
+    {
+      "id": "eth_research_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Belmont Report & IRB",
+      "content": "Verify your understanding of the Belmont Report principles and IRB review levels.",
+      "quizQuestion": "In the Belmont Report, which foundational ethical principle mandates that the burdens and benefits of scientific research must be distributed fairly across all social groups?",
+      "quizOptions": [
+        "Beneficence",
+        "Respect for Persons",
+        "Justice",
+        "Empirical Fidelity"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "eth_research_4",
+      "type": "content",
+      "title": "Informed Consent in Research",
+      "content": "# Research Informed Consent Protocols\n\nInformed consent in empirical research requires providing potential participants with comprehensive information before they decide whether to enroll.\n\n## Required Consent Components (Standard 8.02):\n- Purpose of the research, expected duration, and procedures.\n- The absolute right to decline participation and to **withdraw from the research at any time** without penalty or loss of benefits.\n- Foreseeable consequences of declining or withdrawing.\n- Reasonably foreseeable factors that may influence willingness to participate (potential risks, discomfort, adverse effects).\n- Prospective research benefits to the participant or society.\n- Limits of confidentiality.\n- Incentives for participation (avoiding coercive financial sums).\n- Contact information for the principal investigator and the university IRB."
+    },
+    {
+      "id": "eth_research_5",
+      "type": "content",
+      "title": "Deception in Psychological Research",
+      "content": "# The Ethics of Deception: Standard 8.07\n\nIn some social and cognitive experiments, revealing the true hypothesis would induce fatal demand characteristics, ruining ecological realism (e.g., testing helping behavior or conformity).\n\n## The Strict Criteria for Justifying Deception:\n1. **Scientific Justification:** The study's prospective scientific, educational, or applied value justifies the deception.\n2. **No Alternative:** Effective alternative non-deceptive procedures are completely unfeasible.\n3. **Absolute Prohibition:** Psychologists **NEVER deceive participants about research that is reasonably expected to cause physical pain or severe emotional distress**.\n4. **Early Disclosure:** Deception must be explained to participants as early as is feasible\u2014preferably at the conclusion of their participation, and no later than at the conclusion of data collection."
+    },
+    {
+      "id": "eth_research_6",
+      "type": "content",
+      "title": "Debriefing: Dehoaxing and Desensitizing",
+      "content": "# Comprehensive Debriefing: Standard 8.08\n\nWhenever deception is utilized, or whenever experimental procedures induce psychological stress, prompt and thorough **debriefing** is mandatory.\n\n## The Dual Components of Debriefing:\n- **1. Dehoaxing:** Fully revealing the true nature, hypothesis, and mechanics of the study; explaining why deception was necessary and disclosing all experimental confederates and manipulated feedback.\n- **2. Desensitizing:** The process of eliminating any distress, anxiety, embarrassment, or diminished self-esteem induced by the study.\n  - *Example:* If false feedback told a participant they scored low on an intelligence task, the researcher must explicitly demonstrate that the feedback was completely fabricated and random, ensuring the participant leaves the laboratory in an equal or superior psychological state compared to when they arrived."
+    },
+    {
+      "id": "eth_research_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Deception & Debriefing",
+      "content": "Assess your understanding of APA standards governing deception and debriefing.",
+      "quizQuestion": "According to APA Ethical Standard 8.07, under which circumstance is deception in psychological research ABSOLUTELY prohibited?",
+      "quizOptions": [
+        "Whenever testing college undergraduate students",
+        "Whenever research is reasonably expected to cause physical pain or severe emotional distress",
+        "Whenever an experiment utilizes computer questionnaires",
+        "Whenever the study lasts longer than 30 minutes"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_research_7",
+      "type": "content",
+      "title": "Vulnerable Populations in Research",
+      "content": "# Protecting Vulnerable Populations\n\nFederal regulations designate specific human cohorts as **vulnerable populations** requiring heightened scrutiny, specialized consent protocols, and extra protective safeguards.\n\n## Designated Vulnerable Groups:\n- **Children and Minors:** Require parental written consent plus child assent.\n- **Prisoners:** Highly vulnerable to institutional coercion; incentives cannot be so lucrative as to compel risky participation; research must address prison conditions.\n- **Pregnant Women and Fetuses:** Safeguarding against teratogenic risks.\n- **Cognitively Impaired / Psychiatric Inpatients:** Requiring surrogate consent and ongoing assessment of assent.\n- **Subordinates / Students:** Protecting against subtle coercive pressure from professors or employers who grade or pay them."
+    },
+    {
+      "id": "eth_research_8",
+      "type": "content",
+      "title": "Scientific Data Integrity: Fabrication & Falsification",
+      "content": "# Data Integrity & Fraud: Standard 8.10\n\nThe entire enterprise of science collapses if raw data is corrupted by dishonesty. The APA code establishes zero tolerance for scientific misconduct.\n\n## The Three Scientific Sins (FFP):\n1. **Fabrication:** Making up data or results and recording or reporting them as genuine empirical observations.\n   - *Infamous Case:* Diederik Stapel, Dutch social psychologist who fabricated data in dozens of published papers, leading to massive retractions and loss of doctorate.\n2. **Falsification:** Manipulating research materials, equipment, or processes, or changing or omitting data such that the research is not accurately represented.\n3. **Plagiarism (Standard 8.11):** Appropriating another person's ideas, processes, results, or words without giving appropriate academic credit."
+    },
+    {
+      "id": "eth_research_9",
+      "type": "content",
+      "title": "Questionable Research Practices (QRPs)",
+      "content": "# Questionable Research Practices (QRPs)\n\nBeyond overt criminal data fabrication, a grey zone of **Questionable Research Practices (QRPs)** historically compromised psychological science.\n\n## Common QRPs:\n- **P-Hacking (Data Dredging):** Running dozens of post-hoc statistical tests and reporting only the ones that yield `p-value < 0.05` while hiding the non-significant tests.\n- **HARKing (Hypothesizing After the Results are Known):** Presenting a post-hoc, unexpected finding as if it were an a priori confirmatory hypothesis.\n- **Selective Outlier Removal:** Dropping data points that contradict the favored hypothesis without pre-established objective rules.\n- **Failing to Report All Conditions:** Omitting experimental conditions that failed to support the prediction."
+    },
+    {
+      "id": "eth_research_10",
+      "type": "content",
+      "title": "Animal Subjects: Institutional Animal Care (IACUC)",
+      "content": "# Ethical Standards in Animal Research\n\nNon-human animal research is regulated under strict federal guidelines and APA Standard 8.09.\n\n## The Institutional Animal Care and Use Committee (IACUC):\n- Mandatory committee reviewing all vertebrate animal research protocols, requiring veterinarians, scientists, and community representatives.\n\n## The 3Rs Framework (Russell & Burch, 1959):\n1. **Replacement:** Substituting non-animal models (tissue cultures, computer simulations) wherever feasible.\n2. **Reduction:** Using statistical designs that minimize the total number of animal subjects needed while achieving sufficient statistical power.\n3. **Refinement:** Refining experimental and surgical procedures to minimize pain, distress, and discomfort, mandating appropriate anesthesia and analgesia."
+    },
+    {
+      "id": "eth_research_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: QRPs & Animal Ethics",
+      "content": "Verify your understanding of questionable research practices and animal research rules.",
+      "quizQuestion": "In research methodology, what does the questionable practice termed 'HARKing' refer to?",
+      "quizOptions": [
+        "Using audio headphones to test hearing acuity",
+        "Hypothesizing After the Results are Known\u2014presenting post-hoc findings as if they were a priori predictions",
+        "Hiring private investigators to monitor participants",
+        "Administering animal medications to human participants"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_research_11",
+      "type": "content",
+      "title": "Authorship and Publication Ethics",
+      "content": "# Publication Credit & Authorship: Standard 8.12\n\nAuthorship reflects scientific responsibility, intellectual ownership, and public accountability for published research.\n\n## Authorship Requirements:\n- **Substantial Scientific Contribution:** Authorship is granted only for significant intellectual contributions (formulating hypotheses, designing methodology, complex statistical analysis, writing critical sections).\n- **Ghost Authorship:** Unethically concealing the identity of a primary contributor (e.g., pharmaceutical companies writing papers published under academic figureheads).\n- **Gift / Honorary Authorship:** Granting authorship to department heads or colleagues who provided no intellectual input beyond lab space or routine supervision.\n- **Student First Authorship:** A student is listed as principal author on any multi-authored article substantially based on the student's doctoral dissertation."
+    },
+    {
+      "id": "eth_research_12",
+      "type": "content",
+      "title": "Data Sharing and Verification: Standard 8.14",
+      "content": "# Sharing Research Data for Verification\n\nScience is an open, cumulative, self-correcting human endeavor.\n\n## Mandate of Standard 8.14:\n- After research results are published, psychologists **may not withhold the raw data** on which their conclusions are based from other competent professionals who seek to verify the substantive claims through reanalysis.\n- Confidentiality of participants must be protected through thorough de-identification and data anonymization.\n\n## Open Science Repositories:\nContemporary practice encourages depositing anonymized datasets and syntax code directly onto platforms like the Open Science Framework (OSF) upon publication."
+    },
+    {
+      "id": "eth_research_13",
+      "type": "content",
+      "title": "Conflicts of Interest and Industry Funding",
+      "content": "# Financial and Ideological Conflicts\n\nFinancial incentives and industry funding can subtly bias research outcomes.\n\n## Industry Bias (The Funding Effect):\n- Empirical reviews show studies funded by pharmaceutical or corporate sponsors are significantly more likely to report positive findings and downplay adverse side effects than independent publicly funded research.\n\n## Ethical Mandates:\n- Full, transparent disclosure of all funding sources, corporate grants, consulting fees, and stock ownership in every publication.\n- Establishing independent data safety monitoring boards (DSMB) for clinical trials."
+    },
+    {
+      "id": "eth_research_14",
+      "type": "content",
+      "title": "Cross-Cultural Research Ethics",
+      "content": "# Global & Indigenous Research Ethics\n\nConducting psychological research in developing nations or indigenous communities requires vigilance against **helicopter research** (parachuting in, extracting data, and leaving without benefiting the local community).\n\n## Decolonizing Research Ethics:\n- Establishing true community partnerships through **Community-Based Participatory Research (CBPR)**.\n- Respecting local tribal ethics boards and indigenous governance structures.\n- Ensuring research results and economic benefits return directly to empower the host community."
+    },
+    {
+      "id": "eth_research_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Authorship & Data Sharing",
+      "content": "Assess your understanding of publication ethics and data transparency.",
+      "quizQuestion": "According to APA Ethical Standard 8.12, who must be listed as principal (first) author on a published article that is substantially derived from a doctoral dissertation?",
+      "quizOptions": [
+        "The department chair",
+        "The doctoral student who authored the dissertation",
+        "The senior lab technician",
+        "The university president"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "eth_research_15",
+      "type": "content",
+      "title": "Summary of Research Ethics",
+      "content": "# Synthesis of Research Ethics\n\nEthical research requires unwavering dedication to human dignity, scientific truth, and institutional transparency.\n\n## Core Tenets Review:\n1. **Belmont Pillars:** Respect for Persons (consent), Beneficence (risk-benefit), Justice (fair selection).\n2. **IRB Oversight:** Independent scrutiny across Exempt, Expedited, and Full Board review tiers.\n3. **Deception Constraints:** Strictly permitted only under scientific necessity, never for physical pain or severe distress, requiring dehoaxing and desensitizing debriefing.\n4. **Data Honesty:** Zero tolerance for fabrication, falsification, and questionable research practices (p-hacking, HARKing).\n5. **Humane Animal Care:** Guided by the 3Rs (Replacement, Reduction, Refinement) and IACUC oversight."
+    }
+  ]
+}

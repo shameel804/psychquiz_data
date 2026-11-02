@@ -1,0 +1,155 @@
+{
+    "id": "learn_ps_creativity",
+    "topicId": "ps_creativity",
+    "topicTitle": "Creativity",
+    "description": "Explore the psychology of creative cognition, contrasting divergent and convergent thinking, Csikszentmihalyi's flow state, the relationship between intelligence and creativity, and evidence-based methods for fostering innovation.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ps_creativity_1",
+            "type": "content",
+            "title": "The Nature of Creativity",
+            "content": "# The Science of Creativity\n\nWhat is creativity? In cognitive psychology, creativity is not mere artistic flair or random quirkiness.\n\n## The Standard Scientific Definition of Creativity:\nAn idea, product, or solution is creative if it meets two essential criteria:\n1. **Originality (Novelty):** It must be new, surprising, or statistically uncommon.\n2. **Usefulness (Value / Appropriateness):** It must be adaptive, functional, meaningful, or solve an authentic problem within a domain.\n\n## The \"Four C\" Model of Creativity (Kaufman & Beghetto):\n- **Mini-c:** Transformative personal insights during the learning process.\n- **Little-c:** Everyday creative problem solving (cooking, home repair).\n- **Pro-c:** Professional expertise within a creative field (professional composer, scientist).\n- **Big-C:** Eminent, culture-shifting genius (Einstein, Mozart, Shakespeare)."
+        },
+        {
+            "id": "ps_creativity_2",
+            "type": "content",
+            "title": "Divergent vs. Convergent Thinking (Guilford)",
+            "content": "# Divergent vs. Convergent Thinking\n\nJ.P. Guilford (1950, 1967) launched the modern scientific study of creativity by distinguishing two complementary modes of thought:\n\n```\n                                [STARTING POINT / PROBLEM]\n                                             |\n                 +---------------------------+---------------------------+\n                 |                                                       |\n    [DIVERGENT THINKING]                                    [CONVERGENT THINKING]\n    - Generating multiple unique solutions                  - Narrowing down to single best answer\n    - Open-ended, brainstorming                             - Logic, deduction, rule-following\n    - Fluency, Flexibility, Originality                     - Standard IQ testing, mathematics\n```\n\n## The Creative Cycle:\n- True innovation requires **both** modes: divergent thinking generates vast possibilities; convergent thinking rigorously critiques, selects, and refines the most promising idea."
+        },
+        {
+            "id": "ps_creativity_3",
+            "type": "content",
+            "title": "Measuring Divergent Thinking: The Torrance Tests",
+            "content": "# Measuring Creative Potential\n\nEllis Paul Torrance developed the **Torrance Tests of Creative Thinking (TTCT)** (e.g., The Alternative Uses Task):\n- Task: List as many possible uses as you can for an everyday object (e.g., a common red construction brick) in 3 minutes.\n\n## The Four Scoring Dimensions:\n1. **Fluency:** The total count of valid, non-redundant ideas generated.\n2. **Flexibility:** The number of distinct semantic categories spanned (e.g., using a brick as a building material vs. a weapon vs. an art canvas vs. a doorstop).\n3. **Originality:** The statistical rarity of the generated ideas relative to population norms.\n4. **Elaboration:** The degree of descriptive detail and nuance developed for each idea."
+        },
+        {
+            "id": "ps_creativity_quiz_1",
+            "type": "quiz",
+            "title": "Creative Definitions & Thinking Check",
+            "content": "Verify your understanding of creative criteria and divergent thinking dimensions!",
+            "quizQuestion": "In scoring the Alternative Uses Task for divergent thinking, what dimension is measured by calculating the number of distinct semantic categories or conceptual shifts spanned by a participant's answers?",
+            "quizOptions": [
+                "Fluency",
+                "Flexibility",
+                "Originality",
+                "Elaboration"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_creativity_4",
+            "type": "content",
+            "title": "Creativity and Intelligence: The Threshold Hypothesis",
+            "content": "# The Threshold Hypothesis of Intelligence & Creativity\n\nWhat is the relationship between IQ and creative achievement?\n\n## The Threshold Hypothesis (Torrance, 1962):\n\n```\nCreativity Score:\nHigh |                      * * * * * * * * (Vast Scatter above IQ 120)\n     |                    *   *   *   *\n     |                  *   *   *\n     |                *   *\n     |              *   *\nLow  |____________*_____________________________\n     IQ:         80       100       120 (Threshold)    140\n```\n\n## The Two Regimes:\n- **Below IQ 120:** Intelligence and creativity are significantly correlated. Basic cognitive capacity (working memory, vocabulary) is necessary to understand domains and solve problems.\n- **Above IQ 120:** The correlation largely disappears! An IQ of 150 does not make an individual more creative than someone with an IQ of 125. Personality, grit, openness to experience, and intrinsic motivation become the dominant drivers."
+        },
+        {
+            "id": "ps_creativity_5",
+            "type": "content",
+            "title": "Personality Traits of Highly Creative People",
+            "content": "# The Creative Personality Profile\n\nWhat psychological dispositions characterize eminent creative innovators across sciences and arts?\n\n## The Big Five Personality Link:\n- **Openness to Experience:** The single strongest personality predictor of creativity. Encompasses intellectual curiosity, aesthetic appreciation, rich fantasy life, and preference for variety.\n\n## Key Behavioral Traits (Frank Barron & Donald MacKinnon):\n- **High Tolerance for Ambiguity:** Comfort with contradiction, mystery, and unresolved questions without premature closure.\n- **Non-Conformity & Independence of Judgment:** Willingness to challenge prevailing dogmas and endure social disapproval.\n- **Intrinsic Motivation (Teresa Amabile):** Driven by personal fascination, curiosity, and love of the work rather than external rewards or grades."
+        },
+        {
+            "id": "ps_creativity_6",
+            "type": "content",
+            "title": "Flow: The Psychology of Optimal Experience (Csikszentmihalyi)",
+            "content": "# The Concept of Flow (Mihaly Csikszentmihalyi)\n\n**Flow** is a state of intense, effortless absorption and optimal performance occurring when an individual engages in a challenging activity that perfectly matches their skills.\n\n## The Flow Channel:\n\n```\nPerceived Challenges:\nHigh |       [ANXIETY]             [THE FLOW CHANNEL]\n     |                             (Optimal Performance & Deep Enjoyment)\n     |      \n     |       [APATHY]              [BOREDOM]\nLow  |____________________________________________________\n     Low                                              High\n                      Perceived Skills\n```\n\n## The Core Dimensions of Flow:\n1. Clear goals and immediate unambiguous feedback at every step.\n2. Perfect balance between challenge level and personal skill capability.\n3. Merging of action and awareness: self-consciousness vanishes.\n4. Altered subjective perception of time (hours feel like minutes)."
+        },
+        {
+            "id": "ps_creativity_quiz_2",
+            "type": "quiz",
+            "title": "Threshold Hypothesis & Flow Check",
+            "content": "Evaluate your understanding of the intelligence threshold and Csikszentmihalyi's flow channel!",
+            "quizQuestion": "According to Mihaly Csikszentmihalyi's Flow model, what psychological state inevitably emerges when the perceived challenges of a task vastly exceed an individual's available skills?",
+            "quizOptions": [
+                "Boredom",
+                "Apathy",
+                "Anxiety",
+                "Optimal Flow"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ps_creativity_7",
+            "type": "content",
+            "title": "The Four Stages of the Creative Process (Wallas)",
+            "content": "# Graham Wallas's Four-Stage Creative Model (1926)\n\nBased on introspective reports from eminent mathematicians (Henri Poincar\u00e9) and physicists (Hermann von Helmholtz), Wallas outlined four successive phases:\n\n```\n1. [PREPARATION]   ---> Conscious, rigorous research; accumulating domain knowledge and data.\n         |\n         v\n2. [INCUBATION]    ---> Problem set aside; no conscious work; unconscious associative synthesis.\n         |\n         v\n3. [ILLUMINATION]  ---> The sudden \"Aha!\" breakthrough flashes into conscious awareness.\n         |\n         v\n4. [VERIFICATION]  ---> Rigorous conscious testing, mathematical proof, editing, and execution.\n```\n\n> **Core Insight:** You cannot skip Preparation! The prepared mind is the mandatory fertile soil in which incubation operates."
+        },
+        {
+            "id": "ps_creativity_8",
+            "type": "content",
+            "title": "The Geneplore Model (Finke, Ward, & Smith)",
+            "content": "# The Geneplore Cognitive Model\n\nRonald Finke, Thomas Ward, and Steven Smith (1992) proposed the **Geneplore (Generate + Explore)** model to describe creative cognition as a cyclical loop:\n\n```\n                     +-------------------------------+\n                     |     GENERATIVE PHASE          |\n                     | (Retrieve, Associate, Combine)| ---> Creates \"Pre-inventive Structures\"\n                     +-------------------------------+\n                                     |\n                                     v\n                     +-------------------------------+\n                     |     EXPLORATORY PHASE         |\n                     | (Interpret, Test, Attribute)  | ---> Yields Creative Product\n                     +-------------------------------+\n```\n\n## Pre-inventive Mental Structures:\n- Internal mental designs, analogies, or geometric forms assembled before their ultimate functional utility is fully understood.\n- Creative thinkers generate novel forms first, then explore their unexpected affordances!"
+        },
+        {
+            "id": "ps_creativity_9",
+            "type": "content",
+            "title": "Neural Substrates of Creative Cognition",
+            "content": "# The Creative Brain: Network Dynamics\n\nCreativity is not localized to a mythical \"right-brain artistic hemisphere\". Modern cognitive neuroscience demonstrates that creativity requires the dynamic orchestration of three large-scale brain networks:\n\n## The Dynamic Triad (Beaty et al., PNAS 2018):\n1. **Default Mode Network (DMN):** Generates novel internal ideas, spontaneous associations, and remote memories (anterior medial prefrontal cortex, posterior cingulate).\n2. **Executive Control Network (ECN):** Evaluates, critiques, edits, and selects ideas against task constraints (Dorsolateral Prefrontal Cortex).\n3. **Salience Network (SN):** Acts as the dynamic switchboard, shuttling candidate ideas from the DMN to the ECN for refinement (Anterior Insula, Dorsal ACC).\n\n## Creative Super-Connectivity:\n- Highly creative individuals exhibit robust, concurrent functional connectivity between the DMN and ECN\u2014networks that are typically antagonistic in average brains!"
+        },
+        {
+            "id": "ps_creativity_quiz_3",
+            "type": "quiz",
+            "title": "Creative Models & Neurobiology Check",
+            "content": "Test your mastery of Graham Wallas's stages and creative brain network connectivity!",
+            "quizQuestion": "Recent fMRI neuroimaging studies (Beaty et al., 2018) reveal that highly creative individuals possess unusual simultaneous functional connectivity between which two typically antagonistic brain networks during creative tasks?",
+            "quizOptions": [
+                "The Visual Occipital Matrix and Primary Motor Strip",
+                "The Default Mode Network (idea generation) and the Executive Control Network (idea evaluation)",
+                "The Cerebellar Vermis and Spinal Cord",
+                "The Cochlear Nucleus and Hippocampus"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_creativity_10",
+            "type": "content",
+            "title": "Creativity and Psychopathology: Myth vs. Reality",
+            "content": "# Creativity and Mental Illness\n\nIs there a scientific connection between creative genius and psychopathology (\"the mad genius myth\")?\n\n## Empirical Findings:\n- **Bipolar Disorder & Creative Subpopulations:** Empirical studies (Kay Redfield Jamison; Kyaga et al.) show an elevated prevalence of bipolar disorder among poets, playwrights, and authors compared to general population baselines.\n- **The Role of Hypomania:** Mild hypomanic phases feature heightened energy, racing associations, reduced need for sleep, and soaring fluency, facilitating intense output.\n\n## The Inverted-U Hypothesis:\n- Severe full-blown psychosis (severe mania, disorganized schizophrenia) destroys the executive cognitive control necessary to organize and verify creative work.\n- **Latent Inhibition:** Mildly reduced latent inhibition (allowing unfiltered sensory stimuli into awareness) paired with high intelligence and robust executive control produces immense creative breakthroughs."
+        },
+        {
+            "id": "ps_creativity_11",
+            "type": "content",
+            "title": "Fostering Creative Thinking in Education & Work",
+            "content": "# Evidence-Based Methods to Boost Creativity\n\nCan creativity be cultivated, or is it an unchangeable genetic endowment?\n\n## Scientifically Proven Enhancers:\n1. **SCAMPER Technique (Bob Eberle):** Systematic creative prompts:\n   * **S**ubstitute, **C**ombine, **A**dapt, **M**odify, **P**ut to another use, **E**liminate, **R**everse.\n2. **Environmental Psychological Safety (Amy Edmondson):** In teams where failure is not punished, members volunteer unconventional ideas, driving innovation.\n3. **Cross-Domain Conceptual Blending:** Immersing oneself in disparate intellectual fields (e.g., studying biology and architecture) triggers analogical breakthroughs (biomimicry: designing bullet trains based on the kingfisher's beak).\n4. **Moderate Ambient Noise (70 dB):** Studies show moderate ambient coffee shop noise slightly disrupts fluid processing, promoting abstract, out-of-the-box thinking."
+        },
+        {
+            "id": "ps_creativity_12",
+            "type": "content",
+            "title": "Brainstorming: The Myth of Group Synergy",
+            "content": "# The Truth About Brainstorming (Alex Osborn vs Empirical Reality)\n\nIn 1953, advertising executive Alex Osborn claimed that group brainstorming would produce twice as many creative ideas as individuals working alone.\n\n## The Empirical Counter-Evidence (Paulus, Diehl & Stroebe):\n- Decades of controlled experiments show that face-to-face brainstorming groups generate **fewer** and **lower quality** ideas than an equivalent number of individuals working alone (**nominal groups**).\n\n## Three Productivity Killers in Groups:\n1. **Production Blocking:** Only one person can talk at a time; others forget their ideas while listening or suppress them.\n2. **Evaluation Apprehension:** Fear of being judged silently suppresses unconventional ideas.\n3. **Social Loafing / Free Riding:** Individuals expend less mental effort in large groups.\n\n## The Modern Solution: Brainwriting (Hybrid Brainstorming):\n- Individuals write ideas silently on sticky notes or shared digital boards first, followed by structured group categorization."
+        },
+        {
+            "id": "ps_creativity_quiz_4",
+            "type": "quiz",
+            "title": "Group Brainstorming & Techniques Check",
+            "content": "Verify your understanding of brainstorming pitfalls and creative techniques!",
+            "quizQuestion": "Why do traditional face-to-face verbal brainstorming groups consistently produce fewer and less original ideas than nominal groups of individuals working independently?",
+            "quizOptions": [
+                "Group members suffer from the Stroop effect",
+                "Face-to-face groups suffer from production blocking, evaluation apprehension, and social loafing",
+                "Groups completely suppress all divergent thinking neurons in the occipital cortex",
+                "Working memory capacity increases tenfold in group settings"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_creativity_13",
+            "type": "content",
+            "title": "The Systems Model of Creativity (Csikszentmihalyi)",
+            "content": "# The Systems Model of Creativity\n\nMihaly Csikszentmihalyi argued that creativity does not take place solely inside an individual's head; it emerges from a dynamic **three-part sociocultural system**:\n\n```\n                                  [DOMAIN]\n                 (Symbolic cultural rules, notations, history)\n                                  /            \\\n                                 /              \\\n                                v                v\n                [INDIVIDUAL] <------------------ [FIELD]\n         (Generates novel variations)      (Gatekeepers: Curators, Editors,\n                                            Peers, Reviewers who select ideas)\n```\n\n## The Three Nodes:\n1. **The Domain:** The established cultural system of symbols and knowledge (e.g., mathematics, jazz music, molecular biology).\n2. **The Individual:** The person who synthesizes domain knowledge to introduce a novel variation.\n3. **The Field:** The gatekeepers (editors, professors, gallery owners) who validate and preserve the idea in the domain."
+        },
+        {
+            "id": "ps_creativity_14",
+            "type": "content",
+            "title": "Generative Artificial Intelligence and Creativity",
+            "content": "# Computational Creativity in the AI Era\n\nCan artificial neural networks be truly creative?\n\n## Margaret Boden's Three Forms of Creativity:\n1. **Combinational Creativity:** Making unfamiliar combinations of familiar ideas (AI excels here).\n2. **Exploratory Creativity:** Exploring all possibilities within a structured domain space (chess, musical fugues).\n3. **Transformational Creativity:** Altering the fundamental rules or conceptual space itself (introducing Cubism or Quantum Mechanics; uniquely human).\n\n## The Future of Human-AI Co-Creativity:\n- AI acts as an expansive divergent ideation partner, rapidly generating hundreds of candidate variations, while human creators provide intentionality, aesthetic curation, emotional grounding, and ethical validation."
+        },
+        {
+            "id": "ps_creativity_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Creativity\n\n## Core Principles Mastered:\n\n### 1. Dual Criteria & Modes of Thought\n- Creativity requires both Novelty (originality) and Utility (value).\n- Divergent thinking (generating multiple ideas; fluency, flexibility, originality) paired with Convergent thinking (selecting the optimal solution).\n\n### 2. Cognitive & Personality Dynamics\n- Threshold hypothesis: IQ correlates with creativity up to approx 120, after which personality (Openness to Experience) dominates.\n- Csikszentmihalyi's Flow state: Balance between high challenge and high skill.\n\n### 3. Process Models & Neurobiology\n- Wallas's four stages: Preparation, Incubation, Illumination, Verification.\n- Creative brains show co-activation of Default Mode (generation) and Executive Control (evaluation) networks.\n\n### 4. Sociocultural & Applied Realities\n- Traditional group brainstorming fails due to production blocking; hybrid brainwriting triumphs.\n- Systems Model: Creativity lives in the transaction between Individual, Domain, and Field.\n\n> **Congratulations!** You have mastered the entire **Cognitive Psychology & Neuroscience** super-domain (Courses 1-6)! You are now prepared to embark on **Developmental Psychology**!"
+        }
+    ]
+}

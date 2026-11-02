@@ -1,0 +1,155 @@
+{
+  "id": "learn_neuro_disorders",
+  "topicId": "neuro_disorders",
+  "topicTitle": "Neuropsychological Disorders",
+  "description": "Master major clinical neuropsychological disorders, analyzing traumatic brain injury (TBI/CTE), stroke and cerebrovascular syndromes, neurodegenerative dementias (Alzheimer's, Lewy Body, FTD), and epilepsy.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "neuro_disorders_1",
+      "type": "content",
+      "title": "Introduction to Neuropsychological Disorders",
+      "content": "# The Pathology of the Human Brain\n\n**Neuropsychological disorders** encompass clinical conditions resulting from structural damage, vascular disruption, neurodegenerative decay, or functional neurochemical instability within the central nervous system.\n\n## The Brain-Behavior Connection:\n- Neuropsychological disorders provide unique, profound windows into human consciousness, illustrating how localized brain lesions dismantle specific cognitive, emotional, and motor capacities while leaving others completely intact (double dissociations).\n\n## Four Major Clinical Categories Explored:\n1. **Traumatic Brain Injury (TBI) & Concussions**\n2. **Cerebrovascular Accidents (Stroke) & Aphasias**\n3. **Neurodegenerative Dementias (Alzheimer's, FTD, Lewy Body)**\n4. **Epilepsy and Seizure Syndromes**"
+    },
+    {
+      "id": "neuro_disorders_2",
+      "type": "content",
+      "title": "Traumatic Brain Injury (TBI): Biomechanics",
+      "content": "# Biomechanics of Traumatic Brain Injury\n\n**Traumatic Brain Injury (TBI)** occurs when an external physical mechanical force causes damage to the brain tissue.\n\n## Primary Injury Biomechanics:\n- **Coup-Contrecoup Injury:** Direct blunt impact causes the brain to slam against the skull at the point of impact (**coup**), and then rebound backward to slam against the opposite interior skull wall (**contrecoup**), heavily bruising frontal and occipital/temporal poles.\n- **Diffuse Axonal Injury (DAI):** Rotational and acceleration-deceleration forces cause microscopic twisting and shearing of axons across the white matter tracts, disrupting communication between cortical networks.\n\n## Secondary Injury Cascade:\n- Occurs hours and days post-impact: brain edema (swelling), elevated intracranial pressure (ICP), excitotoxicity (glutamate flooding), and ischemic cell death."
+    },
+    {
+      "id": "neuro_disorders_3",
+      "type": "content",
+      "title": "Classification of TBI: GCS and Concussion",
+      "content": "# TBI Severity Stratification\n\nClinicians stratify TBI severity based on three objective parameters: **Glasgow Coma Scale (GCS)**, **Loss of Consciousness (LOC)**, and **Post-Traumatic Amnesia (PTA)**.\n\n| Severity Tier | Glasgow Coma Scale (GCS) | Loss of Consciousness (LOC) | Post-Traumatic Amnesia (PTA) |\n|---------------|--------------------------|-----------------------------|------------------------------|\n| **Mild TBI (Concussion)** | GCS 13 to 15 | Less than 30 minutes | Less than 24 hours |\n| **Moderate TBI** | GCS 9 to 12 | 30 minutes to 24 hours | 1 to 7 days |\n| **Severe TBI** | GCS 3 to 8 (Coma) | Greater than 24 hours | Greater than 7 days |\n\n## Post-Concussion Syndrome (PCS):\nWhile 80-90% of mild concussions resolve within 10 to 14 days, a subset of patients experience prolonged **Post-Concussion Syndrome** lasting months: headaches, dizziness, photophobia, brain fog, and emotional volatility."
+    },
+    {
+      "id": "neuro_disorders_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: TBI Mechanics & Severity",
+      "content": "Verify your understanding of TBI biomechanics and Glasgow Coma Scale severity.",
+      "quizQuestion": "In Traumatic Brain Injury classification, what defines a 'Severe TBI' on the Glasgow Coma Scale (GCS)?",
+      "quizOptions": [
+        "A GCS score of 13 to 15",
+        "A GCS score of 3 to 8, typically indicating a state of coma",
+        "A GCS score of 100",
+        "A GCS score of 0"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "neuro_disorders_4",
+      "type": "content",
+      "title": "Chronic Traumatic Encephalopathy (CTE)",
+      "content": "# Chronic Traumatic Encephalopathy (CTE): Ann McKee\n\nFirst described in boxers as 'dementia pugilistica' (punch-drunk syndrome) and identified in American football players by Bennet Omalu and Ann McKee, **CTE** is a progressive neurodegenerative tauopathy caused by **repetitive subconcussive head impacts**.\n\n## Neuropathological Signature:\n- Abnormal, patchy perivascular accumulation of **hyperphosphorylated tau protein (p-tau)** in the depths of cortical sulci, spreading across frontal and temporal lobes.\n\n## Clinical Progression Across Stages:\n- **Stage 1 & 2 (Young Adulthood):** Explosive rage, emotional volatility, impulsivity, severe depression, paranoia, and elevated suicide risk.\n- **Stage 3 & 4 (Mid-to-Late Adulthood):** Profound memory loss, executive collapse, Parkinsonian motor gait deficits, and full dementia."
+    },
+    {
+      "id": "neuro_disorders_5",
+      "type": "content",
+      "title": "Cerebrovascular Accidents (Stroke)",
+      "content": "# Stroke: Ischemic vs. Hemorrhagic\n\nA **Cerebrovascular Accident (CVA / Stroke)** occurs when blood flow to a region of the brain is disrupted, starving neurons of oxygen and glucose.\n\n## The Two Primary Stroke Types:\n1. **Ischemic Stroke (Approx 87% of cases):** A physical blockage in an artery stopping cerebral blood flow:\n   - *Thrombotic Stroke:* A blood clot (thrombus) forms directly inside a narrowed cerebral artery.\n   - *Embolic Stroke:* A blood clot formed elsewhere (e.g., in the heart due to atrial fibrillation) breaks off and travels into the brain, lodging in a narrow vessel.\n2. **Hemorrhagic Stroke (Approx 13% of cases):** A weakened blood vessel ruptures and bleeds into brain parenchyma (intracerebral) or the subarachnoid space (aneurysm rupture), creating massive toxic pressure.\n\n## The Golden Window: 'Time is Brain'\nIntravenous administration of **tPA (tissue plasminogen activator)** within 3 to 4.5 hours can dissolve ischemic clots, completely reversing neurological deficits."
+    },
+    {
+      "id": "neuro_disorders_6",
+      "type": "content",
+      "title": "The Classical Aphasias: Broca's vs. Wernicke's",
+      "content": "# The Neuropsychology of Aphasia\n\nStrokes affecting the left cerebral hemisphere (Middle Cerebral Artery territory) frequently produce **Aphasia**\u2014an acquired language impairment.\n\n## The Classical Dichotomy:\n\n### 1. Broca's (Expressive / Non-Fluent) Aphasia:\n- **Lesion:** Left posterior inferior frontal gyrus (Brodmann Areas 44/45).\n- **Speech:** Halting, agrammatic, slow, telegraphic speech produced with extreme physical effort (*'Want... go... store'*).\n- **Comprehension:** Relativley intact auditory comprehension.\n- **Awareness:** High awareness of deficits; severe frustration and depression.\n\n### 2. Wernicke's (Receptive / Fluent) Aphasia:\n- **Lesion:** Left posterior superior temporal gyrus (Brodmann Area 22).\n- **Speech:** Fluent, effortless, rapid speech with normal grammar and cadence, but utterly devoid of meaning (**'word salad'**), filled with neologisms (made-up words) and paraphasias.\n- **Comprehension:** Severely impaired auditory comprehension.\n- **Awareness:** Anosognosic (unaware of their deficits)."
+    },
+    {
+      "id": "neuro_disorders_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Stroke & Aphasias",
+      "content": "Assess your understanding of stroke types and aphasia syndromes.",
+      "quizQuestion": "A stroke patient speaks effortlessly and fluently with normal rhythm and inflection, but produces incomprehensible 'word salad' filled with neologisms and cannot understand spoken questions. Which aphasia does this patient exhibit?",
+      "quizOptions": [
+        "Broca's non-fluent aphasia",
+        "Wernicke's fluent aphasia",
+        "Conductive apraxia",
+        "Pure agnosia"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "neuro_disorders_7",
+      "type": "content",
+      "title": "Unilateral Spatial Neglect (Hemispatial Neglect)",
+      "content": "# Hemispatial Neglect: Right Parietal Lesions\n\n**Hemispatial Neglect** is a profound neuropsychological syndrome typically resulting from damage to the **right posterior parietal cortex** (often following a right MCA stroke).\n\n## The Syndrome of Inattention:\n- The patient fails to attend to, perceive, respond to, or acknowledge visual, auditory, or sensory stimuli located on the **contralateral (left) side of space**.\n- This is NOT a visual blindness problem; it is a profound **attentional deficit of internal spatial representation**!\n\n## Clinical Manifestations:\n- Shaving only the right half of their face; applying makeup only to the right eye.\n- Eating food only from the right side of their plate, declaring they are finished until the plate is turned 180 degrees.\n- Drawing a clock face and packing all 12 numbers onto the right half, leaving the left completely empty."
+    },
+    {
+      "id": "neuro_disorders_8",
+      "type": "content",
+      "title": "Alzheimer's Disease: Neuropathology",
+      "content": "# Alzheimer's Disease (AD)\n\n**Alzheimer's Disease** is the leading cause of dementia globally (accounting for 60-70% of cases), characterized by insidious onset and progressive neurocognitive decline.\n\n## The Two Pathological Hallmarks (Alois Alzheimer, 1906):\n1. **Extracellular Amyloid Beta (A-beta) Plaques:** Dense accumulations of misfolded amyloid-beta 42 peptides that form neurotoxic clusters between neurons.\n2. **Intracellular Neurofibrillary Tangles (NFTs):** Hyperphosphorylated **tau protein** that destabilizes the internal microtubule transport system inside neurons, causing cellular collapse and death.\n\n## Anatomical Spreading Pattern:\nBegins deep in the **entorhinal cortex and hippocampus** (explaining early episodic anterograde memory failure), spreading inexorably across temporal, parietal, and frontal cortices."
+    },
+    {
+      "id": "neuro_disorders_9",
+      "type": "content",
+      "title": "Frontotemporal Dementia vs. Lewy Body Dementia",
+      "content": "# Differentiating Non-Alzheimer's Dementias\n\nNeuropsychologists differentiate Alzheimer's from other major neurodegenerative dementias.\n\n## 1. Frontotemporal Dementia (FTD / Pick's Disease):\n- Onset typically younger (age 50 to 65).\n- **Behavioral Variant FTD (bvFTD):** Early profound personality disintegration, social disinhibition, loss of empathy, apathy, hyperorality (compulsive eating of sweets), and executive collapse, while memory remains relatively preserved initially.\n\n## 2. Dementia with Lewy Bodies (DLB):\n- Characterized by abnormal intracellular alpha-synuclein protein aggregates (Lewy bodies).\n- **The Triad of DLB Symptoms:**\n  1. Marked fluctuating cognitive alertness and attention.\n  2. Spontaneous, detailed, well-formed visual hallucinations (seeing children, small animals).\n  3. Spontaneous Parkinsonian motor features (rigidity, tremor, shuffling gait)."
+    },
+    {
+      "id": "neuro_disorders_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Neglect & Dementias",
+      "content": "Verify your understanding of hemispatial neglect and Lewy Body dementia.",
+      "quizQuestion": "Which neurodegenerative dementia is specifically characterized by fluctuating cognitive alertness, spontaneous vivid visual hallucinations, and early Parkinsonian motor symptoms?",
+      "quizOptions": [
+        "Alzheimer's Disease",
+        "Dementia with Lewy Bodies (DLB)",
+        "Vascular Dementia",
+        "Behavioral Variant Frontotemporal Dementia"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "neuro_disorders_10",
+      "type": "content",
+      "title": "Vascular Dementia (VaD)",
+      "content": "# Vascular Cognitive Impairment & Dementia (VaD)\n\n**Vascular Dementia** is the second most common form of dementia, caused by impaired cerebral blood flow resulting from multiple strokes, microvascular disease, or chronic hypertension.\n\n## The 'Stepwise' Deterioration Trajectory:\n- While Alzheimer's presents an insidious, gradual, smooth slope of cognitive decline, Vascular Dementia classically presents a **stepwise deterioration**:\n  - A sudden drop in functioning following an ischemic event, followed by a plateau of stability, followed by another sudden step downward after the next silent stroke.\n\n## Subcortical Ischemic Vascular Dementia (Binswanger's Disease):\n- Extensive white matter hyperintensities ('leukoaraiosis') on MRI, causing severe psychomotor slowing, executive dysfunction, and gait ataxia."
+    },
+    {
+      "id": "neuro_disorders_11",
+      "type": "content",
+      "title": "Epilepsy and Seizure Disorders",
+      "content": "# Epilepsy and Seizure Syndromes\n\n**Epilepsy** is a neurological condition characterized by recurrent, unprovoked seizures resulting from abnormal, excessive, synchronous electrical discharges of cerebral neurons.\n\n## Focal vs. Generalized Seizures:\n- **Focal (Partial) Seizures:** Originate within neural networks limited to one cerebral hemisphere:\n  - *Focal Aware:* Consciousness is preserved; patient experiences sensory auras or motor twitches.\n  - *Focal Impaired Awareness (Complex Partial):* Consciousness is clouded; characterized by automatic repetitive movements (**automatisms**\u2014lip smacking, fumbling with buttons).\n- **Generalized Seizures:** Rapidly engage bilaterally distributed networks:\n  - *Absence Seizures (Petit Mal):* Brief 5- to 10-second staring spells in children.\n  - *Generalized Tonic-Clonic (Grand Mal):* Tonic muscle stiffening followed by violent clonic jerking."
+    },
+    {
+      "id": "neuro_disorders_12",
+      "type": "content",
+      "title": "Temporal Lobe Epilepsy (TLE): Neuropsychology",
+      "content": "# Temporal Lobe Epilepsy (TLE) and Personality\n\n**Temporal Lobe Epilepsy (TLE)** is the most common form of focal epilepsy in adults, frequently involving **mesial temporal sclerosis** (hippocampal scarring).\n\n## Cognitive Deficits in TLE:\n- Dominant (Left) TLE: Material-specific verbal memory and naming deficits.\n- Non-Dominant (Right) TLE: Visuospatial and facial memory deficits.\n\n## The Geschwind Syndrome (Interictal Behavioral Syndrome):\nA rare, controversial personality syndrome observed in some chronic TLE patients:\n- **Hypergraphia:** Compulsive, exhaustive diary writing and creative production.\n- **Hyper-Religiosity & Philosophical Obsession:** Intense spiritual convictions.\n- **Hyposexuality:** Profound reduction in sexual libido.\n- **Viscosity (Sticky Personality):** Clinging, prolonged interpersonal conversations."
+    },
+    {
+      "id": "neuro_disorders_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Vascular Dementia & Epilepsy",
+      "content": "Assess your understanding of vascular dementia trajectories and seizure types.",
+      "quizQuestion": "How does the typical clinical course of Vascular Dementia classically differ from the progression of Alzheimer's Disease?",
+      "quizOptions": [
+        "Vascular dementia resolves completely in 2 weeks",
+        "Vascular dementia classically exhibits a stepwise decline (abrupt drops following microvascular events separated by stable plateaus), whereas Alzheimer's exhibits a gradual, smooth continuous decline",
+        "Vascular dementia affects only children",
+        "Alzheimer's disease is reversible with physical exercise"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "neuro_disorders_13",
+      "type": "content",
+      "title": "Agnosias and Apraxias: Focal Syndromes",
+      "content": "# Specialized Cortical Syndromes\n\nFocal lesions produce extraordinary, highly specific neuropsychological deficits.\n\n## Agnosias (Loss of Recognition Without Sensory Blindness):\n- **Prosopagnosia (Face Blindness):** Bilateral damage to the fusiform face area (FFA); inability to recognize familiar human faces (patients recognize spouses only by voice or walking gait).\n- **Visual Object Agnosia:** Inability to recognize objects visually, though recognition is instant upon touching or smelling them.\n\n## Apraxias (Loss of Motor Planning Without Paralysis):\n- **Ideomotor Apraxia:** Inability to pantomime common tool gestures on command (e.g., *'Show me how you brush your teeth'*), though spontaneous execution remains intact."
+    },
+    {
+      "id": "neuro_disorders_14",
+      "type": "content",
+      "title": "Anosognosia: The Unawareness of Deficit",
+      "content": "# Anosognosia: Deficit of Self-Awareness\n\nCoined by Joseph Babinski (1914), **Anosognosia** is a neurological condition wherein a patient suffering from a severe disability (such as complete left-sided hemiplegia paralysis) is **organically incapable of perceiving or recognizing their paralysis**.\n\n## Not Psychological Denial!\n- Anosognosia is NOT psychological denial or a coping mechanism; it is a structural neuroanatomical deficit (typically involving the right insula and temporoparietal junction).\n- When asked to move their paralyzed left arm, a patient may calmly declare: *'There, I moved it'*, or claim their arm belongs to the doctor!"
+    },
+    {
+      "id": "neuro_disorders_15",
+      "type": "content",
+      "title": "Summary of Neuropsychological Disorders",
+      "content": "# Synthesis of Neuropsychological Disorders\n\nNeuropsychological disorders expose the structural and neurochemical foundations of human conscious experience, demonstrating the fragility and resilience of the human brain.\n\n## Core Principles Review:\n1. **TBI Biomechanics:** Coup-contrecoup bruising and diffuse axonal injury (DAI); GCS severity grading.\n2. **CTE Pathophysiology:** Repetitive subconcussive head trauma driving sulcal p-tau neurodegeneration.\n3. **Cerebrovascular Syndromes:** Ischemic vs. hemorrhagic strokes; Broca's expressive vs. Wernicke's fluent aphasias.\n4. **Dementia Taxonomies:** Alzheimer's (plaques & tangles), Frontotemporal (behavioral variant), Lewy Body (hallucinations & Parkinsonism), and Vascular (stepwise decline).\n5. **Focal Syndromes:** Hemispatial neglect, temporal lobe epilepsy, prosopagnosia, and anosognosia."
+    }
+  ]
+}

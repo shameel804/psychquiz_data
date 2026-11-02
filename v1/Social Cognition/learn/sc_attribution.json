@@ -1,0 +1,155 @@
+{
+    "id": "learn_sc_attribution",
+    "topicId": "sc_attribution",
+    "topicTitle": "Attribution Theory",
+    "description": "Examine how individuals infer the causes of behavior, analyzing Heider's naive psychology, Kelley's covariation model, the Fundamental Attribution Error, and self-serving biases.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sc_attribution_1",
+            "type": "content",
+            "title": "The Naive Psychologist: Fritz Heider (1958)",
+            "content": "# The Science of Social Attribution\n\nHow do humans make sense of the social world? Austrian psychologist Fritz Heider (1958) asserted that every human is a **\"naive psychologist\"** driven by an innate need to predict and control the social environment.\n\n## The Fundamental Attribution Fork:\nWhen observing someone's action, we instinctively assign causality to one of two sources:\n1. **Internal (Dispositional) Attribution:** Explaining behavior by citing enduring personal characteristics (personality, ability, character, attitude).\n   * *\"He cut me off in traffic because he is an aggressive, selfish jerk.\"*\n2. **External (Situational) Attribution:** Explaining behavior by citing temporary environmental or situational pressures.\n   * *\"He cut me off because he is rushing a critically injured child to the hospital.\"*"
+        },
+        {
+            "id": "sc_attribution_2",
+            "type": "content",
+            "title": "Kelley's Covariation Model (1967)",
+            "content": "# Harold Kelley's Covariation Model\n\nHow do people determine whether an event was caused by the **Person**, the **Entity/Target**, or the **Circumstance**? Kelley proposed people track three statistical dimensions:\n\n```\n                                  [KELLEY'S THREE DIMENSIONS]\n                                               |\n         +-------------------------------------+-------------------------------------+\n         |                                     |                                     |\n   [CONSENSUS]                           [DISTINCTIVENESS]                     [CONSISTENCY]\n   - Do others behave identically        - Does the person behave like this    - Does the person behave like\n     in this exact same situation?         toward OTHER different targets?       this at OTHER times/settings?\n```\n\n## The Internal Attribution Combination:\n- **Low Consensus** (nobody else does it) + **Low Distinctiveness** (he yells at everyone) + **High Consistency** (he yells at her every day) = **INTERNAL DISPOSITIONAL ATTRIBUTION!**"
+        },
+        {
+            "id": "sc_attribution_3",
+            "type": "content",
+            "title": "The External Entity Attribution Combination",
+            "content": "# Diagnosing Situational Causality in Kelley's Model\n\nWhen does a person attribute behavior to the external target instead of the actor?\n\n## The Entity Attribution Recipe:\n- **High Consensus:** Everyone laughs at the comedian.\n- **High Distinctiveness:** The person only laughs at this particular comedian, not others.\n- **High Consistency:** The person laughs every time they watch this comedian.\n- **Conclusion:** The comedian is genuinely hilarious! (**External Entity Attribution**).\n\n## Limitations of the Model:\n- People rarely have access to complete cross-situational covariation data.\n- Human observers are cognitively lazy (cognitive misers) and routinely rely on rapid heuristic biases rather than calculating Kelley's 3-way statistical grid!"
+        },
+        {
+            "id": "sc_attribution_quiz_1",
+            "type": "quiz",
+            "title": "Kelley's Covariation Check",
+            "content": "Verify your understanding of Kelley's attribution dimensions!",
+            "quizQuestion": "According to Harold Kelley's Covariation Model, if an employee yells at a customer, and you observe that no other employee yells (Low Consensus), this employee yells at customers in every department (Low Distinctiveness), and yells every single day (High Consistency), what attribution do you make?",
+            "quizOptions": [
+                "An External Situational Attribution (the customer is awful)",
+                "An Internal Dispositional Attribution (the employee has an aggressive personality)",
+                "An Unstable Transient Attribution",
+                "A Self-Serving Attribution"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_attribution_4",
+            "type": "content",
+            "title": "The Fundamental Attribution Error (Ross, 1977)",
+            "content": "# The Fundamental Attribution Error (FAE)\n\nCoined by Lee Ross (1977), the **Fundamental Attribution Error** is the pervasive tendency for observers to underestimate situational influences and overestimate dispositional personality traits when explaining others' behavior.\n\n## The Classic Quizmaster Study (Ross, Amabile, & Steinmetz):\n- Participants were randomly assigned by coin toss to be a **Quizmaster** (who wrote 10 challenging trivia questions from their own esoteric knowledge) or a **Contestant**.\n- Both contestants and neutral observers knew the roles were chosen purely by coin toss!\n- **The FAE in Action:** Observers and contestants rated the Quizmaster as significantly more brilliant and generally knowledgeable than the contestant, completely ignoring the overwhelming situational role advantage!"
+        },
+        {
+            "id": "sc_attribution_5",
+            "type": "content",
+            "title": "The Actor-Observer Effect",
+            "content": "# The Actor-Observer Asymmetry (Jones & Nisbett, 1971)\n\nHow do our causal explanations change when we look at ourselves versus others?\n\n```\nWhen OTHERS make mistakes:   We make DISPOSITIONAL Attributions (\"They are clumsy, lazy, careless!\")\nWhen WE make mistakes:       We make SITUATIONAL Attributions (\"The floor was wet, the sun was in my eyes!\")\n```\n\n## Perceptual Salience (Taylor & Fiske):\n- **When watching others:** The person is the focal, moving visual figure (**perceptually salient**); the background environment is invisible.\n- **When acting ourselves:** We look outward at the dynamic, demanding environment; our own face and body are invisible to our eyes!"
+        },
+        {
+            "id": "sc_attribution_6",
+            "type": "content",
+            "title": "Self-Serving Bias and Defensive Attributions",
+            "content": "# The Self-Serving Bias\n\n**The Self-Serving Bias** is the cognitive tendency to attribute our successes to internal dispositional factors and our failures to external situational factors to protect and boost self-esteem:\n\n## Examination Day in College:\n- Score an A+ on a difficult exam: *\"I am brilliant, hard-working, and master of the material!\"* (Internal Attribution).\n- Score an F on a difficult exam: *\"The professor wrote unfair, trick questions! The test was absurd!\"* (External Attribution).\n\n## Defensive Attributions & Just-World Belief (Lerner):\n- **The Just-World Hypothesis:** The belief that the world is inherently fair and just, where people get what they deserve and deserve what they get.\n- Drives cruel **victim-blaming** (*\"Crime victims must have been careless; homeless people must be lazy\"*) because admitting that bad things happen randomly to innocent people terrifies our own sense of vulnerability!"
+        },
+        {
+            "id": "sc_attribution_quiz_2",
+            "type": "quiz",
+            "title": "FAE & Self-Serving Check",
+            "content": "Evaluate your understanding of the Fundamental Attribution Error and self-serving bias!",
+            "quizQuestion": "In Lee Ross's classic Quizmaster experiment, why did observers judge the trivia questioners as having vastly superior general intelligence to the contestants?",
+            "quizOptions": [
+                "The questioners were required to have advanced PhD degrees",
+                "Observers committed the Fundamental Attribution Error, attributing the questioners' performance to internal brilliance while ignoring the situational advantage of writing one's own questions",
+                "Contestants suffered from the Stroop effect",
+                "Observers exhibited the Gambler's Fallacy"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_attribution_7",
+            "type": "content",
+            "title": "Cultural Variations in Attribution (Nisbett)",
+            "content": "# Culture and the FAE: Is the Error Universal?\n\nRichard Nisbett demonstrated that the Fundamental Attribution Error is NOT a universal biological constant; it is a Western cultural artifact!\n\n## Western vs. East Asian Attributions:\n\n| Cultural Worldview | Primary Focus | Attributional Tendency |\n|---|---|---|\n| **Western Individualistic** (US, UK, Europe) | The autonomous individual agent | **Strong FAE:** Disproportionately dispositional; ignores context. |\n| **East Asian Collectivistic** (China, Japan, Korea) | The holistic, interconnected context | **Holistic Attribution:** Emphasizes background situational, relational, and social role pressures. |\n\n## Newspaper Murder Coverage Study (Morris & Peng):\n- US newspapers explained mass shooters via internal pathology (*\"dark soul, violent temper\"*).\n- Chinese newspapers explained the identical events via situational context (*\"recently fired, isolated, lack of community support\"*)."
+        },
+        {
+            "id": "sc_attribution_8",
+            "type": "content",
+            "title": "Weiner's Attributional Model of Motivation",
+            "content": "# Bernard Weiner's Model of Achievement Motivation\n\nBernard Weiner classified attributions along three orthogonal dimensions that dictate future academic motivation and emotional reactions:\n\n```\n1. Locus of Causality:   [Internal]          vs.   [External]\n2. Stability:            [Stable / Enduring] vs.   [Unstable / Temporary]\n3. Controllability:      [Controllable]      vs.   [Uncontrollable]\n```\n\n## Explaining an Academic Failure:\n- **\"I failed because I'm stupid\":** Internal, Stable, Uncontrollable -> Leads to **Learned Helplessness and Depression**!\n- **\"I failed because I didn't study enough\":** Internal, Unstable, Controllable -> Leads to **Guilt, High Effort, and Success on Next Exam!**"
+        },
+        {
+            "id": "sc_attribution_9",
+            "type": "content",
+            "title": "Gilbert's Two-Step Model of Attribution",
+            "content": "# Daniel Gilbert's Two-Step Attribution Process\n\nWhy is dispositional attribution our default automatic response? Daniel Gilbert (1988) formulated a dual-process model:\n\n```\n[Step 1: Automatic Dispositional Attribution]  ---> Fast, effortless, automatic (System 1)\n                       |\n                       v\n[Step 2: Effortful Situational Correction]     ---> Slow, deliberate, capacity-demanding (System 2)\n```\n\n## Cognitive Busyness Experiments:\n- When participants are cognitively busy (holding an 8-digit number in working memory while watching a video of an anxious woman), they complete Step 1, but fail to execute Step 2!\n- They rate the woman as naturally neurotic, proving situational correction requires effortful executive resources."
+        },
+        {
+            "id": "sc_attribution_quiz_3",
+            "type": "quiz",
+            "title": "Weiner's Dimensions & Gilbert's Two Steps Check",
+            "content": "Test your mastery of Weiner's achievement dimensions and Gilbert's two-step model!",
+            "quizQuestion": "In Daniel Gilbert's two-step model of attribution, what occurs when an observer evaluates another person's behavior while mentally preoccupied with a demanding secondary cognitive task?",
+            "quizOptions": [
+                "The observer completes the automatic dispositional attribution (Step 1) but fails to execute the effortful situational correction (Step 2)",
+                "The observer makes a purely situational attribution",
+                "The observer experiences complete temporary amnesia",
+                "The observer's self-serving bias is completely eliminated"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_attribution_10",
+            "type": "content",
+            "title": "Spontaneous Trait Inference (Uleman)",
+            "content": "# Spontaneous Trait Inference (STI)\n\nJames Uleman demonstrated that human observers form dispositional trait attributions automatically, unintentionally, and without conscious awareness:\n\n## The Cued-Recall Paradigm:\n- Participants read a simple behavioral sentence: *\"The librarian helped the elderly man carry his heavy grocery bags across the street.\"*\n- The word *\"helpful\"* or *\"kind\"* is NEVER mentioned in the text.\n- **Finding:** When later given a cued-recall test, the unmentioned trait word *\"HELPFUL\"* serves as an extraordinary retrieval cue\u2014more powerful than explicit words from the sentence!\n- Proves our brains translate observed behaviors into permanent personality traits instantly."
+        },
+        {
+            "id": "sc_attribution_11",
+            "type": "content",
+            "title": "Attributions in Romantic Relationships (Bradbury & Fincham)",
+            "content": "# Attributional Styles in Marital Health\n\nHow couples attribute each other's behavior predicts marital longevity:\n\n## Happy / Secure Couples (Relationship-Enhancing Attributions):\n- Partner brings home flowers: *\"He is so thoughtful and loving!\"* (Internal, Stable).\n- Partner snaps irritably: *\"She had a brutal day at the hospital.\"* (External, Unstable).\n\n## Distressed / Unhappy Couples (Distress-Maintaining Attributions):\n- Partner brings home flowers: *\"What did he do wrong? What is he hiding?\"* (External, Unstable).\n- Partner snaps irritably: *\"He is a nasty, selfish monster.\"* (Internal, Stable)."
+        },
+        {
+            "id": "sc_attribution_12",
+            "type": "content",
+            "title": "Neural Substrates of Social Attribution",
+            "content": "# The Social Brain Network in Attribution\n\nWhich brain regions mediate social causal inferences?\n\n## The Mentalizing Network (fMRI):\n- **Medial Prefrontal Cortex (mPFC):** Heavily activated when inferring internal intentions, personality traits, and enduring motives of others.\n- **Temporoparietal Junction (TPJ):** Computes momentary mental states and tracks perspectives.\n- **Superior Temporal Sulcus (STS):** Analyzes biological motion cues (gaze direction, body posture) to deduce intentionality."
+        },
+        {
+            "id": "sc_attribution_quiz_4",
+            "type": "quiz",
+            "title": "Spontaneous Inference & Relationships Check",
+            "content": "Verify your understanding of spontaneous trait inferences and marital attribution patterns!",
+            "quizQuestion": "In Bradbury and Fincham's research on marital distress, what attribution pattern characterizes couples caught in chronic relationship dissatisfaction?",
+            "quizOptions": [
+                "They attribute partner negative behaviors to internal stable character flaws, while attributing partner positive behaviors to external suspicious motives",
+                "They never make any internal attributions under any conditions",
+                "They exhibit perfect Kelleyan covariation calculations",
+                "They score zero on the Fundamental Attribution Error"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_attribution_13",
+            "type": "content",
+            "title": "Attributional Retraining in Education",
+            "content": "# Applied Attributional Retraining\n\nCan struggling students be coached to change their attributional styles to overcome academic failure?\n\n## The Attributional Intervention:\n- Students who fail exams typically make internal, stable, uncontrollable attributions (*\"I'm stupid\"*).\n- **The Intervention:** Teaching students that intelligence is an malleable muscle (**Carol Dweck's Growth Mindset**) and re-attributing failure to **unstable, controllable factors** (*\"I used an inefficient study strategy; I need spaced retrieval practice\"*).\n- **Documented Result:** Significant long-term jumps in college GPA and retention rates!"
+        },
+        {
+            "id": "sc_attribution_14",
+            "type": "content",
+            "title": "Clinical Applications: Depression and Hopelessness",
+            "content": "# The Depressive Attributional Style\n\nMartin Seligman, Lyn Abramson, and Lauren Alloy formulated the **Attributional Reformulation of Learned Helplessness**:\n\n## The Depressogenic Triad of Attributions:\nWhen negative life events occur (e.g., job loss, breakup), individuals vulnerable to clinical depression make:\n1. **Internal Attributions:** *\"It's completely my fault; I am defective.\"*\n2. **Stable Attributions:** *\"It will never change; I will be a failure forever.\"*\n3. **Global Attributions:** *\"This ruins everything; my entire life is a disaster.\"*\n\n## Cognitive Therapy Target:\n- Aaron Beck's CBT directly attacks this rigid depressogenic attributional style, training patients to generate external, unstable, and specific alternative explanations."
+        },
+        {
+            "id": "sc_attribution_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Attribution Theory\n\n## Core Principles Mastered:\n\n### 1. Classical Attribution Models\n- Heider's internal (dispositional) vs. external (situational) divide.\n- Kelley's Covariation Model: Consensus, Distinctiveness, and Consistency.\n\n### 2. Systematic Attributional Biases\n- Fundamental Attribution Error (Quizmaster study): Overestimating personality, ignoring situation.\n- Actor-Observer Effect (perceptual salience) and Self-Serving Bias (protecting ego).\n- Gilbert's Two-Step Model: Automatic dispositional inference followed by effortful situational correction.\n\n### 3. Diversity & Applications\n- Western individualist bias vs. East Asian holistic contextual attributions.\n- Weiner's achievement dimensions; depressogenic triad (internal, stable, global).\n\n> **Up Next:** Explore how mental templates shape social perception in **Schemas & Social Perception**!"
+        }
+    ]
+}

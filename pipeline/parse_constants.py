@@ -134,7 +134,7 @@ def _parse_topic_block(block: str, category_name: str, output_dir: str) -> Optio
         return None
 
     # Extract 'title'
-    title_match = re.search(r"'title'\s*:\s*'([^']+)'", block)
+    title_match = re.search(r"'title'\s*:\s*['\"]([^'\"]+)['\"]", block)
 
     # Extract 'tier'
     tier_match = re.search(r"'tier'\s*:\s*'([^']+)'", block)

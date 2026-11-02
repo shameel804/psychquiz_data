@@ -1,0 +1,155 @@
+{
+    "id": "learn_dm_applied",
+    "topicId": "dm_applied",
+    "topicTitle": "Applied Decision Making",
+    "description": "Examine the real-world applications of behavioral decision science across public policy nudge theory, medical and legal choices, group decision-making pitfalls, and environmental risk perception.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "dm_applied_1",
+            "type": "content",
+            "title": "Translating Decision Science into Practice",
+            "content": "# Applied Behavioral Decision Science\n\nHow do insights from cognitive psychology and behavioral economics transform courtrooms, hospital operating rooms, boardrooms, and governmental policy?\n\n## The Goal of Applied Decision Science:\n- Traditional policy relied on education (informing people) or coercion (laws, mandates, and taxes).\n- Behavioral decision science redesigns the **choice environment** to help individuals make decisions aligned with their own stated long-term goals without restricting freedom.\n\n## Core Applied Domains:\n1. **Choice Architecture & Nudge Theory** in Public Policy\n2. **Medical Decision Making & Clinical Diagnostics**\n3. **Judicial & Legal Choices**\n4. **Group Decision Pitfalls (Groupthink)**\n5. **Societal Risk Perception & Climate Action**"
+        },
+        {
+            "id": "dm_applied_2",
+            "type": "content",
+            "title": "Nudge Theory and Choice Architecture (Thaler & Sunstein)",
+            "content": "# Nudge Theory & Choice Architecture\n\nRichard Thaler and Cass Sunstein (2008) introduced **Nudge Theory**, anchored in the philosophy of **Libertarian Paternalism**:\n- **Paternalistic:** Legitimate to design choice environments that encourage decisions that make choosers healthier, wealthier, and better off.\n- **Libertarian:** Must preserve complete liberty of choice; no options are banned, and opt-outs are frictionless.\n\n## Definition of a Nudge:\nAny aspect of choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives.\n- *Example:* Placing fresh fruit at eye level in a school cafeteria is a nudge. Banning junk food is not."
+        },
+        {
+            "id": "dm_applied_3",
+            "type": "content",
+            "title": "The Power of Default Options",
+            "content": "# Defaults: The Mightiest Nudge\n\nWhen faced with complex decisions, humans exhibit a massive **default bias** (status quo bias)\u2014sticking with whatever option is pre-selected.\n\n## Organ Donation Rates in Europe (Johnson & Goldstein, 2003):\n\n| Country Type | Policy System | Donor Consent Rate |\n|---|---|---|\n| **Opt-In** (Germany, UK) | Explicit consent required; default = non-donor | **12% to 17%** |\n| **Opt-Out** (Austria, France, Belgium) | Presumed consent; default = donor | **98% to 99.9%** |\n\n## Why Defaults Work:\n1. **Effort Reduction:** Changing defaults requires physical and cognitive paperwork.\n2. **Implicit Endorsement:** People perceive the default as the recommended norm.\n3. **Loss Aversion:** Shifting away from a default feels like giving something up."
+        },
+        {
+            "id": "dm_applied_quiz_1",
+            "type": "quiz",
+            "title": "Nudge & Defaults Check",
+            "content": "Verify your understanding of choice architecture and default effects!",
+            "quizQuestion": "Why did organ donation consent rates soar from approx 15% to over 98% between neighboring European nations in Johnson and Goldstein's landmark 2003 study?",
+            "quizOptions": [
+                "High-donation nations paid large monetary cash rewards to organ donor families",
+                "High-donation nations implemented an opt-out (presumed consent) default architecture instead of an opt-in system",
+                "Low-donation nations completely banned organ transplants",
+                "High-donation nations launched massive television advertising campaigns"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_applied_4",
+            "type": "content",
+            "title": "Save More Tomorrow (SMRT)",
+            "content": "# Behavioral Financial Policy: SMRT\n\nHow did Thaler and Shlomo Benartzi solve the US retirement savings crisis?\n\n## The Behavioral Obstacles:\n- When workers are asked to save more out of their current paycheck, **loss aversion** triggers pain (take-home pay drops!).\n- **Present bias** favors spending immediate cash today.\n\n## The \"Save More Tomorrow\" Protocol:\n1. Workers commit in advance to allocate a portion of their **future salary raises** to retirement accounts.\n2. Because savings increase only when a raise arrives, take-home pay **never drops** -> loss aversion is completely bypassed!\n3. The annual savings hike is automated as a default.\n\n## Real-World Impact:\n- In initial pilot implementations, employee savings rates skyrocketed from **3.5% to 13.6%** over three pay cycles!"
+        },
+        {
+            "id": "dm_applied_5",
+            "type": "content",
+            "title": "Medical Decision Making & Diagnostic Biases",
+            "content": "# Decision Science in Medicine\n\nPhysicians are elite experts, yet cognitive decision research shows they are vulnerable to the same heuristics that affect novices:\n\n## Prominent Diagnostic Biases (Croskerry):\n1. **Premature Closure:** Halting diagnostic search once an initial plausible diagnosis is identified, missing co-morbidities or true underlying pathology.\n2. **Availability Bias:** Diagnosing a current patient with a rare disease simply because the physician treated that rare disease earlier in the week.\n3. **Anchoring on Patient Triage Notes:** Fixating on the triage nurse's intake note (*\"patient has panic attack\"*), anchoring diagnosis and failing to recognize pulmonary embolism.\n\n## Remediation:\n- Implementing diagnostic checklists and structured \"cognitive forced pauses\" where physicians explicitly ask: *\"What else could this be?\"*"
+        },
+        {
+            "id": "dm_applied_6",
+            "type": "content",
+            "title": "Communication of Medical Risk (Gigerenzer)",
+            "content": "# Communicating Medical Risks to Patients\n\nHow should health risks and diagnostic test results be conveyed?\n\n## The Mammogram Screening Problem:\n- Breast cancer prevalence in a cohort: 1%.\n- Sensitivity of mammogram: 90% (test correctly identifies 90% of cancer cases).\n- False positive rate: 9% (test falsely flags 9% of healthy women).\n- **Question:** If a woman tests positive, what is the probability that she actually has cancer?\n- **Physician Estimates:** Over 80% of surveyed doctors estimated the probability at approx **75% to 90%** (Wildly incorrect!).\n\n## The Natural Frequency Solution:\n- Think of 1,000 women:\n  * 10 have cancer; 9 will test positive.\n  * 990 do not have cancer; approx 89 will test positive.\n  * Total positive tests: 9 + 89 = 98.\n  * True positive probability: 9 / 98 = **approx 9%**!\n- Natural frequencies prevent the base rate neglect fallacy!"
+        },
+        {
+            "id": "dm_applied_quiz_2",
+            "type": "quiz",
+            "title": "Medical Decision Making Check",
+            "content": "Evaluate clinical diagnostic pitfalls and statistical risk communication!",
+            "quizQuestion": "According to Gerd Gigerenzer's research on medical risk communication, how should statistical diagnostic test probabilities be presented to reduce base-rate neglect among physicians and patients?",
+            "quizOptions": [
+                "As abstract conditional probabilities and p-values",
+                "As concrete natural frequencies (e.g., '9 out of 98 women with positive tests')",
+                "As logarithmic hazard ratios",
+                "Exclusively through color-coded anatomical brain scans"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_applied_7",
+            "type": "content",
+            "title": "Legal and Judicial Decision Making",
+            "content": "# Decision Science in the Courtroom\n\nHow objective is justice?\n\n## 1. Anchoring in Criminal Sentencing\n- Birte Englich demonstrated that legal judges are heavily anchored by arbitrary sentencing requests.\n- In controlled trials, experienced criminal judges were presented identical case files, but the prosecutor's sentencing demand was determined by a thrown pair of dice (rolling 3 vs. 9 months).\n- Judges exposed to the roll of 9 sentenced defendants to an average of **8 months**; judges exposed to the roll of 3 sentenced them to **4 months**!\n\n## 2. The Hungry Judge Effect (Danziger et al., 2011)\n- Israeli parole judges granted parole in approx **65%** of cases heard early in the morning.\n- Right before meal breaks (when judges were mentally fatigued and hungry), parole approval rates plunged to near **0%**!\n- Immediately after eating lunch, parole rates surged back to 65%!"
+        },
+        {
+            "id": "dm_applied_8",
+            "type": "content",
+            "title": "Group Decision Making: Groupthink (Janis)",
+            "content": "# Group Decision Pitfalls: Groupthink\n\nIrving Janis (1972) coined **Groupthink**: a mode of thinking that occurs when the desire for harmony and consensus in a cohesive in-group overrides realistic appraisal of alternative courses of action.\n\n## Symptoms of Groupthink:\n1. **Illusion of Invulnerability:** Excessive optimism encouraging extreme risk-taking.\n2. **Direct Pressure on Dissenters:** Questioning the group consensus is treated as disloyalty.\n3. **Self-Censorship:** Members withhold doubts and counter-arguments.\n4. **Mindguards:** Self-appointed members protect the leader from adverse information.\n\n## Historic Catastrophes:\n- The Bay of Pigs Invasion (1961), the escalation of the Vietnam War, and the Space Shuttle Challenger disaster (1986)."
+        },
+        {
+            "id": "dm_applied_9",
+            "type": "content",
+            "title": "Group Polarization & Hidden Profiles",
+            "content": "# Group Polarization and Information Sharing\n\nDo groups make more moderate decisions than individuals?\n\n## 1. Group Polarization (Moscovici & Zavalloni)\n- Group discussion strengthens the initial dominant predisposition of the group members.\n- A group of mildly cautious individuals becomes **hyper-cautious** after deliberation; a group of mildly risk-tolerant investors becomes **recklessly speculative**.\n\n## 2. The Hidden Profile Paradigm (Stasser & Titus)\n- When team members possess unique, unshared information that would reveal the best option, groups systematically fail to share it!\n- **Common Knowledge Effect:** Groups spend over 80% of meeting time discussing facts that *all* members already know, leaving critical dissenting information hidden."
+        },
+        {
+            "id": "dm_applied_quiz_3",
+            "type": "quiz",
+            "title": "Legal & Group Dynamics Check",
+            "content": "Test your mastery of judicial biases and Groupthink dynamics!",
+            "quizQuestion": "In Irving Janis's classic framework, which of the following is a core operational symptom of Groupthink within cohesive executive committees?",
+            "quizOptions": [
+                "Encouraging formal adversarial red-team debates",
+                "Direct social pressure applied to suppress dissenters and foster self-censorship",
+                "Mandatory double-blind decision reviews",
+                "Rotating group leadership on an hourly schedule"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_applied_10",
+            "type": "content",
+            "title": "Public Risk Perception (Paul Slovic)",
+            "content": "# The Psychometric Paradigm of Risk\n\nWhy do ordinary citizens fear genetically modified food and nuclear radiation while smoking cigarettes and driving without seatbelts?\n\n## Slovic's Two Fundamental Risk Dimensions:\n\n```\n                                    [DREAD RISK]\n                         (Catastrophic, Fatal, Inequitable)\n                                        |\n                                        |\n               * Nuclear Power          |        * Terrorism\n                                        |\n[UNKNOWN RISK] -------------------------+------------------------- [KNOWN RISK]\n(Unobservable, New, Delayed)            |                         (Familiar, Observable)\n                                        |\n                                        |        * Skiing / Driving\n                                        |\n                                    [LOW DREAD]\n```\n\n## Public Risk Drivers:\n- The public does not evaluate risk as `Probability x Deaths`.\n- Lay risk perception is driven by **Dread** (lack of control, catastrophic potential) and **Novelty/Uncertainty**."
+        },
+        {
+            "id": "dm_applied_11",
+            "type": "content",
+            "title": "Behavioral Insights in Climate Action",
+            "content": "# Behavioral Barriers to Climate Action\n\nWhy does humanity struggle to act on climate change?\n\n## Cognitive Mismatches:\n1. **Hyperbolic Discounting:** Massive immediate economic costs today to prevent distant, uncertain losses in 50 years.\n2. **Psychological Distance:** Perceived as happening to geographically distant people or future generations.\n3. **Single-Action Bias:** Completing one minor symbolic green action (reusable shopping bag) produces moral licensing to fly on commercial vacations.\n\n## Effective Climate Nudges:\n- **Social Norm Comparison:** Printing a graph comparing household energy use against efficient neighbors reduced municipal electricity consumption by millions of kilowatt-hours (Opower experiments)!"
+        },
+        {
+            "id": "dm_applied_12",
+            "type": "content",
+            "title": "Designing De-Biased Organizations",
+            "content": "# Institutional Decision Architecture\n\nHow do world-class organizations insulate their teams from collective decision failures?\n\n## Structural Solutions:\n1. **The Devil's Advocate / Red Team:** Officially designating a senior leader whose institutional responsibility is to challenge every consensus assumption.\n2. **Nominal Group Technique:** Members independently write down ideas silently before any group discussion begins, eliminating the common knowledge effect and social loafing.\n3. **Blind Decision Protocols:** Evaluating job candidates or project proposals with demographic identifiers and personal names removed.\n4. **Algorithmic Decision Support:** Using validated clinical prediction rules to benchmark human intuitive hunches."
+        },
+        {
+            "id": "dm_applied_quiz_4",
+            "type": "quiz",
+            "title": "Risk Perception & Policy Check",
+            "content": "Verify your understanding of public risk dimensions and institutional safeguards!",
+            "quizQuestion": "In Paul Slovic's psychometric risk paradigm, why does nuclear power elicit intense public opposition compared to automotive travel despite causing exponentially fewer deaths per passenger mile?",
+            "quizOptions": [
+                "Automotive travel carries higher dread risk and less personal controllability",
+                "Nuclear power scores exceptionally high on Dread Risk (catastrophic potential) and Unknown Risk (unobservable radiation)",
+                "Nuclear power creates massive Stroop interference in voters",
+                "Automotive travel is subject to the St. Petersburg Paradox"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_applied_13",
+            "type": "content",
+            "title": "The Ethics of Nudging: Manipulation vs. Empowerment",
+            "content": "# The Ethics of Choice Architecture\n\nIs nudging a benign guidance tool or covert psychological manipulation?\n\n## Key Ethical Critiques:\n- **Transparency vs. Stealth:** Are citizens aware that they are being nudged, or is their subconscious behavioral vulnerability being exploited?\n- **Dark Patterns in Commerce:** E-commerce sites using countdown timers (*\"Only 2 rooms left at this price!\"*) and pre-checked subscription boxes to exploit urgency and default biases for corporate profit.\n\n## The FORGOOD Ethical Framework (Lades & Delaney):\n- **F**airness, **O**penness, **R**espect, **G**oals, **O**pinion, **O**ptions, **D**elegation.\n- Nudges should always be transparent, easy to opt out of, and designed solely to benefit the chooser."
+        },
+        {
+            "id": "dm_applied_14",
+            "type": "content",
+            "title": "Behavioral Insights Teams (Nudge Units)",
+            "content": "# The Rise of Global Nudge Units\n\nIn 2010, the UK government established the world's first **Behavioral Insights Team (BIT)**, affectionately termed the \"Nudge Unit\".\n\n## Landmark Public Successes:\n- **Tax Compliance:** Adding a single social-norm sentence to tax letters (*\"9 out of 10 people in your local area pay their taxes on time\"*) accelerated tax recovery by millions of pounds.\n- **Court Summons Appearance:** Redesigning summons letters to highlight the date, time, and location in bold at the top reduced arrest warrants for failure to appear by 36%.\n- **Over 400 Nudge Units Worldwide:** Today, governments from Singapore to the United States and international bodies like the WHO operate dedicated behavioral science units."
+        },
+        {
+            "id": "dm_applied_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Applied Decision Making\n\n## Core Principles Mastered:\n\n### 1. Choice Architecture & Nudge Theory\n- Thaler & Sunstein's libertarian paternalism; defaults as the most powerful nudge (organ donation, SMRT retirement savings).\n\n### 2. Clinical & Legal Applications\n- Diagnostic biases (premature closure, anchoring); risk communication via natural frequencies.\n- Judicial anchoring in sentencing; hunger/fatigue spikes in parole decisions.\n\n### 3. Collective Decision Dynamics\n- Groupthink (consensus pressure, self-censorship, invulnerability illusions).\n- Group polarization and the common knowledge effect (unshared profiles).\n\n### 4. Societal Risk Perception & Institutional Design\n- Slovic's psychometric model: Dread and Unknown risk dimensions.\n- Organizational de-biasing: Red Teaming, Nominal Group Technique, and transparent ethical choice design.\n\n> **Congratulations!** You have completed the **Decision Making** curriculum. You are now prepared to explore **Problem Solving & Creativity**!"
+        }
+    ]
+}

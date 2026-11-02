@@ -1,0 +1,155 @@
+{
+  "id": "learn_resm_experimental",
+  "topicId": "resm_experimental",
+  "topicTitle": "Experimental Research",
+  "description": "Master experimental design in psychological science, contrasting true and quasi-experiments, between- vs. within-subjects designs, control groups, placebos, and random assignment.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "resm_experimental_1",
+      "type": "content",
+      "title": "The Logic of Experimental Research",
+      "content": "# The Experimental Gold Standard\n\nIn psychological science, the **experimental method** is the sole research design capable of establishing unambiguous **cause-and-effect relationships** between variables.\n\n## The Core Principles of an Experiment:\n- **1. Manipulation:** The researcher deliberately manipulates at least one variable (Independent Variable, IV) while holding all other extraneous factors constant.\n- **2. Measurement:** The researcher measures the resulting impact on one or more target behaviors or mental processes (Dependent Variable, DV).\n- **3. Control:** Systematic elimination or neutralization of confounding variables that could offer alternative explanations for the findings.\n\n```\n[Independent Variable (IV)]  ====== Causal Impact ======>  [Dependent Variable (DV)]\n      (Manipulated)                                              (Measured)\n            ^\n            |\n  [Controlled Variables / Random Assignment Neutralize Confounds]\n```"
+    },
+    {
+      "id": "resm_experimental_2",
+      "type": "content",
+      "title": "True Experiments vs. Quasi-Experiments",
+      "content": "# True vs. Quasi-Experimental Designs\n\nNot all empirical questions permit pure laboratory control or arbitrary manipulation of variables.\n\n## True Experiments:\n- Require full researcher control over the IV.\n- **Mandatory Requirement:** Participants must be randomly assigned to experimental and control conditions.\n- Provides the highest degree of internal validity; isolates true causality.\n\n## Quasi-Experiments:\n- Utilized when ethical, legal, or physical constraints prevent random assignment.\n- Compares pre-existing, intact groups based on 'subject variables' (e.g., comparing brain injury patients to healthy controls; evaluating a trauma coping program in hurricane survivors vs. non-survivors).\n- **Limitation:** Threat of selection bias and unmeasured confounding variables limits confident causal attribution."
+    },
+    {
+      "id": "resm_experimental_3",
+      "type": "content",
+      "title": "Random Assignment: The Great Equalizer",
+      "content": "# Random Assignment\n\n**Random assignment** is the procedure by which every participant in an experiment has an equal, non-zero probability of being assigned to any treatment condition.\n\n## Random Assignment vs. Random Sampling:\n- **Random Sampling (Selection):** How participants are chosen from the broader population to participate in the study (ensures **external validity** / generalizability).\n- **Random Assignment:** How chosen participants are distributed into experimental groups (ensures **internal validity** / causal clarity).\n\n## Why Random Assignment is Essential:\n- By distributing individual differences (intelligence, personality, fatigue, motivation, socioeconomic status) randomly across conditions, it transforms potential systematic confounding variables into harmless random noise.\n- Ensures that groups are statistically equivalent *before* the independent variable is introduced."
+    },
+    {
+      "id": "resm_experimental_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Experimental Design",
+      "content": "Verify your understanding of experimental vs. quasi-experimental research and random assignment.",
+      "quizQuestion": "What is the primary methodological function of random assignment in an experimental study?",
+      "quizOptions": [
+        "To guarantee that the sample perfectly matches national census demographics",
+        "To distribute preexisting participant differences equally across conditions, neutralizing potential confounds",
+        "To eliminate the need for an independent variable",
+        "To hide the study hypothesis from the Institutional Review Board"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_experimental_4",
+      "type": "content",
+      "title": "Between-Subjects vs. Within-Subjects Designs",
+      "content": "# Experimental Design Architectures\n\nResearchers must decide how participants are allocated across the levels of the independent variable.\n\n## Between-Subjects Design (Independent Groups):\n- Each participant experiences only **one** condition or level of the IV (e.g., Group A gets Drug, Group B gets Placebo).\n- *Advantages:* No carryover, practice, or fatigue effects across treatments.\n- *Disadvantages:* Requires larger sample sizes; differences between individuals can introduce noise.\n\n## Within-Subjects Design (Repeated Measures):\n- Every participant experiences **all** conditions or levels of the IV (e.g., each participant is tested under low caffeine, medium caffeine, and high caffeine on different days).\n- *Advantages:* Requires far fewer participants; participants serve as their own controls, radically reducing error variance.\n- *Disadvantages:* High risk of order effects (practice, boredom, or fatigue)."
+    },
+    {
+      "id": "resm_experimental_5",
+      "type": "content",
+      "title": "Mitigating Order Effects: Counterbalancing",
+      "content": "# Counterbalancing in Repeated Measures\n\nWhen using within-subjects designs, the sequence in which treatments are administered can distort findings through **order effects**.\n\n## Types of Order Effects:\n- **Practice Effects:** Participants improve simply due to repetition, not the IV.\n- **Fatigue Effects:** Performance declines over time due to cognitive exhaustion or boredom.\n- **Carryover Effects:** The biological or cognitive effects of Treatment 1 linger and contaminate Treatment 2.\n\n## Complete vs. Incomplete Counterbalancing:\n- **Complete Counterbalancing:** Administering every possible treatment permutation to equal subgroups of participants (for k conditions, k! orders).\n- **Latin Square Design:** A balanced matrix ensuring each condition appears at each ordinal position once, and precedes and follows each other condition equally, controlling order effects without testing every permutation."
+    },
+    {
+      "id": "resm_experimental_6",
+      "type": "content",
+      "title": "Control Groups and Placebos",
+      "content": "# The Science of Experimental Controls\n\nTo prove that an observed effect is caused by the active component of an intervention, researchers employ rigorous control mechanisms.\n\n## Varieties of Control Conditions:\n- **No-Treatment Control Group:** Establishes the natural baseline trajectory of symptoms or behavior over time without any intervention (controls for spontaneous remission and maturation).\n- **Waitlist Control Group:** Participants wait a specified period before receiving treatment, providing an ethical control while offering subsequent intervention.\n- **Placebo Control Group:** Administers an inert sham substance or mock intervention that mimics the outward characteristics of the treatment without containing active therapeutic ingredients.\n\n## The Placebo Effect:\nMeasurable physiological and psychological improvements triggered solely by the participant's **expectation** of healing. Placebos can stimulate endogenous endorphin and dopamine release."
+    },
+    {
+      "id": "resm_experimental_7",
+      "type": "content",
+      "title": "Experimenter Bias and Blinding Protocols",
+      "content": "# Eliminating Bias: Blinding Protocols\n\nPsychological research is vulnerable to subtle human expectancies that can inadvertently contaminate experimental results.\n\n## Threats from Expectancies:\n- **Demand Characteristics:** Subtle environmental cues that tip off participants regarding what the researcher expects to happen, leading participants to alter behavior to please or thwart the experimenter.\n- **Experimenter Expectancy Effect (Pygmalion / Rosenthal Effect):** Researchers unconsciously treat participants differently or misinterpret ambiguous behavior in accordance with their research hypotheses.\n\n## Blinding Safeguards:\n- **Single-Blind Protocol:** Participants do not know which treatment condition they have been assigned to (controls for demand characteristics).\n- **Double-Blind Protocol:** Both the participants AND the research assistants interacting with them and collecting data are blind to condition assignments (eliminates both demand characteristics and experimenter bias)."
+    },
+    {
+      "id": "resm_experimental_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Blinding & Controls",
+      "content": "Assess your understanding of experimental controls and blinding safeguards.",
+      "quizQuestion": "In clinical trials testing psychiatric medications, why is a double-blind procedure considered the gold standard?",
+      "quizOptions": [
+        "It ensures that neither participants nor experimenters know group assignments, eliminating both expectancy and experimenter bias",
+        "It permits the study to bypass institutional ethics board review",
+        "It reduces the financial cost of pharmaceutical manufacturing",
+        "It guarantees that statistical significance will be achieved"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "resm_experimental_8",
+      "type": "content",
+      "title": "Factorial Designs: Main Effects & Interactions",
+      "content": "# Factorial Experimental Designs\n\nReal-world behavior rarely involves only one variable operating in isolation. **Factorial designs** manipulate **two or more independent variables** simultaneously.\n\n## Reading Factorial Notation:\n- A **2 x 2 Design** has two independent variables, each with two levels (yielding 4 total experimental conditions).\n- A **2 x 3 x 2 Design** has three independent variables with 2, 3, and 2 levels respectively (yielding 12 total conditions).\n\n## Main Effects vs. Interaction Effects:\n- **Main Effect:** The overall direct effect of one independent variable on the dependent variable, averaging across all levels of the other IVs.\n- **Interaction Effect:** Occurs when the effect of one independent variable on the dependent variable **depends on the level** of another independent variable!\n- *Visual Rule:* On a line graph, non-parallel or crossing lines indicate the presence of an interaction effect."
+    },
+    {
+      "id": "resm_experimental_9",
+      "type": "content",
+      "title": "Internal vs. External Validity",
+      "content": "# The Validity Trade-Off\n\nExperimental rigor requires balancing competing validity priorities.\n\n## Internal Validity:\n- The degree of confidence that changes in the dependent variable were caused solely by manipulation of the independent variable, free of confounding influences.\n- *Threats:* History, maturation, testing effects, instrumentation decay, regression to the mean, attrition/mortality.\n\n## External Validity:\n- The degree to which experimental findings can be generalized across diverse populations, settings, times, and operational measures.\n- *Ecological Validity:* Whether the experimental task and environment resemble real-world circumstances.\n\n## The Inherent Tension:\nIncreasing artificial laboratory control maximizes internal validity but often reduces external ecological realism."
+    },
+    {
+      "id": "resm_experimental_10",
+      "type": "content",
+      "title": "Threats to Internal Validity: Campbell & Stanley",
+      "content": "# Campbell & Stanley's Classical Threats\n\nDonald Campbell and Julian Stanley (1963) cataloged classic confounding threats that plague flawed experimental designs.\n\n## Key Threats Cataloged:\n1. **History:** Extraneous historical events occurring between pretest and posttest that alter scores (e.g., a natural disaster during a stress reduction study).\n2. **Maturation:** Natural biological or psychological development occurring over time (e.g., children growing older and wiser).\n3. **Testing:** Taking a pretest sensitizes participants, improving posttest scores independently of treatment.\n4. **Instrumentation:** Changes in the measurement instrument, calibration, or human coders becoming more lenient/strict over time.\n5. **Statistical Regression (Regression to the Mean):** Extreme outlier scores on initial testing naturally regress toward the population mean upon retesting.\n6. **Differential Attrition (Mortality):** Non-random participant dropout between groups, biasing posttest comparisons."
+    },
+    {
+      "id": "resm_experimental_11",
+      "type": "content",
+      "title": "Single-Case Experimental Designs",
+      "content": "# Single-Case (N-of-1) Research Designs\n\nFrequently utilized in clinical psychology and applied behavior analysis when large participant cohorts are unavailable.\n\n## The ABA / ABAB Reversal Design:\n- **A (Baseline Phase):** Target behavior is repeatedly measured in its natural state until stability is demonstrated.\n- **B (Treatment Phase):** The intervention is introduced; changes in behavior are tracked.\n- **A (Withdrawal Phase):** The intervention is withdrawn to observe whether behavior returns to baseline levels (demonstrating experimental control).\n- **B (Reinstatement Phase):** The intervention is reintroduced to confirm therapeutic restoration.\n\n## Multiple Baseline Designs:\nWhen an intervention cannot be ethically or physically withdrawn (e.g., learned reading skills), the intervention is introduced across multiple participants, behaviors, or settings at staggered time intervals."
+    },
+    {
+      "id": "resm_experimental_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Validity & Factorial Designs",
+      "content": "Verify your understanding of factorial interactions and internal validity threats.",
+      "quizQuestion": "In a factorial experiment, what statistical phenomenon occurs when the effect of one independent variable on the dependent variable differs depending on the level of a second independent variable?",
+      "quizOptions": [
+        "A main effect",
+        "An interaction effect",
+        "Statistical regression to the mean",
+        "Differential attrition"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_experimental_12",
+      "type": "content",
+      "title": "Operational Definitions & Construct Validity",
+      "content": "# Operationalizing Psychological Constructs\n\nPsychological constructs (e.g., 'love', 'anxiety', 'aggression', 'intelligence') are abstract theoretical concepts that cannot be directly observed with physical instruments.\n\n## The Operational Definition:\n- A precise, explicit specification of the exact procedures, operations, and measurement tools used to manipulate or measure a theoretical construct.\n- *Example - Operationalizing Aggression:* Number of electric shocks administered to a confederate, or volume/duration of aversive white noise blasted into an opponent's headphones.\n\n## Construct Validity:\n- The extent to which the operationalized measurement actually reflects the theoretical construct of interest rather than an unintended alternative.\n- Crucial for ensuring that findings translate from laboratory manipulations to meaningful psychological realities."
+    },
+    {
+      "id": "resm_experimental_13",
+      "type": "content",
+      "title": "Pilot Studies and Manipulation Checks",
+      "content": "# Safeguarding Experimental Quality\n\nExperienced researchers deploy preliminary safeguards to verify experimental machinery before full data collection.\n\n## Pilot Studies:\n- Small-scale trial runs of the complete experimental protocol with a tiny participant cohort.\n- Identifies ambiguities in instructions, equipment malfunctions, ceiling or floor effects, and participant confusion.\n\n## Manipulation Checks:\n- Explicit measurements embedded in the study to verify that the independent variable actually manipulated what it was intended to manipulate.\n- *Example:* In a study manipulating psychological stress via mental arithmetic harassment, a manipulation check assesses whether participants in the stress condition exhibited elevated salivary cortisol or reported higher self-rated tension compared to controls."
+    },
+    {
+      "id": "resm_experimental_14",
+      "type": "content",
+      "title": "Replication & Open Science Practices",
+      "content": "# The Replication Crisis & Open Science\n\nIn the early 2010s, psychology faced a major reckoning when high-profile multi-site replication initiatives successfully replicated only approx 36% to 50% of published experimental findings.\n\n## Causes of Poor Replicability:\n- **Publication Bias (The File Drawer Problem):** Journals preferentially publishing statistically significant results while discarding null findings.\n- **P-Hacking (Data Dredging):** Post-hoc flexibility in data analysis (peeking at data, dropping outlier conditions, testing multiple covariates until p-value < 0.05 is achieved).\n- **Underpowered Samples:** Small sample sizes inflating the probability of false-positive discoveries.\n\n## Modern Open Science Safeguards:\n- **Preregistration:** Publicly registering hypotheses, methods, and analysis plans prior to data collection.\n- **Open Data & Open Materials:** Publicly sharing raw datasets and code to enable verification."
+    },
+    {
+      "id": "resm_experimental_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Open Science & Replication",
+      "content": "Assess your understanding of modern scientific integrity protocols.",
+      "quizQuestion": "What is the primary objective of preregistering a study before collecting data?",
+      "quizOptions": [
+        "To guarantee that the study will be accepted by prestigious journals without peer review",
+        "To prevent p-hacking and exploratory post-hoc data dredging from being passed off as confirmatory testing",
+        "To allow researchers to patent their psychological theories for commercial profit",
+        "To hide experimental procedures from competitor laboratories"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_experimental_15",
+      "type": "content",
+      "title": "Summary of Experimental Methodology",
+      "content": "# Synthesis of Experimental Science\n\nExperimental research remains humanity's sharpest epistemic tool for penetrating causal mechanics in human psychology.\n\n## Key Methodological Tenets:\n1. **Causality:** Requires manipulation of an IV, measurement of a DV, and strict control of confounds.\n2. **Random Assignment:** The essential engine of internal validity, distributing individual differences evenly.\n3. **Design Choices:** Between-subjects avoids carryover; within-subjects maximizes statistical power but requires counterbalancing.\n4. **Rigor & Controls:** Double-blind procedures and placebo groups extinguish human expectancy biases.\n5. **Factorial Synergy:** Uncovering interaction effects reveals how psychological mechanisms operate in complex, real-world contexts.\n6. **Open Science:** Preregistration and open datasets ensure findings are durable, robust, and reproducible."
+    }
+  ]
+}

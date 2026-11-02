@@ -1,0 +1,155 @@
+{
+    "id": "learn_lang_thought",
+    "topicId": "lang_thought",
+    "topicTitle": "Thinking & Reasoning",
+    "description": "Investigate the cognitive mechanisms of human thought, contrasting the Sapir-Whorf linguistic relativity hypothesis with formal deductive logic, inductive reasoning, heuristics, biases, and concept formation.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "lang_thought_1",
+            "type": "content",
+            "title": "The Nature of Human Thought",
+            "content": "# The Architecture of Thinking & Reasoning\n\nHow do humans manipulate mental representations to solve complex problems, categorize novel experiences, and deduce logical conclusions?\n\n## Key Modes of Thought:\n- **Conceptual Categorization:** Grouping objects, events, and ideas into mental classes to reduce cognitive load.\n- **Deductive Reasoning:** Deriving logically necessary conclusions from given premises (general -> specific).\n- **Inductive Reasoning:** Establishing probable generalizations based on empirical observations (specific -> general).\n- **Heuristic Judgments:** Rapid mental shortcuts deployed under uncertainty.\n\n## The Fundamental Question:\nDoes the language we speak dictate or shape the way we think? This brings us to the famous debate on **Linguistic Relativity**."
+        },
+        {
+            "id": "lang_thought_2",
+            "type": "content",
+            "title": "Linguistic Relativity: The Sapir-Whorf Hypothesis",
+            "content": "# The Sapir-Whorf Hypothesis\n\nAnthropologist Edward Sapir and his student Benjamin Lee Whorf proposed that the structural properties of a language influence or determine the cognitive patterns of its speakers.\n\n## Two Formulations of the Hypothesis:\n\n### 1. Strong Version (Linguistic Determinism)\n- **Claim:** Language *determines* thought. If a language lacks words or grammatical structures for a concept, speakers are completely incapable of thinking about it.\n- **Status:** Widely rejected by modern cognitive science (e.g., the Dani people of New Guinea have only two color terms\u2014*mili* for dark/cold and *mola* for warm/light\u2014yet can visually discriminate and memorize full color spectrums identically to English speakers!).\n\n### 2. Weak Version (Linguistic Relativity)\n- **Claim:** Language *influences*, primes, and biases cognitive processing, memory encoding, and perceptual attention.\n- **Status:** Supported by extensive empirical research!"
+        },
+        {
+            "id": "lang_thought_3",
+            "type": "content",
+            "title": "Empirical Evidence for Linguistic Relativity",
+            "content": "# Modern Tests of Linguistic Relativity\n\nLera Boroditsky and colleagues have demonstrated clear relativistic cognitive effects across diverse domains:\n\n## 1. Spatial Metaphors for Time\n- **English Speakers:** Conceptualize time horizontally from left to right (past on left, future on right).\n- **Mandarin Speakers:** Frequently use vertical spatial metaphors (earlier events are *shang* / up; later events are *xia* / down), leading to faster vertical temporal judgments.\n- **Kuuk Thaayorre (Australian Aboriginal Language):** Do not use relative terms (\"left/right\"), only absolute cardinal directions (North, South, East, West). They arrange chronological pictures strictly East-to-West, regardless of which way their body faces!\n\n## 2. Grammatical Gender Effects\n- In German, \"bridge\" (*die Brucke*) is feminine; German speakers describe bridges as *beautiful, elegant, slender*.\n- In Spanish, \"bridge\" (*el puente*) is masculine; Spanish speakers describe bridges as *strong, sturdy, towering*!"
+        },
+        {
+            "id": "lang_thought_quiz_1",
+            "type": "quiz",
+            "title": "Linguistic Relativity Check",
+            "content": "Verify your understanding of the Sapir-Whorf hypothesis and empirical findings!",
+            "quizQuestion": "Which version of the Sapir-Whorf hypothesis asserts that the specific vocabulary and grammar of a language fundamentally constrain and dictate what thoughts a human mind is capable of having?",
+            "quizOptions": [
+                "Weak Linguistic Relativity",
+                "Strong Linguistic Determinism",
+                "Universal Grammar Nativism",
+                "Dual-Process Heuristic Theory"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_thought_4",
+            "type": "content",
+            "title": "Deductive Reasoning & Formal Syllogisms",
+            "content": "# Deductive Reasoning\n\n**Deductive reasoning** is a top-down logical process wherein a conclusion follows with absolute logical necessity from given general premises.\n\n## Categorical Syllogisms:\nConsist of two premises and a conclusion:\n- **Premise 1:** All humans are mortal.\n- **Premise 2:** Socrates is human.\n- **Conclusion:** Therefore, Socrates is mortal.\n\n## Validity vs. Truth:\n- **Validity:** Relates purely to the logical form. A syllogism is valid if the conclusion follows logically from the premises, even if premises are factually false!\n  * *Premise 1: All birds have five legs.*\n  * *Premise 2: A robin is a bird.*\n  * *Conclusion: Therefore, a robin has five legs.* (**Logically valid**, but factually false!).\n- **Soundness:** A deductive argument that is both logically valid AND contains true empirical premises."
+        },
+        {
+            "id": "lang_thought_5",
+            "type": "content",
+            "title": "Conditional Reasoning & Formal Fallacies",
+            "content": "# Conditional Logic (If P, Then Q)\n\nConditional reasoning evaluates propositional \"If-Then\" statements:\n- **P** = Antecedent\n- **Q** = Consequent\n\n## The Four Logical Forms:\n\n| Form Name | Logic Rule | Example | Validity |\n|---|---|---|---|\n| **Modus Ponens** | Affirming the Antecedent | P is true -> Therefore Q | **Valid** |\n| **Modus Tollens** | Denying the Consequent | Q is false -> Therefore P is false | **Valid** |\n| **Affirming the Consequent** | Q is true -> Therefore P | \"She lives in NY, so she lives in Paris\" | **Invalid Fallacy** |\n| **Denying the Antecedent** | P is false -> Therefore Q is false | \"Not raining, so street cannot be wet\" | **Invalid Fallacy** |\n\n> **Human Vulnerability:** People easily understand Modus Ponens, but struggle greatly with Modus Tollens and fall prey to Affirming the Consequent!"
+        },
+        {
+            "id": "lang_thought_6",
+            "type": "content",
+            "title": "The Wason Selection Task",
+            "content": "# The Wason Four-Card Selection Task (Peter Wason, 1966)\n\nParticipants view four cards showing: `[ A ]`, `[ K ]`, `[ 4 ]`, `[ 7 ]`.\n- Each card has a letter on one side and a number on the other.\n- **Rule to Test:** *\"If a card has a vowel on one side, then it has an even number on the other side.\"*\n- **Question:** Which minimum cards must you turn over to test whether this rule is true?\n\n```\nCards Shown:      [ A ]         [ K ]         [ 4 ]         [ 7 ]\n                  Vowel       Consonant     Even Number   Odd Number\nLogic Role:         P           Not-P            Q          Not-Q\n```\n\n## The Correct Solution:\n- Must turn over **[ A ]** (Modus Ponens: to see if the back is even).\n- Must turn over **[ 7 ]** (Modus Tollens: if the back is a vowel, the rule is disproven!).\n- **Common Error:** Less than 10% of participants choose [ 7 ]; most turn over [ 4 ], committing the confirmation bias fallacy of affirming the consequent!"
+        },
+        {
+            "id": "lang_thought_quiz_2",
+            "type": "quiz",
+            "title": "Deductive Logic Check",
+            "content": "Evaluate conditional reasoning rules and the Wason selection task!",
+            "quizQuestion": "In testing the conditional rule 'If a person is drinking beer, then they must be over 21 years of age', which two individuals must a police officer inspect to verify the rule?",
+            "quizOptions": [
+                "A person drinking water and a person aged 25",
+                "A person drinking beer (P) and a person aged 16 (Not-Q)",
+                "A person drinking soda and a person drinking wine",
+                "A person aged 22 and a person aged 30"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_thought_7",
+            "type": "content",
+            "title": "Inductive Reasoning and the Problem of Induction",
+            "content": "# Inductive Reasoning\n\nUnlike deduction, **inductive reasoning** is bottom-up: deriving probabilistic general conclusions from specific observed instances.\n\n## Characteristics of Induction:\n- Conclusions are probable, but never guaranteed to be logically certain.\n- **Example:** *\"Every swan I have observed across Europe is white. Therefore, all swans are white.\"*\n\n## The Problem of Induction (David Hume):\n- No matter how many confirming instances are observed (e.g., 10,000 white swans), a single counterexample (**a black swan**) destroys the general hypothesis.\n- Scientific knowledge relies intrinsically on induction; Karl Popper argued that because we can never prove hypotheses true via induction, science must progress through **falsification**!"
+        },
+        {
+            "id": "lang_thought_8",
+            "type": "content",
+            "title": "Heuristics and Biases: Kahneman & Tversky",
+            "content": "# Cognitive Heuristics: Shortcuts in Thought\n\nDaniel Kahneman and Amos Tversky demonstrated that under uncertainty, human cognition relies on intuitive **heuristics**\u2014mental rules of thumb that are fast and efficient, but produce systematic, predictable cognitive biases.\n\n## The Fundamental Heuristics:\n\n### 1. The Availability Heuristic\n- Estimating the probability or frequency of an event based on the ease with which examples come to mind.\n- **Example:** People vastly overestimate the risk of airplane crashes, shark attacks, and terrorism (vividly covered in media) while underestimating diabetes and strokes.\n\n### 2. The Representativeness Heuristic\n- Judging the likelihood that an object or person belongs to a category based on how closely they resemble our prototype of that category, completely ignoring mathematical **base rates**."
+        },
+        {
+            "id": "lang_thought_9",
+            "type": "content",
+            "title": "The Linda Problem and Conjunction Fallacy",
+            "content": "# The Conjunction Fallacy (The Linda Problem)\n\nKahneman and Tversky presented participants with a personality sketch:\n*\"Linda is 31 years old, single, outspoken, and very bright. In college, she majored in philosophy and was deeply concerned with issues of discrimination and social justice.\"*\n\n## Participants Ranked These Two Statements:\n1. Linda is a bank teller.\n2. Linda is a bank teller and is active in the feminist movement.\n\n## The Shocking Finding:\n- Over **85% of participants** judged statement 2 as more probable than statement 1!\n\n```\nProbability Venn Diagram:\n[       Bank Tellers (A)       ]\n    [ Feminist Bank Tellers (A & B) ]  <--- Subset can NEVER be larger than A!\n```\n\n## The Conjunction Fallacy:\n- A compound event (A and B) can mathematically never be more probable than either single event alone (P(A and B) <= P(A)).\n- Participants substituted representative resemblance for mathematical probability!"
+        },
+        {
+            "id": "lang_thought_quiz_3",
+            "type": "quiz",
+            "title": "Heuristics & Fallacies Check",
+            "content": "Test your mastery of cognitive heuristics and probability fallacies!",
+            "quizQuestion": "In Kahneman and Tversky's Linda problem, judging that Linda is more likely to be a 'feminist bank teller' than simply a 'bank teller' is an example of which cognitive error?",
+            "quizOptions": [
+                "The Conjunction Fallacy driven by the Representativeness Heuristic",
+                "The Gambler's Fallacy driven by the Availability Heuristic",
+                "The Anchoring Fallacy driven by Modus Tollens",
+                "The Framing Effect driven by Loss Aversion"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "lang_thought_10",
+            "type": "content",
+            "title": "Confirmation Bias and Belief Perseverance",
+            "content": "# Cognitive Traps: Confirmation Bias\n\n## 1. Confirmation Bias\n- The pervasive tendency to search for, interpret, favor, and recall information that confirms pre-existing beliefs, while actively discounting or ignoring contradictory evidence.\n- **Wason's 2-4-6 Task:** Participants tried to guess a hidden rule by generating number triples. Most generated triples confirming their narrow hypothesis (e.g., *\"6-8-10\"* for even numbers) rather than attempting to disconfirm it (*\"1-2-3\"*).\n\n## 2. Belief Perseverance\n- Clinging to an initial belief even after the empirical evidence that formed the basis of that belief has been completely discredited and proven false.\n- Driven by self-justification mechanisms that generate post-hoc rationalizations to protect ego stability."
+        },
+        {
+            "id": "lang_thought_11",
+            "type": "content",
+            "title": "Concept Formation: Classical vs Prototype Views",
+            "content": "# Theories of Concept Formation\n\nHow does the mind represent conceptual categories (e.g., *\"DOG\"*, *\"CHAIR\"*, *\"JUSTICE\"*)?\n\n## 1. The Classical / Definitional View\n- A concept is defined by a set of **necessary and sufficient** features.\n- **Critique (Wittgenstein):** Many natural concepts lack defining features (e.g., *\"GAME\"*\u2014some involve competition, some do not; some use boards, some balls; they share only **family resemblance**).\n\n## 2. Prototype Theory (Eleanor Rosch, 1975)\n- Concepts are organized around an idealized average or central summary representation: the **prototype**.\n- Objects with high family resemblance are categorized rapidly (**typicality effect**).\n  * *Robin* is a typical bird (fast reaction time); *Penguin* is an atypical bird (slow reaction time)."
+        },
+        {
+            "id": "lang_thought_12",
+            "type": "content",
+            "title": "Exemplar Theory and Hierarchical Categorization",
+            "content": "# Exemplar Theory and Levels of Categorization\n\n## Exemplar Theory (Medin & Schaffer)\n- Instead of a single abstracted prototype, the mind stores numerous concrete, specific remembered instances (**exemplars**).\n- A novel stimulus is categorized by comparing it against all stored exemplars in memory.\n\n## Rosch's Levels of Categorization:\n\n```\nSuperordinate Level:    [VEHICLE]          [ANIMAL]          [FURNITURE]\n                             |\nBasic Level:            [CAR]              [DOG]             [CHAIR]   <--- Psychologically Privileged!\n                             |\nSubordinate Level:      [Sedan / Tesla]    [Golden Retriever][Armchair]\n```\n\n## Why the Basic Level is Privileged:\n- It is the level children learn first (*\"doggy\"* before *\"mammal\"*).\n- It has the highest cue validity and fastest naming speed.\n- It represents the level where members share a common overall shape and motor interaction program."
+        },
+        {
+            "id": "lang_thought_quiz_4",
+            "type": "quiz",
+            "title": "Categorization & Prototypes Check",
+            "content": "Verify your comprehension of categorization levels and prototype theory!",
+            "quizQuestion": "In Eleanor Rosch's taxonomy of categorization, which hierarchical level is considered psychologically privileged because it is learned first by children and provides the optimal balance of informativeness and economy?",
+            "quizOptions": [
+                "The Superordinate Level (e.g., Musical Instrument)",
+                "The Basic Level (e.g., Guitar)",
+                "The Subordinate Level (e.g., Classical Acoustic 6-String Guitar)",
+                "The Definitional Axiomatic Level"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_thought_13",
+            "type": "content",
+            "title": "Neural Substrates of Thinking and Reasoning",
+            "content": "# The Neurobiology of Reasoning\n\nWhere do thinking, logic, and heuristics occur in the human brain?\n\n## Deductive Reasoning Circuitry:\n- **Linguistic / Syllogistic Reasoning:** Recruits the left inferior frontal gyrus (Broca's area) and temporal cortex.\n- **Spatial Deductive Problems:** Recruits bilateral superior parietal cortex and visual working memory networks.\n\n## Conflict & Heuristic Suppression:\n- **Dorsolateral Prefrontal Cortex (DLPFC):** Essential for overriding intuitive System 1 heuristic shortcuts to perform deliberate System 2 logical computations.\n- **Anterior Cingulate Cortex (ACC):** Detects conflict when an intuitive heuristic clashes with formal logic (as in the Linda problem or Stroop task)."
+        },
+        {
+            "id": "lang_thought_14",
+            "type": "content",
+            "title": "Debiasing Human Reasoning",
+            "content": "# Applied Debiasing Strategies\n\nCan humans be trained to think more rationally and avoid cognitive traps?\n\n## Evidence-Based Debiasing Protocols:\n1. **Consider the Opposite (Lord et al.):** Explicitly prompting decision-makers to list three reasons why their preferred hypothesis might be completely wrong eliminates confirmation bias.\n2. **Natural Frequencies vs. Probabilities (Gigerenzer):** Presenting medical statistics as natural frequencies (*\"10 out of 1,000 women\"*) rather than conditional probabilities (*\"p = 0.01 with a false positive rate of 0.05\"*) drastically improves diagnostic accuracy among physicians!\n3. **Red Teaming in Organizations:** Appointing an adversarial group whose sole mandate is to identify flaws and failure modes in strategic plans."
+        },
+        {
+            "id": "lang_thought_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Thinking & Reasoning\n\n## Foundational Principles Mastered:\n\n### 1. Linguistic Relativity\n- Strong determinism (disproven) vs. Weak relativity (validated across space, time, and grammatical gender).\n\n### 2. Deductive and Inductive Logic\n- Deductive validity vs. soundness; conditional reasoning (Modus Ponens vs. Modus Tollens).\n- Wason 4-Card Selection Task reveals widespread confirmation bias and failure to seek disconfirming evidence.\n\n### 3. Heuristics and Biases (Kahneman & Tversky)\n- Availability (ease of recall) and Representativeness (prototype matching).\n- Conjunction Fallacy (Linda Problem) demonstrates how intuition overrides logic.\n\n### 4. Concept Formation\n- Prototype theory (abstracted averages) and Exemplar theory (stored instances).\n- The Basic Level is psychologically privileged for human categorization.\n\n> **Congratulations!** You have mastered the entire **Language & Thought** curriculum. You are now prepared to explore **Cognitive Neuroscience**!"
+        }
+    ]
+}

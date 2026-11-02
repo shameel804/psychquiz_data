@@ -1,0 +1,155 @@
+{
+    "id": "learn_con_awareness",
+    "topicId": "con_awareness",
+    "topicTitle": "Levels of Awareness",
+    "description": "Examine the continuum of human consciousness: conscious vs. unconscious processing, dual-process cognition, selective attention, the Default Mode Network and mind wandering, and altered conscious states.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "con_awareness_1",
+            "type": "content",
+            "title": "The Nature of Conscious Awareness",
+            "content": "# Levels of Conscious Awareness\n\nWhat is consciousness? American philosopher and psychologist William James described consciousness not as a static collection of thoughts, but as an ever-flowing **'Stream of Consciousness'**.\n\n## Defining Consciousness:\n- **Consciousness** is an individual's personal, subjective awareness of internal mental states (thoughts, feelings, bodily sensations) and external environmental events.\n\n## The Continuum of Awareness:\nConsciousness exists along a continuous spectrum ranging from high alertness to unconsciousness:\n\n```\n[ HIGH AWARENESS ] ----> Controlled Processes (Laser focus, complex learning)\n         |\n[ MEDIUM AWARENESS ] --> Automatic Processes & Daydreaming / Mind Wandering\n         |\n[ LOW AWARENESS ] -----> Sleep, Dreaming, Hypnosis, Subliminal Priming\n         |\n[ NO AWARENESS ] ------> General Anesthesia, Deep Coma, Brain Death\n```"
+        },
+        {
+            "id": "con_awareness_2",
+            "type": "content",
+            "title": "Dual Processing: The Two-Track Mind",
+            "content": "# The Two-Track Mind: Dual Processing\n\nModern cognitive neuroscience reveals that the human brain operates simultaneously on two distinct computational tracks (**Dual Processing**):\n\n## 1. High-Road / Controlled Processing (System 2)\n- Conscious, deliberate, effortful, and sequential.\n- We are explicitly aware of the mental steps being taken.\n- *Examples:* Solving a complex mathematics equation, parallel parking in a tight spot, learning to drive a manual transmission car.\n\n## 2. Low-Road / Automatic Processing (System 1)\n- Unconscious, effortless, automatic, and parallel.\n- Operates beneath conscious awareness at incredible computational speed.\n- *Examples:* Walking smoothly, dodging an incoming projectile, registering facial expressions, reading familiar words."
+        },
+        {
+            "id": "con_awareness_3",
+            "type": "content",
+            "title": "Selective Attention: The Cocktail Party Effect",
+            "content": "# Selective Attention: Filtering Reality\n\nOur sensory organs are bombarded with over 11 million bits of information per second, yet conscious working memory can only process approx 40 to 50 bits per second!\n\nTo survive, the brain deploys **Selective Attention** - the conscious focusing of awareness on a specific stimulus while filtering out irrelevant background noise:\n\n## The Cocktail Party Phenomenon (Colin Cherry, 1953):\n- In a crowded, deafening party room filled with dozens of competing loud conversations, you can selectively focus your auditory attention on the single person speaking directly in front of you.\n- **The Unconscious Sentry:** If someone across the room speaks your name, your attention snaps to them instantly! Proves that your low-road unconscious mind was monitoring all background conversations in parallel, bringing relevant stimuli to conscious attention only when important."
+        },
+        {
+            "id": "con_awareness_quiz_1",
+            "type": "quiz",
+            "title": "Dual Processing & Attention Check",
+            "content": "Assess your understanding of controlled vs. automatic processing and selective attention!",
+            "quizQuestion": "In a noisy banquet hall where you are deeply engaged in conversation, suddenly hearing someone mention your own name across the room demonstrates which attentional phenomenon?",
+            "quizOptions": [
+                "The Cocktail Party Effect",
+                "Change blindness",
+                "Sensory adaptation failure",
+                "Prosopagnosia"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "con_awareness_4",
+            "type": "content",
+            "title": "Mind Wandering & The Default Mode Network",
+            "content": "# Mind Wandering & The Daydreaming Brain\n\nWhat does the human brain do when it is not engaged in an active, demanding external task? It wanders!\n\n## The Science of Mind Wandering (Killingsworth & Gilbert):\n- Experience-sampling smartphone studies reveal that human minds wander away from the present moment approximately **47% of all waking hours**!\n- 'A wandering mind is an unhappy mind': mind wandering is frequently associated with rumination, anxiety, and lower momentary happiness.\n\n## The Default Mode Network (DMN):\n- Pioneered by Marcus Raichle using fMRI.\n- A dedicated network spanning the medial prefrontal cortex, posterior cingulate cortex, and precuneus that automatically powers up whenever external task demands cease.\n- Specializes in **autobiographical memory recall, self-referential introspection, contemplating social relationships, and imagining future scenarios**."
+        },
+        {
+            "id": "con_awareness_5",
+            "type": "content",
+            "title": "The Unconscious Mind: Modern vs. Freudian",
+            "content": "# The Modern Cognitive Unconscious\n\nFor nearly a century, popular culture equated the 'unconscious' with Sigmund Freud's boiling cauldron of repressed sexual desires and childhood conflicts.\n\nModern cognitive science has completely redefined the **Cognitive Unconscious**:\n\n| Dimension | Freudian Psychoanalytic Unconscious | Modern Cognitive Unconscious |\n|---|---|---|\n| **Primary Nature** | Seething reservoir of forbidden sexual and aggressive drives | Sophisticated, quiet parallel information processor |\n| **Mechanism** | Repression by the ego's psychological defense mechanisms | Efficient neurocomputational architecture (low-road processing) |\n| **Functions** | Neuroses, Freudian slips, symbolic dream symbols | Procedural motor memory, automatic priming, implicit biases, perceptual categorization |\n| **Empirical Status** | Mostly unproven and non-falsifiable | Extensively proven through reaction-time fMRI paradigms |"
+        },
+        {
+            "id": "con_awareness_6",
+            "type": "content",
+            "title": "Subliminal Priming & Implicit Processing",
+            "content": "# Subliminal Priming & The Implicit Mind\n\nRigorous cognitive laboratories demonstrate that stimuli registered below conscious awareness can prime subsequent behavior:\n\n## Empirical Priming Paradigms:\n- Flashing the word 'BREAD' for 20 milliseconds (below the threshold of conscious detection), followed immediately by a visual mask.\n- When participants are asked to identify whether 'BUTTER' is an English word, their reaction time is 50 milliseconds faster than if primed with 'CHAIR'.\n\n## Implicit Association Test (IAT):\n- Measures automatic, unconscious associations between concepts (e.g., race, age, gender) and evaluations (good vs. bad).\n- Proves that conscious, egalitarian beliefs (high road) can coexist with unconscious, culturally conditioned stereotypes (low road)."
+        },
+        {
+            "id": "con_awareness_quiz_2",
+            "type": "quiz",
+            "title": "Mind Wandering & DMN Check",
+            "content": "Evaluate your understanding of mind wandering and the default mode network!",
+            "quizQuestion": "Which interconnected brain network, spanning the medial prefrontal and posterior cingulate cortex, automatically activates when individuals engage in self-referential daydreaming, future planning, and mind wandering?",
+            "quizOptions": [
+                "The Default Mode Network (DMN)",
+                "The Reticular Activating System",
+                "The Somatomotor Homunculus",
+                "The Spinothalamic Pathway"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "con_awareness_7",
+            "type": "content",
+            "title": "Blindsight: Vision Without Conscious Sight",
+            "content": "# Blindsight: Visual Perception Without Awareness\n\nOne of the most extraordinary proofs of the two-track mind is the phenomenon of **Blindsight** (studied extensively by Lawrence Weiskrantz):\n\n## The Clinical Phenomenon:\n- Patients with complete destruction of Primary Visual Cortex (Area V1) in the occipital lobe are **consciously, 100% blind** in their contralateral visual field.\n- If you hold up a red ball in their blind field and ask: *'What do you see?'*, they truthfully answer: *'Nothing. I am completely blind.'*\n\n## The Astonishing Experiment:\n- If you instruct the patient: *'Reach out your hand and take a blind guess at where the object is'*, the patient reaches out and grasps the ball with 99% accuracy!\n- *'Did the spot of light move left or right?'* They guess correctly on 95% of trials!\n\n## The Neurobiological Explanation:\n- Cortical vision (V1) is dead (no conscious sight).\n- However, ancient subcortical visual pathways from the eye directly into the **Superior Colliculus** remain fully functional, processing spatial location completely outside conscious awareness!"
+        },
+        {
+            "id": "con_awareness_8",
+            "type": "content",
+            "title": "Disorders of Consciousness: Coma to Vegetative State",
+            "content": "# The Spectrum of Severe Consciousness Disorders\n\nWhen traumatic brain injuries, strokes, or anoxic cardiac arrests damage the brainstem or widespread cortical networks, patients enter altered states of neurological consciousness:\n\n## 1. Coma\n- Complete absence of both **Wakefulness** (eyes remain closed) and **Awareness**.\n- No sleep-wake cycles, no purposeful motor response, no vocalization.\n\n## 2. Vegetative State (Unresponsive Wakefulness Syndrome):\n- Return of **Wakefulness** without detectable **Awareness**.\n- Patients open their eyes, exhibit normal sleep-wake circadian cycles, breathe independently, and yawn, but show zero purposeful interaction or command following.\n\n## 3. Minimally Conscious State (MCS):\n- Inconsistent, reproducible evidence of purposeful behavioral awareness (e.g., tracking a mirror with eyes, following simple verbal commands occasionally).\n\n## 4. Locked-In Syndrome:\n- Patient is **100% fully conscious, awake, and alert**, but completely paralyzed in all voluntary muscles except vertical eye movements and blinking (caused by damage to the ventral pons)!"
+        },
+        {
+            "id": "con_awareness_9",
+            "type": "content",
+            "title": "fMRI Detection of Hidden Consciousness",
+            "content": "# Detecting Covert Consciousness in Vegetative Patients\n\nIn a landmark 2006 study published in *Science*, neuroscientist Adrian Owen used fMRI to communicate with a patient diagnosed as clinically vegetative for five months following a car accident:\n\n## The Experimental Protocol:\n- Placed the non-responsive patient in an fMRI scanner and delivered two verbal instructions:\n  1. *'Imagine playing a vigorous game of tennis.'*\n  2. *'Imagine walking through the rooms of your home.'*\n\n## The Astonishing Neural Data:\n- When instructed to imagine tennis, her **Supplementary Motor Area (SMA)** activated identically to healthy control subjects!\n- When instructed to imagine walking through her home, her **Parahippocampal Place Area (PPA)** lit up brightly!\n- By assigning tennis to mean 'YES' and home navigation to mean 'NO', researchers were able to ask her biographical questions and hold a conscious dialogue, proving that covert conscious awareness can exist trapped inside an immobile body!"
+        },
+        {
+            "id": "con_awareness_quiz_3",
+            "type": "quiz",
+            "title": "Consciousness Disorders Check",
+            "content": "Verify your comprehension of blindsight and clinical states of consciousness!",
+            "quizQuestion": "Which neurological condition, caused by focal lesions to the ventral pons, leaves a patient completely alert, awake, and cognitively intact, but totally paralyzed in all voluntary motor muscles except vertical eye movements?",
+            "quizOptions": [
+                "Persistent Vegetative State",
+                "Locked-In Syndrome",
+                "Stage N3 Somnambulism",
+                "Anterograde Amnesia"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "con_awareness_10",
+            "type": "content",
+            "title": "Altered States: Near-Death & Mystical Experiences",
+            "content": "# Altered States: Near-Death Experiences\n\nApproximately 10% to 20% of cardiac arrest survivors who are successfully resuscitated report experiencing a **Near-Death Experience (NDE)**:\n\n## Classic Phenomenological Features:\n- Out-of-body sensations (feeling oneself floating above the operating table looking down at doctors).\n- Moving through a dark tunnel toward a peaceful, radiant light.\n- An overwhelming sense of universal love, peace, and panoramic life review.\n\n## Neurobiological Explanations:\n- **Cerebral Hypoxia / Anoxia:** As blood oxygen plummets, the visual cortex experiences peripheral vasoconstriction, producing progressive tunnel vision!\n- **Massive Endorphin Surge:** The dying brain releases catastrophic surges of endogenous endorphins and neurotransmitters (dopamine, serotonin) to calm terminal distress.\n- **Temporal-Parietal Junction (TPJ) Dysfunction:** Electrical stimulation of the right TPJ reproduces out-of-body illusions in fully awake epilepsy patients."
+        },
+        {
+            "id": "con_awareness_11",
+            "type": "content",
+            "title": "The Hard Problem of Consciousness",
+            "content": "# The 'Hard Problem' of Consciousness\n\nAustralian philosopher and cognitive scientist **David Chalmers** (1995) formulated the most famous dilemma in modern philosophy of mind:\n\n## 1. The 'Easy' Problems of Consciousness:\n- Explaining how the brain integrates sensory information, accesses memory, regulates sleep-wake cycles, and focuses attention.\n- These are 'easy' in principle because they can be solved through standard neurobiological and computational mechanisms.\n\n## 2. The 'Hard' Problem of Consciousness:\n- *Why and how should physical neurochemical processes give rise to subjective, qualitative conscious experience at all?*\n- **Qualia:** The intrinsic, subjective 'what it is like' qualities of experience (the redness of a rose, the painfulness of a toothache, the taste of chocolate).\n- Why isn't the brain just a super-sophisticated biological robot processing data in total darkness without any conscious feeling?"
+        },
+        {
+            "id": "con_awareness_12",
+            "type": "content",
+            "title": "The Neural Correlates of Consciousness (NCC)",
+            "content": "# The Neural Correlates of Consciousness (NCC)\n\nTo bypass philosophical stalemates, neuroscientists like Christof Koch and Francis Crick sought the **Neural Correlates of Consciousness (NCC)**:\n\n## What is the NCC?\n- The minimal neural mechanisms and brain events collectively sufficient for any specific conscious perceptual experience.\n\n## Competing Modern Theories of Consciousness:\n\n### 1. Global Workspace Theory (Bernard Baars & Stanislas Dehaene)\n- Consciousness acts like a theater stage: information is processed unconsciously by specialized modular processors until it is broadcast globally across frontoparietal networks, becoming conscious.\n\n### 2. Integrated Information Theory (Giulio Tononi - IIT)\n- Consciousness is an intrinsic fundamental property of physical systems with high levels of **Integrated Information (Phi)**."
+        },
+        {
+            "id": "con_awareness_quiz_4",
+            "type": "quiz",
+            "title": "Theories of Consciousness Check",
+            "content": "Assess your understanding of the Hard Problem and Global Workspace Theory!",
+            "quizQuestion": "In the philosophy of mind formulated by David Chalmers, what is the 'Hard Problem' of consciousness?",
+            "quizOptions": [
+                "Explaining how the brain measures millisecond reaction times in driving simulators",
+                "Explaining how and why physical neurochemical brain events produce subjective qualitative conscious experience (qualia)",
+                "Developing a computerized EEG cap to calculate sleep spindles",
+                "Determining whether the SCN regulates melatonin secretion"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "con_awareness_13",
+            "type": "content",
+            "title": "Lucid Dreaming: Consciousness in Sleep",
+            "content": "# Lucid Dreaming: Waking Inside Sleep\n\n**Lucid Dreaming** is a hybrid state of consciousness where an individual becomes fully aware that they are dreaming while remaining asleep inside REM sleep:\n\n## Scientific Verification (Stephen LaBerge, 1981):\n- Trained lucid dreamers agreed to execute a pre-arranged sequence of voluntary left-right-left-right eye movements the moment they realized they were dreaming inside REM sleep.\n- Electrooculogram (EOG) tracings recorded the exact voluntary eye movements while EEG verified they remained in true Stage REM sleep with complete muscle atonia!\n\n## Neurobiology:\n- Accompanied by reactivation of the **Dorsolateral Prefrontal Cortex (DLPFC)** during REM sleep, restoring self-awareness and metacognitive agency."
+        },
+        {
+            "id": "con_awareness_14",
+            "type": "content",
+            "title": "Ethical Implications of Consciousness Science",
+            "content": "# Ethical Frontiers in Consciousness Science\n\nAs our scientific understanding of consciousness advances, society confronts unprecedented ethical challenges:\n\n## Emerging Dilemmas:\n- **End-of-Life Decisions:** Using fMRI to detect hidden consciousness in vegetative patients to guide medical decisions.\n- **Animal Consciousness:** The Cambridge Declaration on Consciousness (2012) affirmed that all mammals, birds, and octopuses possess the neurological substrates that generate conscious feelings, mandating stricter welfare protections.\n- **Artificial Consciousness:** When will artificial neural networks develop subjective qualia, and will they possess moral rights?"
+        },
+        {
+            "id": "con_awareness_15",
+            "type": "content",
+            "title": "Course 6 Summary & Consciousness Synthesis",
+            "content": "# Course 6 Summary: States of Consciousness\n\n## Comprehensive Curriculum Mastered:\n- **Sleep & Dreams:** Circadian SCN regulation, pineal melatonin, 90-minute sleep cycle (N1, N2 sleep spindles, N3 delta slow-wave sleep, REM paradoxical sleep), glymphatic waste clearing, dream models (Freud vs. Activation-Synthesis), and sleep disorders (Insomnia, Apnea, Narcolepsy/Orexin, Parasomnias).\n- **Hypnosis & Meditation:** State dissociation (Hilgard's Hidden Observer) vs. Non-State social role theories, hypnotic analgesia (ACC inhibition), Focused vs. Open Monitoring meditation, MBSR, DMN deactivation, neuroplastic remodeling (hippocampal growth, amygdala shrinking), and Csikszentmihalyi's Flow state.\n- **Psychoactive Substances:** Agonists, antagonists, and reuptake inhibitors; Depressants (alcohol, benzodiazepines/GABA), Stimulants (cocaine, amphetamines/DA), Opioids (morphine, fentanyl/endorphin), Hallucinogens (LSD, psilocybin/5-HT2A), Mesolimbic dopamine reward circuit, conditioned tolerance, and psychedelic medicine.\n- **Levels of Awareness:** Dual-track processing (controlled System 2 vs. automatic System 1), Selective attention (Cocktail Party Effect), Default Mode Network (DMN), Blindsight, Locked-In Syndrome vs. Vegetative states, Near-Death Experiences, and the Hard Problem of Consciousness (Qualia, Global Workspace Theory).\n\n> **Congratulations!** You have completed all learning modules for **States of Consciousness**. Next, we enter **Psychopathology** to explore psychological disorders and clinical models of abnormality!"
+        }
+    ]
+}

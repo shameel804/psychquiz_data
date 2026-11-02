@@ -1,0 +1,155 @@
+{
+  "id": "learn_gft_family",
+  "topicId": "gft_family",
+  "topicTitle": "Family & Couples Therapy",
+  "description": "Master systemic family and couples therapy, exploring General Systems Theory, Salvador Minuchin's Structural Model, Strategic Therapy, Bowenian Transgenerational models, and Emotion-Focused Couples Therapy (EFT).",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "gft_family_1",
+      "type": "content",
+      "title": "The Systemic Epistemological Shift",
+      "content": "# The Family Systems Paradigm\n\n**Family and Couples Therapy** represents a radical departure from traditional individual psychology. Instead of viewing psychopathology as an internal disease residing inside an isolated skull, **Family Systems Theory** views symptoms as expressions of dysfunction within the **relational system**.\n\n## General Systems Theory (Ludwig von Bertalanffy):\n- **The Whole is Greater than the Sum of its Parts:** A family is not merely a collection of isolated individuals; it is an organic, interdependent cybernetic system.\n- **Circular Causality:** Replaces linear 'A causes B' thinking with circular feedback loops: *Husband withdraws because Wife criticizes, and Wife criticizes because Husband withdraws*.\n\n```\n[ Husband Withdraws ] <====== Circular Feedback Loop ======> [ Wife Criticizes ]\n```\n\n## The Identified Patient (IP):\n- The family member (often a child or adolescent) exhibiting the overt behavioral symptom (e.g., anorexia, school truancy, panic).\n- The symptom functions as a homeostatic mechanism carrying the unspoken stress of the entire family system."
+    },
+    {
+      "id": "gft_family_2",
+      "type": "content",
+      "title": "Salvador Minuchin: Structural Family Therapy",
+      "content": "# Structural Family Therapy (SFT)\n\nDeveloped by **Salvador Minuchin** (1974) working with inner-city youth at the Wiltwyck School and Philadelphia Child Guidance Clinic, **Structural Family Therapy** focuses on the invisible organizational structure that governs family interactions.\n\n## Core Structural Concepts:\n- **Subsystems:** Distinct functional units organized by generation, gender, or role:\n  - *Spousal / Marital Subsystem:* Partners supporting each other.\n  - *Parental / Executive Subsystem:* Leading, nurturing, and disciplining children.\n  - *Sibling Subsystem:* Peer negotiation and social learning among children.\n- **Hierarchy:** Clear, benevolent generational power; parents must lead the family, not children."
+    },
+    {
+      "id": "gft_family_3",
+      "type": "content",
+      "title": "Minuchin's Boundary Continuum: Enmeshed vs. Disengaged",
+      "content": "# Boundaries in the Family System\n\nMinuchin mapped family boundaries along an organizational continuum, identifying two pathological structural extremes.\n\n```\nEnmeshed (Diffuse Boundaries) <---------- Clear Boundaries ----------> Disengaged (Rigid Boundaries)\n      [ Over-involvement ]               [ Healthy Family ]                  [ Isolation ]\n```\n\n## 1. Enmeshed Families (Diffuse Boundaries):\n- Boundaries between subsystems are permeable and blurry.\n- Over-involvement and intrusiveness; when one person feels pain, everyone is contaminated (*'When you sneeze, Mom catches a cold'*).\n- Individuation and autonomous privacy are forbidden; high risk for psychosomatic and eating disorders.\n\n## 2. Disengaged Families (Rigid Boundaries):\n- Boundaries are impenetrable brick walls; minimal communication or emotional warmth.\n- Members live isolated parallel lives; family mobilizes only during extreme crises."
+    },
+    {
+      "id": "gft_family_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Structural Family Models",
+      "content": "Verify your understanding of Minuchin's Structural Family Therapy and boundaries.",
+      "quizQuestion": "In Salvador Minuchin's Structural Family Therapy, what characterizes an 'enmeshed' family system?",
+      "quizOptions": [
+        "Completely detached, rigid boundaries with zero emotional contact",
+        "Diffuse, overly permeable boundaries where members lack privacy and individual autonomy is stifled by intrusive over-involvement",
+        "A family that lives in separate geographic countries",
+        "A family led entirely by grandparents"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "gft_family_4",
+      "type": "content",
+      "title": "Structural Interventions: Joining & Enactment",
+      "content": "# Minuchin's Clinical Interventions\n\nStructural therapists do not passively talk about problems; they restructure family interactions live in the room.\n\n## Key SFT Interventions:\n- **1. Joining and Mimesis:** The therapist establishes therapeutic rapport by adopting the family's language, tempo, and cultural customs, entering the system as a trusted leader.\n- **2. Enactment:** The therapist instructs family members to talk directly to each other and re-enact a typical domestic conflict in the room right now, observing dysfunctional boundaries in real time.\n- **3. Boundary Making:** Physically moving chairs and seating arrangements (e.g., seating parents together to block an intrusive child) to strengthen generational boundaries.\n- **4. Unbalancing:** Siding temporarily with an underdog subsystem to break an entrenched structural deadlock."
+    },
+    {
+      "id": "gft_family_5",
+      "type": "content",
+      "title": "Strategic Family Therapy: Haley & Milan",
+      "content": "# Strategic Family Therapy: Jay Haley & Milton Erickson\n\n**Strategic Family Therapy** focuses on direct problem resolution, communication dynamics, and power hierarchies, emphasizing that symptoms serve functional homeostatic roles.\n\n## Paradoxical Interventions (Prescribing the Symptom):\n- Instructing the family to deliberately engage in or exaggerate the exact dysfunctional symptom they wish to eliminate!\n- *Example:* Instructing an insomniac to clean the kitchen floor all night, or instructing a bickering couple to schedule a mandatory 30-minute argument every evening at 7:00 PM.\n- *Mechanism:* If they obey the therapist, the behavior becomes under conscious control; if they disobey, they must stop the symptom!"
+    },
+    {
+      "id": "gft_family_6",
+      "type": "content",
+      "title": "Murray Bowen: Multigenerational Family Theory",
+      "content": "# Bowenian Family Systems Theory\n\n**Murray Bowen** viewed human families through a multigenerational lens, examining how anxiety and emotional patterns transmit across three or more generations.\n\n## Core Bowenian Concepts:\n- **Differentiation of Self:** The core metric of psychological maturity\u2014the capacity to balance emotional intimacy with personal autonomy; staying calm and reflective in the face of familial emotional reactivity.\n- **Nuclear Family Emotional System:** The predictable patterns of emotional functioning within a single generation.\n- **Multigenerational Transmission Process:** Highly differentiated individuals marry similarly differentiated peers; poorly differentiated individuals marry poorly differentiated peers, transmitting escalating dysfunction across generations."
+    },
+    {
+      "id": "gft_family_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Bowen & Strategic Therapy",
+      "content": "Assess your understanding of Bowenian differentiation and strategic paradoxes.",
+      "quizQuestion": "In Murray Bowen's Multigenerational Family Systems Theory, what is 'Differentiation of Self'?",
+      "quizOptions": [
+        "A legal divorce decree",
+        "The psychological capacity to remain autonomous, calm, and guided by rational thought rather than being overwhelmed by family emotional reactivity",
+        "The biological process of cellular division in the embryo",
+        "Forgetting one's family history entirely"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "gft_family_7",
+      "type": "content",
+      "title": "Triangulation and the Genogram (Bowen)",
+      "content": "# Triangles and the Family Genogram\n\nBowen observed that a two-person relationship (dyad) is inherently unstable under acute stress.\n\n## Triangulation:\n- When tension between two partners becomes unbearable, they unconsciously recruit a vulnerable third party (typically a child) to dilute the anxiety.\n- *Example:* Parents fighting bitterly stop confronting each other and focus all energy on their 'troubled' adolescent, creating a stable triangle at the child's expense.\n\n## The Genogram:\n- A standardized multi-generational structural family tree mapping at least three generations, documenting medical history, divorces, addictions, cutoffs, and relational alliances."
+    },
+    {
+      "id": "gft_family_8",
+      "type": "content",
+      "title": "The Gottman Method: Science of Couples Therapy",
+      "content": "# The Gottman Method: John & Julie Gottman\n\nBased on over 40 years of empirical laboratory observations of married couples in the 'Love Lab', **John Gottman** identified precise behavioral predictors of marital divorce (with >90% accuracy).\n\n## The Sound Relationship House:\n- Building Love Maps (knowing your partner's inner world).\n- Sharing Fondness and Admiration.\n- Turning Towards Bids for Emotional Connection (vs. turning away or turning against).\n- The Positive Perspective.\n- Managing Conflict (Solvable vs. Perpetual Problems).\n- Making Life Dreams Come True and Creating Shared Meaning."
+    },
+    {
+      "id": "gft_family_9",
+      "type": "content",
+      "title": "The Four Horsemen of the Apocalypse (Gottman)",
+      "content": "# The Four Lethal Relational Habits\n\nGottman identified four destructive communication patterns that systematically poison marital stability.\n\n## The Four Horsemen and Their Antidotes:\n\n| The Four Horsemen | Description | The Evidence-Based Antidote |\n|-------------------|-------------|-----------------------------|\n| **1. Criticism** | Attacking partner's global character (*'You always forget; you're selfish'*). | **Gentle Start-up:** Express feeling + specific need using 'I-statements'. |\n| **2. Contempt (The #1 Predictor of Divorce)** | Sarcasm, eye-rolling, mockery, sneering, hostile disgust. | **Culture of Appreciation:** Express gratitude, fond memories, and respect. |\n| **3. Defensiveness** | Whining, denying responsibility, counter-attacking (*'I wouldn't yell if you weren't so annoying'*). | **Take Responsibility:** Acknowledge partner's perspective, even partially. |\n| **4. Stonewalling** | Shutting down, walking away, stone-faced emotional withdrawal. | **Physiological Self-Soothing:** Take a 20-minute break to lower heart rate. |"
+    },
+    {
+      "id": "gft_family_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Gottman's Four Horsemen",
+      "content": "Verify your understanding of John Gottman's research on marital conflict.",
+      "quizQuestion": "According to John Gottman's longitudinal laboratory research, which of the 'Four Horsemen' communication patterns is the single greatest predictor of relationship dissolution and divorce?",
+      "quizOptions": [
+        "Occasional disagreement",
+        "Contempt (sarcasm, eye-rolling, mockery, and disgust)",
+        "Speaking loudly",
+        "Having different hobbies"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "gft_family_10",
+      "type": "content",
+      "title": "Emotion-Focused Therapy for Couples (EFT-C)",
+      "content": "# Emotion-Focused Couples Therapy: Sue Johnson\n\nDeveloped by **Dr. Sue Johnson**, **Emotion-Focused Couples Therapy (EFT-C)** integrates adult attachment theory and humanistic experiential methods, boasting a remarkable 70-75% recovery rate from marital distress.\n\n## The Attachment Foundation:\n- Relationship distress is not caused by poor communication techniques or chore disputes; it stems from a **threat to the adult attachment bond**.\n- Underneath angry screaming or icy withdrawal is a desperate, terrified question: *'Are you there for me? Do I matter to you? Can I count on you when I need you?'*\n\n## The Negative Interaction Cycle:\n- Typically manifests as a **Pursue-Withdraw (Criticize-Flee)** pattern.\n- The pursuer gets louder because they feel abandoned; the withdrawer retreats because they feel inadequate, creating a mutual panic loop."
+    },
+    {
+      "id": "gft_family_11",
+      "type": "content",
+      "title": "The Three Stages of Emotion-Focused Therapy",
+      "content": "# The 9 Steps of EFT-C Across Three Stages\n\nSue Johnson mapped couples recovery across three structured therapeutic phases.\n\n## Stage 1: De-escalation of the Negative Cycle (Steps 1-4):\n- Identifying the negative interaction loop (The Pursuer-Withdrawer dance).\n- Reframing the loop as the common enemy (*'The cycle is the enemy, not your partner'*).\n- Accessing unacknowledged attachment fears beneath surface anger.\n\n## Stage 2: Restructuring Attachment Bonds (Steps 5-7):\n- Withdrawer Re-engagement: The withdrawer shares vulnerability and steps forward.\n- Pursuer Softening: The pursuer softens hostility and reveals raw sadness and need for safety.\n- Creating powerful emotional bonding events.\n\n## Stage 3: Consolidation and Integration (Steps 8-9):\n- Consolidating new collaborative problem-solving skills and creating a shared future narrative."
+    },
+    {
+      "id": "gft_family_12",
+      "type": "content",
+      "title": "Internal Family Systems (IFS): Richard Schwartz",
+      "content": "# Internal Family Systems (IFS)\n\nDeveloped by **Richard Schwartz**, **Internal Family Systems (IFS)** applies systemic family principles to the internal ecology of the human psyche.\n\n## The Multiplicity of Mind:\n- The psyche is composed of distinct sub-personalities or **'Parts'**, categorized into:\n  1. **Exiles:** Wounded, traumatized child parts carrying deep shame, terror, and grief.\n  2. **Managers:** Proactive protective parts that control the environment, perfectionism, and relationships to prevent Exiles from hurting.\n  3. **Firefighters:** Reactive emergency parts that activate when Exiles breach consciousness, extinguishing pain via binge eating, substance abuse, or dissociation.\n\n## The Core Self (The 8 Cs):\nBeneath all parts lies the undamaged **Self**, characterized by Calmness, Curiosity, Compassion, Confidence, Courage, Clarity, Creativity, and Connectedness."
+    },
+    {
+      "id": "gft_family_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: EFT-C & IFS",
+      "content": "Assess your understanding of Sue Johnson's attachment cycles and IFS parts.",
+      "quizQuestion": "In Sue Johnson's Emotion-Focused Couples Therapy (EFT-C), what is the primary therapeutic reframe regarding marital conflict?",
+      "quizOptions": [
+        "One partner must be declared the identified patient and sent to individual therapy",
+        "The negative relational cycle itself is framed as the common enemy, rather than either partner",
+        "Couples should strictly communicate via written emails only",
+        "Conflict is proof that the marriage was an irreparable mistake"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "gft_family_13",
+      "type": "content",
+      "title": "Narrative Family Therapy: White & Epston",
+      "content": "# Narrative Family Therapy: Externalizing Problems\n\nDeveloped by **Michael White and David Epston**, **Narrative Therapy** asserts that human lives are organized around internal stories.\n\n## Externalizing the Problem:\n- In traditional therapy: *'Johnny is an angry, defiant boy.'*\n- In Narrative Therapy: *'The Anger is trying to invade Johnny's life and recruit him into trouble.'*\n- **Separates the person from the problem:** *'The person is not the problem; the problem is the problem.'*\n- Discovers **Unique Outcomes (Sparkling Moments)** where the client successfully resisted the problem, authoring an alternative empowered narrative."
+    },
+    {
+      "id": "gft_family_14",
+      "type": "content",
+      "title": "Cultural Competence in Family Systems",
+      "content": "# Multicultural Family Diversity\n\nFamily systems theory must reject rigid monocultural definitions of what constitutes a 'normal' family.\n\n## Diverse Family Structures:\n- Extended multigenerational kinship networks in African American, Latino, and Asian communities where grandparents and aunts share co-parenting roles.\n- Single-parent households, blended stepfamilies, foster families, and LGBTQ+ parent configurations.\n- Culturally attuned therapists avoid mislabeling healthy cultural interdependence as 'enmeshment'."
+    },
+    {
+      "id": "gft_family_15",
+      "type": "content",
+      "title": "Summary of Family & Couples Therapy",
+      "content": "# Synthesis of Systemic Relational Therapy\n\nFamily and couples therapy honors the profound truth that humans are deeply embedded in relational webs, transforming systems of conflict into conduits of lasting love and growth.\n\n## Core Principles Review:\n1. **Systemic Cybernetics:** Circular causality replaces linear blame; the identified patient carries systemic stress.\n2. **Structural Organization:** Minuchin's subsystems, clear generational hierarchies, and boundary adjustments.\n3. **Multigenerational Transmissions:** Bowenian differentiation, overcoming emotional triangles across generations.\n4. **Gottman Method:** Eliminating the Four Horsemen (Criticism, Contempt, Defensiveness, Stonewalling) and building Love Maps.\n5. **Attachment Healing:** Sue Johnson's EFT de-escalates the Pursuer-Withdrawer cycle and restores safe attachment bonds."
+    }
+  ]
+}

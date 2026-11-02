@@ -1,0 +1,155 @@
+{
+    "id": "learn_child_socioemotional",
+    "topicId": "child_socioemotional",
+    "topicTitle": "Social-Emotional Development",
+    "description": "Investigate the social-emotional foundations of childhood, covering Erikson's psychosocial crises, infant temperament dimensions, self-concept development, and the emergence of emotional regulation.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "child_socioemotional_1",
+            "type": "content",
+            "title": "The Developing Self and Emotional World",
+            "content": "# Social-Emotional Development in Childhood\n\nHow does a newborn infant\u2014capable only of basic distress and contentment\u2014transform into a self-aware, socially sophisticated child capable of empathy, pride, guilt, and complex friendships?\n\n## The Core Dimensions:\n1. **Erikson's Psychosocial Stages:** Overcoming developmental identity crises.\n2. **Infant Temperament:** Inborn biological behavioral dispositions.\n3. **Self-Concept & Self-Awareness:** Discovering the \"I\" and the \"Me\".\n4. **Emotion Regulation:** Mastering emotional expression and impulse control."
+        },
+        {
+            "id": "child_socioemotional_2",
+            "type": "content",
+            "title": "Erikson's Psychosocial Stages: Infancy to Toddlerhood",
+            "content": "# Erik Erikson's Psychosocial Theory\n\nErik Erikson (1950) proposed that human development spans eight lifelong stages, each organized around a central **psychosocial crisis** between personal needs and cultural demands:\n\n## Stage 1: Trust vs. Mistrust (Birth - 1 Year)\n- **Core Question:** *Is the world a safe, predictable, and supportive place?*\n- **Virtue Achieved:** **Hope**.\n- Responsive, warm caregiving builds deep security; neglectful, erratic care produces fear and chronic mistrust.\n\n## Stage 2: Autonomy vs. Shame and Doubt (1 - 3 Years)\n- **Core Question:** *Can I do things for myself, or must I always rely on others?*\n- **Virtue Achieved:** **Will**.\n- Toddlers assert physical autonomy (dressing themselves, toilet training, saying \"No!\"); over-controlling or mocking parenting creates pervasive self-doubt."
+        },
+        {
+            "id": "child_socioemotional_3",
+            "type": "content",
+            "title": "Erikson's Psychosocial Stages: Early to Middle Childhood",
+            "content": "# Erikson's Childhood Crises (Stages 3 & 4)\n\n## Stage 3: Initiative vs. Guilt (3 - 6 Years)\n- **Core Question:** *Am I good or bad? Can I plan and initiate activities?*\n- **Virtue Achieved:** **Purpose**.\n- Children eagerly initiate imaginative play, plan tasks, and set goals; severe parental criticism produces paralyzing guilt.\n\n## Stage 4: Industry vs. Inferiority (6 - 12 Years)\n- **Core Question:** *How can I be good and competent at school and skills?*\n- **Virtue Achieved:** **Competence**.\n- The transition to elementary school; mastering cultural tools (reading, arithmetic, sports, crafts); failing to achieve competency produces deep feelings of inadequacy and inferiority relative to peers."
+        },
+        {
+            "id": "child_socioemotional_quiz_1",
+            "type": "quiz",
+            "title": "Erikson's Stages Check",
+            "content": "Verify your understanding of Erikson's childhood psychosocial crises!",
+            "quizQuestion": "A 4-year-old child passionately initiates pretend games, builds cardboard castles, and asks endless questions. According to Erik Erikson, this child is navigating which psychosocial crisis?",
+            "quizOptions": [
+                "Trust vs. Mistrust",
+                "Autonomy vs. Shame and Doubt",
+                "Initiative vs. Guilt",
+                "Identity vs. Role Confusion"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "child_socioemotional_4",
+            "type": "content",
+            "title": "Infant Temperament: Thomas & Chess (NYLS)",
+            "content": "# Infant Temperament: The Biological Core\n\n**Temperament** refers to biologically based individual differences in emotional reactivity, motor activity, and attentional self-regulation present from birth.\n\n## The New York Longitudinal Study (Thomas & Chess, 1977):\nTracked 133 individuals from infancy to adulthood across 9 behavioral dimensions, identifying three primary clusters:\n\n1. **Easy Child (40%):** Quickly establishes regular daily routines (sleeping, feeding); cheerful, adapts easily to novel situations.\n2. **Difficult Child (10%):** Irregular daily routines; slow to accept new foods and people; cries intensely; reactive and frustrated.\n3. **Slow-to-Warm-Up Child (15%):** Inactive, mild low-key reactions to environmental changes; hesitant in novelty, gradually warms up.\n*(Note: 35% of infants show unique blends of these traits!)*"
+        },
+        {
+            "id": "child_socioemotional_5",
+            "type": "content",
+            "title": "Rothbart's Temperament Model & Goodness-of-Fit",
+            "content": "# Mary Rothbart's Modern Temperament Framework\n\nMary Rothbart replaced descriptive clusters with three core psychobiological dimensions:\n1. **Surgency / Extraversion:** High positive affect, activity level, impulsivity, sensation seeking.\n2. **Negative Affectivity:** Fear, anger, frustration, discomfort, sadness.\n3. **Effortful Control:** The voluntary capacity to suppress a dominant response to execute a subdominant response (attention focusing and inhibitory control).\n\n## The Goodness-of-Fit Model:\n- A child's developmental outcome is not dictated by temperament alone.\n- **Goodness-of-Fit:** The compatibility between a child's temperament and their caregiving environment.\n- A \"difficult\" child whose parents respond with calm, structured, patient parenting develops normal emotional regulation; the same child paired with harsh, erratic parenting develops severe conduct disorders!"
+        },
+        {
+            "id": "child_socioemotional_6",
+            "type": "content",
+            "title": "Behavioral Inhibition: Jerome Kagan",
+            "content": "# Jerome Kagan: Shyness & Behavioral Inhibition\n\nJerome Kagan conducted longitudinal physiological tracking of temperament from 4 months of age:\n\n## The 4-Month Mobile Test:\n- Infants were exposed to novel, high-intensity sensory stimuli (colorful moving mobiles, unfamiliar voices, smelling rubbing alcohol).\n- **High-Reactive Infants (20%):** Thrashed arms and legs frantically, arched backs, cried intensely.\n- **Low-Reactive Infants (40%):** Remained calm, relaxed, smiling.\n\n## The Biological Paradox:\n- High-reactive infants grew into **Behaviorally Inhibited / Shy** children at age 7!\n- Possess an **excitable, hyper-reactive amygdala** and elevated sympathetic autonomic tone (higher resting heart rate, elevated cortisol) that registers novelty as threatening danger."
+        },
+        {
+            "id": "child_socioemotional_quiz_2",
+            "type": "quiz",
+            "title": "Temperament Check",
+            "content": "Evaluate your understanding of infant temperament and goodness-of-fit!",
+            "quizQuestion": "In Jerome Kagan's longitudinal research on temperament, 4-month-old infants who reacted to novel moving toys with frantic motor thrashing and intense crying were classified as:",
+            "quizOptions": [
+                "Low-reactive infants who became adventurous, uninhibited toddlers",
+                "High-reactive infants who grew into behaviorally inhibited, shy children",
+                "Infants suffering from Disorganized attachment",
+                "Children lacking effortful control"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_socioemotional_7",
+            "type": "content",
+            "title": "Development of Self-Concept: The Rouge Test",
+            "content": "# Self-Recognition: The Rouge Test\n\nWhen does a human infant realize that the face in the mirror is **themselves**?\n\n## The Mirror Self-Recognition (Rouge) Test (Michael Lewis, 1979):\n- A mother surreptitiously dabs a red spot of rouge makeup onto the infant's nose under the guise of wiping their face.\n- The infant is placed before a full-length mirror.\n\n```\nInfant Under 15 Months:   Reaches out and touches the red dot on the MIRROR glass\n                          (treats mirror image as another playmate).\n\nInfant at 18-24 Months:   Reaches up and touches their OWN NOSE!\n                          (Recognizes that the mirror reflection is \"Me\"!).\n```\n\n## The Birth of the \"Me-Self\":\n- Self-recognition emerges reliably between **18 and 24 months**, accompanied by personal pronouns (*\"Mine!\", \"Me!\"*) and pretend play."
+        },
+        {
+            "id": "child_socioemotional_8",
+            "type": "content",
+            "title": "Self-Conscious Emotions",
+            "content": "# The Emergence of Self-Conscious Emotions\n\nBasic primary emotions (joy, anger, sadness, fear, disgust) appear in the first 6 months. **Self-conscious emotions** require self-awareness:\n\n## Secondary (Self-Conscious) Emotions:\nEmerge around age 2 after mirror self-recognition is achieved:\n- **Pride:** Joy in personal accomplishment relative to a social standard.\n- **Shame:** A painful feeling of core personal inadequacy (*\"I am a bad person\"*); causes withdrawal.\n- **Guilt:** Distress linked to a specific harmful behavior (*\"I did a bad thing\"*); drives reparative actions (apologizing, making amends).\n- **Embarrassment & Envy:** Evaluating oneself against the observed states of peers."
+        },
+        {
+            "id": "child_socioemotional_9",
+            "type": "content",
+            "title": "Theory of Mind (ToM) & False-Belief Tasks",
+            "content": "# Theory of Mind (ToM)\n\n**Theory of Mind** is the cognitive capacity to attribute mental states (beliefs, desires, intentions, emotions) to oneself and others, recognizing that others have beliefs that may differ from reality and one's own.\n\n## The Sally-Anne False-Belief Task (Baron-Cohen, Leslie, & Frith):\n- Sally has a basket; Anne has a box.\n- Sally puts a marble into her basket and walks away.\n- While Sally is gone, Anne moves the marble into her box!\n- Sally returns. **Question:** *\"Where will Sally look for her marble?\"*\n\n```\n3-Year-Old (Lacks ToM):   \"In the box!\" (Assumes Sally knows what the child knows).\n4-5-Year-Old (Possesses ToM): \"In her basket!\" (Understands Sally holds a False Belief).\n```\n\n## Autism Spectrum Condition:\n- Children with autism struggle with false-belief tasks, exhibiting atypical development of the social brain network (mPFC, TPJ)."
+        },
+        {
+            "id": "child_socioemotional_quiz_3",
+            "type": "quiz",
+            "title": "Self-Recognition & Theory of Mind Check",
+            "content": "Test your mastery of the Rouge test and the Sally-Anne false-belief paradigm!",
+            "quizQuestion": "In the Sally-Anne false-belief task, what answer does a typically developing 4-year-old child give when asked where Sally will look for her moved marble?",
+            "quizOptions": [
+                "Sally will look in the box where Anne hid it",
+                "Sally will look in her basket where she originally left it, because Sally holds a false belief",
+                "Sally will not look for the marble at all",
+                "Sally will look in the experimenter's pocket"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_socioemotional_10",
+            "type": "content",
+            "title": "Emotion Regulation in Children",
+            "content": "# The Development of Emotion Regulation\n\nEmotion regulation transitions from total external dependence to sophisticated internal autonomy:\n\n## Developmental Progression:\n1. **Infancy (External Co-Regulation):** Infants cannot self-soothe independently; rely entirely on caregiver rocking, swaddling, feeding, and singing.\n2. **Toddlerhood (Behavioral Distraction):** Developing basic strategies: covering eyes, holding a transitional security blanket, walking away from distress.\n3. **Early Childhood (Language & Self-Talk):** Utilizing private speech to coach oneself through fear (*\"Monsters aren't real, Mommy is in the other room\"*).\n4. **Middle Childhood (Cognitive Reappraisal):** Mentally reframing distressing events (*\"Losing this soccer game is okay; we played hard and will practice more\"*)."
+        },
+        {
+            "id": "child_socioemotional_11",
+            "type": "content",
+            "title": "The Marshmallow Test: Delayed Gratification",
+            "content": "# Walter Mischel's Marshmallow Test (1970s)\n\nAt Stanford University, 4-year-olds sat in an empty room with a single marshmallow on a plate.\n- **Choice:** Eat the one marshmallow right now, OR wait 15 minutes alone until the experimenter returns and receive **two marshmallows**!\n\n## Cognitive Strategies of Successful Waiters:\n- Successful children did not stare at the marshmallow with white-knuckled willpower.\n- They used **cognitive transformation and distraction**: covering their eyes, turning their back, singing songs, or pretending the marshmallow was an inedible fluffy cloud!\n\n## Longitudinal Findings:\n- Waiting time at age 4 predicted higher adolescent SAT scores, lower BMI, higher educational attainment, and fewer substance abuse problems decades later."
+        },
+        {
+            "id": "child_socioemotional_12",
+            "type": "content",
+            "title": "Parenting Styles: Diana Baumrind",
+            "content": "# Diana Baumrind's Parenting Typology\n\nClassified parenting across two orthogonal dimensions: **Demandingness (Control)** and **Responsiveness (Warmth)**:\n\n| | HIGH RESPONSIVENESS (Warmth) | LOW RESPONSIVENESS (Cold) |\n|---|---|---|\n| **HIGH DEMANDINGNESS** (Control) | **AUTHORITATIVE**<br>- High warmth, firm limits, open reasoning.<br>- *Outcomes:* High self-esteem, socially competent, independent. | **AUTHORITARIAN**<br>- Strict obedience, punishment, low dialogue.<br>- *Outcomes:* Anxious, withdrawn, low self-esteem. |\n| **LOW DEMANDINGNESS** (Permissive) | **PERMISSIVE / INDULGENT**<br>- High warmth, zero discipline or boundaries.<br>- *Outcomes:* Impulsive, rebellious, poor self-control. | **UNINVOLVED / NEGLECTFUL**<br>- Low warmth, zero control, absent.<br>- *Outcomes:* Worst outcomes; delinquency, depression. |"
+        },
+        {
+            "id": "child_socioemotional_quiz_4",
+            "type": "quiz",
+            "title": "Delay of Gratification & Parenting Check",
+            "content": "Verify your understanding of Mischel's marshmallow paradigm and Baumrind's styles!",
+            "quizQuestion": "In Diana Baumrind's parenting typology, which parenting style combines high parental warmth, emotional responsiveness, and open dialogue with firm, clear, reasoned behavioral boundaries?",
+            "quizOptions": [
+                "Authoritarian",
+                "Authoritative",
+                "Permissive",
+                "Neglectful"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_socioemotional_13",
+            "type": "content",
+            "title": "Peer Relations and Play Typologies (Parten)",
+            "content": "# The Social Ecology of Peer Play (Mildred Parten)\n\nChildren's play develops across six chronological social stages:\n1. **Unoccupied Behavior:** Wandering aimlessly; stationary observation.\n2. **Onlooker Play:** Watching other children play with active interest, asking questions, but not joining.\n3. **Solitary Independent Play:** Playing alone with toys completely independently.\n4. **Parallel Play:** Playing side-by-side with similar toys without direct interaction or mutual influence.\n5. **Associative Play:** Sharing toys and conversing, but no shared goal or organized division of labor.\n6. **Cooperative Play:** Organized, coordinated play around a shared goal or dramatic role (e.g., building a sandcastle together, playing house)."
+        },
+        {
+            "id": "child_socioemotional_14",
+            "type": "content",
+            "title": "Sociometric Status in Peer Groups",
+            "content": "# Peer Sociometric Status (Coie & Dodge)\n\nHow do peer groups evaluate individual children?\n\n## The Five Sociometric Categories:\n1. **Popular Children:** Receive many positive peer nominations and few negative nominations; high social skills, cooperative.\n2. **Rejected Children:** Receive many negative nominations and few positive.\n   * **Aggressive-Rejected:** Hostile, reactive, hyperactive, disruptive.\n   * **Withdrawn-Rejected:** Passive, socially awkward, targeted by bullies.\n3. **Neglected Children:** Rarely nominated either positively or negatively; quiet, ignored, but well-adjusted.\n4. **Controversial Children:** Receive many positive AND many negative nominations (class clowns, dominant bullies).\n5. **Average Children:** Receive moderate balance of nominations."
+        },
+        {
+            "id": "child_socioemotional_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Social-Emotional Development\n\n## Core Principles Mastered:\n\n### 1. Psychosocial Crises (Erikson)\n- Trust vs. Mistrust (Hope), Autonomy vs. Shame (Will), Initiative vs. Guilt (Purpose), Industry vs. Inferiority (Competence).\n\n### 2. Temperament & Biological Reactivity\n- Thomas & Chess (Easy, Difficult, Slow-to-warm); Rothbart's Effortful Control.\n- Kagan's behavioral inhibition: High-reactive infants display amygdala excitability.\n\n### 3. Self-Concept & Theory of Mind\n- Rouge test establishes mirror self-recognition at 18-24 months, unleashing self-conscious emotions (pride, guilt, shame).\n- False-belief tasks (Sally-Anne) passed at age 4.\n\n### 4. Self-Regulation & Socialization\n- Mischel's Marshmallow Test proves the power of cognitive distraction in delayed gratification.\n- Baumrind's Authoritative style produces optimal developmental competence.\n\n> **Up Next:** Explore the earliest biological beginnings of life in **Prenatal Development & Infancy**!"
+        }
+    ]
+}

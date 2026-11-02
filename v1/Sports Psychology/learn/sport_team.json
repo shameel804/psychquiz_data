@@ -1,0 +1,155 @@
+{
+    "id": "learn_sport_team",
+    "topicId": "sport_team",
+    "topicTitle": "Team Dynamics in Sports",
+    "description": "Examine the social psychological mechanisms governing athletic teams, analyzing Carron's cohesion model, Chelladurai's leadership framework, the home advantage, and the team flow state.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sport_team_1",
+            "type": "content",
+            "title": "The Collective Champion: Sports Team Dynamics",
+            "content": "# The Power of the Unit: Team Dynamics in Sports\n\nIn team sports (basketball, soccer, rowing, rugby), assembling the roster with the highest individual player ratings does NOT guarantee a championship. As basketball coach Red Auerbach noted: *\"It's not what fifteen individual players can do; it's what they can do together.\"*\n\n## What Drives Team Synergy?\nTeam sports dynamics examines the structural, social, and psychological processes that transform a collection of athletes into a unified, high-performing athletic machine.\n\n```\n                             [THE SPORTS TEAM ARCHITECTURE]\n                                            |\n         +----------------------------------+----------------------------------+\n         |                                                                     |\n   [COHESION & SOCIAL PHENOMENA]                                 [LEADERSHIP & OPTIMAL STATES]\n   - Carron's Model of Team Cohesion (Task vs Social)            - Chelladurai's Multidimensional Leadership (MML)\n   - The Home Field Advantage Mechanisms                         - The Coach-Athlete Relationship (Jowett's 3+1 C's)\n   - Collective Efficacy & Momentum Shifts                       - The Athletic Flow State (\"The Zone\")\n```"
+        },
+        {
+            "id": "sport_team_2",
+            "type": "content",
+            "title": "Albert Carron's Model of Team Cohesion (1982, 1985)",
+            "content": "# Albert Carron: The Architecture of Cohesion\n\nAlbert Carron defined **Team Cohesion** as a dynamic process reflected in the tendency for a group to stick together and remain united in the pursuit of its instrumental objectives and satisfaction of member affective needs.\n\n## The Two Fundamental Cohesion Dimensions:\n\n```\n                                    [TEAM COHESION]\n                                           |\n         +---------------------------------+---------------------------------+\n         |                                                                   |\n   [TASK COHESION]                                                     [SOCIAL COHESION]\n   - The degree to which members work together                         - The degree to which members like each other,\n     collaboratively to achieve common athletic goals.                   enjoy spending time together, and feel social camaraderie.\n   - *\"We are united to win the championship!\"*                         - *\"We are best friends who hang out after practice!\"*\n```\n\n## The Group Environment Questionnaire (GEQ):\nMeasures four facets: Group Integration-Task (GI-T), Group Integration-Social (GI-S), Individual Attractions to the Group-Task (ATG-T), and Individual Attractions to the Group-Social (ATG-S)."
+        },
+        {
+            "id": "sport_team_3",
+            "type": "content",
+            "title": "Task vs. Social Cohesion & Performance",
+            "content": "# Which Cohesion Matters More for Winning?\n\nA landmark meta-analysis by Carron et al. (2002) synthesized 46 studies to evaluate the relationship between cohesion and athletic performance:\n\n```\n   TYPE OF SPORT               WHICH COHESION PREDICTS WINNING?\n   ------------------------------------------------------------------------------------\n   INTERACTIVE SPORTS       --> TASK COHESION IS PARAMOUNT! (Strong positive correlation, r = 0.65).\n   (Soccer, Basketball, Rugby)  Players MUST coordinate passes and plays. High social liking\n                                is helpful, but NOT strictly necessary (rival players can win!).\n   \n   COACTIVE SPORTS          --> COHESION HAS MINIMAL IMPACT (r = 0.10 to 0.20).\n   (Golf, Bowling, Archery)     Athletes perform individually; high social cohesion can even\n                                cause toxic performance-distracting chatter!\n```\n\n## The Bidirectional Cohesion-Performance Spiral:\nCohesion leads to winning, and winning significantly increases team cohesion (a mutually reinforcing upward spiral)!"
+        },
+        {
+            "id": "sport_team_quiz_1",
+            "type": "quiz",
+            "title": "Carron's Cohesion Model Check",
+            "content": "Verify your understanding of team cohesion dimensions!",
+            "quizQuestion": "In Albert Carron's model of sports team cohesion, which type of cohesion is defined as the degree to which teammates work interdependently to achieve common competitive objectives (such as executing game strategies to win a title)?",
+            "quizOptions": [
+                "Social Cohesion",
+                "Task Cohesion",
+                "Deindividuation Cohesion",
+                "Extrinsic Cohesion"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_team_4",
+            "type": "content",
+            "title": "Chelladurai's Multidimensional Model of Leadership",
+            "content": "# P. Chelladurai: Leadership in Sports (MML, 1990)\n\nWhat makes an athletic coach effective? P. Chelladurai formulated the **Multidimensional Model of Leadership (MML)**:\n\n```\n   ANTECEDENTS                       LEADER BEHAVIORS                      CONSEQUENCES\n   --------------------------        ------------------------------        -------------------------\n   [SITUATIONAL CHARACTERISTICS] --> [REQUIRED BEHAVIOR]           --+\n   (Sport type, level, norms)        (What situation demands)        |\n                                                                     v\n   [LEADER CHARACTERISTICS]     ---> [ACTUAL BEHAVIOR]             ----> [ATHLETE PERFORMANCE]\n   (Personality, expertise)          (How coach actually acts)       ^   [ATHLETE SATISFACTION]\n                                                                     |\n   [MEMBER CHARACTERISTICS]     ---> [PREFERRED BEHAVIOR]          --+\n   (Age, gender, skill level)        (What athletes desire)\n```\n\n## The Congruence Hypothesis:\nWhen **Actual Behavior, Required Behavior, and Preferred Behavior all ALIGN IN HARMONY**, both athletic performance and athlete satisfaction reach their absolute peak!"
+        },
+        {
+            "id": "sport_team_5",
+            "type": "content",
+            "title": "The Coach-Athlete Relationship: Jowett's 3+1 C's",
+            "content": "# Sophia Jowett: The Coach-Athlete Dyad\n\nSophia Jowett conceptualized the coach-athlete relationship as an intimate interpersonal bond defined by the **3+1 C's Framework**:\n\n```\n   1. CLOSENESS:      Emotional bond; mutual trust, respect, appreciation, and genuine liking.\n   2. COMMITMENT:     Intent to maintain the athletic partnership over the long term through adversity.\n   3. COMPLEMENTARITY:Behavioral collaboration; reciprocal cooperative interactions in training.\n   \n   +1. CO-ORIENTATION:Shared perspective; mutual understanding and empathetic alignment on goals.\n```\n\nHigh scores on the 3+1 C's predict significantly higher athlete resilience, lower burnout, and Olympic medal success."
+        },
+        {
+            "id": "sport_team_6",
+            "type": "content",
+            "title": "Peer Leadership & Locker Room Dynamics",
+            "content": "# Leadership from Within: Peer Leaders\n\nCoaches provide external direction, but high-performing teams require strong internal **Peer Leadership**:\n\n```\n   FOUR TYPES OF ATHLETIC PEER LEADERS (Loughead et al., 2006):\n   1. Task Leader:        Focuses on tactical execution on the field; directs plays.\n   2. Motivational Leader:Fires up team energy; demands 100% effort during exhausting moments.\n   3. Social Leader:      Promotes locker-room harmony, resolves interpersonal disputes, plans team meals.\n   4. External Leader:    Acts as liaison between team and management, media, and community.\n```\n\nChampionship teams rarely rely on a single captain; leadership responsibilities are distributed across multiple peer leaders."
+        },
+        {
+            "id": "sport_team_quiz_2",
+            "type": "quiz",
+            "title": "Coaching Leadership Check",
+            "content": "Verify your understanding of Chelladurai's MML and Jowett's model!",
+            "quizQuestion": "In P. Chelladurai's Multidimensional Model of Leadership (MML), under what condition are both athletic performance and athlete satisfaction maximized?",
+            "quizOptions": [
+                "When the coach uses authoritarian physical punishment exclusively",
+                "When there is congruence and alignment between the coach's Actual Behavior, Required Situational Behavior, and Preferred Athlete Behavior",
+                "When the team operates with zero coaches or adult staff",
+                "When the coach ignores all player preferences entirely"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_team_7",
+            "type": "content",
+            "title": "The Home Field Advantage: Mechanisms",
+            "content": "# The Power of Home Turf: The Home Advantage\n\nAcross sports (soccer, basketball, baseball, hockey), home teams win **55% to 65% of all competitive matches** (Courneya & Carron, 1992). What drives this phenomenon?\n\n```\n                                [HOME FIELD ADVANTAGE FACTORS]\n                                              |\n         +------------------------------------+------------------------------------+\n         |                                    |                                    |\n   [CROWD SUPPORT & NOISE]              [VENUE FAMILIARITY]                  [TRAVEL FATIGUE]\n   - Social facilitation; emotional     - Knowledge of unique court/field    - Disrupted circadian rhythms,\n     energy; boosts testosterone.         irregularities, lighting, turf.      hotel sleep, jet lag in visitors.\n```\n\n## The Decisive Factor: Subconscious Referee Bias!\nDuring COVID-19 empty-stadium games, **the home advantage dropped significantly**! Massive home crowd noise unconsciously pressures referees to award fewer yellow cards and foul calls to the home team!"
+        },
+        {
+            "id": "sport_team_8",
+            "type": "content",
+            "title": "Collective Efficacy & Psychological Momentum",
+            "content": "# Collective Belief: Albert Bandura in Team Sports\n\n**Collective Efficacy** is a team's shared belief in its conjoint capabilities to organize and execute the actions required to achieve success:\n\n```\n   High Collective Efficacy  --> Team perseveres during deficit --> Rallies from behind to WIN!\n   Low Collective Efficacy   --> Team crumbles on first error   --> Defeatist surrender!\n```\n\n## Psychological Momentum (\"The Hot Hand\"):\nWhile statisticians once debated the \"hot hand,\" cognitive neuroscience confirms that athletic momentum is real: successful consecutive plays elevate dopamine, decrease cognitive anxiety, and induce rapid collective efficacy."
+        },
+        {
+            "id": "sport_team_9",
+            "type": "content",
+            "title": "Flow State in Athletics: Susan Jackson & Csikszentmihalyi",
+            "content": "# Entering 'The Zone': Athletic Flow State\n\nSusan Jackson and Mihaly Csikszentmihalyi mapped the nine definitive dimensions of **Athletic Flow**:\n\n```\n   1. Challenge-Skill Balance: Task difficulty perfectly matches elite capabilities.\n   2. Action-Awareness Merging: Movements feel effortless, spontaneous, and automatic.\n   3. Clear Goals: Total clarity on exactly what must be executed every split second.\n   4. Unambiguous Feedback: Immediate sensory awareness of execution accuracy.\n   5. Total Concentration: Laser-locked focus on task-relevant cues; crowd noise vanishes.\n   6. Sense of In-Control: Free from fear of failure; complete calm commanding mastery.\n   7. Loss of Self-Consciousness: Ego and self-monitoring dissolve entirely.\n   8. Transformation of Time: Time appears to slow down (the ball looks huge and slow!).\n   9. Autotelic Experience: The intrinsic joy of the performance is its own ultimate reward.\n```"
+        },
+        {
+            "id": "sport_team_quiz_3",
+            "type": "quiz",
+            "title": "Home Advantage & Flow Check",
+            "content": "Verify your understanding of home advantage and athletic flow!",
+            "quizQuestion": "In research on the Home Field Advantage during the COVID-19 pandemic when matches were played in empty stadiums with zero spectators, what notable change occurred?",
+            "quizOptions": [
+                "The home advantage increased to 100%",
+                "The home advantage dropped significantly, proving that crowd noise exerts a powerful subconscious influence on referee officiating bias",
+                "Home teams refused to play matches",
+                "All sporting leagues were permanently disbanded"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_team_10",
+            "type": "content",
+            "title": "Team Building & Role Structure in Sports",
+            "content": "# Engineering High-Performance Teams\n\nHow do coaches build unbreakable team units?\n\n## Role Structure Dynamics (Eys et al., 2005):\nEvery athlete on a team occupies a specific functional role. Team effectiveness requires three milestones:\n1. **Role Clarity:** The athlete understands exactly what the team expects them to do (*\"My job is to defend their best scorer, not to take 20 shots\"*).\n2. **Role Acceptance:** The athlete willingly embraces and values that assignment.\n3. **Role Performance:** The athlete executes the role effectively.\n\nAmbiguity or resentment regarding team roles is the #1 cause of locker-room implosion."
+        },
+        {
+            "id": "sport_team_11",
+            "type": "content",
+            "title": "Culture in Sports Dynasties: The New Zealand All Blacks",
+            "content": "# The Culture of Dynasties: James Kerr's Legacy\n\nThe New Zealand All Blacks rugby team is the most successful professional sports franchise in history (over 77% winning rate for a century). Their culture rests on core psychological principles:\n\n- **\"Better People Make Better All Blacks\":** Prioritizing character, humility, and emotional maturity over raw athletic skill.\n- **\"Sweep the Sheds\":** Senior superstar players physically clean the locker-room floors after every match, cementing humility and zero entitlement.\n- **Psychological Safety in Debriefs:** Brutally honest, non-defensive video review sessions where rank and ego are checked at the door."
+        },
+        {
+            "id": "sport_team_12",
+            "type": "content",
+            "title": "Constructive Post-Game Debriefing",
+            "content": "# Learning from Defeat: Post-Match Processing\n\nHow a team processes an agonizing defeat dictates whether it recovers or fractures:\n\n```\n   TOXIC POST-GAME DEFEAT PROCESSING             CONSTRUCTIVE GROWTH PROCESSING\n   ----------------------------------------      -------------------------------------------\n   - Finger-pointing, scapegoating individuals.  - Focusing on objective team tactical execution.\n   - Emotional screaming and insults.            - Separating player character from strategic error.\n   - Destroys psychological safety.              - Framing losses as valuable diagnostic data.\n   - Fuels relationship conflict.                - Elevates collective efficacy and solidarity.\n```"
+        },
+        {
+            "id": "sport_team_quiz_4",
+            "type": "quiz",
+            "title": "Team Building & Culture Check",
+            "content": "Verify your understanding of team building and sports culture!",
+            "quizQuestion": "In sports team dynamics (Eys et al., 2005), what is 'Role Acceptance'?",
+            "quizOptions": [
+                "The team captain signing legal contracts for all players",
+                "An athlete willingly embracing, valuing, and committing to their specific assigned team responsibilities, even if it involves personal sacrifice of glory",
+                "Memorizing the coach's favorite quotes",
+                "Wearing the same jersey number for an entire career"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_team_13",
+            "type": "content",
+            "title": "Cross-Cultural Dynamics in Global Team Sports",
+            "content": "# The Multilingual Roster: Cross-Cultural Sports Teams\n\nModern European football clubs and NBA teams assemble players from 15 different nations:\n\n- **Navigating Communication Directness:** Low-context players (Dutch, German) deliver direct blunt critiques; high-context players (Japanese, Latin American) interpret bluntness as personal insults.\n- **Bridging Faultlines:** Intentional seating assignments on team buses and meal tables to prevent self-segregating linguistic cliques."
+        },
+        {
+            "id": "sport_team_14",
+            "type": "content",
+            "title": "Comprehensive Sports Team Dynamics Matrix",
+            "content": "# Theoretical Architecture of Athletic Teams\n\n| Level of Analysis | Core Scientific Model | Practical Team Tool |\n|---|---|---|\n| **Cohesion Architecture** | Carron's Cohesion Framework (GEQ) | Building Task Cohesion in interactive sports. |\n| **Coach Leadership** | Chelladurai's MML & Jowett's 3+1 C's| Aligning actual, required, and preferred styles. |\n| **Player Roles** | Role Clarity, Acceptance, Performance | Explicit role definition and appreciation. |\n| **Collective Mindset** | Bandura's Collective Efficacy | Engineering early momentum and rally belief. |\n| **Peak Collective State** | Jackson's Athletic Flow State | Challenge-skill balance, deep concentration. |\n| **Elite Team Culture** | All Blacks \"Sweep the Sheds\" Model | Humility, psychological safety, shared accountability. |"
+        },
+        {
+            "id": "sport_team_15",
+            "type": "content",
+            "title": "Module Synthesis: Team Dynamics in Sports",
+            "content": "# Key Takeaways: Team Dynamics in Sports\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Team Dynamics Principle      |\n+-----------------------+-----------------------------+-----------------------------------+\n| Team Cohesion         | Albert Carron (1982, 2002)  | Task Cohesion strongly predicts   |\n|                       |                             | success in interactive sports.    |\n+-----------------------+-----------------------------+-----------------------------------+\n| Multidimensional      | P. Chelladurai (1990)       | Congruence of actual, required,   |\n| Leadership (MML)      |                             | and preferred behavior yields win.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Coach-Athlete Bond    | Sophia Jowett (2007)        | 3+1 C's: Closeness, Commitment,   |\n|                       |                             | Complementarity, Co-orientation.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Athletic Flow         | Susan Jackson (1996)        | 9 dimensions anchor athletes      |\n|                       |                             | effortlessly into 'The Zone'.     |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nChampionship teams are forged through mutual trust, clear role acceptance, transformational coaching, and the collective courage to prioritize the shared mission above individual ego."
+        }
+    ]
+}

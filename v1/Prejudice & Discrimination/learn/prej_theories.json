@@ -1,0 +1,155 @@
+{
+    "id": "learn_prej_theories",
+    "topicId": "prej_theories",
+    "topicTitle": "Theories of Prejudice",
+    "description": "Examine major social, cognitive, and evolutionary models explaining the origins and maintenance of prejudice, including Social Identity Theory, Realistic Conflict, and Implicit Bias.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "prej_theories_1",
+            "type": "content",
+            "title": "The Tripartite Architecture of Intergroup Bias",
+            "content": "# Deconstructing Intergroup Bias\n\nSocial psychology separates intergroup hostility into three interconnected cognitive, affective, and behavioral components:\n\n```\n                                [INTERGROUP BIAS TRIAD]\n                                           |\n         +---------------------------------+---------------------------------+\n         |                                 |                                 |\n   [STEREOTYPE]                      [PREJUDICE]                       [DISCRIMINATION]\n   - Cognitive Component             - Affective Component             - Behavioral Component\n   - Generalized beliefs, schemas,   - Unjustified negative feelings,  - Unjustified differential action,\n     and expectations attributed       hostility, hatred, or contempt    exclusion, or denial of rights\n     to all members of a group.        toward a group member.            directed at group members.\n```\n\nAn individual can hold implicit stereotypes without openly endorsing prejudice, or engage in institutional discrimination through passive conformity without conscious hatred."
+        },
+        {
+            "id": "prej_theories_2",
+            "type": "content",
+            "title": "Henri Tajfel's Social Identity Theory (1979)",
+            "content": "# Social Identity Theory: The Power of Ingroups\n\nHenri Tajfel, a Polish-British Holocaust survivor, sought to understand the absolute baseline conditions required to trigger intergroup hostility.\n\n## The Minimal Group Paradigm (Tajfel et al., 1971):\n- British schoolboys were assigned to arbitrary groups based on meaningless criteria (estimating numbers of dots or preferring paintings by Klee vs. Kandinsky).\n- Boys never met group members, wore no uniforms, and competed for no physical rewards.\n- **Matrix Allocation Task:** When asked to allocate points (convertible to cash) between anonymous members, boys systematically **discriminated in favor of their ingroup**!\n- Crucially, they sacrificed maximizing absolute profit just to ensure their ingroup had a **larger relative advantage** over the outgroup!\n\n```\n   Option A: Ingroup gets 19 pts, Outgroup gets 25 pts  --> Total Wealth maximized\n   Option B: Ingroup gets 11 pts, Outgroup gets 7 pts   --> MAXIMAL INGROUP ADVANTAGE (+4)\n   ==> Participants overwhelmingly selected OPTION B!\n```"
+        },
+        {
+            "id": "prej_theories_3",
+            "type": "content",
+            "title": "The Three Pillars of Social Identity Theory",
+            "content": "# Tajfel & Turner: Cognitive Stages of Identity\n\nAccording to Social Identity Theory (Tajfel & Turner, 1979), intergroup bias unfolds across three universal cognitive stages:\n\n```\n   [1. SOCIAL CATEGORIZATION] --> Dividing the social universe into \"Us\" (Ingroup)\n                                  versus \"Them\" (Outgroup).\n                |\n                v\n   [2. SOCIAL IDENTIFICATION]  --> Adopting the identity, values, and norms of the ingroup;\n                                  linking personal self-esteem to group standing.\n                |\n                v\n   [3. SOCIAL COMPARISON]      --> Striving for POSITIVE DISTINCTIVENESS by comparing\n                                  ingroup favorably against outgroups on key dimensions.\n```\n\n## The Outgroup Homogeneity Effect:\n- The cognitive tendency to view members of outgroups as \"all the same\" (*\"They look alike, think alike, act alike\"*), while recognizing rich multidimensional diversity within one's own ingroup."
+        },
+        {
+            "id": "prej_theories_quiz_1",
+            "type": "quiz",
+            "title": "Social Identity Theory Check",
+            "content": "Verify your understanding of Tajfel's minimal group research!",
+            "quizQuestion": "In Henri Tajfel's minimal group paradigm experiments, what was the primary motivation driving participants' reward allocations?",
+            "quizOptions": [
+                "Maximizing the total collective financial wealth of all participants combined",
+                "Maximizing the relative advantage of their arbitrary ingroup over the outgroup, even at the cost of lower total rewards",
+                "Punishing the experimenter for conducting a boring visual task",
+                "Ensuring an exact 50-50 split between all participants regardless of group"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_theories_4",
+            "type": "content",
+            "title": "Sherif's Realistic Conflict Theory (1966)",
+            "content": "# Realistic Conflict Theory: The Battle for Scarce Goods\n\nMuzafer Sherif proposed that prejudice is not merely an intellectual categorization game; it erupts when groups engage in **zero-sum competition over scarce physical resources** (territory, jobs, water, food).\n\n## The Robbers Cave Experiment (Sherif et al., 1954/1961):\n- 22 psychologically well-adjusted, white, middle-class 11-year-old boys arrived at Robbers Cave State Park, Oklahoma.\n- **Stage 1 (Ingroup Formation):** Boys split into two separate camps with zero knowledge of each other. They bonded, naming themselves the **\"Eagles\"** and the **\"Rattlers.\"**\n\n```\n   [STAGE 2: ZERO-SUM COMPETITION INTRODUCED]\n   - Tug-of-war, baseball, cabin inspections for coveted trophies and pocketknives.\n   - Winner takes all; loser gets nothing.\n   ==> RAPID ESCALATION TO VIOLENT HATRED:\n       Name-calling, cabin raids, burning flags, hoarding weapons (socks filled with rocks)!\n```"
+        },
+        {
+            "id": "prej_theories_5",
+            "type": "content",
+            "title": "Robbers Cave Stage 3: Superordinate Goals",
+            "content": "# Resolving Intergroup Warfare: Superordinate Goals\n\nHow did Sherif reduce the intense hostility between the Rattlers and Eagles?\n\n## Failed De-escalation Strategies:\n- Mere pleasant contact (eating dinner together, watching outdoor movies) failed miserably, resulting in food fights and screaming insults.\n\n## The Breakthrough: Superordinate Goals:\nSherif engineered simulated camp emergencies that required the **cooperative, interdependent labor of both groups** to solve:\n\n```\n   [EMERGENCY 1: BROKEN WATER SUPPLY]    --> Boys cooperated to trace and clear a blocked tank valve.\n   [EMERGENCY 2: STALLED FOOD TRUCK]     --> Both groups pulled a heavy rope together to jumpstart the truck!\n```\n\nBy working interdependently toward shared **Superordinate Goals**, outgroup friendships skyrocketed, hostility collapsed, and the boys voted to ride home together on the same bus!"
+        },
+        {
+            "id": "prej_theories_6",
+            "type": "content",
+            "title": "The Authoritarian Personality & Dual Ideological Models",
+            "content": "# Individual Differences: The Psychology of Authoritarianism\n\nWhy are some individuals chronically more prone to virulent prejudice than others?\n\n## 1. Adorno's Authoritarian Personality (1950):\n- Theodor Adorno and colleagues developed the **F-Scale (Fascism Scale)**.\n- Posited that harsh, punitive, cold child-rearing creates repressed rage, which is displaced onto vulnerable minority scapegoats.\n\n## 2. Modern Dual Ideological Process Model (Duckitt, 2001):\nContemporary political psychology replaces the F-scale with two distinct, powerful personality dimensions:\n\n```\n   RIGHT-WING AUTHORITARIANISM (RWA)             SOCIAL DOMINANCE ORIENTATION (SDO)\n   (Bob Altemeyer, 1981)                         (Sidanius & Pratto, 1999)\n   +---------------------------------------+     +----------------------------------------+\n   | - Worldview: World is dangerous/chaotic |   | - Worldview: World is a competitive    |\n   | - Values: Submission to authority,    |     |   ruthless \"jungle\"                    |\n   |   strict traditional norms, hostility |     | - Values: Preference for group         |\n   |   toward social deviants              |     |   hierarchy, dominance, inequality     |\n   +---------------------------------------+     +----------------------------------------+\n```"
+        },
+        {
+            "id": "prej_theories_quiz_2",
+            "type": "quiz",
+            "title": "Realistic Conflict Check",
+            "content": "Verify your understanding of Sherif's Robbers Cave findings!",
+            "quizQuestion": "In Muzafer Sherif's Robbers Cave experiment, which intervention successfully eliminated the vicious hostility between the Eagles and Rattlers?",
+            "quizOptions": [
+                "Arranging pleasant joint social dinners in the main dining hall",
+                "Introducing superordinate goals that required interdependent joint cooperation to achieve",
+                "Giving both groups cash bonuses to leave each other alone",
+                "Having the camp director lecture the boys on moral ethics"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_theories_7",
+            "type": "content",
+            "title": "Implicit Bias & The Implicit Association Test (IAT)",
+            "content": "# Unconscious Associations: The Implicit Association Test\n\nIn 1998, Anthony Greenwald, Mahzarin Banaji, and Brian Nosek introduced the **Implicit Association Test (IAT)** to measure unconscious, automatic associative evaluations.\n\n## Mechanics of the IAT:\n- Participants rapidly sort visual stimuli (faces: Black vs. White) and semantic words (Good: Joy, Peace vs. Bad: Evil, Agony) using two keyboard keys.\n\n```\n   Compatible Block:   [Black / Bad] (Key E)    vs.    [White / Good] (Key I)\n   Incompatible Block: [Black / Good] (Key E)   vs.    [White / Bad] (Key I)\n```\n\n## The Latency Metric (D-Score):\nIf mental representations link White with Good more tightly than Black with Good, reaction times are significantly faster in the compatible block. Slower latencies on the incompatible block reveal an **automatic implicit bias**.\n\nMeta-analyses reveal that implicit bias predicts nonverbal micro-behaviors (avoiding eye contact, sitting further away) even in people who passionately avow egalitarian values."
+        },
+        {
+            "id": "prej_theories_8",
+            "type": "content",
+            "title": "The Neuroscience of Social Prejudice",
+            "content": "# Neural Circuitry of Intergroup Threat and Control\n\nFunctional neuroimaging (fMRI) has mapped the biological substrates of rapid intergroup evaluation:\n\n```\n                                  [NEURAL PREJUDICE NETWORK]\n                                               |\n         +-------------------------------------+-------------------------------------+\n         |                                                                           |\n   [THE AMYGDALA: Rapid Threat Detection]                      [PFC & ACC: Top-Down Regulatory Control]\n   - Displays millisecond spikes in activation                 - Dorsolateral Prefrontal Cortex (dlPFC) and\n     when viewing unfamiliar outgroup faces                      Anterior Cingulate Cortex (ACC) activate to\n     (Hart et al., 2000; Phelps et al., 2000).                   inhibit and regulate automatic amygdala alarms.\n   - Correlates with implicit IAT reaction scores.             - Requires conscious cognitive glucose energy!\n```\n\nWhen observers are cognitively depleted, stressed, or rushed, executive PFC control falters, and primitive amygdala threat reactions dominate behavioral responses."
+        },
+        {
+            "id": "prej_theories_9",
+            "type": "content",
+            "title": "System Justification Theory (John Jost)",
+            "content": "# Why Do People Defend Systems That Oppress Them?\n\nIn 1994, John Jost and Mahzarin Banaji formulated **System Justification Theory (SJT)** to explain a profound sociological paradox: Why do marginalized, disadvantaged groups often support socioeconomic status quos that harm them?\n\n## The Three Competing Needs:\n1. **Ego Justification:** The need to feel good about oneself as an individual.\n2. **Group Justification:** The need to hold positive views of one's ingroup.\n3. **System Justification:** The psychological need to believe that the prevailing social, legal, and economic system is fair, legitimate, natural, and just.\n\n```\n   Experiencing systemic inequality triggers cognitive dissonance and existential dread.\n   To reduce distress, people rationalize:\n   \"The system is fair; if someone is poor, they must lack work ethic.\"\n```\n\nSystem justification provides palliative psychological comfort, reducing anxiety at the expense of political and social reform."
+        },
+        {
+            "id": "prej_theories_quiz_3",
+            "type": "quiz",
+            "title": "Implicit Bias & Neurobiology Check",
+            "content": "Verify your understanding of implicit bias and neural networks!",
+            "quizQuestion": "In cognitive neuroscience studies of implicit intergroup bias, what is the role of the Dorsolateral Prefrontal Cortex (dlPFC) and Anterior Cingulate Cortex (ACC)?",
+            "quizOptions": [
+                "Generating automatic gut-level fear responses to novel stimuli",
+                "Detecting racial bias and deploying top-down executive cognitive control to regulate and suppress automatic prejudice",
+                "Translating visual text into auditory speech signals",
+                "Regulating circadian sleep cycles"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_theories_10",
+            "type": "content",
+            "title": "Modern & Symbolic Racism",
+            "content": "# The Evolution of Subtle Prejudice\n\nOvert, biological \"old-fashioned\" racism (endorsing segregation and biological inferiority) has substantially declined in public opinion polls. However, social psychologists identified its modern successor:\n\n## Symbolic / Modern Racism (Kinder & Sears, 1981; McConahay, 1986):\nPrejudice expressed not through open bigotry, but through resentment toward minority progress and denial of systemic barriers:\n\n```\n   Four Core Beliefs of Symbolic Racism:\n   1. Racial discrimination is a thing of the past; barriers no longer exist.\n   2. Minorities are pushing too hard and moving too fast into areas where they're not wanted.\n   3. Minority tactics and demands are unfair and illegitimate.\n   4. Minorities have received more advantages and special favors than they deserve.\n```\n\n## Aversive Racism (Gaertner & Dovidio, 1986):\nIndividuals who genuinely endorse egalitarian principles nevertheless possess unacknowledged negative feelings. They discriminate **only when a situation is ambiguous** and discrimination can be justified by non-racial factors."
+        },
+        {
+            "id": "prej_theories_11",
+            "type": "content",
+            "title": "Terror Management Theory & Ingroup Defense",
+            "content": "# Mortality Salience and Cultural Worldview Defense\n\nAccording to **Terror Management Theory (TMT - Greenberg, Pyszczynski, & Solomon, 1986)**, humans experience paralyzing existential dread regarding their own inevitable death.\n\nTo manage this terror, humans cling to **Cultural Worldviews** (religions, national identities, cultural values) that promise literal or symbolic immortality.\n\n```\n   MORTALITY SALIENCE PRIMED               AGGRESSIVE OUTGROUP DEROGATION\n   (Reminding individuals of death)  --->  Outgroups threaten cultural worldview validity;\n                                           Hostility, xenophobia, and punitive judgments soar!\n```\n\nEmpirical studies prove that judges reminded of death impose tenfold harsher bails on moral transgressors, and citizens primed with mortality express dramatic surges in nationalism and anti-immigrant hostility."
+        },
+        {
+            "id": "prej_theories_12",
+            "type": "content",
+            "title": "Audit Studies: Empirical Proof of Discrimination",
+            "content": "# Testing Real-World Discrimination: Audit Studies\n\nHow do researchers prove discrimination exists outside laboratory self-reports? Behavioral economists utilize **Audit Field Studies**:\n\n## Bertrand and Mullainathan's Landmark Resume Study (2004):\n- Sent 5,000 identical fictitious resumes in response to help-wanted ads in Boston and Chicago.\n- Resumes were identical in education and work history, manipulating only applicant names:\n  - Stereotypically White names (e.g., Emily Walsh, Greg Baker).\n  - Stereotypically Black names (e.g., Lakisha Washington, Jamal Jones).\n\n```\n   Results: Callbacks for Interviews\n   - Resumes with \"White-sounding\" names received 50% MORE CALLBACKS across all job types!\n   - A higher-quality resume yielded a 30% callback boost for White applicants, but a negligible\n     boost for Black applicants!\n```\n\nThis methodology conclusively isolates discrimination from confounding variables like experience or credentials."
+        },
+        {
+            "id": "prej_theories_quiz_4",
+            "type": "quiz",
+            "title": "Symbolic & Modern Bias Check",
+            "content": "Verify your understanding of contemporary forms of prejudice!",
+            "quizQuestion": "According to Gaertner and Dovidio's model of Aversive Racism, when are self-identified egalitarian individuals most likely to display discriminatory behavior against a minority applicant?",
+            "quizOptions": [
+                "When there is an explicit legal mandate to discriminate against the applicant",
+                "When the applicant's credentials are unambiguously stellar and superior to all others",
+                "When the situation is ambiguous and a negative hiring decision can be rationalized by neutral, non-racial criteria",
+                "When the interaction takes place on live television"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "prej_theories_13",
+            "type": "content",
+            "title": "Evolutionary Approaches to Xenophobia",
+            "content": "# The Evolutionary Psychology of Intergroup Suspicion\n\nEvolutionary psychologists propose that human ancestral bands competed for survival in perilous Pleistocene environments, selecting for cognitive threat heuristics:\n\n## 1. The Smoke Detector Principle (Nesse, 2005):\n- In ancestral survival, a **Type I error (False Alarm: treating a friendly stranger as hostile)** carries low cost.\n- A **Type II error (False Negative: treating a hostile enemy as friendly)** results in fatal death or resource extinction!\n- Human brains evolved to over-infer hostile intent in unknown outgroups as a survival heuristic.\n\n## 2. The Behavioral Immune System (Schaller & Park, 2011):\n- Pathogen threats historically triggered disgust and avoidance toward novel groups carrying unfamiliar pathogens, creating a subconscious link between pathogen salience and xenophobia."
+        },
+        {
+            "id": "prej_theories_14",
+            "type": "content",
+            "title": "Comparative Analysis of Prejudice Paradigms",
+            "content": "# Integrating Theoretical Frameworks of Prejudice\n\n| Theoretical Model | Primary Level of Analysis | Primary Mechanism |\n|---|---|---|\n| **Social Identity Theory (Tajfel)** | Cognitive / Group | Need for positive distinctiveness and self-esteem via ingroup bias. |\n| **Realistic Conflict (Sherif)** | Societal / Material | Zero-sum competition over scarce physical resources. |\n| **Dual Ideology (RWA / SDO)** | Personality / Trait | Worldview as dangerous (RWA) or competitive jungle (SDO). |\n| **Implicit Bias (Banaji, Greenwald)**| Cognitive / Automatic | Automatic associative networks shaped by cultural media exposure. |\n| **System Justification (Jost)** | Sociopolitical / Defense| Palliative need to believe society's status quo is fair and legitimate. |\n| **Terror Management (TMT)** | Existential / Affective | Clinging to cultural worldviews to buffer terror of mortality. |"
+        },
+        {
+            "id": "prej_theories_15",
+            "type": "content",
+            "title": "Module Synthesis: Theories of Prejudice",
+            "content": "# Key Takeaways: Theories of Prejudice\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Theoretical Finding          |\n+-----------------------+-----------------------------+-----------------------------------+\n| Minimal Group Paradigm| Henri Tajfel (1971, 1979)   | Arbitrary categorization triggers |\n|                       |                             | ingroup favoritism over profit.   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Robbers Cave Study    | Muzafer Sherif (1954, 1966) | Zero-sum competition sparks hate; |\n|                       |                             | superordinate goals heal it.      |\n+-----------------------+-----------------------------+-----------------------------------+\n| Implicit Bias (IAT)   | Banaji, Greenwald, Nosek    | Unconscious millisecond reaction  |\n|                       | (1998)                      | associations diverge from values. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Audit Resume Studies  | Bertrand & Mullainathan     | Identical resumes with Black      |\n|                       | (2004)                      | names receive 50% fewer callbacks.|\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nPrejudice is a multidimensional construct rooted in evolutionary threat-detection, cognitive categorization, ideological needs, and structural inequalities."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_cn_executive",
+    "topicId": "cn_executive",
+    "topicTitle": "Executive Functions",
+    "description": "Analyze the neurocognitive architecture of executive functions, including prefrontal cortical subdivisions, goal-directed planning, inhibitory impulse control, cognitive flexibility, and working memory gating.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cn_executive_1",
+            "type": "content",
+            "title": "The Master Conductor of the Brain",
+            "content": "# Executive Functions\n\nWhat enables humans to resist tempting impulses, plan multi-stage career goals years in advance, shift strategies when circumstances change, and maintain abstract goals in mind amidst chaos?\n\n## Core Definition:\n**Executive Functions (EF)** are a family of top-down cognitive processes that enable goal-directed behavior, flexible decision-making, and impulse override when automatic, habitual responses are inadequate.\n\n## The Executive Triad (Miyake et al., 2000):\nAkira Miyake's influential latent-variable analysis demonstrated that executive functioning comprises three distinct yet correlated core components:\n1. **Inhibitory Control:** Resisting prepotent habits, impulses, and distractors.\n2. **Working Memory Updating:** Monitoring, encoding, and refreshing relevant task items.\n3. **Cognitive Flexibility (Shifting):** Switching dynamically between rules, mental sets, or perspectives."
+        },
+        {
+            "id": "cn_executive_2",
+            "type": "content",
+            "title": "Anatomy of the Prefrontal Cortex",
+            "content": "# Prefrontal Cortical Topography\n\nThe **Prefrontal Cortex (PFC)** comprises the anterior third of the cerebral cortex, reaching its greatest evolutionary expansion in humans (occupying approx 30% of total neocortical volume).\n\n```\n                                [MEDIAL PFC / ACC]\n                          (Conflict, Motivation, Empathy)\n                                        |\n+---------------------------------------+---------------------------------------+\n|                                                                               |\n[DORSOLATERAL PFC (DLPFC)]                                          [VENTROMEDIAL / ORBITOFRONTAL (OFC)]\n- Cold Cognition / Working Memory                                   - Hot Cognition / Emotion Integration\n- Planning, Rule Maintenance                                        - Value Encoding, Social Norms, Risk\n- BA 9, BA 46                                                       - BA 11, BA 12, BA 25, BA 32\n```\n\n## The Hierarchical Organization of the PFC (Badre & D'Esposito):\n- **Anterior PFC (Frontopolar / BA 10):** Abstract, multi-goal integration and branching.\n- **Posterior Prefrontal Areas:** Specific motor execution and immediate sensory-rule mapping."
+        },
+        {
+            "id": "cn_executive_3",
+            "type": "content",
+            "title": "Prefrontal Lesions: The Case of Phineas Gage",
+            "content": "# Historical Lesion Milestone: Phineas Gage (1848)\n\nPhineas Gage was a capable railroad construction foreman in Vermont when a premature explosion propelled a 3-foot iron tamping iron straight through his skull.\n\n## The Injury Profile:\n- The iron rod entered beneath his left cheekbone and exited through the top of his skull, destroying the **Ventromedial Prefrontal Cortex (vmPFC)** and **Orbitofrontal Cortex (OFC)** while sparing motor, sensory, and speech centers.\n\n## The Psychological Transformation:\n- Before: Responsible, hardworking, temperate, emotionally mature.\n- After: Impulsive, fitful, irreverent, profane, unable to execute plans or adhere to social etiquette.\n- His physician famously noted: *\"Gage was no longer Gage.\"*\n- **Discovery:** Established for the first time that distinct prefrontal circuits govern personality, social decision-making, and impulse control!"
+        },
+        {
+            "id": "cn_executive_quiz_1",
+            "type": "quiz",
+            "title": "PFC Anatomy & Phineas Gage Check",
+            "content": "Verify your understanding of prefrontal subdivisions and historical lesion cases!",
+            "quizQuestion": "The tragic tamping iron accident of Phineas Gage in 1848 provided the first clinical demonstration that damage to which brain region produces profound changes in social judgment, impulsivity, and emotional regulation?",
+            "quizOptions": [
+                "Primary Visual Occipital Cortex",
+                "Ventromedial / Orbitofrontal Prefrontal Cortex",
+                "Superior Temporal Auditory Gyrus",
+                "Cerebellar Purkinje Layers"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cn_executive_4",
+            "type": "content",
+            "title": "Inhibitory Control: Overriding the Impulse",
+            "content": "# Inhibitory Control\n\n**Inhibitory control** is the capacity to suppress internal prepotent impulses, behavioral temptations, and external distractions to pursue long-term objectives.\n\n## Two Facets of Inhibition:\n1. **Behavioral Inhibition (Response Inhibition):** Halting an overt physical action after it has been initiated or prepared.\n2. **Cognitive Inhibition (Interference Control):** Suppressing distracting thoughts, unwanted memories, or irrelevant perceptual inputs in working memory.\n\n## Behavioral Testing Paradigms:\n- **Go / No-Go Task:** Rapidly respond to frequent \"Go\" stimuli (90% of trials; builds motor momentum) and withhold response to rare \"No-Go\" cues (10% of trials).\n- **Stop-Signal Task:** Measure the **Stop-Signal Reaction Time (SSRT)**: how quickly the brain can slam on motor brakes after a stop alarm sounds!"
+        },
+        {
+            "id": "cn_executive_5",
+            "type": "content",
+            "title": "Neural Circuitry of Motor Inhibition",
+            "content": "# The Hyperdirect Brake: Subthalamic Nucleus\n\nHow does the brain stop an ongoing motor action within 200 milliseconds?\n\n```\nCortical Detection:     [Right Inferior Frontal Gyrus (rIFG)] + [Pre-Supplementary Motor Area (preSMA)]\n                                               |\n                               (Direct Axonal Glutamatergic Highway)\n                                               v\nSubcortical Brake:                 [Subthalamic Nucleus (STN)]\n                                               |\n                                  (Excites Inhibitory GPi/SNr)\n                                               v\nMotor Suppression:               [Thalamus Inhibited] ===> [Motor Output Halted!]\n```\n\n## The \"Hyperdirect\" Pathway:\n- Bypasses the slower striatal loop to send an immediate global emergency brake signal directly from the cortex to the STN, halting motor execution across the entire motor system!"
+        },
+        {
+            "id": "cn_executive_6",
+            "type": "content",
+            "title": "Cognitive Flexibility: Shifting Mental Sets",
+            "content": "# Cognitive Flexibility (Shifting)\n\n**Cognitive flexibility** is the capacity to switch between different operational rules, task sets, or perspectives in response to changing environmental contingencies.\n\n## The Wisconsin Card Sorting Test (WCST):\n- Patients are given cards showing symbols differing in **Color**, **Shape**, and **Number**.\n- Task: Match each card to one of four key cards. The examiner tells the patient only whether the match is \"Right\" or \"Wrong\".\n- Once the patient discovers the sorting rule (e.g., sort by color), the experimenter silently changes the rule to \"Shape\" without warning!\n\n## Perseveration:\n- Patients with prefrontal lesions (especially DLPFC) exhibit severe **perseveration**: continuing to sort by the old, invalid rule dozens of times despite being told \"Wrong\" after every trial!\n- Demonstrates an inability to disengage from an established cognitive mental set."
+        },
+        {
+            "id": "cn_executive_quiz_2",
+            "type": "quiz",
+            "title": "Inhibition & Flexibility Check",
+            "content": "Evaluate your understanding of response inhibition and card sorting tests!",
+            "quizQuestion": "On the Wisconsin Card Sorting Test (WCST), a patient with dorsolateral prefrontal damage continues to sort cards by color even after being repeatedly told that color is now incorrect. This clinical error represents:",
+            "quizOptions": [
+                "Retrograde amnesia",
+                "Cognitive perseveration",
+                "Inattentional blindness",
+                "Hemispatial neglect"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cn_executive_7",
+            "type": "content",
+            "title": "Working Memory Gating: PFC-Basal Ganglia Loops",
+            "content": "# Working Memory and Basal Ganglia Gating\n\nHow does the prefrontal cortex balance the stability needed to protect current goals from distraction with the flexibility needed to update new inputs?\n\n## The Prefrontal Cortex-Basal Ganglia Working Memory (PBWM) Model (O'Reilly & Frank):\n\n```\nSensory Input ---> [Basal Ganglia Dopaminergic Gate]\n                           |\n          +----------------+----------------+\n          |                                 |\n     [GATE CLOSED]                    [GATE OPENED]\n  - Protects DLPFC from noise      - Triggered by Dopamine burst\n  - Robust Goal Maintenance        - Updates DLPFC with new task rules\n```\n\n## The Computational Dual Requirement:\n- **DLPFC Pyramidal Neurons:** Maintain active neural firing (attractor states) over delay intervals to preserve goal representations.\n- **Basal Ganglia Striatal Gating:** Acts as an intelligent filter that opens only when valuable new information arrives, gating it into prefrontal working memory."
+        },
+        {
+            "id": "cn_executive_8",
+            "type": "content",
+            "title": "Goal-Directed Planning: Tower of London Task",
+            "content": "# Goal-Directed Planning and Problem Solving\n\nPlanning requires formulating an organized sequence of intermediate sub-goals to bridge the gap between an initial state and a desired target state.\n\n## The Tower of London / Tower of Hanoi:\n- Participants must transfer colored balls across three vertical pegs of differing heights to replicate a goal configuration in the minimum number of moves.\n\n## Required Executive Operations:\n1. Mental generation of prospective intermediate moves (**simulation**)\n2. Working memory retention of prospective moves\n3. Inhibiting moves that look intuitively appealing but violate future constraints\n\n## Neural Underpinnings:\n- Heavily recruits the **left Dorsolateral Prefrontal Cortex** and **anterior frontopolar cortex (BA 10)** for sub-goal hierarchization."
+        },
+        {
+            "id": "cn_executive_9",
+            "type": "content",
+            "title": "Conflict Monitoring: The Anterior Cingulate Cortex",
+            "content": "# Conflict Monitoring & The Anterior Cingulate\n\nHow does the brain know *when* to recruit executive control?\n\n## The Conflict Monitoring Hypothesis (Botvinick, Cohen, & Carter):\n- The **Anterior Cingulate Cortex (ACC)** functions as an internal surveillance monitor that detects computational conflict between competing response pathways (e.g., during incongruent Stroop trials).\n\n```\n[Conflict Detected in ACC] ---> Sends Alarm Signal ---> [DLPFC Recruited] ---> Amplifies Task Attention\n```\n\n## The Error-Related Negativity (ERN):\n- An electrophysiological ERP wave peaking within 50 to 100 milliseconds following the commission of an erroneous motor response.\n- Originates directly in the caudal ACC; represents the brain's internal *\"Oops! I made a mistake!\"* signal, instantly slowing down subsequent reaction times to prevent errors."
+        },
+        {
+            "id": "cn_executive_quiz_3",
+            "type": "quiz",
+            "title": "Conflict Monitoring & Planning Check",
+            "content": "Test your mastery of the ACC conflict model and the Error-Related Negativity!",
+            "quizQuestion": "Which electrophysiological ERP wave originates in the Anterior Cingulate Cortex within 100 milliseconds of a subject pressing an incorrect response key, reflecting internal error detection?",
+            "quizOptions": [
+                "The N400 wave",
+                "The Error-Related Negativity (ERN)",
+                "The P300 wave",
+                "The P600 wave"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cn_executive_10",
+            "type": "content",
+            "title": "Developmental Trajectory of Executive Functions",
+            "content": "# The Lifespan Development of Executive Control\n\nWhy are toddlers impulsive and adolescents prone to reckless risk-taking?\n\n## The Last Region to Mature:\n- The prefrontal cortex undergoes the longest developmental trajectory of any brain region, continuing synaptic pruning and myelination well into the mid-twenties (**approx age 25**)!\n\n## Development Milestones:\n- **Infancy (The A-not-B Error):** Jean Piaget observed that 8-month-old infants reach for a toy at Location A even after watching it moved to Location B. Demonstrates immature prefrontal working memory and inhibitory failure.\n- **Early Childhood (Ages 3-5):** Rapid improvements in dimensional shift tasks and delayed gratification (The Marshmallow Test).\n- **Adolescence:** Asymmetric maturation: sensation-seeking limbic systems mature years before prefrontal executive control networks reach adult myelination."
+        },
+        {
+            "id": "cn_executive_11",
+            "type": "content",
+            "title": "Clinical Dysexecutive Syndromes",
+            "content": "# Dysexecutive Syndromes in Clinical Practice\n\nDamage to distinct prefrontal circuits produces three characteristic dysexecutive syndromes:\n\n## 1. Dorsolateral Dysexecutive Syndrome\n- Impaired working memory, severe perseveration, poor abstract planning, stimulus-bound behavior, and mental rigidity.\n\n## 2. Orbitofrontal / Disinhibited Syndrome\n- Marked impulsivity, loss of social decorum, vulgar language, hypersexuality, poor risk appraisal, and emotional lability (classic Phineas Gage profile).\n\n## 3. Anterior Cingulate / Apathetic Syndrome\n- Profound loss of spontaneous motivation, emotional flattening, reduced verbal output, and **akinetic mutism** (patient is awake and alert but does not initiate movement, speech, or goal-directed behavior)."
+        },
+        {
+            "id": "cn_executive_12",
+            "type": "content",
+            "title": "Environmental Dependency and Utilization Behavior",
+            "content": "# Utilization Behavior & Imitation Syndrome\n\nFrench neurologist Fran\u00e7ois Lhermitte (1983) documented extraordinary behavioral phenomena in patients with bilateral frontal lobe damage:\n\n## Utilization Behavior:\n- Patients compulsively utilize objects in their visual environment without any instruction or goal.\n- If a glass of water and pitcher are placed before the patient, they will repeatedly pour and drink water until the pitcher is empty.\n- If an examiner puts eyeglasses on the desk, the patient picks them up and puts them on\u2014even if already wearing two pairs of glasses!\n\n## Imitation Behavior:\n- Compulsively mimicking the physical gestures, hand movements, and facial expressions of the examiner.\n- **Mechanisms:** Frontal damage removes top-down inhibitory control over the mirror neuron system and parietal visual-action affordances!"
+        },
+        {
+            "id": "cn_executive_quiz_4",
+            "type": "quiz",
+            "title": "Dysexecutive Syndromes Check",
+            "content": "Verify your understanding of frontal lobe syndromes and utilization behavior!",
+            "quizQuestion": "A frontal lobe patient compulsively picks up a tongue depressor on a doctor's examination table and inserts it into their mouth without being instructed, driven purely by the visual presence of the tool. What neurological sign is this?",
+            "quizOptions": [
+                "Utilization behavior",
+                "Simultanagnosia",
+                "Conduction aphasia",
+                "Prosopagnosia"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "cn_executive_13",
+            "type": "content",
+            "title": "Stress, Depletion, and Executive Exhaustion",
+            "content": "# The Vulnerability of Executive Function to Stress\n\nWhy does our willpower fail when we are exhausted or stressed?\n\n## Amy Arnsten's Neurochemical Stress Switch:\n- Under calm conditions, optimal levels of **catecholamines** (dopamine and norepinephrine) bind high-affinity receptors (Alpha-2A and D1) in the DLPFC, tuning neuronal networks for focused goal maintenance.\n- Under acute physiological or psychological panic, massive floods of norepinephrine and dopamine stimulate low-affinity Beta-1 and D1 receptors.\n- **The Switch:** Immediately disconnects prefrontal network connections, shunting control away from thoughtful executive oversight to primitive, reflexive limbic amygdala reactions."
+        },
+        {
+            "id": "cn_executive_14",
+            "type": "content",
+            "title": "Training and Enhancing Executive Control",
+            "content": "# Can Executive Functions Be Improved?\n\nCognitive interventions and lifestyle factors designed to strengthen executive control:\n\n## 1. Working Memory Training (Cogmed / Dual N-Back)\n- Shows robust **near-transfer** (improves performance on identical trained tasks).\n- Demonstrates minimal or controversial **far-transfer** to general academic intelligence or everyday self-control.\n\n## 2. Mindfulness & Martial Arts Training\n- Contemplative practices requiring deliberate self-monitoring, breathing regulation, and impulse suppression produce measurable improvements in child executive functioning.\n\n## 3. Physical Exercise & Sleep\n- Aerobic cardiovascular exercise stimulates neurogenesis in the hippocampus and up-regulates prefrontal BDNF, directly improving inhibitory control across aging populations."
+        },
+        {
+            "id": "cn_executive_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Executive Functions\n\n## Core Principles Mastered:\n\n### 1. The Core Triad (Miyake)\n- Inhibitory Control, Working Memory Updating, and Cognitive Flexibility (Shifting).\n\n### 2. Prefrontal Anatomy & Topography\n- Dorsolateral PFC (cold cognition/planning), Orbitofrontal/vmPFC (hot emotion/social rules), and Anterior Cingulate (conflict monitoring).\n- Phineas Gage demonstrated vmPFC/OFC control over social judgment and temperament.\n\n### 3. Behavioral Paradigms\n- Stop-Signal Task (SSRT / hyperdirect brake), Wisconsin Card Sorting Test (perseveration), Tower of London (sub-goal planning).\n\n### 4. Conflict & Dysexecutive States\n- Anterior Cingulate detects conflict and fires the Error-Related Negativity (ERN).\n- Damage yields Dorsolateral (rigid), Orbitofrontal (disinhibited), or Apathetic (akinetic) syndromes alongside utilization behavior.\n\n> **Up Next:** Explore the neural basis of feelings, rewards, and connection in **Neural Basis of Emotion**!"
+        }
+    ]
+}

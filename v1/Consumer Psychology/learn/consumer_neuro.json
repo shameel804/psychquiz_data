@@ -1,0 +1,155 @@
+{
+    "id": "learn_consumer_neuro",
+    "topicId": "consumer_neuro",
+    "topicTitle": "Neuromarketing",
+    "description": "Examine the neurobiological frontiers of marketing science, analyzing fMRI and EEG consumer research, the Montague Coke study, the somatic marker hypothesis, sensory marketing, and ethics.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "consumer_neuro_1",
+            "type": "content",
+            "title": "The Neural Frontier: What is Neuromarketing?",
+            "content": "# The Biological Substrates of Commercial Choice\n\nTraditional market research relies on surveys, focus groups, and self-reports. However, advertising legend David Ogilvy famously noted:\n> *\"Consumers don't think how they feel, they don't say what they think, and they don't do what they say.\"*\n\n## Defining Neuromarketing:\nThe application of neuroimaging and physiological measurement tools to directly record unconscious brain, autonomic, and sensory responses to marketing stimuli.\n\n```\n                             [THE NEUROMARKETING TOOLKIT]\n                                          |\n         +--------------------------------+--------------------------------+\n         |                                                                 |\n   [CENTRAL NEURAL RECORDING]                                    [AUTONOMIC & BIOMETRIC SENSORS]\n   - fMRI (Functional MRI: Deep brain reward/pain centers)       - Eye-Tracking (Pupillometry, Heatmaps)\n   - EEG (Electroencephalography: Millisecond frontal asymmetry) - Galvanic Skin Response (GSR / Arousal)\n   - MEG (Magnetoencephalography)                                - Facial Coding / Micro-expressions (fEMG)\n```"
+        },
+        {
+            "id": "consumer_neuro_2",
+            "type": "content",
+            "title": "The Famous Pepsi vs. Coca-Cola fMRI Study (2004)",
+            "content": "# Read Montague: The Landmark Neuromarketing Study\n\nIn 2004, neuroscientist **Read Montague** placed volunteers in an fMRI scanner to resolve the legendary \"Pepsi Challenge\":\n\n```\n   EXPERIMENT 1: BLIND TASTE TEST (No Brand Labels)\n   - Taste preference was split 50-50 (with slight preference for Pepsi).\n   - fMRI SCANS: Both sodas lit up the VENTRAL STRIATUM (the primary reward center of the brain)!\n   - The brain was responding purely to sensory sugar and flavor!\n                                |\n                                v\n   EXPERIMENT 2: BRAND-LABELED TASTE TEST (Visual Cans Shown)\n   - Over 75% OF PARTICIPANTS EXPRESSED PASSIONATE PREFERENCE FOR COCA-COLA!\n   - fMRI SCANS: Neural activation migrated to the DORSOLATERAL PREFRONTAL CORTEX (dlPFC)\n     and the HIPPOCAMPUS (cultural memory, narrative, and emotional identity)!\n```\n\nCultural brand equity physically overrode the raw sensory taste circuits of the human brain!"
+        },
+        {
+            "id": "consumer_neuro_3",
+            "type": "content",
+            "title": "Antonio Damasio's Somatic Marker Hypothesis",
+            "content": "# Antonio Damasio: Emotion as the Compass of Choice\n\nNeuroscientist Antonio Damasio studied patients with damage to the **Ventromedial Prefrontal Cortex (vmPFC)**. Despite having high IQs and intact logic, they were **completely incapable of making everyday decisions** (debating for 45 minutes which pen to use)!\n\n## The Somatic Marker Hypothesis (1994):\nRational decision-making requires emotional bodily gut-feelings (**Somatic Markers**):\n\n```\n   Commercial Stimulus / Product Encountered\n                     |\n                     v\n   Subconscious Retrieval of Past Emotional Associations (Somatic Markers)\n                     |\n                     v\n   Visceral Bodily Micro-Signals (Heart rate, gut sensations, vagal tone)\n                     |\n                     v\n   Rapidly Prunes Choices to 1-2 Targets (Allows rational decision-making!)\n```\n\nAdvertising works not by teaching facts, but by depositing positive somatic markers in long-term memory."
+        },
+        {
+            "id": "consumer_neuro_quiz_1",
+            "type": "quiz",
+            "title": "Montague Coke Study & Somatic Markers Check",
+            "content": "Verify your understanding of foundational neuromarketing neuroscience!",
+            "quizQuestion": "In Read Montague's famous 2004 fMRI study of Coca-Cola versus Pepsi, what neural change occurred when participants were shown the Coca-Cola brand logo compared to blind taste testing?",
+            "quizOptions": [
+                "Brain activation completely shut down, inducing temporary sleep",
+                "Neural activity shifted from the sensory reward Ventral Striatum to the Prefrontal Cortex and Hippocampus, proving cultural brand memory physically overrode taste",
+                "The visual cortex stopped processing color",
+                "The motor cortex caused participants to drop their glasses"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_neuro_4",
+            "type": "content",
+            "title": "The Pain of Paying in the Brain: Knutson et al. (2007)",
+            "content": "# Brian Knutson: The Neural Battleground of Shopping\n\nIn a landmark study published in *Neuron*, Brian Knutson and colleagues scanned shoppers' brains during actual purchase transactions:\n\n```\n   1. PRODUCT PRESENTED:       --> Activates the NUCLEUS ACCUMBENS (NAcc)!\n                                   (Dopaminergic pleasure, anticipation of reward).\n                                   *\"I want that beautiful leather jacket!\"*\n            |\n            v\n   2. PRICE TAG REVEALED:      --> Activates the INSULA (Insular Cortex)!\n                                   (The exact brain region processing PHYSICAL PAIN and DISGUST).\n                                   *\"That price tag physically hurts!\"*\n            |\n            v\n   3. PURCHASE DECISION:       --> Medial Prefrontal Cortex (mPFC) calculates balance:\n                                   IF NAcc (Reward) > Insula (Pain) ==> BUY!\n                                   IF Insula (Pain) > NAcc (Reward) ==> WALK AWAY!\n```"
+        },
+        {
+            "id": "consumer_neuro_5",
+            "type": "content",
+            "title": "Decoupling Pain: The Neurobiology of Cashless Payments",
+            "content": "# The Death of Cash: Anesthetizing the Insula\n\nWhy do consumers spend **30% to 100% more money** when using credit cards, Apple Pay, or casino chips compared to physical cash (Prelec & Simester, 2001)?\n\n## The Neurobiology of Cash Decoupling:\n- **Physical Paper Cash:** Handing over crisp green bills requires immediate somatic loss; the insula fires intensely as you watch money leave your hand.\n- **Credit Cards & Digital Taps:** Decouples the pleasure of acquisition from the pain of payment. You get the item now; the bill arrives 30 days later.\n- **The Digital Anesthetic:** Swiping a plastic card or tapping a phone **fails to activate the insula**, bypassing the brain's natural spending brakes!"
+        },
+        {
+            "id": "consumer_neuro_6",
+            "type": "content",
+            "title": "Sensory Marketing: Aradhna Krishna (2012)",
+            "content": "# Aradhna Krishna: Engaging the Five Senses\n\nTraditional advertising focuses exclusively on sight and sound. **Sensory Marketing** engages all five senses to create subconscious brand affinity:\n\n```\n   SENSE                COMMERCIAL APPLICATION                     NEUROLOGICAL MECHANISM\n   ------------------------------------------------------------------------------------\n   1. OLFACTORY (Smell)--> Signature ambient scents in hotels      --> Direct, unmediated pathway to\n                           (Westin white tea) and bakeries.            the AMYGDALA & HIPPOCAMPUS!\n   2. HAPTIC (Touch)   --> Heavy glass perfume bottles, smooth     --> Actuates the ENDOWMENT EFFECT\n                           Apple tablet packaging textures.            (psychological ownership).\n   3. AUDITORY (Sound) --> The crisp mechanical \"thud\" of a        --> Sound Symbolism signaling\n                           Mercedes-Benz luxury car door shutting.     engineering durability.\n   4. GUSTATORY (Taste)--> Free tasting stations in grocery aisles.--> Reciprocity and salivary dopamine.\n```"
+        },
+        {
+            "id": "consumer_neuro_quiz_2",
+            "type": "quiz",
+            "title": "Pain of Paying & Sensory Marketing Check",
+            "content": "Verify your understanding of purchase neurobiology and sensory marketing!",
+            "quizQuestion": "In Brian Knutson's (2007) fMRI study on the 'Pain of Paying', which brain structure activated intensely when shoppers were presented with excessive, exorbitant price tags?",
+            "quizOptions": [
+                "The primary auditory cortex",
+                "The Insular Cortex (Insula), the same neural structure that processes physical pain and visceral disgust",
+                "The cerebellum",
+                "The pineal gland"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_neuro_7",
+            "type": "content",
+            "title": "EEG Frontal Asymmetry in Consumer Evaluation",
+            "content": "# Reading Brainwaves: Frontal Alpha Asymmetry\n\nElectroencephalography (EEG) measures electrical neural oscillations with millisecond precision:\n\n## Frontal Alpha Asymmetry (Richard Davidson):\n- **Left Frontal Activation:** Governs **Approach Motivation** (desire, positive interest, engagement).\n- **Right Frontal Activation:** Governs **Avoidance Motivation** (withdrawal, fear, negative rejection).\n\n```\n   COMMERCIAL APPLICATION:\n   Testing 30-second Super Bowl commercials millisecond-by-millisecond:\n   - If a scene triggers a surge in Left Frontal Alpha suppression --> Approving engagement!\n   - If a scene triggers Right Frontal activation                 --> The viewer wants to escape!\n```"
+        },
+        {
+            "id": "consumer_neuro_8",
+            "type": "content",
+            "title": "Eye-Tracking & Heatmaps in Packaging Optimization",
+            "content": "# Gaze Analytics: Eye-Tracking Science\n\nInfrared eye-tracking cameras record visual gaze fixations, saccades, and pupil dilation:\n\n- **Fixation Heatmaps:** Visual representations of where shoppers' eyes linger. Red zones indicate high visual dwell time; cold blue zones are completely ignored.\n- **The Baby Gaze Experiment (James Breeze):**\n  - *Version A:* Photo of a baby staring directly out at the viewer -> Viewers stared exclusively at the baby's cute face; **nobody read the headline or diaper brand**!\n  - *Version B:* Photo of the baby looking toward the headline -> Viewers naturally followed the baby's gaze line, reading the headline and boosting brand recall by **84%**!"
+        },
+        {
+            "id": "consumer_neuro_9",
+            "type": "content",
+            "title": "Subliminal Advertising: Myths vs. Reality",
+            "content": "# Separating Science from Science Fiction: Subliminal Cues\n\nIn 1957, market researcher James Vicary claimed that flashing *\"Drink Coca-Cola\"* and *\"Eat Popcorn\"* on movie screens for 1/3000th of a second surged concession sales by 57%. **Vicary later admitted under oath that the entire experiment was a complete hoax!**\n\n## What Cognitive Science Actually Proves:\n- Subliminal messages **CANNOT force someone to buy something against their will**.\n- However, **Subliminal Affective Priming (Strahan et al., 2002)** is real: Flashing a thirst-related word (e.g., *\"Thirst\"*) increases drink consumption **ONLY IF the participant is already physically thirsty**! It channels existing biological drives; it does not fabricate them."
+        },
+        {
+            "id": "consumer_neuro_quiz_3",
+            "type": "quiz",
+            "title": "EEG & Eye-Tracking Check",
+            "content": "Verify your understanding of EEG asymmetry and eye-tracking heuristics!",
+            "quizQuestion": "In eye-tracking experiments on advertising design, what occurred when an advertisement featured a baby looking directly at the product headline rather than staring out at the viewer?",
+            "quizOptions": [
+                "Viewers closed their eyes immediately",
+                "Viewers followed the baby's gaze direction, significantly increasing visual attention and brand recall for the headline",
+                "Viewers became intensely frightened by the baby",
+                "Viewers reported that the advertisement was printed backward"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_neuro_10",
+            "type": "content",
+            "title": "Ethical Considerations in Neuromarketing",
+            "content": "# The Ethics of Peeking Inside the Consumer's Brain\n\nDoes neuromarketing grant corporations a coercive **\"Buy Button in the Brain\"**?\n\n## Ethical Dilemmas & Vulnerable Populations:\n1. **Exploiting Biological Vulnerabilities:** Designing hyper-palatable junk foods or gambling algorithms that trigger compulsive dopamine release, hijacking reward systems in children and addicts.\n2. **Neural Privacy:** Consumer rights to prevent unconscious brainwave profiling without explicit informed consent.\n3. **Deceptive Neuromarketing Hype:** Predatory marketing agencies charging millions for unscientific \"brainwave readings\" that lack rigorous peer-reviewed validity."
+        },
+        {
+            "id": "consumer_neuro_11",
+            "type": "content",
+            "title": "The NMSBA Code of Ethics",
+            "content": "# Professional Standards: The NMSBA Guidelines\n\nThe **Neuromarketing Science & Business Association (NMSBA)** established international ethical guidelines:\n\n```\n   NMSBA CORE ETHICAL MANDATES:\n   1. Full Transparency: Neuromarketing methods and statistical algorithms must be openly disclosed.\n   2. Participant Consent: Subjects must provide fully informed, voluntary consent for neural scans.\n   3. Child Protections: Strict prohibition of neuromarketing research on children under 18 for tobacco,\n      alcohol, firearms, or predatory microtransactions.\n   4. Zero Subliminal Manipulation: Prohibition of subliminal coercive directives designed to bypass conscious consent.\n```"
+        },
+        {
+            "id": "consumer_neuro_12",
+            "type": "content",
+            "title": "The Future: AI-Driven Biometrics & Virtual Realities",
+            "content": "# The Next Generation of Neuromarketing\n\nThe convergence of artificial intelligence and spatial computing is transforming consumer neuroscience:\n\n- **Virtual Reality (VR) Store Simulations:** Testing retail store layouts and eye movements in immersive virtual supermarkets before investing capital in physical builds.\n- **Facial Action Coding Systems (FACS):** Machine learning computer vision analyzing micro-expressions (corrugator supercilii frowns vs. zygomaticus major smiles) in real-time webcams to gauge entertainment engagement."
+        },
+        {
+            "id": "consumer_neuro_quiz_4",
+            "type": "quiz",
+            "title": "Neuromarketing Ethics Check",
+            "content": "Verify your understanding of ethical boundaries in consumer neuroscience!",
+            "quizQuestion": "According to the Neuromarketing Science & Business Association (NMSBA) Code of Ethics, what is explicitly prohibited regarding neuromarketing research?",
+            "quizOptions": [
+                "Conducting research using computer spreadsheets",
+                "Targeting children with neuromarketing studies to promote addictive substances (such as tobacco or alcohol) or deploying manipulative subliminal coercion",
+                "Scanning adult volunteers in university fMRI laboratories",
+                "Asking participants if they enjoyed an advertisement"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_neuro_13",
+            "type": "content",
+            "title": "Neuro-Informed Product Design",
+            "content": "# Applying Neuroscience to Product Excellence\n\nHow do world-class innovators use neuroscience constructively?\n\n- **Packaging Ergonomics:** Designing shapes that fit natural hand grasp geometry, triggering tactile comfort.\n- **Reducing Cognitive Load:** Streamlining UI/UX dashboards to prevent working memory exhaustion during checkouts.\n- **Multisensory Congruence:** Ensuring the scent, sound, and visual packaging of a product tell a single, coherent sensory story."
+        },
+        {
+            "id": "consumer_neuro_14",
+            "type": "content",
+            "title": "Comprehensive Neuromarketing Architecture",
+            "content": "# Theoretical Architecture of Neuromarketing\n\n| Neurobiological Tool | Biological Metric | Primary Commercial Insight |\n|---|---|---|\n| **fMRI Neuroimaging** | BOLD signal in NAcc vs Insula | Balances purchase desire against pain of paying. |\n| **EEG Brainwaves** | Frontal Alpha Asymmetry | Approach (Left) vs Avoidance (Right) engagement. |\n| **Sensory Marketing** | Olfactory / Haptic Vagus pathways | Bypasses cognitive filters; triggers somatic markers. |\n| **Eye-Tracking** | Fixation heatmaps, gaze vectors | Optimizes packaging visual hierarchy and brand logo. |\n| **Biometrics (GSR/fEMG)**| Autonomic sympathetic arousal | Measures emotional intensity and micro-facial joy. |"
+        },
+        {
+            "id": "consumer_neuro_15",
+            "type": "content",
+            "title": "Module Synthesis: Neuromarketing",
+            "content": "# Key Takeaways: Neuromarketing\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Neurobiological Principle    |\n+-----------------------+-----------------------------+-----------------------------------+\n| Coke vs Pepsi fMRI    | Read Montague (2004)        | Cultural brand associations in    |\n|                       |                             | dlPFC override raw sensory taste. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Somatic Marker        | Antonio Damasio (1994)      | Bodily emotional gut-markers are  |\n| Hypothesis            |                             | essential for rational decision.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Pain of Paying        | Brian Knutson (2007)        | Insula (Pain) battles Accumbens   |\n|                       |                             | (Reward) to decide purchase.      |\n+-----------------------+-----------------------------+-----------------------------------+\n| Sensory Marketing     | Aradhna Krishna (2012)      | Multi-sensory touch and scent     |\n|                       |                             | trigger deep emotional ownership. |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nNeuromarketing reveals the biological truth beneath verbal self-reports. When guided by rigorous ethics, consumer neuroscience enables designers to build products that deliver genuine emotional value, intuitive usability, and human delight."
+        }
+    ]
+}

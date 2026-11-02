@@ -1,0 +1,155 @@
+{
+  "id": "learn_pos_wellbeing",
+  "topicId": "pos_wellbeing",
+  "topicTitle": "Well-being & Flourishing",
+  "description": "Master the science of human well-being and flourishing, analyzing Martin Seligman's PERMA model, subjective well-being (SWB), hedonic vs. eudaimonic happiness, and empirical positive interventions.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "pos_wellbeing_1",
+      "type": "content",
+      "title": "The Birth of Positive Psychology",
+      "content": "# The Science of Human Flourishing\n\nIn 1998, in his presidential address to the American Psychological Association, **Martin Seligman** launched **Positive Psychology** as a transformative paradigm shift in psychological science.\n\n## Challenging the Disease Model:\n- For over fifty years following World War II, psychology operated almost exclusively as a **disease model**\u2014focused on diagnosing pathology, repairing damage, and bringing people from -8 (severe illness) up to 0 (absence of disorder).\n- Seligman asserted that mental health is not merely the absence of mental illness!\n- Positive psychology investigates what makes life worth living: taking individuals from 0 up to **+8 (flourishing, vitality, and fulfillment)**.\n\n## The Core Mission:\nTo study, empirically validate, and cultivate the strengths, virtues, and psychological conditions that allow individuals, organizations, and communities to thrive."
+    },
+    {
+      "id": "pos_wellbeing_2",
+      "type": "content",
+      "title": "Martin Seligman: The PERMA Model of Flourishing",
+      "content": "# The PERMA Theory of Flourishing (2011)\n\nIn *Flourish*, Martin Seligman expanded his earlier happiness theory into a comprehensive, multi-dimensional framework: **The PERMA Model**.\n\n```\n                  THE PERMA ARCHITECTURE OF FLOURISHING\n                                    |\n   +-------------+-------------+----+----+-------------+-------------+\n   |             |             |         |             |             |\n   v             v             v         v             v             v\n [ P ]         [ E ]         [ R ]     [ M ]         [ A ]         [ V ]\nPositive    Engagement    Positive     Meaning    Accomplishment  Vitality\nEmotion      (Flow)     Relationships  & Purpose   & Mastery    (Physical)\n```\n\n## Five Foundational Elements:\n1. **P - Positive Emotion:** Experiencing joy, gratitude, contentment, and cheerfulness.\n2. **E - Engagement:** Complete absorption and flow in activities that utilize one's strengths.\n3. **R - Relationships:** Deep, authentic, reciprocal social connections and belonging.\n4. **M - Meaning:** Belonging to and serving something larger than the individual self.\n5. **A - Accomplishment:** Striving for competence, achievement, and mastery for its own sake.\n*(Often expanded to PERMA-V to include physical health and sleep Vitality)*."
+    },
+    {
+      "id": "pos_wellbeing_3",
+      "type": "content",
+      "title": "Subjective Well-Being (SWB): Ed Diener",
+      "content": "# The Science of Happiness: Ed Diener ('Dr. Happiness')\n\n**Ed Diener** operationalized happiness in psychological science as **Subjective Well-Being (SWB)**\u2014an individual's personal cognitive and emotional evaluation of their own life.\n\n## The Three Tripartite Components of SWB:\n1. **Frequent Positive Affect:** Regularly experiencing pleasant emotional states (joy, interest, affection, enthusiasm).\n2. **Infrequent Negative Affect:** Experiencing relatively low levels of unpleasant emotions (chronic anxiety, sadness, hostility, shame).\n3. **High Life Satisfaction (Cognitive Component):** A reflective, conscious global evaluation that one's life is going well, measured via the **Satisfaction with Life Scale (SWLS)**.\n\n## The Independence of Positive and Negative Affect:\nBradburn proved that positive and negative affect are NOT opposite ends of a single continuum; they are two independent neurobiological dimensions that can co-occur."
+    },
+    {
+      "id": "pos_wellbeing_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: PERMA & Subjective Well-Being",
+      "content": "Verify your understanding of Seligman's PERMA model and Diener's SWB.",
+      "quizQuestion": "In Martin Seligman's PERMA theory of human flourishing, what does the letter 'M' represent?",
+      "quizOptions": [
+        "Money and financial wealth",
+        "Meaning\u2014belonging to and serving something larger than the individual self",
+        "Mindfulness meditation",
+        "Memory consolidation"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "pos_wellbeing_4",
+      "type": "content",
+      "title": "Hedonic vs. Eudaimonic Well-Being",
+      "content": "# Two Ancient Philosophies of Happiness\n\nPositive psychology integrates two competing classical Greek philosophical concepts of happiness.\n\n## 1. Hedonic Well-Being (Aristippus / Epicurus):\n- Defined as the pursuit of immediate pleasure, positive sensory experiences, and pain minimization.\n- Characterized by 'feeling good' in the moment (e.g., eating gourmet ice cream, sunbathing, watching a comedy).\n\n## 2. Eudaimonic Well-Being (Aristotle - *Nicomachean Ethics*):\n- Defined as living in accordance with one's **daimon** (true self)\u2014realizing one's highest human potential, exercising moral virtues, pursuing personal growth, and serving purpose.\n- Characterized by 'functioning well' (e.g., enduring grueling academic study, volunteering for a crisis hotline, mastering an instrument).\n\n## Carol Ryff's Model of Psychological Well-Being (PWB):\nSix core eudaimonic dimensions: Self-Acceptance, Positive Relations with Others, Autonomy, Environmental Mastery, Purpose in Life, and Personal Growth."
+    },
+    {
+      "id": "pos_wellbeing_5",
+      "type": "content",
+      "title": "The Hedonic Treadmill and Set-Point Theory",
+      "content": "# The Hedonic Treadmill: Brickman & Campbell (1971)\n\nWhy does a massive salary increase or winning the lottery fail to make people permanently happier?\n\n## The Adaptation Principle:\n- Humans possess an extraordinary capacity for **hedonic adaptation**.\n- When a major positive or negative life event occurs, emotional well-being surges or plummets temporarily, but gradually returns to a baseline **hedonic set-point** within months.\n- **Classic Brickman Study (1978):** Compared lottery winners against paraplegic accident victims. One year post-event, lottery winners were no happier than regular controls, and paralyzed victims reported substantial happiness returning toward baseline!\n\n## Lyubomirsky's Happiness Pie Chart (2005):\n- **50% Genetics:** Biological set-point (twin studies).\n- **10% Life Circumstances:** Wealth, marital status, climate, beauty.\n- **40% Intentional Activity:** Daily conscious choices, cognitive reframing, gratitude, and relationships."
+    },
+    {
+      "id": "pos_wellbeing_6",
+      "type": "content",
+      "title": "Barbara Fredrickson: Broaden-and-Build Theory",
+      "content": "# Broaden-and-Build Theory of Positive Emotions\n\nWhile negative emotions evolved to narrow attention to immediate survival actions (fear narrows to flight; anger narrows to fight), **Barbara Fredrickson** demonstrated that positive emotions serve a profoundly different evolutionary function.\n\n## The Dual Mechanics:\n1. **Broaden (Immediate Cognitive Effect):** Positive emotions (joy, interest, contentment, love) broaden an individual's momentary thought-action repertoire, expanding creative attention, cognitive flexibility, and divergent problem-solving.\n2. **Build (Long-Term Resource Accumulation):** By engaging in exploration and play, individuals build enduring personal resources:\n   - *Physical:* Cardiovascular health and coordination.\n   - *Social:* Supportive relational alliances.\n   - *Intellectual:* Knowledge and skill repertoires.\n   - *Psychological:* Resilience and optimism.\n\n## The Undoing Hypothesis:\nPositive emotions act as physiological 'undoers', rapidly downregulating cardiovascular stress reactivity caused by negative emotions."
+    },
+    {
+      "id": "pos_wellbeing_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Hedonic Treadmill & Broaden-Build",
+      "content": "Assess your understanding of hedonic adaptation and Fredrickson's theory.",
+      "quizQuestion": "According to Barbara Fredrickson's Broaden-and-Build Theory, what is the evolutionary function of positive emotions like joy and curiosity?",
+      "quizOptions": [
+        "They narrow attention strictly to immediate predator escape",
+        "They broaden cognitive attention and behavioral repertoires, building enduring physical, social, and psychological resources over time",
+        "They cause biological exhaustion in the limbic system",
+        "They eliminate all memories of childhood"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "pos_wellbeing_7",
+      "type": "content",
+      "title": "Empirical Positive Psychology Interventions (PPIs)",
+      "content": "# Evidence-Based Well-Being Interventions\n\nPositive psychology developed structured, manualized **Positive Psychology Interventions (PPIs)** proven in randomized placebo-controlled trials to sustainably elevate happiness and reduce depressive symptoms.\n\n## Prominent Evidence-Based PPIs:\n- **Three Good Things (Blessings):** Writing down three things that went well each day and *why* they went well before going to sleep; rewires attention toward gratitude.\n- **Gratitude Visit:** Writing and delivering an in-person testimonial letter of thanks to someone who changed your life; produces the largest immediate surge in happiness documented in clinical trials.\n- **Using Signature Strengths in New Ways:** Identifying top character strengths and deliberately exercising one strength in a novel way every day for a week.\n- **Random Acts of Kindness:** Performing five conscious acts of kindness in a single day, dramatically elevating social connectedness."
+    },
+    {
+      "id": "pos_wellbeing_8",
+      "type": "content",
+      "title": "Hope Theory: C.R. Snyder",
+      "content": "# C.R. Snyder's Hope Theory\n\nIn psychological science, **Hope** is not a passive wish or vague optimism; it is a learned cognitive motivational state defined by **goals, pathways, and agency**.\n\n## The Tripartite Formula of Hope:\n```\nHOPE = Clear Meaningful Goals + Pathways Thinking + Agency Thinking\n```\n\n1. **Goals:** Desired target mental representations providing direction.\n2. **Pathways Thinking (The 'Way'):** The perceived cognitive capacity to generate workable routes, alternative pathways, and problem-solving detours to navigate around obstacles.\n3. **Agency Thinking (The 'Will'):** The perceived motivational willpower and self-efficacy to initiate and sustain effort along those pathways (*'I can do this; I will not give up'*).\n\n## Empirical Correlates:\nHigh-hope individuals exhibit superior athletic performance, academic achievement, pain tolerance, and cardiovascular recovery."
+    },
+    {
+      "id": "pos_wellbeing_9",
+      "type": "content",
+      "title": "Optimism: Learned vs. Dispositional",
+      "content": "# The Science of Optimism\n\nPsychologists evaluate optimism through two distinct theoretical lenses.\n\n## 1. Learned Optimism (Martin Seligman):\n- Grounded in **Explanatory (Attributional) Style** regarding why good and bad events occur across three dimensions:\n  - **Personalization (Internal vs. External):** Optimists view failure as situational (*'The test was tough'*), while pessimists personalize (*'I am stupid'*).\n  - **Permanence (Stable vs. Unstable):** Optimists view failure as temporary (*'I had an off day'*); pessimists view it as permanent (*'I will never succeed'*).\n  - **Pervasiveness (Global vs. Specific):** Optimists compartmentalize failure (*'I struggle with French'*); pessimists globalize (*'I fail at everything'*).\n\n## 2. Dispositional Optimism (Scheier & Carver):\n- A global, trait-like expectation that good things will happen in the future; measured via the Life Orientation Test (LOT-R)."
+    },
+    {
+      "id": "pos_wellbeing_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Hope & Optimism",
+      "content": "Verify your understanding of Snyder's Hope Theory and Seligman's explanatory styles.",
+      "quizQuestion": "In C.R. Snyder's Hope Theory, what are the two essential cognitive components that combine with clear goals to produce psychological hope?",
+      "quizOptions": [
+        "Wealth and Physical strength",
+        "Pathways thinking (generating routes around obstacles) and Agency thinking (motivational willpower to act)",
+        "Genetic inheritance and Climate",
+        "Unconscious id drives and Defense mechanisms"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "pos_wellbeing_10",
+      "type": "content",
+      "title": "Savoring and Capitalization",
+      "content": "# Amplifying Positive Experiences\n\nPositive psychology investigates how people process positive events to maximize their hedonic and eudaimonic yield.\n\n## 1. Savoring (Fred Bryant & Joseph Veroff):\n- The capacity to attend to, appreciate, and enhance positive experiences in life.\n- *Techniques:* Sensory absorption (eating slowly), marveling, basking in praise, and memory building.\n\n## 2. Capitalization (Shelly Gable):\n- The process of sharing positive personal news with others.\n- **Gable's Four Interpersonal Response Styles:**\n  1. **Active-Constructive (The Only Healthy Style):** Enthusiastic, warm celebration (*'That's incredible! Tell me everything!'*).\n  2. **Passive-Constructive:** Mild, understated support (*'That's nice'*, while looking at phone).\n  3. **Active-Destructive:** Pointing out downsides and raining on the parade (*'Are you sure you can handle that workload?'*).\n  4. **Passive-Destructive:** Completely ignoring the news and changing the subject."
+    },
+    {
+      "id": "pos_wellbeing_11",
+      "type": "content",
+      "title": "The Meaning of Meaning: Frankl & Steger",
+      "content": "# Meaning in Life: Michael Steger\n\nHaving meaning in life is one of the single greatest buffers against despair and suicide.\n\n## Steger's Meaning in Life Questionnaire (MLQ):\nDistinguishes between two independent dimensions:\n- **Presence of Meaning:** The degree to which individuals currently perceive their lives as possessing purpose, significance, and coherence.\n- **Search for Meaning:** The active dynamic quest to establish or deepen meaning in life.\n\n## The Three Sub-Components of Meaning:\n1. **Coherence:** Life makes sense and feels logically ordered.\n2. **Purpose:** Having overarching, self-congruent future life goals.\n3. **Significance (Mattering):** Believing that one's existence holds value, makes a difference, and matters to the world."
+    },
+    {
+      "id": "pos_wellbeing_12",
+      "type": "content",
+      "title": "Positive Psychology 2.0: Embracing the Dark Side",
+      "content": "# The Second Wave of Positive Psychology (PP 2.0)\n\nEarly positive psychology was heavily criticized for promoting toxic positivity, superficial cheerfulness, and ignoring systemic oppression and suffering (Barbara Ehrenreich, *Bright-Sided*).\n\n## Paul Wong & Itai Ivtzan: The Dialectical Synthesis\n- **PP 2.0** recognizes that genuine flourishing requires embracing and integrating the full dialectical spectrum of human life\u2014including suffering, grief, sadness, and mortality.\n- Pain and struggle are not obstacles to flourishing; they are often the **very crucible through which profound wisdom, empathy, and meaning are forged**."
+    },
+    {
+      "id": "pos_wellbeing_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Capitalization & PP 2.0",
+      "content": "Assess your understanding of capitalization response styles and PP 2.0.",
+      "quizQuestion": "In Shelly Gable's research on capitalization, which communication response style is uniquely associated with marital intimacy, relationship satisfaction, and trust?",
+      "quizOptions": [
+        "Active-Destructive",
+        "Passive-Constructive",
+        "Active-Constructive (enthusiastic, authentic support and celebration)",
+        "Passive-Destructive"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "pos_wellbeing_13",
+      "type": "content",
+      "title": "Flourishing Institutions: Education and Workplaces",
+      "content": "# Positive Education and Positive Organizations\n\nPositive psychology is increasingly applied across societal institutions.\n\n## Positive Education (Geelong Grammar School):\n- Embedding character strengths, emotional regulation, and resilience training directly into school academic curricula alongside mathematics and literature.\n\n## Positive Organizational Scholarship (Kim Cameron):\n- Fostering workplace psychological safety, appreciative inquiry leadership, and employee engagement, demonstrating that happy, flourishing employees are significantly more productive, innovative, and resilient against burnout."
+    },
+    {
+      "id": "pos_wellbeing_14",
+      "type": "content",
+      "title": "Cross-Cultural Nuances in Happiness",
+      "content": "# Cultural Shaping of Well-Being\n\nWhat constitutes happiness varies profoundly across cultural ecosystems (Shigehiro Oishi).\n\n## Cultural Differences in Well-Being:\n- **Western Individualistic Contexts:** High arousal positive affect (excitement, pride, enthusiasm) is prioritized; happiness is viewed as a personal right and personal achievement.\n- **Eastern Collectivistic Contexts:** Low arousal positive affect (calmness, serenity, peace) is prioritized; well-being is embedded within relational harmony, fulfilling family duties, and social balance."
+    },
+    {
+      "id": "pos_wellbeing_15",
+      "type": "content",
+      "title": "Summary of Well-being & Flourishing",
+      "content": "# Synthesis of Well-Being Science\n\nPositive psychology illuminates the empirical architecture of human flourishing, moving beyond pathology to elevate the human spirit.\n\n## Core Principles Review:\n1. **Beyond Pathology:** Flourishing (+8) transcends the mere absence of disease (0).\n2. **PERMA Framework:** Positive emotion, engagement, relationships, meaning, and accomplishment.\n3. **Hedonic vs. Eudaimonic:** Balancing sensory pleasure with deep Aristotlean purpose and personal growth.\n4. **Broaden-and-Build:** Positive emotions broaden cognitive horizons and build enduring physical and psychological resources (Fredrickson).\n5. **Actionable PPIs:** Gratitude visits, Three Good Things, and signature strengths systematically elevate long-term flourishing."
+    }
+  ]
+}

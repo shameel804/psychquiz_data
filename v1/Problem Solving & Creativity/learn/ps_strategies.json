@@ -1,0 +1,155 @@
+{
+    "id": "learn_ps_strategies",
+    "topicId": "ps_strategies",
+    "topicTitle": "Problem-Solving Strategies",
+    "description": "Examine the cognitive mechanics of human problem solving, comparing algorithmic and heuristic strategies, means-end analysis, analogical problem solving, and barriers like functional fixedness.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ps_strategies_1",
+            "type": "content",
+            "title": "The Nature of Problem Solving",
+            "content": "# The Architecture of Problem Solving\n\nA problem arises whenever an organism has a goal but does not know immediately how to reach it. Problem solving is the active cognitive process of bridging that gap.\n\n## The Anatomy of a Problem (Newell & Simon, 1972):\n1. **Initial State:** The starting conditions and available resources.\n2. **Goal State:** The desired terminal condition or solution.\n3. **Operators:** Permissible legal moves, transformations, or actions that alter the state.\n4. **Constraints:** Rules or physical boundaries that limit legal operations.\n\n## Well-Defined vs. Ill-Defined Problems:\n- **Well-Defined Problems:** Initial state, goal state, and legal operators are explicitly specified (e.g., Chess, solving an algebraic equation, assembling IKEA furniture).\n- **Ill-Defined Problems:** Goal state and operators are vague and open-ended (e.g., choosing a fulfilling career, writing a hit song, establishing world peace)."
+        },
+        {
+            "id": "ps_strategies_2",
+            "type": "content",
+            "title": "Algorithms vs. Heuristics",
+            "content": "# Algorithms vs. Heuristics\n\nHow do human problem solvers navigate complex problem spaces?\n\n## 1. Algorithms\n- A step-by-step, exhaustive procedural rule or formula that is **guaranteed** to produce the correct solution eventually, provided it is executed without error.\n- *Example:* Unlocking a 3-digit padlock by systematically testing all 1,000 combinations (000, 001, 002... 999).\n- *Pros & Cons:* Foolproof, but computationally slow and intractable for complex spaces (e.g., evaluating all possible chess moves would take longer than the age of the universe!).\n\n## 2. Heuristics\n- A cognitive rule of thumb or mental shortcut that prunes the search tree to find a rapid, plausible solution, but does **not guarantee** success.\n- *Example:* In chess, controlling the center of the board or protecting your king."
+        },
+        {
+            "id": "ps_strategies_3",
+            "type": "content",
+            "title": "The Problem Space and Means-End Analysis",
+            "content": "# Means-End Analysis (Newell & Simon)\n\nIn developing the **General Problem Solver (GPS)** computer model, Allen Newell and Herbert Simon formalized **Means-End Analysis**.\n\n```\n[Current Initial State] ---------(Difference Detected!)---------> [Ultimate Goal State]\n                                         |\n                           (Identify Largest Difference)\n                                         |\n                                         v\n                        [Formulate Sub-Goal to Eliminate Difference]\n                                         |\n                        (Are Operators Blocked? Set Sub-Sub-Goal!)\n```\n\n## The Core Mechanics:\n1. Compare the current state with the goal state to identify the largest difference.\n2. Formulate a **sub-goal** to reduce this difference.\n3. Search for an operator to accomplish the sub-goal.\n4. If an operator cannot be applied immediately, create an intermediate sub-goal to remove the obstacle!\n\n## Example: Fixing a Flat Tire\n- Main Goal: Drive on highway. Difference: Flat tire. Sub-goal: Change tire. Obstacle: No jack. Sub-sub-goal: Buy jack from store."
+        },
+        {
+            "id": "ps_strategies_quiz_1",
+            "type": "quiz",
+            "title": "Algorithms & Means-End Check",
+            "content": "Verify your understanding of algorithmic rules and means-end problem solving!",
+            "quizQuestion": "In Allen Newell and Herbert Simon's General Problem Solver framework, what is the core operational principle of Means-End Analysis?",
+            "quizOptions": [
+                "Testing all possible combinations in alphabetical sequence",
+                "Repeatedly comparing the current state with the goal state and establishing sub-goals to reduce the difference",
+                "Engaging in random trial-and-error until reinforcement occurs",
+                "Relying exclusively on non-verbal analogical mental imagery"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_strategies_4",
+            "type": "content",
+            "title": "Hill-Climbing vs. Working Backward",
+            "content": "# Heuristic Strategies in Search\n\n## 1. The Hill-Climbing Heuristic\n- Choosing at every step the move that moves you closest in immediate appearance to the goal state.\n- **The Local Maxima Trap:** Like a blind mountaineer who only steps upward, hill-climbing fails whenever a problem requires you to temporarily move *away* from the goal to solve it!\n- **Classic Example (Missionaries & Cannibals / Orcs & Hobbits):** Solving the puzzle requires sending two characters back across the river (temporarily looking like backward progress), which human subjects resist stubbornly.\n\n## 2. Working Backward Heuristic\n- Beginning at the goal state and tracing steps backward to the initial state.\n- Extremely effective when the goal is singular and specific, but initial starting paths are vast and branching (e.g., navigating a complex visual maze or solving mathematical proofs)."
+        },
+        {
+            "id": "ps_strategies_5",
+            "type": "content",
+            "title": "Analogical Problem Solving (Gick & Holyoak)",
+            "content": "# Analogical Problem Solving\n\nUsing the solution to a familiar problem (the **source problem**) to solve a novel, structurally similar challenge (the **target problem**).\n\n## Duncker's Radiation Problem (1945):\n- A patient has an inoperable stomach tumor. Rays of radiation at high intensity will destroy the tumor, but will also destroy the healthy tissue they pass through. Rays at low intensity will not destroy the tumor. How can the tumor be destroyed without harming healthy tissue?\n\n## The Fortress Source Analogy (Gick & Holyoak, 1980):\n- A general wants to capture a fortress. All roads are mined to detonate if large armies pass over them. The general divides his army into small groups and sends them down different roads simultaneously, converging at the fortress!\n\n```\nSource Domain (Military):   [Dispersed Small Armies]   ====(Converge)====> [Captured Fortress]\nTarget Domain (Medical):    [Multiple Low-Dose Rays]   ====(Converge)====> [Destroyed Tumor]\n```\n\n## The Finding:\n- Without a hint, only **10%** of subjects solve the radiation problem.\n- If told the fortress story first, **30%** solve it spontaneously.\n- If explicitly told *\"The fortress story contains a useful hint\"*, **75%** solve it!"
+        },
+        {
+            "id": "ps_strategies_6",
+            "type": "content",
+            "title": "Surface vs. Structural Similarities in Analogies",
+            "content": "# Barriers to Analogical Transfer\n\nWhy do humans struggle to notice useful analogies spontaneously?\n\n## Two Levels of Similarity:\n\n### 1. Surface Features\n- The specific, superficial content elements of the story (e.g., soldiers, generals, roads vs. tumors, doctors, radiation rays).\n- Novices focus almost entirely on surface features; because soldiers do not look like cancer cells, they miss the analogy!\n\n### 2. Structural Features\n- The underlying causal relationships, principles, and relational schema (many small converging forces acting simultaneously on a central target).\n- Experts ignore surface noise and map structural features across radically diverse domains (e.g., Rutherford modeling the atom on the solar system)."
+        },
+        {
+            "id": "ps_strategies_quiz_2",
+            "type": "quiz",
+            "title": "Analogical Transfer Check",
+            "content": "Evaluate your understanding of analogical problem solving and structural mapping!",
+            "quizQuestion": "In Gick and Holyoak's radiation experiments, why did most participants fail to apply the Fortress Story solution spontaneously without an explicit prompt?",
+            "quizOptions": [
+                "The two problems shared identical surface features",
+                "Participants focused on the divergent superficial surface features (armies vs. tumors) and failed to notice the shared structural convergence schema",
+                "The radiation problem was mathematically impossible",
+                "Participants suffered from retroactive interference"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_strategies_7",
+            "type": "content",
+            "title": "Barriers: Functional Fixedness (Karl Duncker)",
+            "content": "# Functional Fixedness\n\n**Functional fixedness** is a cognitive bias that restricts a person from using an object only in the traditional way it is customarily used.\n\n## Duncker's Candle Problem (1945):\n- Participants are given a candle, a book of matches, and a box filled with metal thumbtacks.\n- Task: Mount the candle onto a corkboard wall so that wax will not drip on the table below.\n\n```\nTypical Failed Attempts:   - Trying to tack the candle directly to the wall (tack breaks candle)\n                          - Melting the candle wax against the wall (fails to hold)\n\nCreative Insight Solution: Empty the tacks out of the box, tack the empty BOX to the wall,\n                          and place the candle inside the box as a shelf!\n```\n\n## The Cognitive Mechanism:\n- When the box is presented filled with tacks, subjects perceive its function as a **container**.\n- If the box is presented empty alongside the tacks, solution rates more than double!"
+        },
+        {
+            "id": "ps_strategies_8",
+            "type": "content",
+            "title": "Barriers: Mental Set (Luchins Water Jug)",
+            "content": "# Mental Set (Einstellung Effect)\n\n**Mental set** is the tendency to persist in using a previously successful problem-solving strategy, even when a much simpler, more direct approach is available.\n\n## Abraham Luchins' Water Jug Experiment (1942):\n- Participants measured exact quantities of water using three jugs of varying capacities (A, B, C).\n- For Problems 1 through 5, the solution formula was always identical:\n\n```\nDesired Quantity = Jug B - Jug A - 2(Jug C)\n```\n\n## Problem 6 (The Trap Problem):\n- Jug A = 23, Jug B = 49, Jug C = 3. Desired quantity = 20.\n- **The Einstellung Effect:** Over **80%** of experienced participants executed the complex formula `49 - 23 - 2(3) = 20`.\n- Control participants (who never saw Problems 1-5) immediately saw the trivial 1-step solution: `Jug A - Jug C = 23 - 3 = 20`!\n- Past success blinded participants to direct solutions."
+        },
+        {
+            "id": "ps_strategies_9",
+            "type": "content",
+            "title": "Insight vs. Non-Insight Problems (Metcalfe & Wiebe)",
+            "content": "# The Psychology of \"Aha!\" Moments\n\nHow do **insight problems** differ from routine analytical problems?\n\n## Metcalfe & Wiebe's Warmth Ratings (1987):\n- Participants solved analytical algebra problems or insight puzzles while giving \"warmth ratings\" (1 = ice cold to 10 = hot/about to solve) every 15 seconds.\n\n```\nWarmth Rating:\n10 (Hot) |                                               * (Sudden Spike for Insight!)\n         |                  /--- Algebra (Gradual Slope) |\n         |                 /                             |\n 1 (Cold)|________________/******************************|________\n          0 sec                                        Solution Time\n```\n\n## Findings:\n- **Analytical Problems:** Warmth increases steadily and predictably as steps are executed.\n- **Insight Problems:** Participants report feeling \"cold\" until seconds before the answer suddenly flashes into consciousness (**the Eureka / Aha! experience**).\n- Occurs via subconscious **representational restructuring**."
+        },
+        {
+            "id": "ps_strategies_quiz_3",
+            "type": "quiz",
+            "title": "Fixedness & Insight Check",
+            "content": "Test your mastery of functional fixedness, mental sets, and insight warmth curves!",
+            "quizQuestion": "In Metcalfe and Wiebe's 1987 study comparing algebra problems with creative insight puzzles, what distinct pattern characterized participants' warmth ratings during insight problem solving?",
+            "quizOptions": [
+                "Warmth ratings climbed steadily and incrementally across every 15-second interval",
+                "Warmth ratings remained flat and low until a sudden, instantaneous spike seconds before the solution",
+                "Warmth ratings dropped to zero immediately after the solution was discovered",
+                "Warmth ratings were identical to rote memorization tasks"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_strategies_10",
+            "type": "content",
+            "title": "Incubation and Restructuring",
+            "content": "# Incubation and Sleep in Problem Solving\n\nWhy does walking away from an unsolved problem frequently lead to sudden breakthrough solutions?\n\n## The Incubation Effect:\n- Taking a temporary break from an impasse produces significant gains in problem-solving success upon return.\n\n## Why Incubation Works:\n1. **Forgetting Fixation:** The incubation interval allows unhelpful mental sets, misleading cues, and rigid functional associations to decay from working memory.\n2. **Subconscious Spreading Activation:** Weak, distant semantic associations continue spreading unconsciously across cortical networks.\n3. **Sleep-Dependent Reorganization (Wagner et al., Nature 2004):** Participants who slept for 8 hours after reaching an impasse were **twice as likely** to discover a hidden mathematical shortcut upon waking compared to participants who stayed awake!"
+        },
+        {
+            "id": "ps_strategies_11",
+            "type": "content",
+            "title": "Expertise in Problem Solving",
+            "content": "# The Cognitive Psychology of Expertise\n\nHow do master problem solvers differ from novices?\n\n## Classic Chess Studies (de Groot, 1965; Chase & Simon, 1973):\n- Grandmasters and novices viewed real mid-game chess positions for 5 seconds.\n- **Finding:** Grandmasters reconstructed the board with **90% accuracy**, while novices recalled only 20%.\n- **The Critical Control:** When pieces were placed completely randomly on the board, the grandmaster advantage vanished completely!\n- **Why?** Grandmasters do not possess superior raw photographic memory; they possess an internal mental library of over **50,000 organized perceptual chunks** and patterns!\n\n## Problem Representation:\n- Novices categorize physics problems by **surface features** (*\"inclined plane problems\"*, *\"pulley problems\"*).\n- Experts categorize problems by **deep physical laws** (*\"Conservation of Energy\"*, *\"Newton's Second Law\"*)."
+        },
+        {
+            "id": "ps_strategies_12",
+            "type": "content",
+            "title": "Neural Substrates of Problem Solving and Insight",
+            "content": "# The Neuroscience of Insight (Jung-Beeman & Kounios)\n\nWhere does the \"Aha!\" moment live in the human brain?\n\n## Compound Remote Associates Test (CRA):\n- Participants view three words: *pine / crab / sauce* -> target solution: *apple*.\n- High-density EEG and fMRI recorded neural activity during sudden insight vs. methodical analytical solutions.\n\n## Neural Signatures of the \"Aha!\":\n- **Right Anterior Superior Temporal Gyrus (aSTG):** Exhibits a sudden burst of fMRI BOLD activity at the exact moment of insight; specialized for integrating distant semantic concepts.\n- **Gamma-Band Oscillation:** Scalp EEG detects a burst of high-frequency **gamma rhythm (approx 40 Hz)** over the right anterior temporal lobe 300 ms prior to verbalization of the solution!"
+        },
+        {
+            "id": "ps_strategies_quiz_4",
+            "type": "quiz",
+            "title": "Expertise & Insight Neurobiology Check",
+            "content": "Verify your understanding of expert chunking and the neural correlates of insight!",
+            "quizQuestion": "In Chase and Simon's classic chess experiments, what empirical finding proved that grandmasters' superior board recall is due to organized domain-specific chunking rather than generalized superior visual memory?",
+            "quizOptions": [
+                "Grandmasters remembered random board configurations with 100% accuracy",
+                "Grandmasters performed identically to novices when chess pieces were arranged in random, illegal configurations",
+                "Grandmasters showed smaller pupil dilation during play",
+                "Grandmasters solved the Stroop task faster than novices"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ps_strategies_13",
+            "type": "content",
+            "title": "Computational Problem Solving and Search Trees",
+            "content": "# Computational Problem Solving\n\nHow artificial intelligence systems conceptualize problem spaces:\n\n## Search Algorithms:\n- **Breadth-First Search (BFS):** Explores all nodes at the present depth level before moving deeper; guarantees shortest path, but consumes massive memory.\n- **Depth-First Search (DFS):** Explores as deeply as possible along each branch before backtracking.\n- **A* Search Algorithm:** Combines path cost with an admissible heuristic function ($f(n) = g(n) + h(n)$) to navigate graph spaces with optimal efficiency.\n\n## Machine Learning Parallels:\n- AlphaGo (DeepMind) combined Monte Carlo Tree Search with deep neural network value functions, mimicking human expert intuitive pattern recognition paired with deep tree pruning."
+        },
+        {
+            "id": "ps_strategies_14",
+            "type": "content",
+            "title": "Practical Protocols for Problem Solving",
+            "content": "# Applied Frameworks for Complex Problem Solving\n\nCognitive psychology translates into actionable protocols for complex challenges:\n\n## The IDEAL Problem Solver (Bransford & Stein):\n1. **I - Identify:** Recognize problems before they become crises.\n2. **D - Define:** Formulate the problem space precisely; question hidden assumptions.\n3. **E - Explore:** Brainstorm alternative heuristics, analogies, and sub-goals.\n4. **A - Act:** Execute the selected strategy deliberately.\n5. **L - Look Back:** Evaluate outcome effectiveness and extract transferable lessons.\n\n## Lateral Thinking Tactics (Edward de Bono):\n- Deliberately generating provocative, random associations to disrupt entrenched mental sets and encourage cognitive restructuring."
+        },
+        {
+            "id": "ps_strategies_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Problem-Solving Strategies\n\n## Core Principles Mastered:\n\n### 1. Problem Space Mechanics\n- Initial state, goal state, operators, constraints; well-defined vs. ill-defined challenges.\n- Algorithms (guaranteed, exhaustive) vs. Heuristics (fast, plausible shortcuts).\n\n### 2. General Problem Solving Strategies\n- Means-End Analysis: Setting sub-goals to eliminate the largest difference from the goal.\n- Analogical Problem Solving: Mapping structural features across source and target domains (Duncker's radiation problem).\n\n### 3. Cognitive Barriers & Fixations\n- Functional Fixedness (Duncker's candle problem) and Mental Set (Luchins' water jugs).\n\n### 4. Insight, Incubation, & Expertise\n- Insight warmth curves show sudden non-linear jumps; mediated by the right anterior superior temporal gyrus and gamma oscillations.\n- Expertise relies on domain-specific pattern chunking (50,000 chess patterns).\n\n> **Up Next:** Explore the mechanics of innovation and original thought in **Creativity**!"
+        }
+    ]
+}

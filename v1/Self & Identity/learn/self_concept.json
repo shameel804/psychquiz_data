@@ -1,0 +1,155 @@
+{
+  "id": "learn_self_concept",
+  "topicId": "self_concept",
+  "topicTitle": "Self-Concept & Self-Esteem",
+  "description": "Examine the multidimensional structure of the self, self-esteem trajectories, Higgins's self-discrepancy theory, and Kristin Neff's model of self-compassion.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "self_concept_1",
+      "type": "content",
+      "title": "Architecture of the Self-Concept",
+      "content": "# The Architecture of the Self-Concept\n\nThe **self-concept** is the comprehensive, organized knowledge structure and cognitive schema that individuals hold regarding their personal attributes, roles, capabilities, and values.\n\n## The Dual Nature of Self (William James, 1890):\n- **The 'I' (The Self-as-Knower / Subject):** The active agent of consciousness, the stream of subjective experience, the awareness of one's ongoing existence and agency.\n- **The 'Me' (The Self-as-Known / Object):** The accumulated descriptive facts, beliefs, memories, and evaluations an individual possesses about themselves.\n\n## Multidimensionality of the Self:\n- **Academic Self-Concept:** Perceptions of competence in mathematics, verbal ability, and intellectual inquiry.\n- **Social Self-Concept:** Perceptions of peer popularity, intimacy skills, and familial roles.\n- **Physical Self-Concept:** Body image, athletic competence, and physical attractiveness.\n- **Moral/Spiritual Self-Concept:** Ethical standards, personal integrity, and overarching life purpose."
+    },
+    {
+      "id": "self_concept_2",
+      "type": "content",
+      "title": "Self-Schemas and Working Self-Concept",
+      "content": "# Self-Schemas: Hazel Markus\n\n**Self-schemas** (Markus, 1977) are cognitive generalizations about the self, derived from past experience, that organize and guide the processing of self-related information.\n\n## Schematic vs. Aschematic Processing:\n- **Schematic Individuals:** Hold well-articulated, personally important schemas in a specific domain (e.g., athletics, creativity, or independence). They process domain-relevant information with exceptional speed, recall domain memories effortlessly, and resist counter-attitudinal feedback.\n- **Aschematic Individuals:** Do not consider that dimension personally central or meaningful to their identity.\n\n## The Working Self-Concept (Markus & Kunda):\n- Because the entire storehouse of self-knowledge is too vast for concurrent conscious awareness, the **working self-concept** represents the temporary, active subset of self-schemas activated by immediate situational cues (e.g., feeling acutely 'male' when in an all-female committee)."
+    },
+    {
+      "id": "self_concept_3",
+      "type": "content",
+      "title": "Self-Esteem: Nature and Trajectory",
+      "content": "# Dynamics of Self-Esteem\n\nWhile self-concept is descriptive ('I am a distance runner'), **self-esteem** is the evaluative and affective component of the self\u2014the subjective appraisal of one's overall worth as a human being.\n\n## Developmental Trajectories:\n- **Early Childhood:** Inflated, unrealistically high self-esteem due to cognitive limitations in social comparison.\n- **Middle Childhood & Elementary Transition:** Sharp decline as formal school introduces objective peer grading and peer comparison.\n- **Adolescence:** Often drops further, particularly among adolescent girls experiencing pubertal body changes and intensifying social scrutiny.\n- **Adulthood:** Rises steadily throughout young and middle adulthood as individuals gain vocational autonomy, mastery, and stable relationships.\n- **Older Adulthood:** Mild decline in late senescence associated with physical health declines, bereavement, and retirement status shifts."
+    },
+    {
+      "id": "self_concept_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Self-Concept Architecture",
+      "content": "Verify your understanding of self-schemas and William James's duality of the self.",
+      "quizQuestion": "In William James's formulation of the self, what does the 'I' represent?",
+      "quizOptions": [
+        "The passive collection of descriptive memories and self-evaluations",
+        "The active, conscious subject experiencing ongoing awareness and agency",
+        "The unconscious repressed desires stored in the id",
+        "The internalized social standards of parents and teachers"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "self_concept_4",
+      "type": "content",
+      "title": "Sociometer Theory: Leary",
+      "content": "# Leary's Sociometer Theory\n\nProposed by **Mark Leary** (1995), **Sociometer Theory** reinterprets self-esteem from an evolutionary perspective, asserting it evolved not as an internal self-glorification gauge, but as a sensitive psychological meter of social acceptance and belonging.\n\n## The Underlying Mechanism:\n- Human ancestors required social group inclusion for survival against predators and starvation; social ostracism meant certain death.\n- **Self-esteem functions as an internal gauge (sociometer)** that continuously monitors social cues for signs of interpersonal devaluation, rejection, or exclusion.\n- When relational value is threatened (social exclusion, cold indifference), self-esteem plummets, triggering distress and motivating reparative social behavior.\n\n## Key Evidence:\n- Experimental social rejection drops self-esteem rapidly.\n- High self-esteem corresponds directly to feelings of being valued, wanted, and included by significant relational groups."
+    },
+    {
+      "id": "self_concept_5",
+      "type": "content",
+      "title": "Terror Management & Contingencies of Worth",
+      "content": "# Contingencies of Self-Worth\n\nJennifer Crocker and colleagues demonstrated that individuals differ not just in their overall level of self-esteem, but in the specific domains upon which they stake their self-worth.\n\n## Crocker's Seven Contingency Domains:\n1. Academic competence\n2. Appearance and physical attractiveness\n3. Competition (outperforming others)\n4. Approval of others\n5. Family support\n6. God's love / spiritual devotion\n7. Virtue and moral integrity\n\n## The Vulnerability of External Contingencies:\n- Staking self-esteem on volatile external contingencies (appearance, grades, social approval) produces fragile, fluctuating self-esteem, high performance anxiety, and depressive vulnerability upon failure.\n- Staking self-worth on internal values (virtue, personal growth) fosters resilient, stable well-being.\n\n## Terror Management Theory (TMT):\nProposes that self-esteem serves as a psychological anxiety buffer, protecting individuals against paralyzing terror regarding mortality."
+    },
+    {
+      "id": "self_concept_6",
+      "type": "content",
+      "title": "Higgins's Self-Discrepancy Theory",
+      "content": "# Higgins's Self-Discrepancy Theory\n\nDeveloped by **E. Tory Higgins** (1987), this cognitive-affective theory posits that emotional distress stems from perceived mismatches (discrepancies) between different self-domains.\n\n## The Three Self-Domains:\n- **Actual Self:** The representation of attributes that you (or another) believe you actually possess ('Who I am right now').\n- **Ideal Self:** The representation of attributes that you (or another) would ideally like you to possess\u2014encompassing hopes, wishes, and aspirations.\n- **Ought Self:** The representation of attributes that you (or another) believe you should or ought to possess\u2014encompassing duties, obligations, and moral responsibilities.\n\n```\n[Actual Self] <----- Discrepancy -----> [Ideal Self]\n       |                                      |\n       v                                      v\nDejection, Depression, Sadness        Loss of Positive Reward\n\n[Actual Self] <----- Discrepancy -----> [Ought Self]\n       |                                      |\n       v                                      v\nAgitation, Anxiety, Fear               Threat of Punishment\n```"
+    },
+    {
+      "id": "self_concept_7",
+      "type": "content",
+      "title": "Emotional Payoffs of Discrepancies",
+      "content": "# Specific Emotional Vulnerabilities\n\nHiggins proved that distinct self-discrepancies systematically produce distinct qualitative emotional suffering.\n\n## 1. Actual-Ideal Discrepancy:\n- **Psychological Meaning:** Absence of positive outcomes; failure to attain personal aspirations and dreams.\n- **Affective Profile:** Dejection-related emotions: sadness, disappointment, discouragement, sluggishness, and clinical depression.\n\n## 2. Actual-Ought Discrepancy:\n- **Psychological Meaning:** Presence of anticipated negative outcomes; failure to uphold duties, rules, or societal expectations.\n- **Affective Profile:** Agitation-related emotions: nervousness, chronic tension, dread, guilt, panic, and generalized anxiety.\n\n## Clinical Applications:\nCognitive therapies utilize this framework to help clients identify whether their anxiety stems from tyrannical 'oughts' imposed by external authorities or whether depression stems from unattainable perfectionist ideals."
+    },
+    {
+      "id": "self_concept_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Self-Discrepancies",
+      "content": "Assess your understanding of Higgins's Self-Discrepancy Theory.",
+      "quizQuestion": "According to Higgins's Self-Discrepancy Theory, an individual experiencing a chronic mismatch between their Actual Self and their Ought Self will primarily suffer from which emotional state?",
+      "quizOptions": [
+        "Dejection and depressive sluggishness",
+        "Agitation, nervousness, and anxiety",
+        "Narcissistic grandiosity",
+        "Euphoric relief"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "self_concept_8",
+      "type": "content",
+      "title": "The Pitfalls of High Self-Esteem",
+      "content": "# The Dark Side of Fragile Self-Esteem\n\nWhile early educational movements treated self-esteem as a universal panacea, psychological research (Baumeister, Bushman, & Campbell) revealed critical distinctions between healthy secure self-worth and fragile narcissism.\n\n## Fragile vs. Secure Self-Esteem:\n- **Secure Self-Esteem:** Grounded, stable, independent of constant public acclaim; resilient against constructive criticism; low defensiveness.\n- **Fragile / Defensive Self-Esteem:** Artificially elevated but vulnerable; requires continuous external validation and ego-stroking.\n\n## Threatened Egotism Theory (Baumeister et al., 1996):\n- When individuals with grandiose, fragile self-esteem (narcissism) encounter negative feedback or ego threats, they experience acute hostility.\n- Rather than re-evaluating their behavior, they direct retaliatory aggression against the evaluator to defend their inflated self-image.\n- Demonstrates that unearned, unconditional praise can foster entitlement and aggression rather than genuine resilience."
+    },
+    {
+      "id": "self_concept_9",
+      "type": "content",
+      "title": "Self-Compassion: Kristin Neff",
+      "content": "# Kristin Neff's Self-Compassion Model\n\nAs an alternative to the endless treadmill of self-esteem evaluation, **Kristin Neff** introduced the construct of **self-compassion**\u2014treating oneself with kindness and understanding during instances of pain, failure, or inadequacy.\n\n## The Three Core Components:\n\n### 1. Self-Kindness vs. Self-Judgment:\n- Extending warmth, patience, and gentle understanding to oneself when suffering or encountering failure, rather than engaging in harsh, lacerating self-condemnation.\n\n### 2. Common Humanity vs. Isolation:\n- Recognizing that personal suffering, flaw, and mistakes are universal aspects of the shared human condition, rather than feeling uniquely defective or alienated.\n\n### 3. Mindfulness vs. Over-Identification:\n- Holding painful thoughts and emotions in balanced, non-judgmental awareness without exaggerating, catastrophizing, or becoming completely swept up in the distress."
+    },
+    {
+      "id": "self_concept_10",
+      "type": "content",
+      "title": "Self-Compassion vs. Self-Esteem",
+      "content": "# Self-Compassion vs. Self-Esteem Comparison\n\nRigorous empirical research highlights profound functional differences between pursuing self-esteem and cultivating self-compassion.\n\n| Dimension | Self-Esteem | Self-Compassion |\n|-----------|-------------|-----------------|\n| **Foundational Mechanism** | Evaluation, comparison, judgment | Kindness, acceptance, awareness |\n| **Preconditions** | Requires feeling special, above average | Requires only being human and flawed |\n| **Stability Upon Failure** | Collapses; sparks defensiveness or despair | Activates; provides comforting buffer |\n| **Relation to Narcissism** | Correlated with narcissism & ego threat | Zero correlation with narcissism |\n| **Social Comparison** | Driven by downward comparison | Replaced by sense of common humanity |\n| **Motivation for Growth** | Often driven by fear of inadequacy | Driven by genuine desire for well-being |\n\n> **Core Insight:** Self-esteem asks: *'Am I good enough compared to others?'* Self-compassion asks: *'How can I comfort and care for myself right now?'*"
+    },
+    {
+      "id": "self_concept_11",
+      "type": "content",
+      "title": "Self-Serving Biases & Positive Illusions",
+      "content": "# Cognitive Self-Defense Mechanisms\n\nHuman cognition is equipped with sophisticated perceptual and attributional biases designed to protect the self-concept from ego damage.\n\n## Prominent Self-Serving Biases:\n- **Self-Serving Attributional Bias:** Attributing successes to internal, stable dispositional factors ('I aced the exam because I am brilliant') and attributing failures to external, unstable situational factors ('I failed because the test was unfair').\n- **Better-Than-Average Effect:** The statistical impossibility where over 85% of people rate themselves as above average in driving, morality, intelligence, and leadership.\n- **False Consensus Effect:** Overestimating the degree to which others share our opinions, bad habits, and shortcomings.\n- **False Uniqueness Effect:** Underestimating the commonality of our unique talents, virtues, and positive attributes.\n\n## Taylor & Brown's 'Positive Illusions' (1988):\n- Mild positive illusions regarding personal control, optimism, and virtue are linked to cardiovascular resilience and active goal pursuit, though severe delusion impairs accurate risk evaluation."
+    },
+    {
+      "id": "self_concept_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Self-Compassion & Biases",
+      "content": "Verify your understanding of Kristin Neff's self-compassion framework and cognitive self-biases.",
+      "quizQuestion": "Which of the following is NOT one of the three core components of self-compassion identified by Kristin Neff?",
+      "quizOptions": [
+        "Common humanity",
+        "Self-kindness",
+        "Downward social comparison",
+        "Mindfulness"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "self_concept_12",
+      "type": "content",
+      "title": "Self-Verification Theory: Swann",
+      "content": "# Swann's Self-Verification Theory\n\nWhile **Self-Enhancement Theory** claims people are driven to receive exclusively positive praise, **William Swann's Self-Verification Theory** (1983) reveals an equally powerful epistemic drive: the desire to have others perceive us as we perceive ourselves.\n\n## The Core Principles:\n- People need predictability, coherence, and psychological stability in their social world.\n- Individuals actively seek, attend to, and solicit social feedback that **confirms their preexisting self-views**, even when those self-views are profoundly negative.\n\n## The Paradoxical Findings:\n- Individuals with chronic low self-esteem or depressive self-concepts frequently prefer interaction partners who evaluate them critically over partners who offer glowing, disconfirming praise.\n- Disconfirming praise generates cognitive vertigo and anxiety: *'They don't really know me; they will discover the truth and abandon me.'*\n- Explains why individuals with negative self-schemas often stay in devaluing relationships."
+    },
+    {
+      "id": "self_concept_13",
+      "type": "content",
+      "title": "Self-Affirmation Theory: Steele",
+      "content": "# Steele's Self-Affirmation Theory\n\nProposed by **Claude Steele** (1988), **Self-Affirmation Theory** explains how people cope with psychological threats to their self-integrity and moral adequacy.\n\n## The Systemic Nature of Self-Integrity:\n- When individuals face an ego threat in one specific domain (e.g., failing a math exam, receiving medical warnings about smoking habits), their overall self-system feels compromised.\n- Rather than defending the specific threatened domain directly, individuals can restore perceived integrity by **affirming an unrelated core value** (e.g., writing about their artistic identity, devotion to family, or spiritual faith).\n\n## Empirical Interventions:\n- Brief 15-minute values-affirmation writing exercises in middle school classrooms significantly reduced academic achievement gaps and counteracted the debilitating effects of **stereotype threat** among minority students across multiple school semesters."
+    },
+    {
+      "id": "self_concept_14",
+      "type": "content",
+      "title": "Cultural Construals of Self",
+      "content": "# Cultural Shaping: Markus and Kitayama\n\nHazel Markus and Shinobu Kitayama (1991) established that cultural models fundamentally sculpt the architecture of the self.\n\n## Independent Self-Construal (Western Contexts):\n- **Boundary:** Bounded, unitary, autonomous, distinct from social contexts.\n- **Primary Goals:** Expressing internal uniqueness, validating personal rights, achieving individual success.\n- **Self-Esteem Source:** Feeling unique, standing out, mastering individual competitions.\n\n## Interdependent Self-Construal (East Asian & Collectivistic Contexts):\n- **Boundary:** Fluid, context-dependent, fundamentally embedded within relational webs.\n- **Primary Goals:** Fulfilling obligations, maintaining group harmony, fitting in, exercising self-restraint.\n- **Self-Worth Source:** Fulfilling relational roles, practicing self-criticism (hansei) for mutual harmony."
+    },
+    {
+      "id": "self_concept_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Self-Verification & Affirmation",
+      "content": "Assess your understanding of Swann's and Steele's theories.",
+      "quizQuestion": "According to William Swann's Self-Verification Theory, why might a person with chronic low self-esteem seek out peers who confirm their negative self-views?",
+      "quizOptions": [
+        "To intentionally worsen their psychiatric symptoms for disability benefits",
+        "Because confirming feedback preserves psychological coherence, predictability, and stability",
+        "Due to an innate instinctual drive toward self-destruction",
+        "Because they lack any functioning frontal lobe capacity"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "self_concept_15",
+      "type": "content",
+      "title": "Summary & Practical Self-Integration",
+      "content": "# Synthesis of Self-Concept Science\n\nThe self is an intricate, dynamic knowledge structure that mediates how we perceive reality, experience emotions, and navigate social relationships.\n\n## Key Takeaways:\n1. **Structure:** The self is multidimensional, organized into domain-specific schemas that form the active working self-concept.\n2. **Discrepancies:** Actual-Ideal discrepancies foster dejection, while Actual-Ought discrepancies foster agitation (Higgins).\n3. **Sociometer:** Self-esteem monitors relational value and social inclusion rather than isolated self-glory (Leary).\n4. **Self-Compassion:** Embracing self-kindness, common humanity, and mindfulness provides resilient psychological strength where self-esteem falters (Neff).\n5. **Verification & Affirmation:** We strive for coherence and can buffer ego threats by rooting ourselves in core values."
+    }
+  ]
+}

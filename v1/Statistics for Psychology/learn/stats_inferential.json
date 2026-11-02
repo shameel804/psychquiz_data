@@ -1,0 +1,155 @@
+{
+  "id": "learn_stats_inferential",
+  "topicId": "stats_inferential",
+  "topicTitle": "Inferential Statistics",
+  "description": "Master inferential statistics in psychology, covering hypothesis testing frameworks, null and alternative hypotheses, t-tests, ANOVA, Chi-square, and statistical power.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "stats_inferential_1",
+      "type": "content",
+      "title": "Introduction to Inferential Statistics",
+      "content": "# The Logic of Statistical Inference\n\nBecause psychologists cannot test every single human being on Earth, they study a representative **sample** and use **inferential statistics** to draw probabilistic conclusions about the unobserved broader **population**.\n\n## Sampling Error:\n- The natural, unavoidable discrepancy or margin of error between a sample statistic (e.g., sample mean **x-bar**) and the true population parameter (population mean **mu**).\n- Even when random sampling is flawless, two random samples drawn from the exact same population will yield slightly different means purely due to chance.\n\n## The Central Inferential Question:\n*'Is the observed difference between our experimental group and control group a genuine psychological effect, OR is it merely an illusion caused by random sampling error?'*"
+    },
+    {
+      "id": "stats_inferential_2",
+      "type": "content",
+      "title": "Null and Alternative Hypotheses",
+      "content": "# Null Hypothesis Significance Testing (NHST)\n\nThe dominant inferential framework in psychological science pits two mutually exclusive statistical hypotheses against one another.\n\n## 1. The Null Hypothesis (H0):\n- States that in the general population, there is **no true effect, no difference, and no relationship** between variables.\n- Any observed difference in the sample is entirely attributable to random sampling variability.\n- *Example:* `H0: mu1 = mu2` (The treatment group mean equals the control group mean).\n\n## 2. The Alternative Hypothesis (Ha):\n- States that there is a **genuine effect, difference, or relationship** in the population.\n- *Non-directional (two-tailed):* `Ha: mu1 != mu2` (The groups differ, direction unspecified).\n- *Directional (one-tailed):* `Ha: mu1 > mu2` (The treatment group mean is specifically greater)."
+    },
+    {
+      "id": "stats_inferential_3",
+      "type": "content",
+      "title": "Alpha Levels, p-Values, and Decision Rules",
+      "content": "# The Decision Machinery: Alpha and p-Values\n\nHow do researchers decide whether to reject or fail to reject the null hypothesis?\n\n## The Alpha Level (Significance Level: alpha):\n- The predetermined probability threshold set by the researcher before collecting data, establishing the maximum acceptable risk of making a Type I error.\n- Conventional standard in psychology: **alpha = 0.05** (or **alpha = 0.01** for higher stringency).\n\n## The p-Value (Probability Value):\n- The probability of obtaining sample results as extreme as, or more extreme than, the observed data, **assuming the null hypothesis (H0) is true**.\n\n## The Universal Decision Rule:\n- **If p-value <= alpha (e.g., p-value <= 0.05):** Reject **H0**! Results are declared *statistically significant*.\n- **If p-value > alpha (e.g., p-value > 0.05):** Fail to reject **H0**. Evidence is insufficient to support an effect."
+    },
+    {
+      "id": "stats_inferential_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: NHST Framework",
+      "content": "Verify your understanding of null hypotheses, alpha, and p-values.",
+      "quizQuestion": "In an experiment testing a memory drug, researchers set alpha = 0.05 and calculate a p-value = 0.018. What is the correct statistical decision?",
+      "quizOptions": [
+        "Fail to reject the null hypothesis (H0) because p-value is too low",
+        "Reject the null hypothesis (H0) and conclude there is a statistically significant effect",
+        "Accept the null hypothesis (H0) as 100% true",
+        "Declare the experiment invalid because alpha does not equal p-value"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_inferential_4",
+      "type": "content",
+      "title": "Type I and Type II Errors",
+      "content": "# The Four Statistical Decision Outcomes\n\nBecause inferential testing relies on probabilistic sampling, researchers face two distinct types of decision errors.\n\n```\n                                TRUE STATE OF REALITY\n                          H0 is True              H0 is False (Real Effect)\n                    +---------------------+---------------------+\nREJECT H0           |    TYPE I ERROR     |   CORRECT DECISION  |\n(Claim an effect)   |   (False Positive)  |        (Power)      |\n                    |    Probability = alpha |   Probability = 1 - beta |\n                    +---------------------+---------------------+\nFAIL TO REJECT H0   |   CORRECT DECISION  |    TYPE II ERROR    |\n(Claim no effect)   |   (True Negative)   |   (False Negative)  |\n                    |  Probability = 1 - alpha |   Probability = beta  |\n                    +---------------------+---------------------+\n```\n\n- **Type I Error (alpha):** Rejecting **H0** when **H0** is actually true (claiming a drug works when it is completely inert; false alarm).\n- **Type II Error (beta):** Failing to reject **H0** when **H0** is actually false (failing to detect a genuinely effective drug; missed opportunity)."
+    },
+    {
+      "id": "stats_inferential_5",
+      "type": "content",
+      "title": "The Student's t-Test Family",
+      "content": "# The t-Test Family\n\nDeveloped by **William Sealy Gosset** (writing under the pseudonym 'Student'), the **t-test** compares means when the population standard deviation (**sigma**) is unknown and must be estimated from the sample standard deviation (**s**).\n\n## The Three Variants of the t-Test:\n\n### 1. Single-Sample t-Test:\n- Compares a single sample mean (**x-bar**) against a known or theoretical population benchmark (**mu**).\n\n### 2. Independent-Samples t-Test:\n- Compares the means of two distinct, unrelated between-subjects groups (e.g., Treatment Group vs. Control Group).\n\n### 3. Paired-Samples (Dependent) t-Test:\n- Compares two means from the same participants in a within-subjects repeated measures design (e.g., Pretest vs. Posttest), or matched pairs."
+    },
+    {
+      "id": "stats_inferential_6",
+      "type": "content",
+      "title": "Analysis of Variance (ANOVA)",
+      "content": "# Analysis of Variance (ANOVA)\n\nDeveloped by **Sir Ronald Fisher**, **ANOVA** compares means across **three or more groups or conditions**.\n\n## Why Not Run Multiple t-Tests?\n- If you have 4 groups and compare all pairs using multiple t-tests (6 separate tests), the overall familywise Type I error rate skyrockets exponentially:\n```\nFamilywise Type I Error = 1 - (1 - alpha)^c\nFor 6 tests at alpha = 0.05: Error rate = 1 - (0.95)^6 approx 0.264 (26.4%!)\n```\n- Running multiple t-tests guarantees false-positive errors!\n\n## The F-Ratio Mechanics:\nANOVA tests all group means simultaneously in a single omnibus test using the **F-ratio**:\n```\nF = (Variance Between Groups) / (Variance Within Groups)\nF = (Treatment Effect + Chance) / (Chance Error)\n```\n- If the treatment has no effect, `F approx 1.0`. A large F-ratio (e.g., `F > 3.5`) indicates significant group differences."
+    },
+    {
+      "id": "stats_inferential_7",
+      "type": "content",
+      "title": "Post-Hoc Tests & Factorial ANOVA",
+      "content": "# Post-Hoc Tests and Factorial Extensions\n\nWhen an omnibus ANOVA yields a statistically significant F-ratio (`p-value <= 0.05`), it tells us that *at least one group differs from another*, but does not specify *which specific groups differ*.\n\n## Post-Hoc Comparison Tests:\n- Specialized pairwise tests that mathematically control the familywise Type I error rate:\n  - **Tukey's Honestly Significant Difference (HSD):** The standard post-hoc test for all pairwise comparisons.\n  - **Bonferroni Correction:** Extremely conservative; divides target alpha by total number of comparisons (`alpha_adjusted = alpha / c`).\n  - **Scheffe Test:** Most conservative; permits complex contrasts.\n\n## Two-Way (Factorial) ANOVA:\n- Evaluates two independent variables simultaneously, yielding three distinct F-ratios:\n  1. Main Effect of Factor A\n  2. Main Effect of Factor B\n  3. Interaction Effect of Factor A x Factor B"
+    },
+    {
+      "id": "stats_inferential_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: ANOVA & Error Rates",
+      "content": "Assess your understanding of ANOVA mechanics and familywise error.",
+      "quizQuestion": "Why do researchers use an Analysis of Variance (ANOVA) instead of multiple independent t-tests when comparing four experimental groups?",
+      "quizOptions": [
+        "ANOVA automatically makes all p-values equal to zero",
+        "Running multiple t-tests causes the familywise Type I error rate to inflate rapidly",
+        "t-tests can only be calculated on samples smaller than 5 participants",
+        "ANOVA eliminates the need for a null hypothesis"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_inferential_8",
+      "type": "content",
+      "title": "Chi-Square Non-Parametric Tests",
+      "content": "# Chi-Square (X^2) Tests for Categorical Data\n\nWhen psychological data is measured on a nominal categorical scale (frequencies and counts) rather than continuous interval/ratio numbers, parametric t-tests and ANOVAs cannot be used. We deploy **Chi-Square non-parametric tests**.\n\n## 1. Chi-Square Goodness-of-Fit Test:\n- Tests whether observed sample frequencies across categories match a hypothesized or theoretical distribution.\n- Formula: `X^2 = sum of [ (O - E)^2 / E ]`\n  *(Where O = Observed frequency, E = Expected frequency)*.\n\n## 2. Chi-Square Test of Independence:\n- Evaluates whether two categorical variables are related or independent in a contingency table (e.g., testing whether psychiatric diagnosis category is independent of biological sex)."
+    },
+    {
+      "id": "stats_inferential_9",
+      "type": "content",
+      "title": "Effect Size: Cohen's d & Eta-Squared",
+      "content": "# Effect Size: Beyond Statistical Significance\n\nA major limitation of p-values is that with a sufficiently massive sample size (e.g., n = 100,000), even a trivially tiny, meaningless difference will yield `p-value < 0.001`. Therefore, researchers must report **effect size**\u2014the standardized magnitude of an effect independent of sample size.\n\n## Standard Effect Size Metrics:\n\n### 1. Cohen's d (for t-tests):\n- Standardized difference between two means:\n```\nCohen's d = (x-bar1 - x-bar2) / s_pooled\n```\n- **Benchmarks (Jacob Cohen):**\n  - `d = 0.20`: Small effect\n  - `d = 0.50`: Medium effect\n  - `d = 0.80`: Large effect\n\n### 2. Eta-Squared (eta^2) and Partial Eta-Squared (for ANOVA):\n- Represents the proportion of total variance accounted for by the independent variable:\n  - `0.01`: Small, `0.06`: Medium, `0.14`: Large."
+    },
+    {
+      "id": "stats_inferential_10",
+      "type": "content",
+      "title": "Statistical Power Analysis",
+      "content": "# Statistical Power (1 - beta)\n\n**Statistical Power** is the probability that a statistical test will correctly reject a false null hypothesis\u2014that is, the probability of detecting a real effect when one truly exists.\n\n## The Power Equation:\n```\nPower = 1 - beta    (Standard scientific benchmark: Power >= 0.80 or 80%)\n```\n\n## Four Interconnected Parameters (Cohen's Power Quadrant):\nAlterations in any one parameter directly dictate the others:\n1. **Sample Size (n):** Larger samples increase power by reducing standard error.\n2. **Effect Size (d or r):** Larger real effects are vastly easier to detect, yielding higher power.\n3. **Alpha Level (alpha):** Setting alpha = 0.05 yields higher power than alpha = 0.01, but increases Type I error risk.\n4. **Power (1 - beta):** Target probability of successful detection.\n\n## A Priori Power Analysis:\nCalculating the exact sample size needed *before* running an experiment to guarantee an 80% chance of detecting the expected effect size."
+    },
+    {
+      "id": "stats_inferential_11",
+      "type": "content",
+      "title": "Confidence Intervals: Estimation Perspective",
+      "content": "# Confidence Intervals (CIs)\n\nRather than making binary yes/no significance decisions, modern psychological science emphasizes parameter estimation via **Confidence Intervals**.\n\n## The 95% Confidence Interval:\n- A range of plausible values constructed around the sample mean (**x-bar**) such that 95% of such intervals generated across hypothetical repeated samplings would contain the true population mean (**mu**).\n```\n95% CI = x-bar +- (critical_value x standard_error)\n```\n\n## Connection to Hypothesis Testing:\n- For a two-sample comparison, if the **95% Confidence Interval of the difference between means does NOT include zero**, the difference is statistically significant at `alpha = 0.05`!\n- If the interval includes zero (e.g., `[-1.2, +4.8]`), the difference is non-significant."
+    },
+    {
+      "id": "stats_inferential_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Effect Size & Power",
+      "content": "Verify your understanding of Cohen's d and statistical power.",
+      "quizQuestion": "In psychological research, what is the generally accepted scientific benchmark for acceptable statistical power (1 - beta)?",
+      "quizOptions": [
+        "0.05 (5%)",
+        "0.50 (50%)",
+        "0.80 (80%)",
+        "1.00 (100%)"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "stats_inferential_12",
+      "type": "content",
+      "title": "Assumptions of Parametric Tests",
+      "content": "# Parametric Test Assumptions\n\nParametric tests (t-tests, ANOVA) are mathematically derived based on specific distributional assumptions. Violating these assumptions can invalidate results.\n\n## Core Parametric Assumptions:\n1. **Normality:** The dependent variable scores are normally distributed in the population.\n   - *Robustness:* Moderately robust to violations if sample sizes are large (Central Limit Theorem: `n >= 30`).\n2. **Homogeneity of Variance (Homoscedasticity):** The comparison groups have approximately equal variances.\n   - *Verification:* Levene's Test (`p-value > 0.05` indicates assumption is satisfied).\n   - *Correction if violated:* Welch's t-test or Welch's ANOVA.\n3. **Independence of Observations:** The performance of one participant has zero influence on that of another (ensured by proper experimental design)."
+    },
+    {
+      "id": "stats_inferential_13",
+      "type": "content",
+      "title": "Non-Parametric Equivalents",
+      "content": "# Non-Parametric Alternatives\n\nWhen data severely violates normality or homogeneity of variance, or is measured on ordinal ranks, researchers deploy **non-parametric tests**.\n\n## Parametric Tests and Their Non-Parametric Counterparts:\n\n| Parametric Test | Non-Parametric Equivalent | Underlying Data Logic |\n|-----------------|---------------------------|-----------------------|\n| Independent-Samples t-test | **Mann-Whitney U Test** | Ranks all combined scores; compares mean ranks |\n| Paired-Samples t-test | **Wilcoxon Signed-Rank Test** | Ranks absolute differences between pairs |\n| One-Way Between-Subjects ANOVA | **Kruskal-Wallis H Test** | Extends Mann-Whitney across 3+ groups |\n| One-Way Repeated-Measures ANOVA | **Friedman Test** | Compares ranked scores across repeated conditions |\n| Pearson correlation (r) | **Spearman Rank Correlation (rho)** | Assesses monotonic relationship between ranks |"
+    },
+    {
+      "id": "stats_inferential_14",
+      "type": "content",
+      "title": "Critiques of NHST & The Bayesian Alternative",
+      "content": "# Reforming NHST & Bayesian Thinking\n\nNull Hypothesis Significance Testing has faced significant methodological criticism in contemporary psychological science.\n\n## The Fallacies of NHST:\n- **Misinterpreting p-values:** The p-value does NOT tell you the probability that the hypothesis is true, nor does it quantify the probability that findings were a fluke.\n- **Arbitrary Binary Thinking:** Dichotomizing continuous evidence into arbitrary 'significant' vs. 'non-significant' categories based on `alpha = 0.05`.\n\n## The Bayesian Paradigm Alternative:\n- Rather than testing whether data is unlikely under a null hypothesis, **Bayesian inference** updates the prior probability of a hypothesis (**Prior**) with newly observed empirical evidence (**Likelihood**) to calculate the **Posterior Probability**.\n- Uses the **Bayes Factor (BF10)** to quantify direct relative evidence for **Ha** over **H0**."
+    },
+    {
+      "id": "stats_inferential_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Non-Parametric Tests & Assumptions",
+      "content": "Assess your understanding of non-parametric equivalents and assumptions.",
+      "quizQuestion": "Which non-parametric test is the appropriate statistical substitute for an independent-samples t-test when the assumption of normality is severely violated?",
+      "quizOptions": [
+        "Kruskal-Wallis H test",
+        "Mann-Whitney U test",
+        "Friedman test",
+        "Tukey HSD test"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_inferential_15",
+      "type": "content",
+      "title": "Summary of Inferential Statistics",
+      "content": "# Synthesis of Inferential Statistics\n\nInferential statistics provide the rigorous mathematical scaffolding that allows psychological science to transcend subjective speculation.\n\n## Comprehensive Review of Core Tenets:\n1. **Hypothesis Framework:** Compares null (**H0**) against alternative (**Ha**) using decision criteria (**alpha = 0.05**).\n2. **Decision Errors:** Balances Type I false alarms (alpha) against Type II missed effects (beta).\n3. **Test Selection:**\n   - 2 groups: Independent or paired t-tests.\n   - 3+ groups: ANOVA with post-hoc tests to control familywise Type I error.\n   - Categorical counts: Chi-square tests.\n   - Violated assumptions: Mann-Whitney, Wilcoxon, Kruskal-Wallis.\n4. **Magnitude & Precision:** Reporting effect sizes (Cohen's d, eta^2) and 95% confidence intervals is essential alongside p-values.\n5. **Power Planning:** A priori power analyses ensure studies recruit sufficient participants to reliably detect genuine psychological effects."
+    }
+  ]
+}

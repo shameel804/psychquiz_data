@@ -1,0 +1,155 @@
+{
+    "id": "learn_sc_schemas",
+    "topicId": "sc_schemas",
+    "topicTitle": "Schemas & Social Perception",
+    "description": "Examine the mental frameworks governing social perception, analyzing person schemas, social roles, event scripts, cognitive priming, accessibility, and confirmation heuristics.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sc_schemas_1",
+            "type": "content",
+            "title": "The Cognitive Miser and Social Schemas",
+            "content": "# Schemas and Social Perception\n\nSusan Fiske and Shelley Taylor famously described human beings as **\"cognitive misers\"**:\n- Our social sensory environment is overwhelmingly complex and infinite in detail.\n- Our cognitive working memory capacity is strictly limited.\n- To survive without mental paralysis, we deploy **social schemas**\u2014pre-existing cognitive knowledge structures that filter, organize, and simplify our social perceptions."
+        },
+        {
+            "id": "sc_schemas_2",
+            "type": "content",
+            "title": "Taxonomy of Social Schemas",
+            "content": "# The Four Primary Types of Social Schemas\n\nCognitive social psychologists categorize schemas across four functional domains:\n\n1. **Person Schemas:** Knowledge structures regarding specific individuals or generalized personality prototypes (e.g., our schema of an *introvert*, an *eccentric artist*, or a specific politician).\n2. **Role Schemas:** Expected behaviors, norms, and traits tied to specific social positions (e.g., what a *doctor*, a *police officer*, or a *parent* should do).\n3. **Event Schemas (Scripts):** Prescribed chronological sequences of actions appropriate for specific social settings (e.g., the *restaurant script*, the *first date script*, the *airport security script*).\n4. **Self-Schemas (Hazel Markus):** Cognitive generalizations about the self that organize self-relevant information."
+        },
+        {
+            "id": "sc_schemas_3",
+            "type": "content",
+            "title": "Event Schemas: The Restaurant Script (Schank & Abelson)",
+            "content": "# Cognitive Scripts in Action (Roger Schank & Robert Abelson)\n\nAn **event schema (script)** dictates expectations for familiar social encounters:\n\n## The Restaurant Script:\n```\n[Enter & Wait to be Seated] ---> [Read Menu] ---> [Order Food] ---> [Eat Meal] ---> [Request Check] ---> [Tip & Exit]\n```\n\n## The Power of Scripted Inferences (Bower, Black, & Turner, 1979):\n- Participants read a story where a character enters a restaurant, eats a hamburger, pays, and leaves.\n- When tested on memory, participants confidently \"remembered\" that the character read the menu and left a tip, even though those details were completely omitted from the text!\n- Our schemas automatically fill in missing details with prototypical defaults."
+        },
+        {
+            "id": "sc_schemas_quiz_1",
+            "type": "quiz",
+            "title": "Schema Types Check",
+            "content": "Verify your understanding of social schema classifications and cognitive scripts!",
+            "quizQuestion": "In Schank and Abelson's cognitive framework, what type of schema provides an internalized, chronologically ordered sequence of expected behaviors for familiar social situations, such as boarding an airplane or visiting a restaurant?",
+            "quizOptions": [
+                "A Person Schema",
+                "An Event Schema (Script)",
+                "A Biological Reflex",
+                "An Instrumental Conditioning Mand"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_schemas_4",
+            "type": "content",
+            "title": "Priming and Accessibility (Higgins, Rholes, & Jones)",
+            "content": "# Cognitive Priming and Accessibility\n\n**Accessibility** is the ease with which a specific schema comes to conscious mind and is used to interpret ambiguous social stimuli.\n\n## The \"Donald\" Study (Higgins, Rholes, & Jones, 1977):\n- Participants performed an initial word-memory task containing either:\n  * **Positive Priming Words:** *adventurous, self-confident, independent*.\n  * **Negative Priming Words:** *reckless, conceited, aloof*.\n- Later, in an apparently unrelated study, participants read a vignette describing \"Donald\", who climbed mountains, drove demolition derbies, and rarely spoke to neighbors.\n- **Result:** Participants primed with positive words evaluated Donald as a daring, courageous hero; those primed with negative words judged him as a reckless, arrogant danger!"
+        },
+        {
+            "id": "sc_schemas_5",
+            "type": "content",
+            "title": "Chronic vs. Temporary Accessibility",
+            "content": "# Two Forms of Schema Accessibility\n\nWhy are certain schemas deployed more readily than others?\n\n## 1. Temporary Accessibility\n- Schemas activated recently by environmental cues, recent conversations, or media priming (as in the Donald experiment).\n\n## 2. Chronic Accessibility (Hazel Markus)\n- Schemas that are continuously active and constantly ready for interpretation due to an individual's personal history, core values, or profession.\n- *Example:* A professional personal trainer chronically interprets people through the lens of physical fitness and posture; an insecure individual chronically interprets neutral peer looks as signs of social rejection."
+        },
+        {
+            "id": "sc_schemas_6",
+            "type": "content",
+            "title": "Top-Down vs. Bottom-Up Social Processing",
+            "content": "# Dual Processing in Social Perception\n\nHow do we balance pre-existing schemas against raw perceptual reality?\n\n```\nTop-Down Processing (Concept-Driven):  Guided by expectations, stereotypes, and pre-existing schemas.\n                                         ^\n                                         |\nBottom-Up Processing (Data-Driven):    Guided by objective, fine-grained observable sensory details.\n```\n\n## The Continuum Model (Fiske & Neuberg):\n- Social perceivers start with rapid, automatic top-down category-based processing (stereotypes).\n- If the target person is personally relevant, or if their behavior directly violates categorical expectations, perceivers shift to slow, effortful, bottom-up individuated processing."
+        },
+        {
+            "id": "sc_schemas_quiz_2",
+            "type": "quiz",
+            "title": "Priming & Accessibility Check",
+            "content": "Evaluate your understanding of priming effects and schema accessibility!",
+            "quizQuestion": "In Higgins, Rholes, and Jones's classic 'Donald' study, why did participants exposed to positive words like 'adventurous' evaluate Donald's ambiguous behaviors significantly more favorably than participants primed with 'reckless'?",
+            "quizOptions": [
+                "Donald was physically present in the room",
+                "The priming task temporarily increased the cognitive accessibility of specific interpretive schemas, shaping the meaning assigned to ambiguous information",
+                "Participants suffered from retroactive interference",
+                "Participants were offered cash rewards for positive answers"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_schemas_7",
+            "type": "content",
+            "title": "Confirmation Heuristics and Memory Distortions",
+            "content": "# How Schemas Distort Memory: Cohen's Waitress Study\n\nSchemas act like selective mental filters during encoding and retrieval (John Cohen, 1981):\n\n## The Videotape Experiment:\n- Participants watched a videotape of a woman having birthday dinner with her husband.\n- **Condition 1:** Told the woman was a **waitress**.\n- **Condition 2:** Told the woman was a **librarian**.\n\n## Memory Recall Test:\n- Participants who believed she was a waitress selectively remembered that she drank beer and listened to pop music.\n- Participants who believed she was a librarian selectively remembered that she wore glasses and listened to classical music!\n- Memory was actively reconstructed to conform to pre-existing role schemas."
+        },
+        {
+            "id": "sc_schemas_8",
+            "type": "content",
+            "title": "Subtyping and Subgrouping: Resisting Schema Change",
+            "content": "# Why Stereotypes and Schemas are Resistant to Change\n\nWhen confronted with an individual who contradicts a pre-existing social schema, why don't people abandon the schema?\n\n## The Mechanism of Subtyping (Ren\u00e9e Weber & Crocker):\n- Instead of revising the overarching schema, people create a tiny, isolated mental sub-category (**a subtype**) for the exception!\n- *Example:* A sexist person who believes women are poor leaders encounters a powerful, competent female CEO. Instead of abandoning the sexist schema, they create a subtype: *\"the aggressive careerist woman\"*, labeling her an abnormal exception to keep the core prejudice intact!"
+        },
+        {
+            "id": "sc_schemas_9",
+            "type": "content",
+            "title": "Self-Schemas: Hazel Markus (1977)",
+            "content": "# Hazel Markus: Self-Schemas\n\n**Self-schemas** are cognitive generalizations about the self, derived from past experience, that organize and guide the processing of self-related information.\n\n## Schematic vs. Aschematic Individuals:\n- **Schematic on Independence:** View independence as core to their identity; make lightning-fast reaction-time decisions when judging independence traits, and recall numerous autobiographical examples.\n- **Aschematic:** View the trait as unimportant to their self-concept; process relevant traits slowly and without special memory advantages.\n\n## The Self-Reference Effect:\n- Information related directly to one's own self-schema is encoded more deeply and recalled with vastly higher accuracy than semantic information."
+        },
+        {
+            "id": "sc_schemas_quiz_3",
+            "type": "quiz",
+            "title": "Memory Filtering & Subtyping Check",
+            "content": "Test your mastery of schema-based memory biases and subtyping mechanisms!",
+            "quizQuestion": "When an individual encounters someone who blatantly disconfirms a social stereotype, but preserves their original prejudice by labeling that person an 'abnormal, unique exception', what cognitive mechanism are they deploying?",
+            "quizOptions": [
+                "Subtyping",
+                "Assimilation",
+                "Decentration",
+                "The Stroop effect"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_schemas_10",
+            "type": "content",
+            "title": "Embodied Cognition: Physical Priming (Bargh)",
+            "content": "# Embodied Social Cognition\n\nDoes physical sensation prime abstract social schemas?\n\n## Physical Warmth and Social Warmth (Lawrence Williams & John Bargh, 2008):\n- Participants briefly held either a cup of **hot coffee** or a cup of **iced coffee** on an elevator ride.\n- Later, they evaluated a target person's personality.\n- **Result:** Participants who held the hot coffee rated the target person as significantly warmer, more generous, and more trustworthy than those who held iced coffee!\n- **Physical Cleanliness & Morality (The Macbeth Effect):** Inducing feelings of moral guilt leads to a powerful physical urge to wash hands with soap and water."
+        },
+        {
+            "id": "sc_schemas_11",
+            "type": "content",
+            "title": "Implicit Social Cognition: The Implicit Association Test (IAT)",
+            "content": "# Implicit Social Cognition: The IAT\n\nDeveloped by Anthony Greenwald, Mahzarin Banaji, and Brian Nosek (1998), the **Implicit Association Test (IAT)** measures implicit, unconscious cognitive associations between concepts (e.g., racial groups) and evaluative attributes (good/bad):\n\n## The Reaction-Time Logic:\n- If two concepts are strongly bound together in your mental associative schema (e.g., *Insects + Disgust*), you can categorize them with the same computer key rapidly and with few errors.\n- If two concepts clash in your mental schema (e.g., *Insects + Delight*), the brain experiences cognitive interference and reaction times slow down significantly!\n- Reveals that implicit racial and gender biases can exist even in people who genuinely hold egalitarian conscious beliefs."
+        },
+        {
+            "id": "sc_schemas_12",
+            "type": "content",
+            "title": "Neural Substrates of Social Schemas",
+            "content": "# The Social Brain: Stereotyping and Social Knowledge\n\nWhere do social schemas live in the human brain?\n\n## Key Neuroanatomical Hubs:\n- **Anterior Temporal Lobes (ATL):** Stores abstract social semantic knowledge and social concepts (*\"generous\", \"diplomat\", \"lawyer\"*).\n- **Amygdala:** Rapid, automatic bottom-up emotional reactions to racial out-groups on the IAT.\n- **Dorsolateral Prefrontal Cortex (DLPFC) & Anterior Cingulate (ACC):** The executive control brake that detects when an implicit stereotype has fired and actively suppresses biased behavior in egalitarian individuals!"
+        },
+        {
+            "id": "sc_schemas_quiz_4",
+            "type": "quiz",
+            "title": "Embodied Priming & The IAT Check",
+            "content": "Verify your understanding of embodied social priming and the Implicit Association Test!",
+            "quizQuestion": "In Anthony Greenwald's Implicit Association Test (IAT), how is an implicit, unconscious bias between two concepts measured experimentally?",
+            "quizOptions": [
+                "By measuring differences in millisecond reaction times when concepts and evaluative attributes share a single response key versus opposing keys",
+                "By recording galvanic skin conductance during hypnotherapy",
+                "By evaluating written projective essays",
+                "By testing working memory digit spans"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_schemas_13",
+            "type": "content",
+            "title": "The Self-Fulfilling Prophecy: Snyder, Tanke, & Berscheid",
+            "content": "# Behavioral Confirmation (Mark Snyder, 1977)\n\nCan our schemas actively create the very social reality we expect?\n\n## The Telephone Study:\n- Male college students had a telephone conversation with a female student.\n- Before calling, men were shown a photo of an attractive woman or an unattractive woman (the photo was bogus; the woman on the phone was the same!).\n- **The Self-Fulfilling Cycle:**\n  * Men who expected an attractive woman spoke with warmth, humor, and charm.\n  * In response, the woman (unaware of the photo) reacted with warmth, humor, and friendliness!\n  * Independent judges listening only to the woman's audio rated her as warm and poised when talking to the \"attractive-condition\" man!\n- Social schemas actively elicit confirming behavior from others."
+        },
+        {
+            "id": "sc_schemas_14",
+            "type": "content",
+            "title": "De-Biasing Schema-Driven Social Perception",
+            "content": "# Overcoming Schema-Driven Stereotyping\n\nCan we dismantle rigid social schemas?\n\n## Evidence-Based Interventions:\n1. **Individuating Motivation:** Providing accountability, personal incentives, or collaborative interdependence (e.g., jigsaw classrooms) forces perceivers to abandon top-down stereotypes and deploy bottom-up individuating attention.\n2. **Counter-Stereotypical Exemplar Priming:** Repeated exposure to admired counter-stereotypical exemplars (e.g., female astrophysicists, Black neurosurgeons) measurably weakens implicit IAT associations.\n3. **Cognitive Re-Training:** Deliberately practicing negation (*\"Say NO to stereotypes\"*) upon encountering biased primes."
+        },
+        {
+            "id": "sc_schemas_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Schemas & Social Perception\n\n## Core Principles Mastered:\n\n### 1. Schema Taxonomies\n- Cognitive misers deploy Person schemas, Role schemas, Event scripts (Schank & Abelson), and Markus's Self-schemas.\n\n### 2. Accessibility & Priming\n- Higgins' Donald study proved temporary accessibility shapes ambiguous social interpretations.\n- Fiske's continuum model: Top-down category processing transitions to bottom-up individuation under high motivation.\n\n### 3. Biases & Memory Filtering\n- Cohen's waitress study proved schemas selectively filter memory recall.\n- Subtyping insulates prejudice against counter-examples.\n\n### 4. Embodiment & Implicit Bias\n- Physical warmth primes social warmth; Greenwald's IAT measures automatic associations via reaction time.\n- Snyder's behavioral confirmation proves schemas become self-fulfilling prophecies.\n\n> **Up Next:** Explore how conflicting beliefs tear at our mental peace in **Attitudes & Cognitive Dissonance**!"
+        }
+    ]
+}

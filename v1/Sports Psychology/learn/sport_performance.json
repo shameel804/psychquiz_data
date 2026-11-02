@@ -1,0 +1,155 @@
+{
+    "id": "learn_sport_performance",
+    "topicId": "sport_performance",
+    "topicTitle": "Performance Psychology",
+    "description": "Examine the psychological and neurological drivers of peak athletic performance, analyzing arousal regulation, Yerkes-Dodson law, PETTLEP mental imagery, goal-setting, and choking under pressure.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sport_performance_1",
+            "type": "content",
+            "title": "The Arena of the Mind: Performance Psychology",
+            "content": "# The Science of Peak Athletic Performance\n\nAt the Olympic or elite professional level, physiological capacity, physical conditioning, and athletic talent among competitors are virtually identical. **What separates the gold medalist from fourth place is the mental game.**\n\n## What is Performance Psychology?\nThe scientific study of the psychological factors that influence athletic performance, alongside the practical application of mental skills training to optimize human potential under extreme pressure.\n\n```\n                             [THE PEAK PERFORMANCE MATRIX]\n                                           |\n         +---------------------------------+---------------------------------+\n         |                                                                   |\n   [AROUSAL & ATTENTION CONTROL]                               [COGNITIVE SKILLS TRAINING]\n   - The Yerkes-Dodson Law (Inverted-U)                        - PETTLEP Mental Imagery & Visualization\n   - Hardy's Catastrophe Model                                 - Process, Performance, & Outcome Goals\n   - Choking Under Pressure (Explicit Monitoring)              - Instructional vs. Motivational Self-Talk\n```"
+        },
+        {
+            "id": "sport_performance_2",
+            "type": "content",
+            "title": "Arousal & Performance: The Yerkes-Dodson Law",
+            "content": "# Robert Yerkes & John Dodson: The Inverted-U (1908)\n\nIs higher adrenaline arousal always better for athletic performance? The **Yerkes-Dodson Law** demonstrates that performance and arousal share an **Inverted-U relationship**:\n\n```\n   PERFORMANCE\n        ^\n        |                 OPTIMAL PERFORMANCE ZONE\n        |                    (Peak Activation)\n        |                         +-----+\n        |                        /       \\\n        |                       /         \\\n        |   UNDER-AROUSED:     /           \\    OVER-AROUSED:\n        |   Bored, sluggish,  /             \\   Anxious, panicked, tunnel vision,\n        |   slow reactions.  /               \\  muscle tremors, choking!\n        +-------------------+-----------------+---------------------------------> AROUSAL\n                           LOW               HIGH\n```\n\n## Task Complexity Moderator:\n- **Gross Motor / Power Tasks (Weightlifting, Sprinting):** Optimal arousal is high.\n- **Fine Motor / Precision Tasks (Archery, Putting in Golf, Free Throws):** Optimal arousal is low-to-moderate!"
+        },
+        {
+            "id": "sport_performance_3",
+            "type": "content",
+            "title": "Hardy's Catastrophe Model & Hanin's IZOF",
+            "content": "# Advanced Arousal Models in Athletics\n\nPsychologists discovered that the simplistic Inverted-U fails to capture the sudden, catastrophic collapses seen in championship sports:\n\n## 1. Lew Hardy's Catastrophe Model (1990):\nDistinguishes between **Physiological Arousal** and **Cognitive Anxiety (Worry)**:\n- When cognitive anxiety is low, the Inverted-U holds true.\n- When cognitive anxiety is HIGH, surging physiological arousal causes a **catastrophic, cliff-like collapse in performance** (not a gentle decline)!\n- Recovery requires completely resetting the nervous system below baseline.\n\n## 2. Yuri Hanin's Individual Zones of Optimal Functioning (IZOF):\n- Rejects universal arousal points: each elite athlete has a unique, personalized bandwidth (zone) of anxiety in which they produce their greatest performances!"
+        },
+        {
+            "id": "sport_performance_quiz_1",
+            "type": "quiz",
+            "title": "Arousal Models Check",
+            "content": "Verify your understanding of Yerkes-Dodson and Hardy's catastrophe model!",
+            "quizQuestion": "In Lew Hardy's Catastrophe Model of athletic performance, what occurs when an athlete experiences both high cognitive anxiety (intense mental worry) and rapidly escalating physiological arousal?",
+            "quizOptions": [
+                "Performance improves steadily in a linear fashion",
+                "Performance suffers a sudden, catastrophic, precipitous collapse rather than a smooth, gentle decline",
+                "The athlete falls asleep immediately on the field",
+                "The athlete's physical eyesight triples in accuracy"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_performance_4",
+            "type": "content",
+            "title": "Mental Imagery & The PETTLEP Model",
+            "content": "# The Power of Visualization: The PETTLEP Framework\n\nCan simply imagining a physical movement improve actual athletic execution? Functional neuroimaging proves that **mental visualization activates the exact same motor cortex and neuromuscular pathways as physical execution**!\n\nDavid Holmes and David Collins (2001) formulated the evidence-based **PETTLEP Model** of motor imagery:\n\n```\n   P - PHYSICAL:      Wear your actual uniform, hold the actual racket or ball during visualization.\n   E - ENVIRONMENT:   Visualize in the actual competition arena (or recreate sights, sounds, smells).\n   T - TASK:          Imagine the exact specific skill calibrated to your current talent level.\n   T - TIMING:        Execute the mental imagery in REAL-TIME (never slow motion).\n   L - LEARNING:      Update the mental imagery as your motor mechanics evolve and improve.\n   E - EMOTION:       Recreate the actual emotional arousal, focus, and competitive adrenaline.\n   P - PERSPECTIVE:   Use internal first-person perspective (\"looking through your own eyes\").\n```"
+        },
+        {
+            "id": "sport_performance_5",
+            "type": "content",
+            "title": "Goal-Setting: Process, Performance, & Outcome",
+            "content": "# Damon Burton: The Hierarchy of Athletic Goals\n\nAthletes frequently obsess over winning gold medals, inadvertently causing severe anxiety. Sport psychology establishes a three-tiered hierarchy of goals:\n\n```\n   [OUTCOME GOALS]       --> Focused on winning, medals, and defeating opponents.\n                             DANGER: Highly uncontrollable! (You can play the game of your\n                             life, but if the opponent plays better, you lose!).\n            |\n            v\n   [PERFORMANCE GOALS]   --> Focused on achieving specific objective personal standards\n                             independent of others (e.g., \"Run 100m in 10.2 seconds\").\n            |\n            v\n   [PROCESS GOALS]       --> Focused on executing specific motor mechanics and behaviors\n                             during competition (e.g., \"Keep knees bent; exhale on release\").\n                             **100% CONTROLLABLE! SLASHES ANXIETY AND MAXIMIZES FLOW!**\n```"
+        },
+        {
+            "id": "sport_performance_6",
+            "type": "content",
+            "title": "Choking Under Pressure: Explicit Monitoring Theory",
+            "content": "# The Anatomy of a Choke: Roy Baumeister\n\nWhat is **Choking Under Pressure**? It is not mere poor play; it is a dramatic deterioration in performance on well-learned, automated skills under high-stakes psychological pressure.\n\n## The Explicit Monitoring (Conscious Processing) Hypothesis:\n- When a skill is mastered, it becomes automated in procedural memory (basal ganglia/cerebellum).\n- Under acute pressure, anxiety forces the athlete to **revert to step-by-step conscious monitoring** (prefrontal cortex):\n\n```\n   AUTOMATED MASTER ROUTINE  ---> Pressure & Anxiety ---> EXPLICIT CONSCIOUS SECOND-GUESSING\n   (Fluid, fast, unconscious)                           (Disrupts motor fluency, locks muscles;\n                                                         THE ATHLETE CHOKES!)\n```\n\n*The Distraction Hypothesis (Beilock):* Pressure consumes working memory bandwidth needed for complex tactical calculations."
+        },
+        {
+            "id": "sport_performance_quiz_2",
+            "type": "quiz",
+            "title": "Imagery & Choking Check",
+            "content": "Verify your understanding of mental imagery and choking mechanisms!",
+            "quizQuestion": "According to the Explicit Monitoring Hypothesis of choking under pressure (Baumeister; Beilock), why do elite golfers or basketball players miss easy shots under extreme competitive stakes?",
+            "quizOptions": [
+                "They completely forget the rules of the sport",
+                "Acute pressure prompts them to consciously control and monitor motor actions that should be executed automatically by procedural memory, disrupting fluency",
+                "Their physical muscles instantly lose 80% of their mass",
+                "They are blinded by stadium floodlights"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_performance_7",
+            "type": "content",
+            "title": "Self-Talk: Instructional vs. Motivational",
+            "content": "# The Internal Dialogue: Athletic Self-Talk\n\nWhat an athlete whispers to themselves before executing a play shapes autonomic arousal and motor output:\n\n```\n   INSTRUCTIONAL SELF-TALK                       MOTIVATIONAL SELF-TALK\n   ----------------------------------------      -------------------------------------------\n   - Directs attentional focus to mechanics.     - Boosts confidence, energy, and grit.\n   - Specific technical cues:                    - Powerful emotional cues:\n     \"Elbow in\", \"Follow through\", \"See ball\".   \"I have the stamina!\", \"Push through!\"\n   - OPTIMAL FOR: Precision, fine motor skills,  - OPTIMAL FOR: Gross motor power, strength,\n     and novel skill learning.                     and enduring painful physical fatigue.\n```\n\nSelf-talk must be phrased in **positive approach terms** (*\"Hit the fairway\"*) rather than negative avoidance (*\"Don't hit into the water!\"*), as the brain automatically primes the forbidden image!"
+        },
+        {
+            "id": "sport_performance_8",
+            "type": "content",
+            "title": "Nideffer's Attentional Focus Model (1976)",
+            "content": "# Robert Nideffer: Dimensions of Attention\n\nElite athletes must rapidly toggle their attentional spotlight across two orthogonal dimensions:\n\n```\n                           [BROAD ATTENTIONAL FOCUS]         [NARROW ATTENTIONAL FOCUS]\n   +-----------------------+---------------------------------+---------------------------------+\n   | [EXTERNAL FOCUS]      | BROAD-EXTERNAL (Assess)         | NARROW-EXTERNAL (Act)           |\n   | (Directs attention    | - Quarterback scanning defense; | - Golfer staring at putting cup;|\n   |  outward to cues)     |   soccer player mapping field.  |   rifle shooter locking on bullseye.|\n   +-----------------------+---------------------------------+---------------------------------+\n   | [INTERNAL FOCUS]      | BROAD-INTERNAL (Analyze)        | NARROW-INTERNAL (Rehearse)      |\n   | (Directs attention    | - Coach formulating game plan;  | - Gymnast mentally rehearsing   |\n   |  inward to feelings)  |   analyzing past strategy.      |   flip; taking centering breath.|\n   +-----------------------+---------------------------------+---------------------------------+\n```"
+        },
+        {
+            "id": "sport_performance_9",
+            "type": "content",
+            "title": "Peter Clough's 4 C's of Mental Toughness",
+            "content": "# The Architecture of Mental Toughness: Peter Clough\n\n**Mental Toughness** describes an athlete's ability to consistently perform at the upper limits of their talent regardless of competitive circumstances. Clough operationalized it into the **4 C's**:\n\n```\n   1. CONTROL:     Belief in personal influence over outcomes and emotional regulation under pressure.\n   2. COMMITMENT:  Relentless perseverance and dedication to long-term goals despite setbacks.\n   3. CHALLENGE:   Viewing competition and adversity as exciting opportunities rather than threats.\n   4. CONFIDENCE:  Unshakable self-belief in personal ability and interpersonal assertiveness.\n```"
+        },
+        {
+            "id": "sport_performance_quiz_3",
+            "type": "quiz",
+            "title": "Self-Talk & Attentional Focus Check",
+            "content": "Verify your understanding of self-talk and Nideffer's attention model!",
+            "quizQuestion": "In Robert Nideffer's Attentional Focus Model, what type of attention is required when an archer zeroes in on the tiny red center of a distant target just prior to releasing the bowstring?",
+            "quizOptions": [
+                "Broad-Internal Focus",
+                "Narrow-External Focus",
+                "Broad-External Focus",
+                "Diffuse-Subconscious Focus"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_performance_10",
+            "type": "content",
+            "title": "Psychological Skills Training (PST) Periodization",
+            "content": "# Structured Mental Conditioning: PST\n\nJust as physical strength training requires periodized sets, **Psychological Skills Training (PST)** follows three systematic phases:\n\n1. **Educational Phase:** Athletes learn to recognize the mind's impact on performance (arousal awareness).\n2. **Acquisition Phase:** Mastering specific cognitive tools (PETTLEP imagery, diaphragmatic breathing, self-talk reframing).\n3. **Practice Phase:** Automating skills through simulated pressure drills and competition transfer.\n\n## Establishing Pre-Performance Routines (PPR):\nA standardized sequence of physical and cognitive behaviors executed right before a closed skill (e.g., Rafael Nadal's meticulous pre-serve routine); stabilizes heart rate and locks attention."
+        },
+        {
+            "id": "sport_performance_11",
+            "type": "content",
+            "title": "Biofeedback & Neurofeedback in Elite Athletics",
+            "content": "# The Quantified Athlete: Biofeedback Systems\n\nElite Olympic training centers utilize real-time biofeedback technologies:\n\n- **Heart Rate Variability (HRV) Biofeedback:** Trains athletes to achieve **cardiac coherence** via resonance-frequency breathing, stimulating the vagus nerve and stabilizing fine motor control.\n- **EEG Neurofeedback:** Training rifle marksmen and archers to suppress high-frequency beta waves and amplify **Sensorimotor Rhythm (SMR / Alpha waves)** in the left temporal lobe right before trigger release (reflecting quiet, automated cognitive processing!)."
+        },
+        {
+            "id": "sport_performance_12",
+            "type": "content",
+            "title": "Mindfulness & The Mindful Athlete (George Mumford)",
+            "content": "# Mindful Athletics: George Mumford & Phil Jackson\n\nGeorge Mumford brought mindfulness to Michael Jordan's Chicago Bulls and Kobe Bryant's LA Lakers:\n\n- **Acceptance-Based Focus:** Rather than wasting energy trying to forcefully eliminate competitive fear, the athlete accepts physical arousal as natural biological fuel, allowing attention to remain fully anchored in the present physical moment.\n- **The Gap Between Stimulus and Response:** Mindfulness creates a cognitive pause, preventing impulsive technical errors and technical fouls."
+        },
+        {
+            "id": "sport_performance_quiz_4",
+            "type": "quiz",
+            "title": "PST & Biofeedback Check",
+            "content": "Verify your understanding of mental skills training and neurofeedback!",
+            "quizQuestion": "What is the primary objective of training elite marksmen and archers with EEG neurofeedback to amplify alpha and sensorimotor rhythm (SMR) brainwaves prior to shooting?",
+            "quizOptions": [
+                "To induce deep slow-wave stage 4 sleep during competition",
+                "To achieve a state of 'quiet mind' by quieting conscious verbal self-talk and activating calm, automated motor processing",
+                "To increase adrenaline production by 500%",
+                "To cause temporary muscle paralysis"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_performance_13",
+            "type": "content",
+            "title": "Cross-Domain Applications: Beyond Sports",
+            "content": "# Transferring Athletic Psychology to High-Stakes Professions\n\nPerformance psychology principles developed on the Olympic track are now standard in high-stress non-athletic domains:\n\n- **Trauma & Cardiac Surgery:** Surgeons utilize PETTLEP imagery and physiological sighing before intricate vascular operations.\n- **Aviation & Military Special Operations:** Navy SEALs use the \"Big Four\" mental skills (Goal setting, Visualization, Self-talk, Arousal control) to pass grueling qualification trials.\n- **Classical Performing Arts:** Concert pianists use pre-performance routines to eliminate stage fright and performance tremors."
+        },
+        {
+            "id": "sport_performance_14",
+            "type": "content",
+            "title": "Comprehensive Athletic Performance Matrix",
+            "content": "# Theoretical Architecture of Performance Psychology\n\n| Mental Domain | Core Scientific Model | Practical Athletic Tool |\n|---|---|---|\n| **Arousal Regulation** | Yerkes-Dodson & Hardy's Catastrophe | Diaphragmatic breathing; IZOF zone tuning. |\n| **Mental Imagery** | PETTLEP Framework (Holmes & Collins) | Real-time multi-sensory mental rehearsal. |\n| **Goal Architecture** | Process vs Performance vs Outcome | Prioritizing 100% controllable process cues. |\n| **Choking Prevention** | Explicit Monitoring Theory (Beilock)| Distraction-free external focus of attention. |\n| **Attentional Focus** | Nideffer's 4-Quadrant Attention Model | Broad-External to Narrow-External switching. |\n| **Resilience / Grit** | Clough's 4 C's of Mental Toughness | Control, Commitment, Challenge, Confidence. |"
+        },
+        {
+            "id": "sport_performance_15",
+            "type": "content",
+            "title": "Module Synthesis: Performance Psychology",
+            "content": "# Key Takeaways: Performance Psychology\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Performance Principle        |\n+-----------------------+-----------------------------+-----------------------------------+\n| Yerkes-Dodson Law     | Yerkes & Dodson (1908)      | Inverted-U: Optimal arousal varies|\n|                       |                             | by fine vs gross motor task.      |\n+-----------------------+-----------------------------+-----------------------------------+\n| PETTLEP Imagery       | Holmes & Collins (2001)     | Physical, Environment, Task,      |\n|                       |                             | Timing, Learning, Emotion, Persp. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Choking Under Pressure| Roy Baumeister (1984)       | Explicit monitoring of automated  |\n|                       |                             | motor skills disrupts execution.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| 4 C's Mental Toughness| Peter Clough (2002)         | Control, Commitment, Challenge,   |\n|                       |                             | and Confidence predict grit.      |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nElite physical performance is the visible expression of an invisible mental discipline. Mastering arousal, mental imagery, and process focus unlocks human potential under the fiercest competitive pressures."
+        }
+    ]
+}

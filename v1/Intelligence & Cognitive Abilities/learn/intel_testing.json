@@ -1,0 +1,155 @@
+{
+    "id": "learn_intel_testing",
+    "topicId": "intel_testing",
+    "topicTitle": "Intelligence Testing",
+    "description": "Examine the history, psychometrics, and social implications of mental testing, analyzing the Binet-Simon scale, Stanford-Binet, Wechsler scales (WAIS/WISC), and cultural bias debates.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "intel_testing_1",
+            "type": "content",
+            "title": "The History of Mental Measurement",
+            "content": "# The Measuring of the Mind: IQ Testing\n\nCan a human mind be measured like height or blood pressure? The history of intelligence testing is a dramatic story spanning noble educational intentions, psychometric breakthroughs, and tragic societal abuses.\n\n## The Pioneers of Mental Testing:\n\n```\n   1. SIR FRANCIS GALTON (1884)  --> Anthropometric Laboratory: Tried to measure intelligence\n                                     via sensory acuity and reaction times (FAILED!).\n            |\n            v\n   2. ALFRED BINET (1905)        --> Binet-Simon Scale: Practical complex tasks for French schools;\n                                     introduced \"Mental Age\".\n            |\n            v\n   3. LEWIS TERMAN (1916)        --> Stanford-Binet: Standardized Ratio IQ in the United States.\n            |\n            v\n   4. DAVID WECHSLER (1939)      --> WAIS & WISC: Created Deviation IQ based on the normal curve;\n                                     dismantled adult ratio IQ flaws.\n```"
+        },
+        {
+            "id": "intel_testing_2",
+            "type": "content",
+            "title": "Alfred Binet: The First Practical Intelligence Scale",
+            "content": "# Alfred Binet & Th\u00e9odore Simon (Paris, 1905)\n\nIn 1904, the French Ministry of Public Instruction commissioned psychologist **Alfred Binet** to create a tool to identify school children needing remedial education assistance.\n\n## The Concept of Mental Age (MA):\nBinet avoided simple sensory tests, focusing on complex judgment, memory, and reasoning:\n\n```\n   Mental Age (MA): The chronological age typical of a given performance level.\n   - If a 7-year-old child successfully solves items typical of a 10-year-old,\n     the child has a MENTAL AGE OF 10!\n```\n\n## Binet's Humane Warning:\nBinet insisted his test was **NOT a measure of innate, unchangeable genetic ability**! He viewed intelligence as plastic and malleable, creating **\"Mental Orthopedics\"** to help struggling children expand cognitive skills."
+        },
+        {
+            "id": "intel_testing_3",
+            "type": "content",
+            "title": "Lewis Terman & The Stanford-Binet Ratio IQ",
+            "content": "# Lewis Terman & William Stern: The Ratio IQ Formula\n\nAt Stanford University, Lewis Terman translated and expanded Binet's test into the **Stanford-Binet Intelligence Scale (1916)**, adopting German psychologist William Stern's mathematical formula:\n\n```\n   Ratio IQ  =  (Mental Age / Chronological Age)  x  100\n```\n\n```\n   Example 1: Child Chronological Age = 10, Mental Age = 12.\n              IQ = (12 / 10) x 100 = 120 (Superior!)\n   \n   Example 2: Child Chronological Age = 10, Mental Age = 8.\n              IQ = (8 / 10) x 100 = 80 (Below Average).\n```\n\n## Why Ratio IQ Collapsed for Adults:\nAs age increases, mental age levels off. A 40-year-old who scores identically to a 40-year-old has an IQ of 100; but at age 80, that same performance yields an IQ of 50! **Ratio IQ was statistically invalid for adults**!"
+        },
+        {
+            "id": "intel_testing_quiz_1",
+            "type": "quiz",
+            "title": "Binet & Ratio IQ Check",
+            "content": "Verify your understanding of Binet's work and Stern's ratio IQ!",
+            "quizQuestion": "Why did the traditional Ratio IQ formula (Mental Age divided by Chronological Age multiplied by 100) collapse and become statistically invalid when applied to adults?",
+            "quizOptions": [
+                "Because adults cannot read printed testing materials",
+                "Because chronological age continues to advance while raw cognitive test scores naturally level off in adulthood, causing artificial, severe declines in calculated IQ",
+                "Because the French government banned mathematics in 1920",
+                "Because adult brains shrink by 90% at age 25"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_testing_4",
+            "type": "content",
+            "title": "David Wechsler & The Deviation IQ Revolution (1939)",
+            "content": "# David Wechsler: The Deviation IQ Revolution\n\nBellevue Hospital chief psychologist **David Wechsler** resolved the adult ratio IQ flaw by introducing **Deviation IQ**:\n\n## The Normal Bell Curve Distribution:\nInstead of dividing by age, Deviation IQ compares an individual's raw score to the **Normal Distribution (Bell Curve) of peers of the same chronological age**:\n\n```\n   DEVIATION IQ STANDARDIZATION:\n   - Mean (mu) = 100\n   - Standard Deviation (sigma) = 15\n```\n\n```\n   PERCENTILE DISTRIBUTION OF DEVIATION IQ:\n   - 68.2% of the population scores within +- 1 Standard Deviation (IQ 85 to 115).\n   - 95.4% of the population scores within +- 2 Standard Deviations (IQ 70 to 130).\n   - 99.7% of the population scores within +- 3 Standard Deviations (IQ 55 to 145).\n```"
+        },
+        {
+            "id": "intel_testing_5",
+            "type": "content",
+            "title": "The Modern Wechsler Scales (WAIS-IV / WAIS-V)",
+            "content": "# The Gold Standard of Modern Testing: The WAIS\n\nThe Wechsler tests are the most widely administered clinical intelligence batteries globally: **WAIS** (Adults 16-90), **WISC** (Children 6-16), and **WPPSI** (Preschoolers 2-7).\n\n## The Four Core Cognitive Indices (WAIS-IV):\n\n```\n   1. VERBAL COMPREHENSION (VCI)   --> Vocabulary, Similarities, Information (Crystallized Gc).\n   2. PERCEPTUAL REASONING (PRI)   --> Block Design, Matrix Reasoning, Visual Puzzles (Fluid Gf/Gv).\n   3. WORKING MEMORY (WMI)         --> Digit Span, Arithmetic (Short-term storage and manipulation).\n   4. PROCESSING SPEED (PSI)       --> Symbol Search, Coding (Rapid visual motor execution).\n```\n\nTogether, these four indices yield the composite **Full Scale IQ (FSIQ)**."
+        },
+        {
+            "id": "intel_testing_6",
+            "type": "content",
+            "title": "Psychometric Validity of Intelligence Tests",
+            "content": "# What Does an IQ Test Actually Measure?\n\nIQ tests possess some of the highest psychometric reliability coefficients in all of behavioral science (test-retest reliability exceeds **r = 0.90** over several years).\n\n## Criterion Validity: What IQ Systematically Predicts:\n- **Academic Performance:** Strongly predicts school grades and standardized testing (r = 0.50 to 0.65).\n- **Occupational Attainment & Job Performance:** Strongest single predictor of training success and complex job performance (r = 0.51 - Schmidt & Hunter).\n- **Health Literacy & Mortality:** Deary et al. (Scottish Mental Surveys) tracked 11-year-olds to age 80: higher childhood IQ predicted a **40% lower risk of cardiovascular disease, lung cancer, and stroke**!"
+        },
+        {
+            "id": "intel_testing_quiz_2",
+            "type": "quiz",
+            "title": "Wechsler Scales & Deviation IQ Check",
+            "content": "Verify your understanding of Deviation IQ and the WAIS-IV!",
+            "quizQuestion": "In modern standardized intelligence tests utilizing Deviation IQ (such as the WAIS-IV or WISC-V), what are the exact standardized Mean and Standard Deviation?",
+            "quizOptions": [
+                "Mean = 50, Standard Deviation = 10",
+                "Mean = 100, Standard Deviation = 15",
+                "Mean = 500, Standard Deviation = 100",
+                "Mean = 1000, Standard Deviation = 50"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_testing_7",
+            "type": "content",
+            "title": "Military Testing: Army Alpha & Army Beta (WWI)",
+            "content": "# Mass Testing Goes to War: Robert Yerkes (1917)\n\nDuring World War I, APA president Robert Yerkes convinced the U.S. Army to screen **1.75 million military recruits** to assign officers versus infantry:\n\n```\n   ARMY ALPHA (For Literate Recruits)           ARMY BETA (For Illiterate / Non-English Recruits)\n   ----------------------------------------     -------------------------------------------------\n   - Written verbal test.                       - Pictorial, nonverbal pantomime instructions.\n   - Analogies, math, general information.      - Mazes, number-symbol matching, cube counting.\n```\n\n## The Tragic Abuse of Army Data:\nPsychologist Carl Brigham analyzed recruit data, claiming average mental age was shockingly low (13 years) and alleging racial genetic inferiority. This unscientific data was directly cited by Congress to pass the **racist 1924 National Origins Immigration Act**!"
+        },
+        {
+            "id": "intel_testing_8",
+            "type": "content",
+            "title": "Cultural Bias in Mental Testing",
+            "content": "# The Challenge of Cultural Fairness\n\nCan a test constructed in English by urban middle-class professors be fair to immigrant or indigenous populations?\n\n## Sources of Cultural Test Bias:\n1. **Linguistic Assumptions:** Complex vocabulary penalizing ESL (English as a Second Language) test-takers.\n2. **Assumed Cultural Knowledge:** Questions referencing polo, tennis, fine classical music, or suburban idioms.\n\n## Culture-Fair Alternatives: Raven's Progressive Matrices\n- Developed by John C. Raven in 1936: Consists entirely of **visual geometric pattern completion matrices**.\n- Completely non-verbal and untimed, minimizing cultural and linguistic contamination."
+        },
+        {
+            "id": "intel_testing_9",
+            "type": "content",
+            "title": "Dynamic Assessment: Reuven Feuerstein & The LPAD",
+            "content": "# Testing Malleability: Dynamic Assessment\n\nIsraeli psychologist **Reuven Feuerstein** worked with traumatized Holocaust survivor orphans who scored miserably on static IQ tests. He rejected static testing as measuring only *past opportunities*:\n\n## The Learning Potential Assessment Device (LPAD):\nFeuerstein replaced static testing with **Dynamic Assessment**:\n\n```\n   [1. PRE-TEST]  --> Measures baseline unguided performance.\n           |\n           v\n   [2. MEDIATE]   --> The examiner actively TEACHES and coaches cognitive problem-solving strategies!\n           |\n           v\n   [3. POST-TEST] --> Measures cognitive modifiability and responsiveness to instruction (ZPD)!\n```\n\nDynamic assessment proves that low static scores often reflect experiential deprivation, not genetic cognitive limits!"
+        },
+        {
+            "id": "intel_testing_quiz_3",
+            "type": "quiz",
+            "title": "Cultural Bias & Dynamic Assessment Check",
+            "content": "Verify your understanding of cultural fairness and Feuerstein's LPAD!",
+            "quizQuestion": "How does Reuven Feuerstein's Dynamic Assessment (LPAD) differ fundamentally from traditional static intelligence tests like the WAIS?",
+            "quizOptions": [
+                "It requires test-takers to run around a track",
+                "It uses a Test-Teach-Retest protocol where the examiner actively mediates and coaches cognitive strategies during the test to measure learning potential and modifiability",
+                "It eliminates all human examiners in favor of robots",
+                "It is administered exclusively while patients are asleep"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_testing_10",
+            "type": "content",
+            "title": "Legal Standards: Atkins v. Virginia & Capital Punishment",
+            "content": "# High-Stakes Testing: Atkins v. Virginia (2002)\n\nIn the historic U.S. Supreme Court case **Atkins v. Virginia**, the Court ruled that executing individuals with Intellectual Disability violates the Eighth Amendment's ban on cruel and unusual punishment:\n\n## The Three-Pronged Legal Requirement:\n1. Significantly sub-average intellectual functioning (**IQ score approx <= 70**, accounting for SEM).\n2. Concurrent significant limitations in **Adaptive Functioning** (communication, self-care, social skills).\n3. Onset of deficits before age 18.\n\nPsychologists are routinely called as expert witnesses in capital cases, where a single IQ test score and its standard error of measurement literally dictate **life or death**."
+        },
+        {
+            "id": "intel_testing_11",
+            "type": "content",
+            "title": "Computer-Adaptive Intelligence Testing",
+            "content": "# The Digital Revolution: Adaptive IQ\n\nModern digital intelligence tests utilize **Item Response Theory (IRT)** algorithms:\n\n- The algorithm dynamically calibrates question difficulty based on the participant's prior response.\n- Slashes total testing time from 2 hours to **35 minutes** while maintaining identical psychometric test reliability.\n- Eliminates human administration errors and standardizes timing to millisecond accuracy."
+        },
+        {
+            "id": "intel_testing_12",
+            "type": "content",
+            "title": "Ethical Guidelines in Clinical Testing",
+            "content": "# Ethical Standards of Practice\n\nThe American Psychological Association (APA) mandates strict ethical protocols:\n\n- **Comprehensive Battery:** An IQ score must NEVER be interpreted in isolation; it must be contextualized with developmental history, adaptive behavior scales, and emotional screening.\n- **Test Security:** Test items (e.g., WAIS Block Design patterns) must remain secure from public exposure.\n- **Linguistic Matching:** Testing must be administered in the client's dominant native language."
+        },
+        {
+            "id": "intel_testing_quiz_4",
+            "type": "quiz",
+            "title": "Legal Testing & Capital Punishment Check",
+            "content": "Verify your understanding of Atkins v. Virginia and ethical testing standards!",
+            "quizQuestion": "In the landmark 2002 Supreme Court case Atkins v. Virginia, what did the Court rule regarding the use of standardized intelligence testing in capital criminal cases?",
+            "quizOptions": [
+                "That individuals with diagnosed Intellectual Disability (IQ approximately <= 70 combined with adaptive deficits) are exempt from capital execution under the Eighth Amendment",
+                "That all criminal defendants must take the SAT test",
+                "That intelligence testing is prohibited in courtrooms",
+                "That jury members must possess an IQ over 140"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "intel_testing_13",
+            "type": "content",
+            "title": "Comprehensive Intelligence Testing Comparison Matrix",
+            "content": "# Theoretical Architecture of Mental Testing Batteries\n\n| Assessment Battery | Age Range | Score Output | Primary Focus |\n|---|---|---|---|\n| **Stanford-Binet 5** | Ages 2 to 85+ | FSIQ, Nonverbal & Verbal IQ | Comprehensive intellectual assessment; gifted screening. |\n| **WAIS-IV / WAIS-V** | Ages 16 to 90 | FSIQ + 4 Cognitive Indices (VCI, PRI, WMI, PSI) | Gold-standard clinical adult neuropsychological testing. |\n| **WISC-V** | Ages 6 to 16 | FSIQ + 5 Primary Indices | School psychology, learning disability diagnosis. |\n| **Raven's Matrices** | Ages 5 to adult | Raw score / Percentiles | Non-verbal, culture-reduced abstract fluid reasoning. |\n| **Feuerstein LPAD** | Children / Youth | Cognitive Modifiability Profile | Dynamic assessment of learning potential via mediation. |"
+        },
+        {
+            "id": "intel_testing_14",
+            "type": "content",
+            "title": "The Future of Cognitive Assessment",
+            "content": "# Beyond the Standardized Scorecard\n\nFuture cognitive assessment moves beyond static multiple-choice questions:\n\n- **Gamified Virtual Reality Assessments:** Evaluating spatial problem-solving in interactive 3D simulations.\n- **Passive Neuro-Biomarkers:** Using EEG response latency and eye-tracking speed to evaluate cognitive processing.\n- **Strengths-Based Profiles:** Replacing single composite scores with rich cognitive profiles that illuminate unique cognitive gifts alongside areas for instructional support."
+        },
+        {
+            "id": "intel_testing_15",
+            "type": "content",
+            "title": "Module Synthesis: Intelligence Testing",
+            "content": "# Key Takeaways: Intelligence Testing\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Psychometric Principle       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Binet-Simon Scale     | Alfred Binet (1905)         | Mental Age designed to identify   |\n|                       |                             | school learning gaps; malleable.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Ratio IQ              | William Stern; Terman (1916)| (Mental Age / Chronological Age)  |\n|                       |                             | x 100 (Failed for adult testing). |\n+-----------------------+-----------------------------+-----------------------------------+\n| Deviation IQ          | David Wechsler (1939)       | Normal bell curve: Mean = 100,    |\n|                       |                             | Standard Deviation = 15.          |\n+-----------------------+-----------------------------+-----------------------------------+\n| Dynamic Assessment    | Reuven Feuerstein (1979)    | Test-Teach-Retest measures        |\n|                       |                             | cognitive learning potential.     |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nAn intelligence score is a psychometric snapshot, not an immutable destiny. Used ethically, assessment illuminates how individuals learn, paving pathways for tailored education and human flourishing."
+        }
+    ]
+}

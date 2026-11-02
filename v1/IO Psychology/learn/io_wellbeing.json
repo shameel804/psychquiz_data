@@ -1,0 +1,155 @@
+{
+    "id": "learn_io_wellbeing",
+    "topicId": "io_wellbeing",
+    "topicTitle": "Workplace Well-being",
+    "description": "Examine the psychological and physiological dimensions of occupational health, analyzing Karasek's job strain, Maslach's burnout framework, organizational justice, and psychological safety.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "io_wellbeing_1",
+            "type": "content",
+            "title": "Occupational Health Psychology (OHP)",
+            "content": "# The Human Balance: Workplace Well-Being\n\nAdults spend over one-third of their waking lives at work. Does labor enhance psychological flourishing or inflict chronic physical and emotional trauma?\n\n## The Field of Occupational Health Psychology (OHP):\nOHP integrates psychology, medicine, and public health to understand, prevent, and treat work-related stress, illness, and burnout, while optimizing human flourishing.\n\n```\n                                [THE SPECTRUM OF OCCUPATIONAL HEALTH]\n                                                 |\n         +---------------------------------------+---------------------------------------+\n         |                                                                               |\n   [CHRONIC WORKPLACE PATHOLOGY]                                           [ORGANIZATIONAL FLOURISHING]\n   - Job Strain and Cardiovascular Damage                                  - Psychological Safety\n   - Maslach's Burnout Syndrome                                            - Work Engagement (Vigor, Dedication)\n   - Work-Family Conflict & Incivility                                     - Organizational Justice & Meaning\n```"
+        },
+        {
+            "id": "io_wellbeing_2",
+            "type": "content",
+            "title": "Robert Karasek's Job Demands-Control Model (1979)",
+            "content": "# Robert Karasek: The Job Strain Model\n\nIs work stress caused simply by having a heavy workload? Robert Karasek proved that heavy demands do NOT cause illness on their own; **the critical factor is DECISION LATITUDE (CONTROL)**!\n\n```\n                           [HIGH JOB CONTROL]               [LOW JOB CONTROL]\n   +-----------------------+--------------------------------+--------------------------------+\n   | [HIGH JOB DEMANDS]    | ACTIVE JOBS                    | HIGH STRAIN JOBS               |\n   | (Heavy workload, fast | - Learning, motivation, growth | - SEVERE ILLNESS & BURNOUT!    |\n   |  paced deadlines)     | - Examples: Surgeons, CEOs     | - Examples: Call center agents,|\n   |                       |                                |   assembly line, nurses        |\n   +-----------------------+--------------------------------+--------------------------------+\n   | [LOW JOB DEMANDS]     | LOW STRAIN JOBS                | PASSIVE JOBS                   |\n   | (Light workload, slow | - Low stress, calm             | - Boredom, apathy, learned     |\n   |  pace)                | - Examples: Archivists         |   helplessness, skill atrophy  |\n   +-----------------------+--------------------------------+--------------------------------+\n```\n\nWorkers in \"High Strain\" jobs have a **40% higher risk of fatal cardiovascular disease**!"
+        },
+        {
+            "id": "io_wellbeing_3",
+            "type": "content",
+            "title": "The Job Demands-Resources (JD-R) Model (2001)",
+            "content": "# Demerouti & Bakker: The JD-R Framework\n\nEvangelia Demerouti and Arnold Bakker expanded Karasek's model into the comprehensive **Job Demands-Resources (JD-R) Model**:\n\n```\n   JOB DEMANDS (Physical strain, time pressure, emotional labor) --> HEALTH IMPAIRMENT PROCESS --> BURNOUT!\n                                                                    (Exhausts physical/mental energy)\n                                                                                ^\n                                                                                |\n   JOB RESOURCES (Autonomy, feedback, social support, coaching)   --> MOTIVATIONAL PROCESS        --> ENGAGEMENT!\n                                                                    (Fosters learning and growth)\n```\n\n## The Buffering Effect:\nAbundant Job Resources act as a psychological shield, buffering workers against the toxic toll of high demands!"
+        },
+        {
+            "id": "io_wellbeing_quiz_1",
+            "type": "quiz",
+            "title": "Job Strain Models Check",
+            "content": "Verify your understanding of Karasek's JDC model!",
+            "quizQuestion": "According to Robert Karasek's Job Demands-Control Model (1979), which work environment poses the most lethal risk for chronic stress, cardiovascular disease, and depression?",
+            "quizOptions": [
+                "Active Jobs (High Demands combined with High Job Control)",
+                "High Strain Jobs (High Demands combined with Low Job Control)",
+                "Low Strain Jobs (Low Demands combined with High Job Control)",
+                "Passive Jobs (Low Demands combined with Low Job Control)"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_wellbeing_4",
+            "type": "content",
+            "title": "Christina Maslach's Burnout Framework",
+            "content": "# Christina Maslach: The Burnout Syndrome\n\nIn 2019, the World Health Organization (WHO) formally recognized **Burnout** as an occupational phenomenon resulting from chronic, unmanaged workplace stress.\n\n## The Three Dimensions of the Maslach Burnout Inventory (MBI):\n1. **Emotional Exhaustion:** Profound depletion of energy; feeling completely drained, chronic fatigue (*\"I have nothing left to give\"*).\n2. **Depersonalization (Cynicism):** Developing a cold, callous, detached, cynical attitude toward clients, patients, or colleagues (*treating people like numbers*).\n3. **Reduced Personal Accomplishment (Inefficacy):** Chronic feelings of incompetence, inadequacy, and lack of productivity (*\"Nothing I do matters anymore\"*)."
+        },
+        {
+            "id": "io_wellbeing_5",
+            "type": "content",
+            "title": "Six Organizational Mismatches Causing Burnout",
+            "content": "# Maslach & Leiter: The Organizational Causes of Burnout\n\nBurnout is NOT an individual character flaw or inability to cope; it is an **organizational failure**! Maslach and Michael Leiter identified six systemic mismatches:\n\n```\n   1. WORKLOAD OVERLOAD        --> Chronic, impossible volume of work without physical recovery.\n   2. LACK OF CONTROL          --> Zero autonomy over decisions, schedule, or workflow.\n   3. INSUFFICIENT REWARD      --> Lack of fair compensation, recognition, or verbal appreciation.\n   4. BREAKDOWN OF COMMUNITY   --> Toxic hostility, gossip, isolation, and lack of peer support.\n   5. ABSENCE OF FAIRNESS      --> Favoritism, arbitrary rules, opaque promotion criteria.\n   6. VALUE CONFLICTS          --> Forced to engage in deceptive or unethical corporate practices.\n```"
+        },
+        {
+            "id": "io_wellbeing_6",
+            "type": "content",
+            "title": "Work-Family Conflict & Enrichment",
+            "content": "# The Borderlands of Life: Work-Family Dynamics\n\nWhen career demands collide with home life, **Work-Family Conflict (WFC)** erupts:\n\n## Three Forms of Work-Family Conflict (Greenhaus & Beutell):\n- **Time-Based:** Working 70 hours leaves zero physical time for parenting or sleep.\n- **Strain-Based:** Irritability and exhaustion from work spill over, causing explosive arguments at home.\n- **Behavior-Based:** Confrontational, cold analytical behaviors necessary in executive negotiation clash with gentle parenting needs.\n\n## Work-Family Enrichment:\nSkills, positive moods, and social support acquired at work enhance parenting and marital warmth (and vice versa)!"
+        },
+        {
+            "id": "io_wellbeing_quiz_2",
+            "type": "quiz",
+            "title": "Burnout & Work-Family Check",
+            "content": "Verify your understanding of Maslach's burnout dimensions!",
+            "quizQuestion": "In the Maslach Burnout Inventory (MBI), what symptom is described as developing a callous, cynical, detached, and dehumanized attitude toward clients or coworkers?",
+            "quizOptions": [
+                "Emotional Exhaustion",
+                "Depersonalization (Cynicism)",
+                "Reduced Personal Accomplishment",
+                "Work-Family Enrichment"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_wellbeing_7",
+            "type": "content",
+            "title": "Jerald Greenberg's Organizational Justice Framework",
+            "content": "# Organizational Justice: Fairness at Work\n\nJerald Greenberg demonstrated that employees evaluate workplace fairness along three distinct psychological dimensions:\n\n```\n                                [DIMENSIONS OF ORGANIZATIONAL JUSTICE]\n                                                  |\n         +----------------------------------------+----------------------------------------+\n         |                                        |                                        |\n   [DISTRIBUTIVE JUSTICE]                   [PROCEDURAL JUSTICE]                     [INTERACTIONAL JUSTICE]\n   - Fairness of OUTCOMES received          - Fairness of DECISION-MAKING            - Fairness of INTERPERSONAL\n     (salary, bonus, office space).           PROCESSES (consistency, voice,           TREATMENT received.\n   - \"Did I get what my hard work             bias suppression, appeals).            - Informational: Honest explanations.\n      deserves relative to peers?\"          - \"Was the process transparent?\"         - Interpersonal: Dignity & respect.\n```\n\nWhen employees perceive high Procedural Justice, they accept unfavorable distributive outcomes (e.g., pay freezes) without bitterness or resentment!"
+        },
+        {
+            "id": "io_wellbeing_8",
+            "type": "content",
+            "title": "Amy Edmondson's Psychological Safety (1999)",
+            "content": "# Fearless Organizations: Psychological Safety\n\nHarvard Business School professor **Amy Edmondson** revolutionized team science with the concept of **Psychological Safety**:\n\n## Definition:\nA shared belief held by members of a team that the team is safe for interpersonal risk-taking.\n\n```\n   LOW PSYCHOLOGICAL SAFETY                      HIGH PSYCHOLOGICAL SAFETY\n   +---------------------------------------+     +----------------------------------------+\n   | - Silence, covering up errors.        |     | - Immediate reporting of mistakes.     |\n   | - Fear of appearing ignorant or       |     | - Uninhibited asking of questions.     |\n   |   incompetent.                        |     | - Willingness to propose wild ideas.   |\n   | - \"Just nod and keep your head down.\" |     | - \"Mistakes are learning data!\"        |\n   | ==> CATASTROPHIC ORGANIZATIONAL ERROR!|     | ==> RAPID INNOVATION & ZERO FIASCOES!  |\n   +---------------------------------------+     +----------------------------------------+\n```\n\nGoogle's massive internal **Project Aristotle (2015)** discovered that Psychological Safety was the **#1 single factor** distinguishing high-performing teams from failing ones!"
+        },
+        {
+            "id": "io_wellbeing_9",
+            "type": "content",
+            "title": "Work Engagement vs. Workaholism",
+            "content": "# Passion vs. Addiction: Engagement vs. Workaholism\n\nAre highly devoted workers engaged or suffering from work addiction? Wilmar Schaufeli established the crucial diagnostic distinction:\n\n```\n   WORK ENGAGEMENT (Schaufeli et al., 2002)      WORKAHOLISM (Spence & Robbins, 1992)\n   ------------------------------------------------------------------------------------\n   - Vigor: High physical energy and resilience. - Compulsive, uncontrollable inner drive.\n   - Dedication: Strong sense of enthusiasm,     - Works out of acute guilt, anxiety, and dread\n     pride, significance, and challenge.           when not working.\n   - Absorption: Pleasurable flow state.         - Inability to disconnect; ruins health and family.\n   ==> High life satisfaction and health!        ==> Severe cardiovascular damage and burnout!\n```"
+        },
+        {
+            "id": "io_wellbeing_quiz_3",
+            "type": "quiz",
+            "title": "Justice & Psychological Safety Check",
+            "content": "Verify your understanding of organizational justice and psychological safety!",
+            "quizQuestion": "In Amy Edmondson's research and Google's Project Aristotle, what was the primary behavioral hallmark of a team possessing high 'Psychological Safety'?",
+            "quizOptions": [
+                "Zero conflict and unanimous agreement on every single vote",
+                "Team members openly admitting mistakes, asking clarifying questions, and proposing novel ideas without fear of ridicule",
+                "Working 90 hours per week in complete silence",
+                "Having the CEO personally inspect all daily emails"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_wellbeing_10",
+            "type": "content",
+            "title": "Workplace Mistreatment & Incivility Spirals",
+            "content": "# The Toxicity Epidemic: Bullying and Incivility\n\nWorkplace mistreatment ranges from subtle slights to overt harassment:\n\n## Andersson & Pearson's Incivility Spiral (1999):\n- **Workplace Incivility:** Low-intensity deviant behavior with ambiguous intent to harm (interrupting, sarcastic remarks, ignoring emails).\n- Left unaddressed, incivility triggers reciprocal retaliation, escalating into an acute **Incivility Spiral** culminating in aggressive bullying and sabotage!\n\n## The True Organizational Cost:\nWitnessing incivility slashes creative problem-solving by **50%** and leads to severe cognitive distraction."
+        },
+        {
+            "id": "io_wellbeing_11",
+            "type": "content",
+            "title": "Organizational Stress Interventions: Primary to Tertiary",
+            "content": "# Intervening for Wellness: The Three Tiers\n\nPublic health categorizes stress interventions into three sequential tiers:\n\n```\n                                [LEVELS OF WELLNESS INTERVENTIONS]\n                                                |\n         +--------------------------------------+--------------------------------------+\n         |                                      |                                      |\n   [PRIMARY INTERVENTIONS]                [SECONDARY INTERVENTIONS]              [TERTIARY INTERVENTIONS]\n   - TARGET: The Work Environment.        - TARGET: The Individual Worker.       - TARGET: The Injured Worker.\n   - Redesigning jobs, capping hours,     - Mindfulness workshops, resilience    - Employee Assistance Programs (EAPs),\n     improving psychological safety.        training, cognitive stress coping.     trauma therapy, medical leave.\n   - PREVENTS ILLNESS BEFORE IT OCCURS!   - HELPS EMPLOYEES ENDURE STRAIN.       - TREATS DAMAGE AFTER BREAKDOWN!\n```\n\nMost corporations waste millions on Tertiary yoga classes while ignoring Primary toxic workloads!"
+        },
+        {
+            "id": "io_wellbeing_12",
+            "type": "content",
+            "title": "The Future of Well-being: Remote Work & Right to Disconnect",
+            "content": "# Modern Hazards: Digital Presenteeism\n\nThe post-pandemic hybrid revolution brought flexibility alongside novel psychological perils:\n\n## 1. Digital Presenteeism & The Right to Disconnect:\n- Being constantly accessible via Slack and email blurs work-life boundaries, keeping the autonomic nervous system in chronic sympathetic arousal.\n- European nations have passed **\"Right to Disconnect\"** laws legally prohibiting companies from emailing workers outside contracted hours.\n\n## 2. The 4-Day Workweek Global Trials (2022-2023):\n- Testing the 100-80-100 rule (100% pay for 80% time, preserving 100% output).\n- Slashed burnout by **71%**, dropped sick days by **65%**, and boosted corporate revenue by **35%**!"
+        },
+        {
+            "id": "io_wellbeing_quiz_4",
+            "type": "quiz",
+            "title": "Wellness Interventions Check",
+            "content": "Verify your understanding of stress intervention tiers!",
+            "quizQuestion": "In occupational health psychology, what type of intervention is represented by an organization redesigning workflows, capping weekly hours, and increasing employee job autonomy to eliminate stressors at their source?",
+            "quizOptions": [
+                "A Tertiary Intervention",
+                "A Primary Intervention",
+                "A Secondary Intervention",
+                "A Quaternary Intervention"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_wellbeing_13",
+            "type": "content",
+            "title": "The Business Case for Workplace Mental Health",
+            "content": "# The Economic ROI of Employee Flourishing\n\nInvesting in employee well-being is not mere charity; it is an economic imperative:\n\n- **Absenteeism:** Missing work entirely due to stress-related illness.\n- **Presenteeism:** Showing up to work while mentally exhausted or depressed, functioning at 30% capacity (**Costs corporations 3x more than absenteeism!**).\n- Every **$1 invested** in evidence-based mental health programs yields a **$4.00 return** in restored productivity and reduced healthcare utilization (WHO, 2021)."
+        },
+        {
+            "id": "io_wellbeing_14",
+            "type": "content",
+            "title": "Integrative Model of Occupational Flourishing",
+            "content": "# The Holistic Framework of Workplace Flourishing\n\n| Level | Risk Factor | Protective Asset |\n|---|---|---|\n| **Job Architecture** | High Demand / Low Control (Karasek) | Autonomy, Feedback, Reasonable Demands (JD-R). |\n| **Interpersonal Climate** | Bullying, Incivility Spirals | Psychological Safety (Edmondson), Collegial Trust. |\n| **Organizational Systems** | Opaque Bias, Distributive Inequity | Procedural and Interactional Justice (Greenberg). |\n| **Work-Life Boundary** | Work-Family Conflict, 24/7 Slack | Right to Disconnect, 4-Day Workweek. |\n| **Individual Flourishing** | Burnout (Exhaustion, Cynicism) | Engagement (Vigor, Dedication, Absorption). |"
+        },
+        {
+            "id": "io_wellbeing_15",
+            "type": "content",
+            "title": "Module Synthesis: Workplace Well-being",
+            "content": "# Key Takeaways: Workplace Well-being\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Scientific Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Job Strain Model      | Robert Karasek (1979)       | High Demands + Low Control =      |\n|                       |                             | Lethal cardiovascular strain.     |\n+-----------------------+-----------------------------+-----------------------------------+\n| Burnout Syndrome      | Christina Maslach (1981)    | Exhaustion, Depersonalization, and|\n|                       |                             | Reduced Accomplishment.           |\n+-----------------------+-----------------------------+-----------------------------------+\n| Organizational        | Jerald Greenberg (1990)     | Distributive, Procedural, and     |\n| Justice               |                             | Interactional fairness drives trust|\n+-----------------------+-----------------------------+-----------------------------------+\n| Psychological Safety  | Amy Edmondson (1999)        | Safe climate for interpersonal    |\n|                       |                             | risks drives peak team innovation.|\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nEmployee well-being is not a luxury perk; it is the vital biological foundation of organizational longevity, creative innovation, and human dignity."
+        }
+    ]
+}

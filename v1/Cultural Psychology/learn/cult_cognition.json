@@ -1,0 +1,155 @@
+{
+    "id": "learn_cult_cognition",
+    "topicId": "cult_cognition",
+    "topicTitle": "Culture & Cognition",
+    "description": "Explore how culture fundamentally shapes human perception, categorization, emotional expression, attributional styles, and cognitive processing, dismantling WEIRD psychological assumptions.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cult_cognition_1",
+            "type": "content",
+            "title": "Beyond WEIRD Psychology",
+            "content": "# The WEIRD Bias in Behavioral Science\n\nFor over a century, psychological science assumed its laboratory findings reflected universal human nature. In 2010, **Joseph Henrich, Steven Heine, and Ara Norenzayan** delivered a seismic critique:\n\nOver **96% of behavioral science research subjects** were drawn from nations that are:\n\n```\n   W - Western\n   E - Educated\n   I - Industrialized\n   R - Rich\n   D - Democratic\n```\n\n## The Fundamental Irony:\nWEIRD populations represent only **12% of the global human population**, yet they are statistical outliers on almost every psychological metric: visual perception, fairness norms, moral reasoning, spatial cognition, and self-concept!\n\nTrue general psychological science cannot exist without rigorous cross-cultural validation."
+        },
+        {
+            "id": "cult_cognition_2",
+            "type": "content",
+            "title": "Cultural Influences on Visual Perception",
+            "content": "# Does Culture Alter What Our Eyes See?\n\nCan cultural environments shape low-level visual processing? Consider the classic **Muller-Lyer Illusion**:\n\n```\n   Figure A (Inward fins):    >-------<\n   Figure B (Outward fins):   <------->\n```\n\nTo Western observers, line B looks substantially longer than line A.\n\n## Segall, Campbell, and Herskovits' Carpentered World Hypothesis (1966):\n- Humans living in modern \"carpentered\" environments are surrounded by right-angled rectangular buildings, doors, and furniture.\n- The Western visual system learns to interpret acute and obtuse angles as depth cues (corners protruding toward or receding away from the viewer).\n- When tested across 14 non-Western societies (e.g., Kalahari hunter-gatherers living in round huts), participants were **virtually immune to the Muller-Lyer illusion**! They perceived both shafts as identical in length."
+        },
+        {
+            "id": "cult_cognition_3",
+            "type": "content",
+            "title": "Holistic vs. Analytic Cognition (Richard Nisbett)",
+            "content": "# The Geography of Thought: East vs. West\n\nIn his groundbreaking work *The Geography of Thought* (2003), social psychologist **Richard Nisbett** documented profound cognitive processing divergences between East Asian and Western minds:\n\n```\n                                [MODES OF COGNITION]\n                                         |\n         +-------------------------------+-------------------------------+\n         |                                                               |\n   [ANALYTIC COGNITION]                                            [HOLISTIC COGNITION]\n   - Rooted in ancient Greek philosophy (Aristotle)                - Rooted in ancient Chinese traditions (Taoism, Confucius)\n   - Focus on the FOCAL OBJECT isolated from context               - Focus on the ENTIRE FIELD and relationships between elements\n   - Deconstructs scenes into discrete categories and rules        - Emphasizes dialectical harmony, change, and context\n   - Field-Independent perceptual style                            - Field-Dependent perceptual style\n```\n\nLet us examine the laboratory evidence demonstrating these perceptual systems in action!"
+        },
+        {
+            "id": "cult_cognition_quiz_1",
+            "type": "quiz",
+            "title": "Cognitive Styles Check",
+            "content": "Verify your understanding of Nisbett's cognitive framework!",
+            "quizQuestion": "According to Richard Nisbett's cross-cultural research, what is a hallmark characteristic of 'analytic cognition' commonly observed in Western cultures?",
+            "quizOptions": [
+                "Perceiving situations holistically by attending primarily to the background relationships",
+                "Deconstructing scenes into focal objects isolated from their environmental context and applying formal logical rules",
+                "Emphasizing constant cyclical change and tolerating logical contradictions",
+                "Attributing all human behavior exclusively to ancestral spirits"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cult_cognition_4",
+            "type": "content",
+            "title": "The Underwater Fish Experiment (Masuda & Nisbett)",
+            "content": "# The Underwater Fish Study (Masuda & Nisbett, 2001)\n\nTo test attentional allocation, Japanese and American college students viewed animated underwater vignettes featuring large focal fish, smaller animals, water plants, and rocks.\n\n```\n   Animated Scene: [Large swimming trout] surrounded by [rocks, plants, frogs, bubbles]\n```\n\n## Remarkable Attentional Divergences:\n- **First Statements:** Americans immediately described the focal fish (*\"There was a big trout with green fins\"*). Japanese participants began by describing the contextual environment (*\"It was an aquarium stream with rocks on the bottom and green algae\"*).\n- Japanese participants recalled **60% more background contextual elements** than Americans.\n- **The Recognition Test:** When the focal fish was shown against a *novel, different background*, Japanese recognition accuracy plummeted! Because they encoded fish-in-relation-to-context, altering the context disrupted recognition. Americans recognized the fish regardless of background change."
+        },
+        {
+            "id": "cult_cognition_5",
+            "type": "content",
+            "title": "The Frame-Line Test (Kitayama et al., 2003)",
+            "content": "# Absolute vs. Relative Tasks: The Frame-Line Test\n\nShinobu Kitayama and colleagues developed the **Frame-Line Test (FLT)** to measure field-independence versus field-dependence:\n\nParticipants view a square frame with a vertical line drawn inside. They are then given a different-sized square frame and asked to draw a line inside it:\n\n```\n   Target Stimulus:   [  |  ] (Large square with 5cm line)\n                             /\n                            /\n   Condition A: ABSOLUTE TASK             Condition B: RELATIVE TASK\n   \"Draw a line EXACTLY 5cm long,          \"Draw a line that has the EXACT SAME RATIO\n   regardless of new square size!\"         to this new square as in the original!\"\n```\n\n## Findings Across Cultures:\n- **Americans** perform significantly better on the **Absolute Task** (ignoring the frame).\n- **Japanese participants** perform significantly better on the **Relative Task** (incorporating contextual frame proportions)!\n- Brain imaging (Hedden et al., 2008) showed elevated fronto-parietal activation (higher cognitive effort) when participants performed their culture-non-preferred task."
+        },
+        {
+            "id": "cult_cognition_6",
+            "type": "content",
+            "title": "Linguistic Relativity: The Sapir-Whorf Hypothesis",
+            "content": "# Does the Language We Speak Shape How We Think?\n\nThe **Sapir-Whorf Hypothesis** posits that the structure of a language influences or determines the cognitive processes of its speakers:\n\n- **Linguistic Determinism (Strong):** Language entirely dictates thought (widely rejected by modern cognitive science).\n- **Linguistic Relativity (Weak):** Language subtly shapes habitual attention, memory, and categorization (strongly supported by empirical evidence).\n\n## 1. Spatial Cognition (Stephen Levinson):\n- English uses **Relative Spatial Terms** (egocentric: *\"The spoon is to my left\"*).\n- The Australian Indigenous language **Guugu Yimithirr** uses **Absolute Spatial Terms** (cardinal directions only: *\"There is an ant on your southwest leg!\"*).\n- Speakers possess an extraordinary, non-stop mental compass and maintain absolute spatial memory in pitch-black rooms.\n\n## 2. Color Categorization:\n- Russian distinguishes light blue (*goluboy*) and dark blue (*siniy*) as separate primary colors. Russian speakers discriminate blue boundaries faster than English speakers."
+        },
+        {
+            "id": "cult_cognition_7",
+            "type": "content",
+            "title": "Culture and Emotional Expression: Display Rules",
+            "content": "# Universal Emotions vs. Cultural Display Rules\n\nPaul Ekman demonstrated that six basic facial expressions (Happiness, Sadness, Fear, Anger, Surprise, Disgust) are recognized across literate and preliterate human cultures (e.g., Fore people of Papua New Guinea).\n\nHowever, **how, when, and where** these emotions are expressed is governed by **Cultural Display Rules** (Ekman & Friesen, 1969).\n\n```\n   The Famous Disgust Experiment (Ekman & Friesen, 1972):\n   Japanese and American students watched stressful, gory surgery videos.\n   \n   Condition 1: Alone in Dark Room        --> BOTH Japanese and Americans displayed\n                                              identical spontaneous expressions of disgust.\n   Condition 2: Senior Professor Present  --> Americans continued to show raw disgust.\n                                          --> Japanese students masked distress with polite,\n                                              deferential smiles to preserve interpersonal harmony!\n```"
+        },
+        {
+            "id": "cult_cognition_quiz_2",
+            "type": "quiz",
+            "title": "Emotional Display Rules Check",
+            "content": "Verify your understanding of cultural emotional display rules!",
+            "quizQuestion": "In Paul Ekman and Wallace Friesen's study of Japanese and American students watching unpleasant surgical footage, what happened when a senior authority figure entered the room?",
+            "quizOptions": [
+                "Both groups immediately ran out of the testing room",
+                "Japanese participants masked their negative emotional expressions with polite smiles, whereas Americans continued displaying disgust",
+                "American participants began weeping loudly while Japanese participants laughed aggressively",
+                "Both groups showed identical increases in vocal shouting"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cult_cognition_8",
+            "type": "content",
+            "title": "Jeanne Tsai's Affect Valuation Theory",
+            "content": "# Ideal Affect: How We Want to Feel\n\nStanford psychologist **Jeanne Tsai** demonstrated that while cultures experience similar actual emotions, they diverge sharply in their **Ideal Affect** (the emotional states people value and actively desire to experience):\n\n```\n                                [AFFECT VALUATION FRAMEWORK]\n                                             |\n         +-----------------------------------+-----------------------------------+\n         |                                                                       |\n   [HIGH AROUSAL POSITIVE (HAP)]                                           [LOW AROUSAL POSITIVE (LAP)]\n   - Feelings: Excitement, euphoria, enthusiasm                            - Feelings: Calm, peace, serenity, tranquility\n   - Valued in: Western cultures (USA)                                     - Valued in: East Asian cultures (China, Japan)\n   - Religious ideals: Dynamic action, victory                             - Religious ideals: Buddhist mindfulness, equanimity\n   - Media: Wide open-mouthed smiles in photos                             - Media: Calm, serene, closed-mouth expressions\n```\n\nThis explains cultural differences in leisure preferences (extreme adventure sports in the US vs. contemplative tea ceremonies in East Asia)."
+        },
+        {
+            "id": "cult_cognition_9",
+            "type": "content",
+            "title": "Cultural Attributional Styles: Reassessing the FAE",
+            "content": "# Is the Fundamental Attribution Error Truly Fundamental?\n\nAs previously learned, the **Fundamental Attribution Error (FAE)** is the tendency to overemphasize internal dispositions while ignoring external situational forces when explaining others' actions.\n\n## Cross-Cultural Dismantling of FAE Universality:\n- **Joan Miller (1984):** Compared Indian Hindus and Americans across development. While American adults showed massive dispositional bias, Indian adults attributed behavior predominantly to **situational contexts and social roles** (*\"It was his duty as a neighbor\"*)!\n- **Morris and Peng (1994):** Analyzed Chinese and American newspaper coverage of two mass murder tragedies. American newspapers cited dispositional traits (*\"dark temper,\" \"mentally unstable,\" \"bad egg\"*). Chinese newspapers cited situational pressures (*\"isolated from friends,\" \"recent job loss,\" \"availability of guns\"*).\n\n> **Verdict:** The FAE is a cultural artifact of Western individualism, not an immutable law of universal human neurology!"
+        },
+        {
+            "id": "cult_cognition_10",
+            "type": "content",
+            "title": "Culture and Autobiographical Memory",
+            "content": "# How Culture Shapes Our Life Narratives\n\nDoes culture influence what childhood memories we preserve? Research by Qi Wang and Michael Ross demonstrates profound cultural divergence in autobiographical remembering:\n\n```\n   FEATURE                     EUROPEAN AMERICAN MEMORIES          EAST ASIAN MEMORIES\n   --------------------------------------------------------------------------------------\n   Earliest Memory Onset    --> Significantly earlier (~3.5 yrs) --> Later (~4.0 - 4.5 yrs)\n   Memory Focus             --> Individual focal self, feelings  --> Collective group events\n   Narrative Style          --> Lengthy, detailed, self-focused  --> Concise, relational, role-focused\n   Causal Agency            --> \"I decided to climb the tree\"    --> \"My cousins and I went out\"\n```\n\nWestern parents engage in \"elaborative memory talk\" asking toddlers how *they* felt, whereas Asian parents focus on behavioral norms and relationships, sculpting distinct neural memory networks."
+        },
+        {
+            "id": "cult_cognition_quiz_3",
+            "type": "quiz",
+            "title": "Cultural Attribution Check",
+            "content": "Verify your understanding of cross-cultural attribution research!",
+            "quizQuestion": "In Morris and Peng's (1994) analysis of newspaper coverage of mass shooting tragedies in the United States and China, how did Chinese journalists explain the perpetrators' motives?",
+            "quizOptions": [
+                "By attributing the crimes almost entirely to genetic insanity and rotten character",
+                "By emphasizing situational stressors, including recent job termination, social isolation, and relational conflict",
+                "By denying that any crime had actually taken place",
+                "By praising the shooter's individual independence"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cult_cognition_11",
+            "type": "content",
+            "title": "Cross-Cultural Intelligence Testing",
+            "content": "# The Fallacy of the Culture-Free IQ Test\n\nTraditional psychometric tests (e.g., WAIS, Stanford-Binet) were standardized on Western urban cohorts. When applied to non-Western indigenous communities, score discrepancies reflect **cultural unfamiliarity**, not genetic or intellectual deficiency.\n\n## Robert Sternberg's Triarchic Theory in Kenya:\n- Sternberg tested Luo children in rural Kenya on knowledge of indigenous herbal natural medicine (*practical intelligence* for survival).\n- Children who scored highest on indigenous survival intelligence scored lowest on formal Western school tests!\n\n## The Sorting Task Paradox (Glick, 1968):\n- Kpelle farmers in Liberia were asked to sort 20 objects (tools, foods). Western testers expected taxonomic sorting (grouping foods together, tools together).\n- Kpelle participants sorted **functionally** (knife with orange, hoe with potato). When testers asked *\"How would a fool sort them?\"*, Kpelle participants immediately grouped them taxonomically!"
+        },
+        {
+            "id": "cult_cognition_12",
+            "type": "content",
+            "title": "Ethnocentrism vs. Cultural Relativism",
+            "content": "# De-biasing Psychological Science\n\nHow can cognitive science navigate cultural differences without falling into value-laden bigotry?\n\n```\n   [ETHNOCENTRISM]                               [CULTURAL RELATIVISM]\n   Evaluating other cultures using the           Evaluating beliefs and cognitive patterns\n   standards, values, and practices of           within their own ecological, historical,\n   one's own culture as the \"gold standard.\"     and societal framework.\n   (e.g., Viewing holistic thinking as           (e.g., Recognizing holistic thinking as an\n   \"primitive\" or \"deficient\").                  adaptive, sophisticated epistemic model).\n```\n\n## Methodological Relativism in Research:\nResearchers suspend moral and intellectual superiority to understand the internal logic, adaptiveness, and cognitive coherence of another group's mental models."
+        },
+        {
+            "id": "cult_cognition_13",
+            "type": "content",
+            "title": "Cultural Priming & Dynamic Constructivism",
+            "content": "# The Malleable Mind: Cultural Frame Switching\n\nCan an individual possess and toggle between two distinct cultural mindsets? Ying-yi Hong and colleagues (2000) formulated the **Dynamic Constructivist Approach** to bicultural cognition.\n\n## Cultural Priming Experiments:\n- Hong Kong bicultural college students were exposed to visual cultural primes (e.g., Chinese dragon/Confucius vs. American Capitol Building/Mickey Mouse).\n- Immediately after, they interpreted an ambiguous video of a fish swimming in front of a school of other fish:\n\n```\n   [AMERICAN CULTURAL PRIMES]   ---> Interpret fish as LEADING / INDEPENDENT\n                                     (Internal dispositional agency)\n   [CHINESE CULTURAL PRIMES]    ---> Interpret fish as BEING CHASED / ESCAPING\n                                     (External situational context)\n```\n\nCulture is not an unchangeable hardwired trait; it operates as an accessible interpretive toolkit that can be activated dynamically by contextual cues."
+        },
+        {
+            "id": "cult_cognition_quiz_4",
+            "type": "quiz",
+            "title": "Cultural Priming Check",
+            "content": "Verify your understanding of cultural frame switching!",
+            "quizQuestion": "In Ying-yi Hong's (2000) cultural frame-switching experiments, what happened when Hong Kong bicultural individuals were shown images of the American Capitol Building and Mickey Mouse prior to interpreting an ambiguous fish scene?",
+            "quizOptions": [
+                "They refused to complete the task because of language confusion",
+                "They shifted to an analytic attributional mindset, viewing the lead fish as an autonomous individual leader",
+                "They became completely unable to recognize fish or underwater objects",
+                "They attributed the fish's movement exclusively to spiritual karma"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cult_cognition_14",
+            "type": "content",
+            "title": "Cultural Neuroscience: Culture-Gene Coevolution",
+            "content": "# The Frontier: Cultural Neuroscience\n\nCultural neuroscience investigates the bidirectional loop between neurobiological processes and cultural environments (Joan Chiao, Shinobu Kitayama):\n\n## 1. Serotonin Transporter Gene (5-HTTLPR) & Collectivism:\n- The short allele of 5-HTTLPR is associated with heightened amygdala reactivity and susceptibility to anxiety and depression.\n- Remarkably, East Asian nations have the **highest global frequency of the short allele** (approx 70-80%), yet paradoxically lower rates of clinical anxiety and depression!\n- **Explanation:** Collectivist cultural practices (strong social safety nets, mutual support, conflict avoidance) evolved culturally to buffer genetic emotional vulnerability.\n\n## 2. Neuroplasticity Across Cultural Training:\n- Brain imaging demonstrates that decades of cultural habits physically alter the functional connectivity of attentional and default mode networks."
+        },
+        {
+            "id": "cult_cognition_15",
+            "type": "content",
+            "title": "Module Synthesis: Culture & Cognition",
+            "content": "# Key Takeaways: Culture & Cognition\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Empirical Finding            |\n+-----------------------+-----------------------------+-----------------------------------+\n| WEIRD Bias            | Henrich, Heine, Norenzayan  | 96% of subjects from 12% of       |\n|                       | (2010)                      | humanity; Westerners are outliers.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Holistic vs. Analytic | Richard Nisbett (2003)      | East Asians attend to context/field;|\n| Cognition             |                             | Westerners isolate focal objects. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Ideal Affect Theory   | Jeanne Tsai (2007)          | Westerners value high-arousal joy;|\n|                       |                             | East Asians value calm serenity.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Frame Switching       | Ying-yi Hong (2000)         | Cultural icons dynamically switch |\n|                       |                             | interpretive cognitive schemas.   |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nThe human brain is an open biological system designed to be culturally programmed. Perception, attention, and attribution are deeply patterned by social context."
+        }
+    ]
+}

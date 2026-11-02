@@ -1,0 +1,155 @@
+{
+    "id": "learn_prej_stereotypes",
+    "topicId": "prej_stereotypes",
+    "topicTitle": "Stereotypes & Discrimination",
+    "description": "Examine how stereotypes function cognitively and socially, analyzing stereotype threat, daily microaggressions, institutional discrimination, intersectionality, and the Stereotype Content Model.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "prej_stereotypes_1",
+            "type": "content",
+            "title": "The Cognitive Engine of Stereotyping",
+            "content": "# The Cognitive Architecture of Stereotypes\n\nWhy do human brains form stereotypes? Social psychologists view humans as **cognitive misers** operating in an information-dense world. Stereotypes serve as cognitive energy-saving heuristics:\n\n```\n   Environmental Complexity ---> STEREOTYPIC SCHEMA ---> Fast, Automatic Categorization\n                                                        (Saves cognitive processing energy)\n```\n\n## The Pitfalls of Schematic Shortcuts:\n1. **Outgroup Homogeneity:** Ignoring individual variation within outgroups.\n2. **Confirmation Bias:** Selectively noticing, remembering, and sharing instances that confirm the stereotype while ignoring disconfirming data.\n3. **Illusory Correlation (Chapman & Chapman, 1967):** Overestimating the association between two rare, distinctive events (e.g., a minority group member committing a rare crime)."
+        },
+        {
+            "id": "prej_stereotypes_2",
+            "type": "content",
+            "title": "Claude Steele's Stereotype Threat (1995)",
+            "content": "# Stereotype Threat: Claude Steele & Joshua Aronson\n\nIn 1995, Claude Steele and Joshua Aronson discovered a psychological phenomenon explaining persistent academic achievement gaps:\n\n## Definition:\n**Stereotype Threat** is the situational predicament where an individual experiences self-evaluative anxiety regarding confirming a negative stereotype about their social group, which paradoxically impairs their performance.\n\n```\n   Steele & Aronson's Foundational Experiment (1995):\n   Black and White Stanford students took identical challenging verbal GRE test questions.\n   \n   Condition A: DIAGNOSTIC OF INTELLECT    --> Black students performed significantly worse\n   (\"This test measures your verbal IQ\")       than White students due to acute stereotype threat!\n   \n   Condition B: NON-DIAGNOSTIC             --> Black students performed EQUALLY to White students\n   (\"This is a laboratory problem-solving      when test diagnostic threat was removed!\n   challenge, not a measure of ability\")\n```"
+        },
+        {
+            "id": "prej_stereotypes_3",
+            "type": "content",
+            "title": "Mechanisms Behind Stereotype Threat Impairment",
+            "content": "# How Does Stereotype Threat Cripple Performance?\n\nStereotype threat is not a failure of individual intelligence or effort; it is an acute physiological and cognitive tax:\n\n```\n                             [THE STEREOTYPE THREAT CASCADE]\n                                            |\n         +----------------------------------+----------------------------------+\n         |                                  |                                  |\n   [PHYSIOLOGICAL AROUSAL]            [WORKING MEMORY DEPLETION]         [EXCESSIVE MONITORING]\n   - Elevated heart rate, spikes      - Intrusive ruminative thoughts    - Over-thinking fluent,\n     in cortisol, and blood             (\"If I fail, I confirm bias\")      procedural skills;\n     pressure elevation.                hijack prefrontal working memory.  hyper-cautious second-guessing.\n```\n\n## Generality Across Groups:\n- **Women in STEM:** Women perform worse on difficult math tests when reminded of gender before testing (Spencer, Steele, & Quinn, 1999).\n- **White Men in Athletics:** White male athletes perform worse on athletic tasks framed as measuring \"natural athletic ability\" (Stone et al., 1999)."
+        },
+        {
+            "id": "prej_stereotypes_quiz_1",
+            "type": "quiz",
+            "title": "Stereotype Threat Check",
+            "content": "Verify your understanding of Steele and Aronson's findings!",
+            "quizQuestion": "In Steele and Aronson's classic 1995 experiment, what simple framing adjustment eliminated the racial performance gap on the verbal exam?",
+            "quizOptions": [
+                "Giving participants open access to dictionaries during the exam",
+                "Describing the test as a non-evaluative problem-solving exercise rather than a diagnostic measure of intellectual ability",
+                "Extending the testing time by three hours",
+                "Providing financial cash rewards for every correct answer"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_stereotypes_4",
+            "type": "content",
+            "title": "Interventions Against Stereotype Threat",
+            "content": "# Inoculating Minds Against Stereotype Threat\n\nPsychological researchers have engineered targeted, scalable interventions that dramatically eliminate stereotype threat deficits:\n\n## 1. Values Affirmation Interventions (Geoffrey Cohen et al., 2006):\n- A brief 15-minute structured writing exercise where students write about core personal values (family, music, faith).\n- Restores psychological integrity, buffering self-esteem; closed the middle school Black-White grade gap by **40%** over two years!\n\n## 2. Growth Mindset Framing (Carol Dweck):\n- Teaching students that intelligence is an expandable muscle, not an immutable genetic trait, renders negative stereotypes irrelevant.\n\n## 3. Highlighting Ingroup Role Models:\n- Exposing female engineering students to successful female faculty members prevents math performance degradation."
+        },
+        {
+            "id": "prej_stereotypes_5",
+            "type": "content",
+            "title": "Derald Wing Sue: Taxonomy of Microaggressions",
+            "content": "# Daily Slings and Arrows: Microaggressions\n\nColumbia University psychologist **Derald Wing Sue (2007)** systematized everyday interpersonal slights into a comprehensive taxonomy:\n\n## Definition:\n**Microaggressions** are brief, commonplace daily verbal, behavioral, or environmental indignities that communicate hostile, derogatory, or negative slights toward marginalized groups.\n\n```\n                                  [TAXONOMY OF MICROAGGRESSIONS]\n                                                |\n         +--------------------------------------+--------------------------------------+\n         |                                      |                                      |\n   [MICROASSAULTS]                        [MICROINSULTS]                         [MICROINVALIDATIONS]\n   - Explicit, conscious, derogatory      - Subtle, rude, insensitive snubs      - Communications that exclude,\n     verbal or non-verbal attacks.          demeaning a person's heritage.         negate, or nullify experiential\n   - Example: Shouting a racial slur;     - Example: \"You speak English            reality.\n     displaying a swastika or noose.        so well!\" (Implies foreign status).    - Example: \"I don't see color; there\n                                                                                   is only one human race.\"\n```"
+        },
+        {
+            "id": "prej_stereotypes_6",
+            "type": "content",
+            "title": "The Biological Toll: Minority Stress & Allostatic Load",
+            "content": "# The Cumulative Toll of Chronic Bias\n\nAre microaggressions merely harmless hurt feelings? Public health and biopsychosocial medicine prove they cause severe physiological degradation:\n\n## The Minority Stress Model (Ilan Meyer, 2003):\n- Chronic, cumulative social stigma creates hostile, stressful social environments for sexual and racial minorities.\n- Generates persistent hyper-vigilance: constantly scanning environments for anticipated discrimination.\n\n## The Allostatic Load & Weathering Hypothesis (Arline Geronimus):\n- Chronic activation of the hypothalamic-pituitary-adrenal (HPA) axis causes systemic wear-and-tear on organs and vascular endothelium.\n- **Weathering:** Chronic systemic racism causes Black women to experience accelerated biological aging (measured via shortened telomere length) of 7 to 10 biological years relative to White counterparts!"
+        },
+        {
+            "id": "prej_stereotypes_quiz_2",
+            "type": "quiz",
+            "title": "Microaggressions Check",
+            "content": "Verify your understanding of Derald Wing Sue's classification!",
+            "quizQuestion": "A colleague tells a third-generation Asian-American engineer, 'You speak remarkably good English without an accent!' According to Sue's taxonomy, which type of microaggression does this statement represent?",
+            "quizOptions": [
+                "A blatant physical microassault",
+                "A microinsult communicating the hidden message that the individual is a perpetual foreigner in their own country",
+                "An overt hate crime",
+                "A formal institutional guideline"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_stereotypes_7",
+            "type": "content",
+            "title": "Institutional & Systemic Discrimination",
+            "content": "# Beyond Bad Apples: Institutional Discrimination\n\nSocial psychology distinguishes interpersonal bigotry from **Institutional & Systemic Discrimination**:\n\n## Definition:\n**Institutional Discrimination** refers to policies, procedures, and organizational practices embedded within societal institutions (legal, financial, educational, healthcare) that systematically disadvantage certain social groups, regardless of individual personnel intent.\n\n```\n   HISTORICAL STRUCTURAL POLICIES           COMPOUNDING GENERATIONAL EFFECTS\n   ---------------------------------------------------------------------------------\n   - Home Owners' Loan Corp Redlining   --> Trapped minorities in disinvested neighborhoods;\n     (1930s-1960s real estate maps)         denied federal mortgage equity building.\n   - Property-tax funded public schools --> Enshrined massive educational resource gaps.\n   - Algorithmic bail algorithms        --> Recidivism risk tools trained on biased arrest\n                                            data systematically output higher risk for Blacks.\n```"
+        },
+        {
+            "id": "prej_stereotypes_8",
+            "type": "content",
+            "title": "Kimberl\u00e9 Crenshaw's Intersectionality Theory (1989)",
+            "content": "# The Intersectional Matrix of Identity\n\nLegal scholar **Kimberl\u00e9 Crenshaw (1989)** introduced **Intersectionality** to correct a profound legal and psychological blind spot: viewing race and gender as mutually exclusive, independent categories.\n\n## The Traffic Intersection Metaphor:\nConsider an intersection where traffic flows north, south, east, and west:\n- If an accident happens at the crossroads, it can result from cars traveling from multiple directions simultaneously.\n- Black women do not experience *\"racism PLUS sexism added together\"*; their experience is unique, qualitatively distinct, and situated at the crossroads of both axes!\n\n```\n                              [RACE / ETHNICITY]\n                                       |\n   [SOCIOECONOMIC CLASS] --------------+-------------- [GENDER / SEXUALITY]\n                                       |\n                             [DISABILITY / AGE]\n```"
+        },
+        {
+            "id": "prej_stereotypes_9",
+            "type": "content",
+            "title": "Intersectional Invisibility (Purdie-Vaughns & Eibach)",
+            "content": "# Intersectional Invisibility and Double Jeopardy\n\nHow does having multiple subordinate group identities alter social perception? Valerie Purdie-Vaughns and Richard Eibach (2008) formulated the theory of **Intersectional Invisibility**:\n\n## The Prototypicality Trap:\n- Society's default mental prototype for \"Black people\" is a Black man.\n- Society's default mental prototype for \"women\" is a White woman.\n- Therefore, **Black women are non-prototypical members of both groups**!\n\n```\n   CONSEQUENCE: INTERSECTIONAL INVISIBILITY\n   - Historical exclusion from civil rights agendas (which centered Black men).\n   - Historical exclusion from feminist agendas (which centered White women).\n   - Struggles are rendered culturally and legally invisible in mainstream discourse.\n```"
+        },
+        {
+            "id": "prej_stereotypes_quiz_3",
+            "type": "quiz",
+            "title": "Intersectionality Check",
+            "content": "Verify your understanding of Crenshaw's intersectionality framework!",
+            "quizQuestion": "What is the central premise of Kimberle Crenshaw's Intersectionality Theory?",
+            "quizOptions": [
+                "That race is the only demographic factor that influences human behavior",
+                "That social identities (such as race, gender, and class) intersect to produce unique, interdependent systems of discrimination that cannot be understood separately",
+                "That all human beings share identical social privilege across all historical eras",
+                "That physical traffic intersections should be redesigned by psychologists"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_stereotypes_10",
+            "type": "content",
+            "title": "The Stereotype Content Model (Susan Fiske)",
+            "content": "# Mapping Global Stereotypes: Susan Fiske et al. (2002)\n\nSusan Fiske, Amy Cuddy, and Peter Glick proved that across cultures, all social stereotypes organize along two fundamental evolutionary dimensions: **Warmth** and **Competence**.\n\n```\n                           [HIGH COMPETENCE]                [LOW COMPETENCE]\n   +-----------------------+--------------------------------+--------------------------------+\n   | [HIGH WARMTH]         | ADMIRATION                     | PATERNALISTIC PREJUDICE        |\n   | (Friend, harmless)    | - Ingroups, close allies       | - Elderly, disabled people     |\n   |                       | - Emotion: Pride, Admiration   | - Emotion: Pity, Sympathy      |\n   +-----------------------+--------------------------------+--------------------------------+\n   | [LOW WARMTH]          | ENVIOUS PREJUDICE              | CONTEMPTUOUS PREJUDICE         |\n   | (Competitor, hostile) | - Wealthy elites, Asians, Jews | - Homeless people, drug addicts|\n   |                       | - Emotion: Envy, Jealousy      | - Emotion: Contempt, Disgust   |\n   +-----------------------+--------------------------------+--------------------------------+\n```\n\nOutgroups in the \"Low Warmth / Low Competence\" quadrant (homeless individuals) fail to activate the medial prefrontal cortex (mPFC), reflecting severe **dehumanization** (Harris & Fiske, 2006)!"
+        },
+        {
+            "id": "prej_stereotypes_11",
+            "type": "content",
+            "title": "Workplace Discrimination: Glass Ceilings & Glass Cliffs",
+            "content": "# Subtle Barriers to Organizational Advancement\n\nIn modern corporations, overt bias has been superseded by subtle structural phenomenon:\n\n## 1. The Glass Ceiling:\n- The unseen, unbreachable barrier that keeps minorities and women from rising to the upper rungs of corporate leadership, regardless of qualifications.\n\n## 2. The Glass Cliff (Ryan & Haslam, 2005):\n- The documented corporate phenomenon wherein women and minorities are disproportionately promoted to senior leadership positions during times of **acute crisis, financial collapse, or organizational peril**.\n- Sets leaders up for higher probability of failure and blame, reinforcing negative leadership stereotypes."
+        },
+        {
+            "id": "prej_stereotypes_12",
+            "type": "content",
+            "title": "Algorithmic Bias in the Age of Artificial Intelligence",
+            "content": "# Digital Discrimination: Algorithmic Inequity\n\nAs artificial intelligence and machine learning automate societal decision-making, algorithms replicate and amplify historical human prejudices:\n\n## 1. Predictive Policing (e.g., COMPAS, PredPol):\n- Algorithms trained on historical arrest data (which reflect over-policing of Black neighborhoods) predict higher future crime in those same areas, creating a self-fulfilling algorithmic loop.\n\n## 2. Facial Recognition Deficits (Joy Buolamwini, Gender Shades 2018):\n- Commercial facial analysis algorithms exhibited error rates under 1% for light-skinned males, but error rates exceeding **34% for dark-skinned females** due to homogeneous training datasets!\n\nTechnological algorithms are not neutral; they codify and automate the structural biases of their training data."
+        },
+        {
+            "id": "prej_stereotypes_quiz_4",
+            "type": "quiz",
+            "title": "Stereotype Content Check",
+            "content": "Verify your understanding of Susan Fiske's Stereotype Content Model!",
+            "quizQuestion": "In Susan Fiske's Stereotype Content Model, what emotional response is systematically evoked toward social groups perceived as High in Warmth but Low in Competence (such as the elderly)?",
+            "quizOptions": [
+                "Resentment and malicious envy",
+                "Paternalistic pity and sympathy",
+                "Terror and autonomic panic",
+                "Pure disgust and dehumanization"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "prej_stereotypes_13",
+            "type": "content",
+            "title": "Tokenism & The Solo Status Effect",
+            "content": "# The Psychology of Being 'The Only One'\n\nRosabeth Moss Kanter (1977) formulated the theory of **Tokenism** in organizations:\n\n## What Happens When a Group Makes Up < 15% of a Team?\n- **Hyper-Visibility:** Tokens are scrutinized relentlessly; every minor error is magnified and generalized to their entire demographic.\n- **Role Encapsulation:** Tokens are forced into caricatured, stereotypic roles (e.g., \"the nurturer\" or \"the militant\").\n- **Solo Status Effect (Sekaquaptewa & Thompson, 2002):** Being the only member of one's social category in a meeting hijacks attentional bandwidth, impairing cognitive recall and spontaneous participation."
+        },
+        {
+            "id": "prej_stereotypes_14",
+            "type": "content",
+            "title": "Dehumanization & Moral Exclusion",
+            "content": "# When Humans Cease to Be Human: Dehumanization\n\n**Susan Opotow (1990)** introduced the concept of **Moral Exclusion**:\n\n- The psychological boundary where individuals or groups are placed outside the circle of moral values, rules, and fairness that apply to \"normal humans.\"\n\n```\n   Nick Haslam's Dual Model of Dehumanization (2006):\n   1. Animalistic Dehumanization: Denying uniquely human attributes (culture, morality, logic).\n      Targets treated like beasts (common in racist ethnic cleansing propaganda).\n   2. Mechanistic Dehumanization: Denying human nature (warmth, emotion, agency).\n      Targets treated like cold robots, numbers, or tools (common in bureaucratic exploitation).\n```"
+        },
+        {
+            "id": "prej_stereotypes_15",
+            "type": "content",
+            "title": "Module Synthesis: Stereotypes & Discrimination",
+            "content": "# Key Takeaways: Stereotypes & Discrimination\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Theoretical Finding          |\n+-----------------------+-----------------------------+-----------------------------------+\n| Stereotype Threat     | Claude Steele & Joshua      | Fear of confirming group bias     |\n|                       | Aronson (1995)              | impairs task working memory.      |\n+-----------------------+-----------------------------+-----------------------------------+\n| Microaggressions      | Derald Wing Sue (2007)      | Daily verbal and environmental    |\n|                       |                             | slights inflict allostatic wear.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Intersectionality     | Kimberle Crenshaw (1989)    | Compounding vectors of identity   |\n|                       |                             | create unique discrimination.     |\n+-----------------------+-----------------------------+-----------------------------------+\n| Stereotype Content    | Susan Fiske et al. (2002)   | Universal 2-axis grid of Warmth   |\n| Model (SCM)           |                             | and Competence dictates emotions. |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nStereotypes are powerful cognitive schemas that perpetuate systemic inequalities. Dismantling bias requires addressing cognitive, interpersonal, and institutional dimensions simultaneously."
+        }
+    ]
+}

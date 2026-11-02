@@ -1,0 +1,155 @@
+{
+  "id": "learn_resm_nonexperimental",
+  "topicId": "resm_nonexperimental",
+  "topicTitle": "Non-Experimental Methods",
+  "description": "Explore observational, descriptive, and relational psychological methods, including correlational designs, survey methodologies, case studies, and content analysis.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "resm_nonexperimental_1",
+      "type": "content",
+      "title": "Introduction to Non-Experimental Research",
+      "content": "# The Power of Non-Experimental Research\n\nWhile experimental research is essential for establishing causal mechanics, a vast proportion of psychological phenomena cannot be manipulated in a laboratory due to ethical, physical, or logistical barriers.\n\n## When Non-Experimental Methods Are Indispensable:\n- Studying the long-term impact of extreme trauma, child abuse, or catastrophic illness.\n- Investigating stable demographic, cultural, or neuroanatomical traits.\n- Capturing naturalistic human behavior in real-world settings without artificial laboratory constraints.\n- Generating novel exploratory hypotheses in emerging fields of psychological inquiry.\n\n## Primary Non-Experimental Modalities:\n1. **Correlational Studies:** Quantifying the strength and direction of natural relationships.\n2. **Survey & Questionnaire Research:** Gathering self-reported attitudes and behaviors across broad populations.\n3. **Case Studies:** In-depth longitudinal investigations of rare or unique individuals.\n4. **Content & Archival Analysis:** Systematic auditing of textual, media, and historical artifacts."
+    },
+    {
+      "id": "resm_nonexperimental_2",
+      "type": "content",
+      "title": "Correlational Research Foundations",
+      "content": "# Correlational Research\n\n**Correlational research** investigates the statistical relationship between two or more naturally occurring variables without deliberate researcher manipulation or intervention.\n\n## The Correlation Coefficient (Pearson r):\nQuantifies the strength and direction of a linear relationship on a scale from **-1.00 to +1.00**.\n\n- **Positive Correlation (0 < r <= +1.00):** As Variable X increases, Variable Y systematically increases (e.g., hours of deliberate practice and violin competence).\n- **Negative (Inverse) Correlation (-1.00 <= r < 0):** As Variable X increases, Variable Y systematically decreases (e.g., hours of sleep deprivation and working memory accuracy).\n- **Zero Correlation (r approx 0.00):** No systematic linear relationship exists (e.g., shoe size and general intelligence).\n\n```\nPositive: [ / ]        Negative: [ \\ ]        Zero: [ . : : . ]\n```"
+    },
+    {
+      "id": "resm_nonexperimental_3",
+      "type": "content",
+      "title": "Correlation Does Not Imply Causation",
+      "content": "# The Causality Fallacy\n\nOne of the most vital epistemic warnings in science is: **Correlation does not imply causation**.\n\n## The Three Alternative Causal Interpretations:\nWhen Variable A and Variable B are statistically correlated, three distinct realities are possible:\n\n1. **Direct Causation (A causes B):** Variable A directly drives changes in Variable B.\n2. **Reverse Causation (B causes A):** The causal arrow operates in the exact opposite direction (e.g., does playing violent video games cause aggression, or do aggressive individuals preferentially seek violent games?).\n3. **The Third-Variable Problem (Confounding Variable C):** An unmeasured extraneous factor causes simultaneous changes in both A and B, producing a **spurious correlation**.\n\n## Classic Spurious Example:\nIce cream sales and drowning incidents are strongly positively correlated. Eating ice cream does not cause drowning; both are driven by a third variable: hot summer temperatures."
+    },
+    {
+      "id": "resm_nonexperimental_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Correlational Logic",
+      "content": "Verify your understanding of correlational coefficients and causal boundaries.",
+      "quizQuestion": "A study finds a correlation of r = -0.78 between daily smartphone screen time before bed and total hours of deep restorative sleep. What does this coefficient indicate?",
+      "quizOptions": [
+        "A strong positive linear relationship",
+        "A strong negative (inverse) linear relationship",
+        "A weak, statistically meaningless relationship",
+        "Proof that smartphone screens destroy 78% of brain cells"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_nonexperimental_4",
+      "type": "content",
+      "title": "Survey Research: Design and Sampling",
+      "content": "# Survey & Questionnaire Methodology\n\n**Survey research** employs standardized questionnaires or structured interviews to assess self-reported attitudes, beliefs, values, and behaviors across a designated population.\n\n## Sampling Methodologies:\n- **Representative Sample:** A sample that mirrors the target population in all critical demographic parameters.\n- **Simple Random Sampling:** Every single member of the population has an equal probability of inclusion.\n- **Stratified Random Sampling:** The population is divided into meaningful demographic strata (e.g., age, ethnicity, socioeconomic tier), and random samples are drawn proportionally from each stratum.\n- **Convenience Sampling:** Sampling readily available participants (e.g., undergraduate psychology subject pools); limits generalizability."
+    },
+    {
+      "id": "resm_nonexperimental_5",
+      "type": "content",
+      "title": "Biases in Survey Research",
+      "content": "# Cognitive and Behavioral Survey Biases\n\nSelf-report survey methodologies are notoriously vulnerable to systematic measurement distortions.\n\n## Prominent Survey Biases:\n- **Social Desirability Bias:** The tendency of respondents to answer questions in a manner that will be viewed favorably by others, underreporting stigmatized behaviors (drug use, prejudice) and overreporting virtues (charity, exercise).\n- **Acquiescence Bias (Yeah-Saying):** The tendency of some participants to agree with statements regardless of content; counteracted by reverse-scored items.\n- **Framing & Question Wording Effects:** Subtle alterations in phrasing dramatically alter responses (e.g., asking whether welfare should be 'supported' vs. 'expanded').\n- **Non-Response Bias:** Individuals who refuse or fail to return surveys differ systematically from those who complete them."
+    },
+    {
+      "id": "resm_nonexperimental_6",
+      "type": "content",
+      "title": "Case Study Methodology",
+      "content": "# The Case Study Approach\n\nA **case study** is an intensive, detailed, multi-method examination of a single individual, small group, or specific bounded event over an extended duration.\n\n## Foundational Historic Case Studies:\n- **Phineas Gage (1848):** Tamping iron destroyed left frontal lobe, transforming his personality and linking executive control to the frontal cortex.\n- **Patient H.M. (Henry Molaison):** Bilateral surgical removal of medially situated temporal lobes and hippocampi resulted in dense anterograde amnesia, proving the hippocampus is critical for consolidating declarative memory.\n- **Little Hans (Freud):** Intensive psychoanalytic observational notes regarding phobias.\n\n## Advantages and Pitfalls:\n- *Strength:* Provides rich, textured, comprehensive clinical data on rare neurological or psychological conditions that cannot be ethically induced.\n- *Limitation:* Lacks external validity; cannot generalize conclusions from an idiosyncratic individual to humanity."
+    },
+    {
+      "id": "resm_nonexperimental_7",
+      "type": "content",
+      "title": "Naturalistic and Participant Observation",
+      "content": "# Observational Methodologies\n\nObservational research involves the systematic recording and quantification of spontaneous human or animal behavior in real-world or controlled settings.\n\n## Naturalistic Observation:\n- Observing subjects in their native, undisturbed habitats without researcher interference (e.g., Jane Goodall observing chimpanzee tool use; researchers observing playground bullying).\n- *Strength:* Exceptional ecological validity; captures authentic behavior.\n- *Threat:* **Reactivity / Hawthorne Effect**\u2014participants alter behavior when they realize they are being monitored.\n\n## Participant Observation:\n- The researcher actively embeds themselves within the target group or subculture (e.g., Leon Festinger joining a doomsday flying saucer cult to study cognitive dissonance in 'When Prophecy Fails')."
+    },
+    {
+      "id": "resm_nonexperimental_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Surveys & Case Studies",
+      "content": "Assess your understanding of survey biases and single-subject case study limitations.",
+      "quizQuestion": "What is the primary methodological limitation of relying exclusively on case studies (such as Patient H.M.) for psychological theory building?",
+      "quizOptions": [
+        "They provide zero qualitative insight into biological mechanisms",
+        "Findings from an idiosyncratic single individual cannot be safely generalized to the broader human population",
+        "They are strictly prohibited by federal research ethics laws",
+        "They require minimum sample sizes of 1,000 participants"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_nonexperimental_8",
+      "type": "content",
+      "title": "Content Analysis and Archival Research",
+      "content": "# Content Analysis & Archival Inquiry\n\n**Content analysis** is a systematic, objective, and quantitative research technique used to deconstruct and analyze characteristics of human communication artifacts.\n\n## Scope of Analyzed Media:\n- Books, newspaper articles, political speeches, social media postings, song lyrics, television advertisements, and historical diaries.\n\n## The Methodological Workflow:\n1. **Sampling Frame:** Defining the corpus of material (e.g., all presidential inaugural addresses from 1900 to 2020).\n2. **Coding Unit:** Defining whether the analysis codes individual words, complete sentences, or thematic paragraphs.\n3. **Manifest vs. Latent Content:**\n   - *Manifest Content:* Directly observable, countable surface features (e.g., counting frequencies of military vs. economic words).\n   - *Latent Content:* Underlying symbolic meanings, emotional tone, or implied ideological themes.\n4. **Inter-Coder Reliability:** Demonstrating high statistical agreement (Cohen's kappa) between independent raters."
+    },
+    {
+      "id": "resm_nonexperimental_9",
+      "type": "content",
+      "title": "Longitudinal vs. Cross-Sectional Designs",
+      "content": "# Temporal Research Designs\n\nInvestigating human psychological development across the lifespan requires selecting a temporal research framework.\n\n## Cross-Sectional Designs:\n- Concurrently testing multiple distinct age cohorts at a single point in time (e.g., testing 20-, 40-, 60-, and 80-year-olds in 2026).\n- *Advantage:* Highly efficient, rapid data collection.\n- *Fatal Flaw:* **Cohort Effects**\u2014differences between age groups may reflect distinct historical eras, schooling, and nutrition rather than true biological aging.\n\n## Longitudinal Designs:\n- Following a single cohort of individuals repeatedly over decades.\n- *Advantage:* Tracks genuine intra-individual developmental trajectories.\n- *Threats:* High financial cost, prolonged duration, testing practice effects, and selective participant attrition."
+    },
+    {
+      "id": "resm_nonexperimental_10",
+      "type": "content",
+      "title": "Sequential (Cross-Sequential) Designs",
+      "content": "# The Sequential Synthesis\n\nTo overcome the fatal limitations of both cross-sectional and longitudinal approaches, developmental researchers utilize **Sequential Designs** (Schaie, 1965).\n\n```\nCohort 1 (Born 1980) ---> Tested in 2000 (Age 20) ---> Tested in 2010 (Age 30)\nCohort 2 (Born 1990) ---> Tested in 2010 (Age 20) ---> Tested in 2020 (Age 30)\nCohort 3 (Born 2000) ---> Tested in 2020 (Age 20) ---> Tested in 2030 (Age 30)\n```\n\n## How It Resolves Confounds:\n- By simultaneously tracking multiple overlapping age cohorts over time, researchers can isolate:\n  1. **True Age Effects:** Changes driven by developmental maturation.\n  2. **Cohort Effects:** Differences driven by generational cultural context.\n  3. **Time-of-Measurement Effects:** Broad societal shocks (e.g., wars, pandemics) affecting all cohorts concurrently."
+    },
+    {
+      "id": "resm_nonexperimental_11",
+      "type": "content",
+      "title": "Ecological Momentary Assessment (EMA)",
+      "content": "# Ecological Momentary Assessment\n\n**Ecological Momentary Assessment (EMA)**\u2014also termed the Experience Sampling Method (ESM)\u2014captures behavioral and affective phenomena in real time within natural environments.\n\n## The Protocol:\n- Participants carry digital devices (smartphones, smartwatches) that prompt them repeatedly throughout the day (e.g., 6 random pings per day for two weeks).\n- Participants immediately complete brief 60-second micro-assessments recording their current emotional state, social companions, physical location, and ongoing cognitive focus.\n\n## Major Methodological Advantages:\n- **Eliminates Retrospective Recall Bias:** Circumvents the profound distortions that occur when participants try to remember how anxious they felt 'last month'.\n- Captures micro-fluctuations and cyclical dynamics across daily circadian rhythms."
+    },
+    {
+      "id": "resm_nonexperimental_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Developmental & Real-Time Designs",
+      "content": "Verify your understanding of sequential designs and ecological sampling.",
+      "quizQuestion": "In developmental psychology, which research design tracks multiple distinct birth cohorts simultaneously across time to disentangle true developmental aging from generational cohort effects?",
+      "quizOptions": [
+        "Cross-sectional design",
+        "Sequential (cross-sequential) design",
+        "Pure case study design",
+        "Static posttest-only control design"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_nonexperimental_12",
+      "type": "content",
+      "title": "Cross-Lagged Panel Correlational Designs",
+      "content": "# Clarifying Directionality: Cross-Lagged Panels\n\nWhile simple correlations cannot establish causal direction, **Cross-Lagged Panel Designs** track multiple variables across time to evaluate probable causal precedence.\n\n```\nTime 1: [ Variable X1 ] ---------------------> Time 2: [ Variable X2 ]\n               \\                             /\n                \\  Cross-Lag 1  Cross-Lag 2 /\n                 \\                         /\nTime 1: [ Variable Y1 ] ---------------------> Time 2: [ Variable Y2 ]\n```\n\n## Interpreting Cross-Lagged Paths:\n- If Variable X at Time 1 predicts Variable Y at Time 2 significantly better than Variable Y at Time 1 predicts Variable X at Time 2 (controlling for auto-regressive stability paths), researchers establish **temporal precedence**.\n- Provides strong correlational evidence for directional influence."
+    },
+    {
+      "id": "resm_nonexperimental_13",
+      "type": "content",
+      "title": "Big Data & Digital Phenotyping",
+      "content": "# Big Data & Digital Phenotyping\n\nThe 21st century has revolutionized non-experimental psychology through the passive harvesting of digital behavioral footprints.\n\n## Digital Phenotyping (Insel, 2017):\n- Passive collection of continuous biometric and behavioral markers from personal digital devices:\n  - GPS spatial mobility patterns (decreased movement signals depressive withdrawal).\n  - Keyboard typing dynamics and scrolling velocity (manic acceleration vs. psychomotor retardation).\n  - Voice acoustic prosody recorded during routine phone calls.\n\n## Ethical & Algorithmic Complexities:\n- Massive sample sizes (millions of users) grant immense statistical power, but raise urgent concerns regarding user privacy, algorithmic opacity, and surveillance capitalism."
+    },
+    {
+      "id": "resm_nonexperimental_14",
+      "type": "content",
+      "title": "Selecting the Right Methodological Tool",
+      "content": "# Methodological Matching\n\nExcellence in psychological research demands selecting the methodology that aligns precisely with the research question.\n\n| Research Question | Optimal Non-Experimental Method | Primary Strength |\n|-------------------|---------------------------------|------------------|\n| Explore rare neurological syndrome | In-depth Case Study | Unmatched granular clinical depth |\n| Assess public political attitudes | Stratified Survey Research | Broad generalizability and reach |\n| Evaluate naturalistic child play | Naturalistic Observation | Zero laboratory artificiality |\n| Assess daily mood volatility | Ecological Momentary Assessment | Bypasses retrospective memory bias |\n| Examine generational trends in values | Cross-Sequential Design | Isolates age vs. cohort effects |"
+    },
+    {
+      "id": "resm_nonexperimental_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Temporal Precedence",
+      "content": "Assess your understanding of advanced non-experimental designs.",
+      "quizQuestion": "Which correlational design measures two variables at two or more distinct points in time to evaluate whether Variable A precedes and predicts Variable B better than the reverse?",
+      "quizOptions": [
+        "A simple bivariate Pearson correlation",
+        "A cross-lagged panel design",
+        "A randomized double-blind trial",
+        "A manifest content analysis"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "resm_nonexperimental_15",
+      "type": "content",
+      "title": "Summary of Non-Experimental Research",
+      "content": "# Synthesis of Non-Experimental Inquiry\n\nNon-experimental methodologies expand psychological science beyond the artificial walls of the laboratory, illuminating human thought and behavior in its natural complexity.\n\n## Core Principles Review:\n1. **Correlational Breadth:** Quantifies natural associations, but requires extreme caution regarding reverse causality and third variables.\n2. **Survey Precision:** Demands representative sampling and vigilant defense against social desirability and question framing biases.\n3. **Clinical Depth:** Case studies provide indispensable insights into rare conditions, but cannot claim broad generalizability.\n4. **Temporal Sophistication:** Sequential and cross-lagged panel designs disentangle cohort effects and demonstrate temporal precedence.\n5. **Ecological Realism:** EMA and naturalistic observation capture human lived experience as it unfolds in real time."
+    }
+  ]
+}

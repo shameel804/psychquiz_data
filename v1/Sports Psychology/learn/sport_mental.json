@@ -1,0 +1,155 @@
+{
+    "id": "learn_sport_mental",
+    "topicId": "sport_mental",
+    "topicTitle": "Mental Health in Athletes",
+    "description": "Examine the psychological challenges and clinical vulnerabilities of competitive athletes, analyzing competitive anxiety, burnout, injury rehabilitation psychology, athletic identity, and retirement.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sport_mental_1",
+            "type": "content",
+            "title": "The Dark Side of the Podium: Athlete Mental Health",
+            "content": "# Breaking the Silence: Mental Health in Elite Sports\n\nFor generations, sports culture glorified a toxic ethos of \"pain is weakness leaving the body\" and \"tough it out.\" Athletes who struggled emotionally were dismissed as mentally weak or benched.\n\nToday, sport clinical psychology recognizes that **elite athletes experience rates of depression, anxiety, eating disorders, and substance abuse equal to or exceeding the general population**.\n\n```\n                             [THE ATHLETE MENTAL HEALTH MATRIX]\n                                             |\n         +-----------------------------------+-----------------------------------+\n         |                                                                       |\n   [CHRONIC COMPETITIVE STRESSORS]                                 [CRITICAL CAREER TRANSITIONS]\n   - Competitive State Anxiety (CSAI-2)                            - Severe Injury & Psychological Rehabilitation\n   - Athletic Burnout & Overtraining Syndrome                      - Athletic Identity Foreclosure\n   - RED-S & Eating Disorders in Sport                             - Involuntary Career Termination & Retirement\n```"
+        },
+        {
+            "id": "sport_mental_2",
+            "type": "content",
+            "title": "Competitive State Anxiety: CSAI-2 Dimensions",
+            "content": "# Rainer Martens: Competitive State Anxiety\n\nCompetitive anxiety is not a monolithic feeling; Rainer Martens and colleagues developed the **Competitive State Anxiety Inventory-2 (CSAI-2)**, dividing competitive anxiety into three independent scales:\n\n```\n   1. COGNITIVE ANXIETY      --> The mental component: Negative self-doubts, fear of failure,\n                                 worrying about losing sponsorships, catastrophizing.\n                                 *Has a direct linear NEGATIVE relationship with performance!*\n                                 |\n   2. SOMATIC ANXIETY        --> The physiological component: Rapid heart rate, sweaty palms,\n                                 butterflies in the stomach, muscle tightness.\n                                 *Has an INVERTED-U relationship with performance!*\n                                 |\n   3. STATE SELF-CONFIDENCE  --> The athlete's belief in their ability to meet the challenge.\n                                 *Has a direct linear POSITIVE relationship with performance!*"
+        },
+        {
+            "id": "sport_mental_3",
+            "type": "content",
+            "title": "Athletic Burnout: Raedeke & Smith's Framework",
+            "content": "# Beyond Fatigue: Athletic Burnout\n\nThomas Raedeke and Alan Smith (2001) established that **Burnout** is an enduring psychological syndrome resulting from chronic, unmanaged athletic stress, characterized by three distinct dimensions:\n\n```\n                                [THREE DIMENSIONS OF ATHLETIC BURNOUT]\n                                                  |\n         +----------------------------------------+----------------------------------------+\n         |                                        |                                        |\n   [PHYSICAL & EMOTIONAL EXHAUSTION]        [SPORT DEVALUATION]                      [REDUCED SENSE OF ACCOMPLISHMENT]\n   - Total depletion of energy reserves.    - Resentment, cynicism, and loss of      - Chronic feelings of inadequacy;\n   - Dread of daily practice and games.       caring toward the sport they once loved. \"No matter how hard I train,\n   - Chronic muscle fatigue and insomnia.   - \"I don't care if we win or lose.\"        I will never be good enough.\"\n```\n\nBurnout is particularly virulent in adolescent youth sports pushed by overbearing parents into early year-round single-sport specialization!"
+        },
+        {
+            "id": "sport_mental_quiz_1",
+            "type": "quiz",
+            "title": "Competitive Anxiety & Burnout Check",
+            "content": "Verify your understanding of anxiety dimensions and athletic burnout!",
+            "quizQuestion": "In Rainer Martens' CSAI-2 framework, how does Cognitive Anxiety (mental worry and fear of failure) correlate with objective athletic performance?",
+            "quizOptions": [
+                "It correlates in an inverted-U curve, peaking at high levels",
+                "It shows a direct linear negative correlation (as cognitive worry increases, performance steadily deteriorates)",
+                "It has zero measurable impact on athletic performance",
+                "It increases physical muscle mass immediately"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_mental_4",
+            "type": "content",
+            "title": "Overtraining Syndrome (OTS): Biological Breakdown",
+            "content": "# When More Training Causes Failure: Overtraining\n\nIn sports science, more training does not always yield greater fitness. When the volume and intensity of training consistently exceed physiological recovery capacity, **Overtraining Syndrome (OTS)** ignites:\n\n```\n   HEALTHY OVERREACHING                     OVERTRAINING SYNDROME (OTS)\n   ------------------------------------     -------------------------------------------\n   - Brief performance dip.                 - Persistent, long-term performance collapse!\n   - Restores and super-compensates after   - Lasts for months or years despite rest.\n     several days of rest.                  - Profound neuroendocrine dysregulation (HPA axis blunting).\n   - Planned part of elite periodization.   - Chronic elevated resting heart rate, severe depression.\n```\n\nAthletes mistakenly perceive their performance drop as a sign they are \"out of shape,\" working out harder and driving themselves deeper into biological exhaustion!"
+        },
+        {
+            "id": "sport_mental_5",
+            "type": "content",
+            "title": "The Psychology of Athletic Injury (Wiese-Bjornstal)",
+            "content": "# Shattered Bodies and Minds: Injury Psychology\n\nDiane Wiese-Bjornstal formulated the **Integrated Model of Psychological Response to Sport Injury**:\n\n```\n   [ATHLETIC INJURY OCCURS (e.g., Torn ACL)]\n                     |\n                     v\n   [COGNITIVE APPRAISAL: \"My season is over; my scholarship is gone; who am I?\"]\n                     |\n                     v\n   [EMOTIONAL RESPONSE: Shock, Denial, Grief, Rage, Depression]\n                     |\n                     v\n   [BEHAVIORAL RESPONSE: Adherence to physical therapy, compliance, social withdrawal]\n```\n\n## Kinesiophobia (Fear of Re-Injury):\nEven after ligaments physically heal, athletes often suffer acute **Kinesiophobia**, unconsciously holding back physical effort, which paradoxically increases the risk of compensatory re-injury!"
+        },
+        {
+            "id": "sport_mental_6",
+            "type": "content",
+            "title": "Psychological Rehabilitation & Motor Preservation",
+            "content": "# Rebuilding the Athlete: Psychological Rehab\n\nHow do sport psychologists accelerate orthopedic recovery?\n\n- **Guided Motor Imagery During Cast Immobilization:** Mental rehearsal of motor skills maintains cortical representation and slashes muscular strength loss by **50% during immobilization** (Clark et al., 2014)!\n- **Short-Term Micro-Goals:** Shifting focus from \"returning in 9 months\" to daily physical therapy range-of-motion milestones.\n- **Teammate Social Connection:** Keeping injured athletes involved in team meetings and travel to prevent devastating isolation."
+        },
+        {
+            "id": "sport_mental_quiz_2",
+            "type": "quiz",
+            "title": "Overtraining & Injury Check",
+            "content": "Verify your understanding of overtraining and injury psychology!",
+            "quizQuestion": "In sports injury rehabilitation, what is 'Kinesiophobia'?",
+            "quizOptions": [
+                "An allergic reaction to athletic tape",
+                "An irrational, debilitating fear of physical movement and re-injury that impairs rehabilitation adherence and physical performance",
+                "A fear of stadium crowds",
+                "A clinical phobia of running shoes"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_mental_7",
+            "type": "content",
+            "title": "Athletic Identity Foreclosure: Britton Brewer (1993)",
+            "content": "# The Dangerous Trap: \"I am ONLY an Athlete\"\n\n**Athletic Identity** is the degree to which an individual identifies with the role of an athlete. Britton Brewer developed the Athletic Identity Measurement Scale (AIMS):\n\n## The Hazard of Identity Foreclosure:\nWhen an adolescent dedicates their entire life to sport, they often experience **Identity Foreclosure** (failing to explore academic, artistic, or occupational dimensions of identity):\n\n```\n   HEALTHY MULTIDIMENSIONAL SELF                 FORECLOSED ATHLETIC SELF\n   +---------------------------------------+     +----------------------------------------+\n   | - \"I am an athlete, a student,        |     | - \"I am a soccer player.               |\n   |   a musician, and a loving friend.\"   |     |   THAT IS 100% OF WHO I AM!\"           |\n   | - If injured: Other identities sustain|     | - If injured: TOTAL EXISTENTIAL COLLAPSE!|\n   |   psychological self-worth!           |     |   High risk of severe depression/suicide|\n   +---------------------------------------+     +----------------------------------------+\n```"
+        },
+        {
+            "id": "sport_mental_8",
+            "type": "content",
+            "title": "Retirement from Sport: Voluntary vs. Involuntary",
+            "content": "# The Final Whistle: Career Transition & Retirement\n\nJim Taylor and John Ogilvie formulated the **Model of Adaptation to Career Transition** in athletics:\n\n```\n   VOLUNTARY RETIREMENT (Planned)                INVOLUNTARY RETIREMENT (Sudden)\n   ----------------------------------------      -------------------------------------------\n   - Athlete chooses timing; achieves closure.   - Career cut short by career-ending injury\n   - Proactively plans financial & career path.    or getting abruptly cut from the team.\n   - Moderate emotional grief; smooth transition.- Acute existential trauma, loss of status, and\n                                                   identity crisis (mimicking acute bereavement).\n```\n\nOver 20% of professional athletes experience clinical adjustment disorders following retirement, requiring structured transitional counseling."
+        },
+        {
+            "id": "sport_mental_9",
+            "type": "content",
+            "title": "RED-S & Eating Disorders in Athletics",
+            "content": "# Relative Energy Deficiency in Sport (RED-S)\n\nIn aesthetic sports (figure skating, gymnastics, ballet) and weight-class/endurance sports (wrestling, marathon running), athletes face immense pressure to maintain low body fat:\n\n## The IOC Consensus on RED-S (2014, 2018):\n- **Relative Energy Deficiency in Sport:** Occurs when dietary energy intake is insufficient to support the energy expenditure required for health, daily living, and athletic training.\n\n```\n   PHYSIOLOGICAL & PSYCHOLOGICAL TOLL OF RED-S:\n   - Impaired bone mineral density (osteopenia, recurrent stress fractures).\n   - Amenorrhea (loss of menstrual cycle in females) and suppressed testosterone in males.\n   - Severe metabolic slowdown, gastrointestinal distress, and cardiovascular arrhythmias.\n   - Clinical Anorexia Athletica and Bulimia Nervosa.\n```"
+        },
+        {
+            "id": "sport_mental_quiz_3",
+            "type": "quiz",
+            "title": "Athletic Identity & RED-S Check",
+            "content": "Verify your understanding of athletic identity foreclosure and RED-S!",
+            "quizQuestion": "In sports medicine and psychology, what is the core underlying etiology of Relative Energy Deficiency in Sport (RED-S)?",
+            "quizOptions": [
+                "Drinking too much electrolyte water during practice",
+                "A chronic mismatch where dietary caloric energy intake is insufficient to support the high energy expenditure required for training and baseline biological health",
+                "Sleeping for more than 10 hours per night",
+                "Taking too many multivitamin supplements"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sport_mental_10",
+            "type": "content",
+            "title": "Concussions & Chronic Traumatic Encephalopathy (CTE)",
+            "content": "# Invisible Brain Trauma: Concussion & CTE\n\nIn contact sports (American football, rugby, ice hockey, soccer headers), repetitive sub-concussive and concussive impacts inflict severe neurobiological trauma:\n\n## Chronic Traumatic Encephalopathy (CTE - Ann McKee):\n- A neurodegenerative disease characterized by abnormal accumulations of **hyperphosphorylated tau protein** in the brain's sulci.\n- **Psychiatric Manifestations:** Emotional volatility, explosive rage, severe depression, paranoia, executive memory deficits, and elevated suicide risk.\n\n## Post-Concussion Syndrome (PCS):\nPersistent headaches, brain fog, light sensitivity, and anxiety requiring graduated return-to-play protocols."
+        },
+        {
+            "id": "sport_mental_11",
+            "type": "content",
+            "title": "Doping Psychology & The Prisoner's Dilemma",
+            "content": "# Why Do Athletes Cheat? The Psychology of Doping\n\nAthletes who use banned performance-enhancing drugs (PEDs, anabolic steroids, EPO) are not merely \"bad people\"; they operate within a classic **Game-Theoretic Prisoner's Dilemma**:\n\n```\n   [THE ATHLETE'S DOPING DILEMMA]\n   - Premise: \"I know PEDs cause heart attacks and liver tumors.\"\n   - BUT: \"If my competitors are secretly doping, and I stay clean, I CANNOT WIN!\n     My career, income, and dream die!\"\n   ==> The systemic pressure forces clean athletes into ethical compromises unless\n       uncompromising, independent testing provides complete trust in fair competition!\n```"
+        },
+        {
+            "id": "sport_mental_12",
+            "type": "content",
+            "title": "Destigmatizing Mental Health: Modern Athlete Advocacy",
+            "content": "# The New Era of Athlete Mental Health Advocacy\n\nIn recent Olympic and professional competitions, legendary athletes shattered decades of toxic stigma by prioritizing mental health:\n\n- **Michael Phelps:** Opened up about severe depressive crashes and suicidal ideation following Olympic triumphs.\n- **Simone Biles (2020 Tokyo Olympics):** Withdrew from gymnastics finals after experiencing **\"The Twisties\"** (a dangerous loss of spatial awareness in mid-air), declaring: *\"My physical and mental safety comes before any gold medal!\"*\n- **Naomi Osaka:** Prioritized mental health over mandatory press conferences that induced panic attacks.\n\nThese public stances permanently transformed global sports culture, validating mental health as fundamental to athletic humanity."
+        },
+        {
+            "id": "sport_mental_quiz_4",
+            "type": "quiz",
+            "title": "Concussions & Advocacy Check",
+            "content": "Verify your understanding of CTE and mental health advocacy!",
+            "quizQuestion": "In neuropathology and neuropsychology, what neurodegenerative pathology is associated with Chronic Traumatic Encephalopathy (CTE) resulting from repetitive head impacts in contact sports?",
+            "quizOptions": [
+                "Abnormal accumulations of hyperphosphorylated tau protein in the depths of cerebral sulci",
+                "Excessive bone growth inside the skull",
+                "A total loss of all spinal cord neurons within 24 hours",
+                "An overproduction of growth hormone"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sport_mental_13",
+            "type": "content",
+            "title": "Clinical Systems for Elite Athletic Organizations",
+            "content": "# Designing Mental Health Systems for Teams\n\nModern professional sports franchises and Olympic committees embed comprehensive clinical infrastructures:\n\n- **Routine Mental Health Screenings:** Administered alongside annual physical examinations.\n- **Confidential Sport Clinical Psychologists:** Independent from coaches (ensuring athletes can seek care without fear of being benched).\n- **Mental Health Action Plans:** Clear crisis protocols for acute suicidal ideation, psychotic breaks, or severe panic on the road."
+        },
+        {
+            "id": "sport_mental_14",
+            "type": "content",
+            "title": "Comprehensive Athlete Mental Health Matrix",
+            "content": "# Theoretical Architecture of Athlete Mental Health\n\n| Clinical Challenge | Primary Etiology | Evidence-Based Clinical Tool |\n|---|---|---|\n| **Competitive Anxiety** | Fear of failure; cognitive worry | CSAI-2 profiling, cognitive reframing, centering. |\n| **Athletic Burnout** | Chronic stress, sport devaluation | Training load periodization, active rest, autonomy restoration. |\n| **Sport Injury Response** | Loss of identity, kinesiophobia | PETTLEP imagery during immobilization, graded exposure. |\n| **Identity Foreclosure** | Uni-dimensional athletic self | Career counseling, multidimensional identity cultivation. |\n| **Career Retirement** | Sudden involuntary exit | Taylor & Ogilvie transitional counseling. |\n| **Eating Disorders / RED-S** | Caloric restriction for aesthetics | Interdisciplinary medical, nutritional, and psychological care. |"
+        },
+        {
+            "id": "sport_mental_15",
+            "type": "content",
+            "title": "Module Synthesis: Mental Health in Athletes",
+            "content": "# Key Takeaways: Mental Health in Athletes\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Clinical Principle           |\n+-----------------------+-----------------------------+-----------------------------------+\n| CSAI-2 Anxiety        | Rainer Martens (1990)       | Cognitive anxiety linearly hurts; |\n|                       |                             | somatic anxiety shows inverted-U. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Athletic Burnout      | Raedeke & Smith (2001)      | Exhaustion, Sport Devaluation, and|\n|                       |                             | Reduced Sense of Accomplishment.  |\n+-----------------------+-----------------------------+-----------------------------------+\n| Injury Response Model | Wiese-Bjornstal (1998)      | Cognitive appraisal dictates      |\n|                       |                             | emotional and behavioral rehab.   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Athletic Identity     | Britton Brewer (1993)       | Identity foreclosure creates      |\n|                       |                             | severe vulnerability to injury.   |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nAthletes are human beings first, competitors second. True athletic greatness flourishes only when physical training is supported by emotional vulnerability, psychological safety, and compassionate care."
+        }
+    ]
+}

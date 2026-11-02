@@ -1,0 +1,155 @@
+{
+    "id": "learn_moral_kohlberg",
+    "topicId": "moral_kohlberg",
+    "topicTitle": "Kohlberg's Theory of Moral Development",
+    "description": "Examine Lawrence Kohlberg's cognitive-developmental stage theory of moral judgment, analyzing the Heinz dilemma, preconventional, conventional, and postconventional moral reasoning.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "moral_kohlberg_1",
+            "type": "content",
+            "title": "The Nature of Moral Reasoning",
+            "content": "# The Psychology of Moral Development\n\nHow do human beings develop the concepts of right and wrong, justice, fairness, and human rights?\n\n## The Cognitive-Developmental Tradition:\n- Lawrence Kohlberg (1927-1987) extended Jean Piaget's pioneering work on children's games and moral judgment.\n- **Kohlberg's Core Claim:** Moral development is not simply the passive absorption of societal rules or religious indoctrination.\n- Instead, it reflects the progressive restructuring of **cognitive logical reasoning** about justice, equity, and social contracts across distinct developmental stages.\n\n## What Determines Moral Maturity?\n- In Kohlberg's system, moral maturity is determined **NOT by what a person decides to do** (the action), but **BY WHY they decide to do it** (the underlying justification and reasoning structure)!"
+        },
+        {
+            "id": "moral_kohlberg_2",
+            "type": "content",
+            "title": "The Heinz Dilemma",
+            "content": "# The Classic Heinz Dilemma\n\nTo evaluate moral reasoning, Kohlberg presented male participants with hypothetical moral dilemmas:\n\n## The Story of Heinz:\n- In Europe, a woman was near death from a rare cancer. There was one drug that doctors thought might save her\u2014a form of radium that a local druggist had recently discovered.\n- The druggist spent \\$200 to make the drug, but charged \\$2,000 for a small dose.\n- Heinz, the sick woman's husband, borrowed money from everyone he knew, but could only gather \\$1,000.\n- Heinz pleaded with the druggist to sell it cheaper or let him pay later, but the druggist refused, saying: *\"No, I discovered the drug and I'm going to make money from it.\"*\n- In desperation, Heinz broke into the druggist's store and stole the drug for his wife.\n\n## The Crucial Interview Questions:\n- *Should Heinz have stolen the drug? Why or why not?*\n- *Does a husband have an obligation to steal for his wife? Is it different if it were a stranger?*"
+        },
+        {
+            "id": "moral_kohlberg_3",
+            "type": "content",
+            "title": "Level 1: Preconventional Morality (Stages 1 & 2)",
+            "content": "# Level 1: Preconventional Morality\n\nCharacteristic of young children (under age 9) and some adult offenders. Moral rules are external to the self; morality is judged strictly by **direct physical consequences** to the actor.\n\n## Stage 1: Punishment and Obedience Orientation\n- **Focus:** Avoiding physical punishment and obeying superior authority blindly.\n- **Pro-Theft Rationale:** *\"Heinz should steal it because if he lets his wife die, he will get into trouble with the police for neglect.\"*\n- **Anti-Theft Rationale:** *\"Heinz shouldn't steal because he will be caught and locked in jail.\"*\n\n## Stage 2: Individualism and Instrumental Exchange\n- **Focus:** Self-interest, reciprocal deals, and pragmatic tit-for-tat (*\"What's in it for me? You scratch my back, I'll scratch yours\"*).\n- **Pro-Theft Rationale:** *\"He should steal it because he loves his wife and wants her around to make dinner.\"*\n- **Anti-Theft Rationale:** *\"He shouldn't steal because the druggist was just running a business to make money.\"*"
+        },
+        {
+            "id": "moral_kohlberg_quiz_1",
+            "type": "quiz",
+            "title": "Preconventional Reasoning Check",
+            "content": "Verify your understanding of Level 1 moral reasoning!",
+            "quizQuestion": "A child argues that Heinz should not steal the medicine because 'if he gets caught, he will be sent to prison and punished'. Which of Kohlberg's stages does this reasoning reflect?",
+            "quizOptions": [
+                "Stage 1: Punishment and Obedience Orientation",
+                "Stage 3: Good Boy / Nice Girl Morality",
+                "Stage 5: Social Contract Orientation",
+                "Stage 6: Universal Ethical Principles"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "moral_kohlberg_4",
+            "type": "content",
+            "title": "Level 2: Conventional Morality (Stages 3 & 4)",
+            "content": "# Level 2: Conventional Morality\n\nCharacteristic of most adolescents and average adults. Morality is judged by **maintaining social relationships, group expectations, and social order**.\n\n## Stage 3: Mutual Interpersonal Expectations (\"Good Boy / Nice Girl\")\n- **Focus:** Gaining social approval, affection, and being viewed as a kind, caring person by peers and family.\n- **Pro-Theft Rationale:** *\"Heinz should steal it because a good husband loves his wife and his family will think he is a loving man.\"*\n- **Anti-Theft Rationale:** *\"Heinz shouldn't steal because his family will be ashamed of having a criminal in the family.\"*\n\n## Stage 4: Social System and Conscience (\"Law and Order\")\n- **Focus:** Upholding laws, duties, and social order for the collective welfare of society.\n- **Anti-Theft Rationale:** *\"Heinz cannot steal because if everyone broke laws when they felt justified, society would collapse into anarchy.\"*"
+        },
+        {
+            "id": "moral_kohlberg_5",
+            "type": "content",
+            "title": "Level 3: Postconventional Morality (Stages 5 & 6)",
+            "content": "# Level 3: Postconventional (Principled) Morality\n\nAchieved by only a minority of adults. Morality is defined by **abstract ethical principles, human rights, and social justice** that transcend specific governmental laws.\n\n## Stage 5: Social Contract and Individual Rights\n- **Focus:** Laws are flexible social contracts designed to protect human welfare; if a law violates human rights, it should be democratically reformed.\n- **Pro-Theft Rationale:** *\"The law against stealing was not designed to permit a greedy druggist to let someone die. Human life transcends property laws.\"*\n\n## Stage 6: Universal Ethical Principles\n- **Focus:** Self-chosen, universal abstract principles of justice, human dignity, and equality (e.g., Gandhi, Martin Luther King Jr., Kant's Categorical Imperative).\n- **Pro-Theft Rationale:** *\"A human life possesses intrinsic infinite worth, which commands a categorical moral duty to preserve life above property rights, regardless of legal consequences.\"*"
+        },
+        {
+            "id": "moral_kohlberg_6",
+            "type": "content",
+            "title": "The Invariant Hierarchical Sequence",
+            "content": "# Properties of Kohlberg's Stage Model\n\nKohlberg asserted that his moral stages operate under strict Piagetian developmental rules:\n\n```\n[Preconventional: 1 & 2] ===> [Conventional: 3 & 4] ===> [Postconventional: 5 & 6]\n```\n\n## The Three Invariant Properties:\n1. **Invariant Sequence:** Individuals must pass through each stage in order; no stage can be skipped.\n2. **Hierarchical Integration:** Higher stages integrate and transcend lower stages (a Stage 4 thinker understands Stage 3, but finds it incomplete).\n3. **Universal Applicability:** Kohlberg claimed these stages describe the moral evolution of humans across all world cultures."
+        },
+        {
+            "id": "moral_kohlberg_quiz_2",
+            "type": "quiz",
+            "title": "Conventional vs Postconventional Check",
+            "content": "Evaluate your understanding of Stage 4 and Stage 5 moral reasoning!",
+            "quizQuestion": "An attorney argues that Heinz was morally justified in stealing the drug because 'the fundamental right to human life supersedes legal property rights, and laws must be restructured when they conflict with basic human survival'. What stage does this represent?",
+            "quizOptions": [
+                "Stage 2: Instrumental Exchange",
+                "Stage 4: Law and Order Morality",
+                "Stage 5: Social Contract and Individual Rights",
+                "Stage 1: Punishment Avoidance"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "moral_kohlberg_7",
+            "type": "content",
+            "title": "Carol Gilligan's Critique: The Care Perspective",
+            "content": "# Carol Gilligan: The Ethics of Care (1982)\n\nIn *In a Different Voice*, Carol Gilligan challenged Kohlberg's theory as fundamentally male-biased:\n\n## The Source of Bias:\n- Kohlberg developed his entire theory using an **all-male longitudinal sample of 84 boys**.\n- Under Kohlberg's scoring, women frequently scored at **Stage 3** (focused on relational harmony and care), while men scored at **Stage 4** (focused on abstract legal rules), falsely painting women as morally inferior!\n\n## Justice vs. Care Perspectives:\n- **Justice Perspective (Male-Biased):** Emphasizes individual autonomy, abstract rights, fairness, and legal rules.\n- **Care Perspective (Female-Biased):** Emphasizes interpersonal connection, compassion, responsiveness to human suffering, and preserving relationships."
+        },
+        {
+            "id": "moral_kohlberg_8",
+            "type": "content",
+            "title": "Moral Reasoning vs. Moral Action: The Gap",
+            "content": "# The Moral Reasoning-Action Gap\n\nDoes scoring at Stage 5 on Kohlberg's test guarantee that a person will actually behave ethically in real life?\n\n## The Disconnect:\n- Research shows only a **weak to moderate correlation ($r = approx 0.30$)** between Kohlbergian moral reasoning scores and actual moral behavior!\n- Individuals who articulate brilliant Stage 5 human-rights philosophies frequently cheat on taxes, engage in marital infidelity, and look away during real-world bullying.\n\n## Why the Gap Exists:\n- Real moral behavior is governed by **situational pressures, emotional arousal, social conformity, and moral self-identity**, not merely abstract cognitive reasoning."
+        },
+        {
+            "id": "moral_kohlberg_9",
+            "type": "content",
+            "title": "Cross-Cultural Critiques (Shweder & Snarey)",
+            "content": "# Cultural Bias in Kohlberg's Model\n\nAnthropologist Richard Shweder and John Snarey demonstrated that Kohlberg's postconventional stages reflect Western liberal democratic philosophy:\n\n## The Western Bias:\n- In rural collectivistic villages (India, Papua New Guinea, Kenya), moral adults rarely score above Stage 3 or 4.\n- **Why?** In these cultures, fulfilling communal duties, honoring spiritual harmony, and filial piety are viewed as the **highest moral pinnacle**, not an inferior stepping stone to individualistic social contract theory!\n- Proved that Kohlberg's Stage 5/6 glorifies Western individual rights over communal responsibility."
+        },
+        {
+            "id": "moral_kohlberg_quiz_3",
+            "type": "quiz",
+            "title": "Gilligan & Cultural Critiques Check",
+            "content": "Test your mastery of Carol Gilligan's critique and cross-cultural limitations!",
+            "quizQuestion": "In her landmark critique of Kohlberg, what distinct moral orientation did Carol Gilligan argue was undervalued by Kohlberg's justice-focused scoring system?",
+            "quizOptions": [
+                "The Ethic of Care, prioritizing interpersonal relationships and compassion",
+                "The Law and Order orientation",
+                "The Hedonistic Instrumental Exchange",
+                "The Categorical Imperative"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "moral_kohlberg_10",
+            "type": "content",
+            "title": "The Just Community Schools (Kohlberg's Educational Legacy)",
+            "content": "# Kohlberg's Applied Educational Legacy\n\nIn his later years, Kohlberg moved from laboratory testing to educational reform by founding **Just Community Schools**:\n\n## The Just Community Model:\n- Replaced authoritarian school discipline with participatory democracy.\n- Students and teachers met in weekly town hall meetings where every individual had an equal vote on school rules, discipline, and ethical dilemmas.\n- **The Mechanism:** Engaging in active democratic debate and peer moral discussion stimulated moral stage advancement by exposing students to reasoning one stage above their own (**The +1 Principle**)."
+        },
+        {
+            "id": "moral_kohlberg_11",
+            "type": "content",
+            "title": "Neuroscience of Moral Dilemmas: The Trolley Problem",
+            "content": "# Joshua Greene: The Dual-Process Brain in Morality\n\nNeuroscientist Joshua Greene utilized fMRI to scan subjects navigating moral dilemmas:\n\n## The Switch Dilemma (Impersonal Moral Dilemma):\n- A runaway trolley is speeding toward 5 workers. You can flip a switch to divert it to a side track where it will kill 1 worker. (*\"Should you flip the switch?\"*)\n- **Brain Activation:** Recruits the **Dorsolateral PFC** (utilitarian, cold cognitive calculation: $5 > 1$; over 85% say yes).\n\n## The Footbridge Dilemma (Personal Moral Dilemma):\n- You are on a bridge. You can push a large man off the bridge to stop the trolley and save the 5 workers.\n- **Brain Activation:** Triggers massive, violent activation in the **Amygdala, Medial PFC, and Anterior Cingulate** (emotional alarm: pushing someone with your bare hands produces instinctive moral aversion; over 85% say NO!)."
+        },
+        {
+            "id": "moral_kohlberg_12",
+            "type": "content",
+            "title": "Evaluating the Legacy of Lawrence Kohlberg",
+            "content": "# The Enduring Significance of Kohlberg\n\nDespite valid critiques, Kohlberg's contributions transformed developmental psychology:\n\n## Enduring Breakthroughs:\n1. Proved that children are active moral philosophers who construct ethical concepts through social negotiation.\n2. Established that moral development extends across the entire adolescent and adult lifespan.\n3. Shifted developmental focus from superficial behavioral compliance to the deep cognitive justifications underlying human choices."
+        },
+        {
+            "id": "moral_kohlberg_quiz_4",
+            "type": "quiz",
+            "title": "Trolley Dilemmas & Neural Morality Check",
+            "content": "Verify your understanding of Joshua Greene's dual-process neuroscience of morality!",
+            "quizQuestion": "In Joshua Greene's fMRI studies on the Trolley Problem, why do participants overwhelmingly refuse to physically push a man off a footbridge to save five people, even though they will pull a mechanical switch to achieve the same utilitarian math?",
+            "quizOptions": [
+                "Pushing someone with bare hands triggers an intense emotional limbic alarm in the amygdala and medial prefrontal cortex",
+                "Participants lack formal operational deductive reasoning",
+                "The footbridge dilemma completely disables the Default Mode Network",
+                "Participants suffer from moral disengagement"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "moral_kohlberg_13",
+            "type": "content",
+            "title": "Moral Identity: Blasi's Self-Model",
+            "content": "# Augusto Blasi: Moral Identity\n\nAugusto Blasi resolved the \"reasoning-action gap\" by introducing the construct of **Moral Identity**:\n\n## The Core Theory:\n- Moral reasoning leads to moral action only if being a moral person is central to an individual's **core self-concept**.\n- When moral values are central to identity, acting immorally threatens self-integrity, compelling the person to act ethically despite personal danger or social disapproval."
+        },
+        {
+            "id": "moral_kohlberg_14",
+            "type": "content",
+            "title": "Contemporary Synthesis in Moral Psychology",
+            "content": "# Modern Integration of Moral Development\n\nToday's moral developmentalists integrate Kohlberg's cognitive reasoning with emotional intuition, identity, and neurobiology:\n- Moral behavior is neither purely rational calculation (Kohlberg) nor purely blind emotion (Haidt).\n- It is a dynamic synthesis where instantaneous emotional intuitions are continually challenged, calibrated, and justified by reflective cognitive reasoning."
+        },
+        {
+            "id": "moral_kohlberg_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Kohlberg's Theory\n\n## Core Principles Mastered:\n\n### 1. Three Levels and Six Stages\n- **Level 1 (Preconventional):** Stage 1 (Punishment/Obedience) & Stage 2 (Instrumental Exchange).\n- **Level 2 (Conventional):** Stage 3 (Good Boy/Nice Girl) & Stage 4 (Law & Order).\n- **Level 3 (Postconventional):** Stage 5 (Social Contract) & Stage 6 (Universal Principles).\n\n### 2. Methodological Realities\n- Assessed via the Heinz Dilemma; focus is on the structure of reasoning, not the action.\n- Invariant hierarchical sequence; Piagetian equilibration.\n\n### 3. Major Critiques\n- Gilligan's Ethic of Care (justice vs. care bias).\n- Cultural bias toward Western individual rights over communal duty.\n- The reasoning-action gap resolved through Blasi's Moral Identity.\n\n> **Up Next:** Explore alternative modern models in **Alternative Theories of Moral Development**!"
+        }
+    ]
+}

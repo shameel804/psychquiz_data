@@ -1,0 +1,155 @@
+{
+    "id": "learn_moral_other",
+    "topicId": "moral_other",
+    "topicTitle": "Alternative Theories of Moral Development",
+    "description": "Explore alternative modern frameworks of moral development, analyzing Gilligan's care ethics, Turiel's Social Domain Theory, Jonathan Haidt's Moral Foundations Theory, and evolutionary roots of morality.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "moral_other_1",
+            "type": "content",
+            "title": "Beyond Kohlberg: The Modern Moral Landscape",
+            "content": "# Beyond Kohlbergian Rationalism\n\nWhile Lawrence Kohlberg viewed morality as a slow, deliberate march of conscious cognitive reasoning about justice, modern moral psychology has expanded radically.\n\n## Major Theoretical Alternatives:\n1. **Carol Gilligan's Care Ethics:** Grounding morality in interpersonal connection and empathy.\n2. **Elliot Turiel's Social Domain Theory:** Disentangling moral transgressions from societal conventions.\n3. **Jonathan Haidt's Social Intuitionist Model & Moral Foundations:** Demonstrating that moral judgment is driven by rapid gut intuitions, with reasoning acting as a post-hoc press secretary.\n4. **Evolutionary & Primate Roots:** Tracing human morality to ancestral cooperation and primate fairness."
+        },
+        {
+            "id": "moral_other_2",
+            "type": "content",
+            "title": "Gilligan's Model of Female Moral Development",
+            "content": "# Carol Gilligan's Developmental Sequence\n\nIn *In a Different Voice*, Gilligan outlined three developmental stages of the **Ethic of Care**, charting how women navigate the tension between self and others:\n\n```\n[Stage 1: Preconventional (Orientation to Individual Survival)]\nFocus exclusively on what is best for oneself; self-preservation.\n                          |\n                          v\n[Stage 2: Conventional (Goodness as Self-Sacrifice)]\nEquating morality with total self-abnegation and caring for others at the expense of self.\n                          |\n                          v\n[Stage 3: Postconventional (The Morality of Nonviolence)]\nIntegrating care for others WITH care for oneself; recognizing that harming oneself is also immoral!\n```\n\n## The Abortion Decision Study:\n- Interviewed women contemplating abortion; demonstrated that ethical dilemmas are experienced as relational crises of competing responsibilities rather than abstract mathematical justice puzzles."
+        },
+        {
+            "id": "moral_other_3",
+            "type": "content",
+            "title": "Social Domain Theory (Elliot Turiel)",
+            "content": "# Elliot Turiel's Social Domain Theory\n\nElliot Turiel (1983) challenged Kohlberg's claim that young children are purely preconventional. He showed that children as young as **3 years old** sharply distinguish between two distinct social domains:\n\n## The Three Social Domains:\n\n| Domain | Definition | Characteristics | Real-World Example |\n|---|---|---|---|\n| **1. Moral Domain** | Principles of justice, rights, welfare, and preventing physical/emotional harm. | **Universal, inalterable, authority-independent.** | Pushing a classmate off a swing; hitting; stealing. |\n| **2. Societal / Conventional Domain** | Arbitrary rules, customs, and traditions established to maintain order. | **Context-dependent, alterable by authority.** | Raising your hand to speak; wearing a school uniform. |\n| **3. Psychological / Personal Domain** | Private choices and individual autonomy. | **Subject to personal jurisdiction.** | Choosing a hairstyle, favorite color, or friends. |"
+        },
+        {
+            "id": "moral_other_quiz_1",
+            "type": "quiz",
+            "title": "Care Ethics & Social Domains Check",
+            "content": "Verify your understanding of Gilligan's stages and Turiel's social domains!",
+            "quizQuestion": "In Elliot Turiel's Social Domain Theory, a 4-year-old child explains that hitting a classmate on the playground would still be wrong even if the teacher announced that hitting is now allowed. What domain does this represent?",
+            "quizOptions": [
+                "The Conventional Domain",
+                "The Moral Domain (universal and authority-independent)",
+                "The Personal Choice Domain",
+                "The Instrumental Preconventional Domain"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "moral_other_4",
+            "type": "content",
+            "title": "Moral vs. Conventional Transgressions in Practice",
+            "content": "# Testing Social Domain Boundaries (Judith Smetana)\n\nJudith Smetana conducted extensive cross-cultural interviews with toddlers and preschoolers across diverse nations:\n\n## The Criterion Judgments:\nChildren evaluated transgressions across four diagnostic criteria:\n1. **Permissibility:** Is it okay to do?\n2. **Seriousness:** How bad is it?\n3. **Rule Contingency:** Would it be okay if there were no rule against it?\n4. **Authority Independence:** If the principal or teacher says it's allowed, is it okay?\n\n## The Robust Finding:\n- Children across the globe judge moral transgressions (hitting, biting, stealing) as significantly more serious, universally wrong, and wrong even if teachers permit it!\n- Directly refutes Kohlberg's claim that young children judge morality based purely on adult obedience."
+        },
+        {
+            "id": "moral_other_5",
+            "type": "content",
+            "title": "Jonathan Haidt's Social Intuitionist Model",
+            "content": "# The Social Intuitionist Model (Jonathan Haidt, 2001)\n\nIn *\"The Emotional Dog and Its Rational Tail\"*, Jonathan Haidt revolutionized moral psychology:\n\n```\n[Triggering Event: Taboo Scenario] ---> Instant, Automatic Gut Reaction ---> [MORAL JUDGMENT!]\n                                                    (Intuition)\n                                                        |\n                                      (Post-Hoc Rationalization)\n                                                        v\n                                            [Moral Conscious Reasoning]\n                                            (The \"Press Secretary\")\n```\n\n## The Core Principle:\n- Moral judgment is NOT the result of conscious deliberation.\n- Moral judgment is caused by **rapid, automatic moral intuitions (gut feelings of disgust, anger, or compassion)**.\n- Conscious reasoning occurs *after* the judgment has already been made, acting like a political press secretary defending a pre-determined stance!"
+        },
+        {
+            "id": "moral_other_6",
+            "type": "content",
+            "title": "Moral Dumbfounding: Taboo Scenarios",
+            "content": "# Moral Dumbfounding (Haidt, Bjorklund, & Murphy)\n\nWhat happens when conscious reasoning cannot find a logical justification for a strong moral feeling?\n\n## The Harmless Taboo Scenarios:\n- **The Dog Scenario:** A family's dog is accidentally killed by a car in front of their house. They have heard that dog meat is delicious, so they cook and eat the dog. Nobody else knows; no harm is done.\n- **The Sibling Scenario (Julie and Mark):** Adult brother and sister decide to make love once while on vacation. They use two forms of birth control; it is consensual, enjoyable, kept secret, and deepens their bond.\n\n## The Phenomenon of Moral Dumbfounding:\n- Over 90% of participants immediately declare the behavior **\"completely wrong!\"**\n- When the experimenter systematically disproves every possible harm argument (no pregnancy, no disease, no public scandal), participants stammer and say:\n  * *\"I don't know why, I can't explain it, I just know it's WRONG!\"*\n- Proves intuition precedes and operates independently of reasoning."
+        },
+        {
+            "id": "moral_other_quiz_2",
+            "type": "quiz",
+            "title": "Social Intuitionism & Dumbfounding Check",
+            "content": "Evaluate your understanding of Haidt's Social Intuitionist Model and moral dumbfounding!",
+            "quizQuestion": "In Jonathan Haidt's Social Intuitionist Model, what is the phenomenon where individuals cling stubbornly to a moral condemnation even after all factual harm arguments have been systematically disproven?",
+            "quizOptions": [
+                "Cognitive Dissonance",
+                "Moral Dumbfounding",
+                "Egocentric Centration",
+                "The Flynn Effect"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "moral_other_7",
+            "type": "content",
+            "title": "Moral Foundations Theory: The Six Moral Taste Buds",
+            "content": "# Moral Foundations Theory (Haidt & Graham)\n\nHaidt proposed that human morality is built on evolutionary \"moral taste buds\"\u2014six innate intuitive foundations:\n\n```\n1. [CARE / HARM]          ---> Sensitivity to suffering; empathy; protecting the vulnerable.\n2. [FAIRNESS / CHEATING]  ---> Proportionality, justice, reciprocal altruism, avoiding freeloaders.\n3. [LOYALTY / BETRAYAL]   ---> Patriotism, sacrifice for the in-group, defending the team.\n4. [AUTHORITY / SUBVERSION]--> Respect for legitimate hierarchy, elders, tradition, and order.\n5. [SANCTITY / DEGRADATION]-> Disgust, bodily purity, sacredness, revulsion toward contamination.\n6. [LIBERTY / OPPRESSION]  ---> Resentment of bullies, tyrants, and oppressive domination.\n```\n\n## Political Profiles:\n- **Political Liberals / Progressives:** Rely overwhelmingly on **Care** and **Fairness** (as equality).\n- **Political Conservatives:** Distribute moral judgment across all **Six Foundations** equally."
+        },
+        {
+            "id": "moral_other_8",
+            "type": "content",
+            "title": "Evolutionary Morality: Primate Roots (Frans de Waal)",
+            "content": "# The Evolutionary Roots of Morality (Frans de Waal)\n\nIs human morality an artificial cultural veneer, or does it have deep evolutionary roots in our primate cousins?\n\n## Two Pillars of Primate Morality:\n1. **Empathy & Consolation:** Chimpanzees and bonobos embrace, groom, and console distressed troop members who have lost a fight.\n2. **Inequity Aversion (The Cucumber & Grape Experiment; Brosnan & de Waal, 2003):**\n   - Two capuchin monkeys performed a simple task of handing a rock to a researcher.\n   - **Monkey 1** was rewarded with a slice of **cucumber**.\n   - **Monkey 2** performed the identical task and received a sweet **grape**!\n   - When Monkey 1 was offered cucumber again, it threw the cucumber at the researcher's face, shook the cage, and slammed the ground in righteous indignation!\n   - Proves a sense of **fairness and resentment of unfair inequality** evolved millions of years before human philosophy."
+        },
+        {
+            "id": "moral_other_9",
+            "type": "content",
+            "title": "Infant Morality: The Yale Baby Lab (Paul Bloom & Karen Wynn)",
+            "content": "# The Moral Life of Babies (Paul Bloom & Karen Wynn)\n\nAre human infants born as amoral \"blank slates\", or do they possess an innate moral sense?\n\n## The Puppet Helper vs. Hinderer Paradigm:\n- 3-to-6-month-old infants watched a puppet show:\n  * A \"Climber\" circle tries to climb a steep hill.\n  * A \"Helper\" triangle pushes the Climber up the hill.\n  * A \"Hinderer\" square shoves the Climber down the hill.\n\n```\n[Infant Presented with Tray of Puppets]:\n- Over 80% of 3-to-6-month-old infants reach out and choose the HELPER puppet!\n- Infants look with distress at the hinderer puppet and prefer characters that punish the hinderer!\n```\n\n## The Evolutionary Dark Side:\n- While infants have an innate preference for pro-social helpers, they also exhibit an innate **in-group bias**\u2014preferring puppets who like the same snacks (graham crackers vs. green beans) and favoring puppets who mistreat out-group characters!"
+        },
+        {
+            "id": "moral_other_quiz_3",
+            "type": "quiz",
+            "title": "Moral Foundations & Infant Morality Check",
+            "content": "Test your mastery of Moral Foundations Theory and infant helper/hinderer experiments!",
+            "quizQuestion": "In Paul Bloom's Yale Baby Lab experiments, what behavioral choice made by 3-to-6-month-old infants demonstrated an innate biological foundation for moral evaluation?",
+            "quizOptions": [
+                "Infants reached exclusively for whichever puppet had the brightest primary color",
+                "Infants overwhelmingly reached for and preferred the 'Helper' puppet who assisted the climber rather than the 'Hinderer' who shoved it down",
+                "Infants refused to look at any puppets until age two",
+                "Infants exhibited the Babinski reflex whenever puppets moved"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "moral_other_10",
+            "type": "content",
+            "title": "Comparing Moral Theories Matrix",
+            "content": "# Theoretical Comparison of Moral Paradigms\n\nContrasting the dominant alternative models of moral development:\n\n| Theoretical Dimension | Kohlberg Cognitive Stage | Gilligan Ethic of Care | Turiel Social Domain | Haidt Moral Foundations |\n|---|---|---|---|---|\n| **Primary Engine** | Rational cognitive logic | Relational empathy | Domain classification | Automatic emotional intuitions |\n| **Core Currency** | Justice and individual rights | Care, compassion, connection | Welfare vs. Social convention | Six moral taste buds (Care, Sanctity, etc.) |\n| **View of Reasoning** | Causal engine of moral judgment | Voice of connection | Reflective domain appraisal | Post-hoc press secretary rationalizing gut |\n| **Child Capabilities** | Preconventional; amoral | Socialized into caring | Distinguishes morality from convention by age 3 | Innate evolutionary moral intuitions |\n| **Cultural Stance** | Universal invariant hierarchy | Female voice neglected | Universal domain architecture | Culturally diverse foundation weightings |"
+        },
+        {
+            "id": "moral_other_11",
+            "type": "content",
+            "title": "Neuroscience of Moral Foundations",
+            "content": "# Neuroanatomical Signatures of Moral Foundations\n\nModern fMRI maps distinct moral taste buds to separate neural circuits:\n\n## Neural Mapping:\n- **Care / Harm Foundation:** Amygdala, Ventromedial Prefrontal Cortex, and Insula (empathic pain sharing).\n- **Fairness / Cheating:** Dorsolateral Prefrontal Cortex and Anterior Insula (resentment of unfair economic splits in Ultimatum Games).\n- **Sanctity / Degradation:** Anterior Insula and Basal Ganglia (the visceral gustatory and olfactory disgust circuit).\n- **Authority & Loyalty:** Temporal Poles and Superior Temporal Sulcus (social hierarchy, group coordination, and theory of mind)."
+        },
+        {
+            "id": "moral_other_12",
+            "type": "content",
+            "title": "Political Psychology and Moral Polarization",
+            "content": "# Moral Foundations in Political Conflict\n\nWhy can't political partisans across modern democracies agree on fundamental issues?\n\n## The Linguistic and Moral Asymmetry:\n- Partisans are not divided simply by differing policies; they live in different **moral matrices**!\n- When a conservative talks about immigration through the lenses of **Loyalty**, **Authority**, and **Sanctity**, a liberal hears only heartless lack of **Care** and **Fairness**.\n\n## Moral Reframing (Robb Willer):\n- To persuade political opponents, arguments must be framed in **their** moral foundations, not your own!\n- *Example:* Framing environmental conservation in terms of **Sanctity and Purity** (preserving God's clean, unpolluted creation) dramatically increases conservative support for green policies."
+        },
+        {
+            "id": "moral_other_quiz_4",
+            "type": "quiz",
+            "title": "Neural Morality & Political Reframing Check",
+            "content": "Verify your understanding of moral neuroanatomy and political framing!",
+            "quizQuestion": "Which brain structure, historically dedicated to processing visceral physical disgust from rotten food or toxic smells, is specifically activated during violations of Haidt's Sanctity/Purity moral foundation?",
+            "quizOptions": [
+                "The Anterior Insula",
+                "The Primary Visual Cortex",
+                "The Occipital Pole",
+                "The Cerebellar Vermis"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "moral_other_13",
+            "type": "content",
+            "title": "Applied Ethics: Nurturing Moral Empathy",
+            "content": "# Fostering Moral Growth in Practice\n\nHow do educators and parents cultivate prosocial moral foundations?\n\n## Evidence-Based Interventions:\n1. **Inductive Discipline (Martin Hoffman):** Explaining the direct emotional consequences of a child's actions on victims (*\"Look at Sarah; crying because your push hurt her arm\"*), fostering authentic empathy rather than fear of punishment.\n2. **Perspective-Taking Literature:** Reading literary fiction activates the theory of mind network (mPFC, TPJ), expanding the circle of moral concern.\n3. **Inter-Group Contact (Gordon Allport):** Collaborative, cooperative contact with members of out-groups humanizes opponents, disarming the tribal Loyalty/Betrayal reflex."
+        },
+        {
+            "id": "moral_other_14",
+            "type": "content",
+            "title": "The Evolution of the Expanding Moral Circle",
+            "content": "# The Expanding Moral Circle (Peter Singer)\n\nHow has human morality evolved over historical epochs?\n\n## Expanding In-Group Boundaries:\n\n```\n[Early Hunter-Gatherers]:   Moral circle restricted strictly to the biological Kin / Tribe\n                                         |\n                                         v\n[Agricultural Civilizations]: Moral circle expands to the Nation / Religious Group\n                                         |\n                                         v\n[Modern Global Era]:          Moral circle encompasses All Humans (Universal Human Rights)\n                                         |\n                                         v\n[Contemporary Frontier]:      Expanding to Sentient Non-Human Animals & Future Generations\n```\n\n- Humanity's greatest moral achievement has been leveraging reasoning and empathy to expand the circle of moral concern beyond the evolutionary confines of our ancestral tribe."
+        },
+        {
+            "id": "moral_other_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Alternative Theories of Moral Development\n\n## Core Principles Mastered:\n\n### 1. Gilligan's Care Perspective\n- Ethic of Care centered on relationships and nonviolence, balancing care for others with care for self.\n\n### 2. Social Domain Theory (Turiel)\n- Distinguishes Moral (harm/justice; universal, authority-independent) from Societal/Conventional and Personal domains by age 3.\n\n### 3. Social Intuitionism & Moral Foundations (Haidt)\n- Moral Dumbfounding proves gut intuition precedes post-hoc reasoning.\n- Six Foundations: Care, Fairness, Loyalty, Authority, Sanctity, Liberty; explain political polarization.\n\n### 4. Evolutionary & Developmental Roots\n- De Waal's primate fairness (cucumber vs. grape inequity aversion).\n- Yale Baby Lab proves infants prefer pro-social helpers over anti-social hinderers.\n- Singer's expanding moral circle expands empathy across history.\n\n> **Up Next:** Explore real-world behavioral expressions in **Prosocial & Antisocial Behavior**!"
+        }
+    ]
+}

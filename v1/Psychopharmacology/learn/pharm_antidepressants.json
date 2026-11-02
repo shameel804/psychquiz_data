@@ -1,0 +1,155 @@
+{
+    "id": "learn_pharm_antidepressants",
+    "topicId": "pharm_antidepressants",
+    "topicTitle": "Antidepressants",
+    "description": "Understand the clinical psychopharmacology of antidepressants including SSRIs, SNRIs, TCAs, MAOIs, and novel agents",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "pharm_antidepressants_1",
+            "type": "content",
+            "title": "Introduction to Antidepressants",
+            "content": "# Foundations of Antidepressant Pharmacology\n\n**Antidepressants** are psychiatric medications primarily engineered to treat Major Depressive Disorder (MDD), anxiety disorders, OCD, PTSD, and chronic neuropathic pain conditions.\n\n## The Monoamine Hypothesis of Depression\n- Formulated in the 1960s (Schildkraut, Coppen).\n- Posited that depression is caused by a functional depletion of monoamine neurotransmitters:\n  - **Serotonin (5-HT)**: Regulates mood, sleep, appetite, and impulse control.\n  - **Norepinephrine (NE)**: Regulates arousal, alertness, vigilance, and energy.\n  - **Dopamine (DA)**: Drives motivation, pleasure, reward salience, and motor tone.\n\n## The Neuroplasticity Paradigm\nModern psychopharmacology recognizes that monoamine levels rise within hours of drug ingestion, but clinical therapeutic benefits require 2 to 6 weeks. This latency is explained by downstream neuroplastic adaptations: enhanced **BDNF** (Brain-Derived Neurotrophic Factor) gene expression, increased hippocampal neurogenesis, and dendritic spine remodeling."
+        },
+        {
+            "id": "pharm_antidepressants_2",
+            "type": "content",
+            "title": "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+            "content": "# SSRIs: First-Line Pharmacotherapy\n\n**Selective Serotonin Reuptake Inhibitors (SSRIs)** represent the first-line pharmacotherapy worldwide due to their favorable safety profile and tolerability in overdose.\n\n## Common SSRIs:\n- **Fluoxetine (Prozac)**: Long half-life (active metabolite norfluoxetine t1/2 = 7-15 days); activating profile; minimal discontinuation syndrome.\n- **Sertraline (Zoloft)**: Mild dopamine transporter (DAT) inhibition; well-tolerated in cardiac patients.\n- **Escitalopram (Lexapro)**: Purest serotonin transporter (SERT) inhibitor; minimal cytochrome P450 drug interactions.\n- **Citalopram (Celexa)**: Racemic predecessor to escitalopram; carries FDA dose warning regarding dose-dependent QTc prolongation.\n- **Paroxetine (Paxil)**: Potent SERT inhibitor with anticholinergic properties; highest rate of sedation, sexual dysfunction, weight gain, and discontinuation syndrome.\n\n## Mechanism of Action:\nBinds allosterically to the presynaptic SERT protein, blocking serotonin reabsorption and amplifying 5-HT concentration in the synaptic cleft."
+        },
+        {
+            "id": "pharm_antidepressants_3",
+            "type": "content",
+            "title": "SSRI Side Effects and Management",
+            "content": "# Adverse Effects of SSRIs\n\nWhile SSRIs lack the lethal cardiac toxicity of older antidepressants, their stimulation of various 5-HT receptor subtypes causes specific adverse effects.\n\n## Receptor-Mediated Side Effects:\n- **5-HT2A Stimulation**: Sexual dysfunction (decreased libido, erectile dysfunction, anorgasmia in 30% to 50% of patients), insomnia, emotional blunting.\n- **5-HT3 Stimulation**: Gastrointestinal distress (nausea, diarrhea, abdominal cramping; 90% of serotonin receptors reside in the gut enteric nervous system).\n- **5-HT2C Stimulation**: Initial agitation, heightened anxiety, and restlessness during the first 1-2 weeks.\n\n## Management Strategies:\n- **Start Low, Go Slow**: Titrate dose gradually to minimize GI distress.\n- **Adjunctive Antidotes**: Adding bupropion or sildenafil for SSRI-induced sexual dysfunction.\n- **Black Box Warning**: FDA warning regarding increased risk of suicidal ideation and behavior in children, adolescents, and young adults under age 25 during initiation."
+        },
+        {
+            "id": "pharm_antidepressants_quiz_1",
+            "type": "quiz",
+            "title": "SSRI Pharmacology Check",
+            "content": "Verify your understanding of SSRIs.",
+            "quizQuestion": "Which SSRI has the longest elimination half-life due to its active metabolite, making it least likely to cause a severe discontinuation syndrome?",
+            "quizOptions": [
+                "Paroxetine",
+                "Fluoxetine",
+                "Fluvoxamine",
+                "Venlafaxine"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antidepressants_4",
+            "type": "content",
+            "title": "Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)",
+            "content": "# SNRIs: Dual-Action Agents\n\n**SNRIs** block both the serotonin transporter (SERT) and norepinephrine transporter (NET), elevating both neurotransmitters in synaptic clefts.\n\n## Key SNRI Agents:\n- **Venlafaxine (Effexor)**: Low doses (< 150 mg/day) act almost exclusively as an SSRI; higher doses recruit norepinephrine reuptake inhibition.\n- **Duloxetine (Cymbalta)**: Balanced dual SERT/NET inhibition across its dosing range; FDA-approved for MDD, GAD, diabetic peripheral neuropathic pain, and fibromyalgia.\n- **Desvenlafaxine (Pristiq)**: Active metabolite of venlafaxine; minimal hepatic CYP2D6 metabolism.\n\n## Clinical Profile and Indications:\n- Superior in treating depression with prominent physical pain, lethargy, psychomotor retardation, and chronic fatigue.\n- **Dose-Dependent Hypertension**: Venlafaxine can elevate diastolic blood pressure due to noradrenergic peripheral vasoconstriction; blood pressure monitoring is mandatory."
+        },
+        {
+            "id": "pharm_antidepressants_5",
+            "type": "content",
+            "title": "Tricyclic Antidepressants (TCAs)",
+            "content": "# Tricyclic Antidepressants (TCAs)\n\nDiscovered in the late 1950s (Imipramine), **TCAs** are potent dual SERT and NET inhibitors but suffer from 'dirty receptor' binding profiles.\n\n## Representative TCAs:\n- **Tertiary Amines** (Imipramine, Amitriptyline, Clomipramine): Primarily inhibit SERT; clomipramine remains the most potent pharmacological agent for OCD.\n- **Secondary Amines** (Nortriptyline, Desipramine): Primarily inhibit NET; better tolerated with lower anticholinergic burden.\n\n## Off-Target Receptor Blockade:\n- **Muscarinic Acetylcholine (M1) Blockade**: Dry mouth, blurred vision, severe constipation, urinary retention, cognitive confusion.\n- **Histamine (H1) Blockade**: Pronounced sedation and rapid weight gain.\n- **Alpha-1 Adrenergic Blockade**: Orthostatic hypotension, reflex tachycardia, and fall risk in the elderly."
+        },
+        {
+            "id": "pharm_antidepressants_6",
+            "type": "content",
+            "title": "TCA Toxicity and Overdose Lethality",
+            "content": "# TCA Toxicity: The Three Cs\n\nUnlike SSRIs and SNRIs, TCAs have a **narrow therapeutic index** and are notoriously lethal in overdose.\n\n## Mechanism of Lethality: Fast Sodium Channel Blockade\n- TCAs block cardiac fast voltage-gated sodium channels in the myocardium.\n- This prolongs ventricular depolarization, widening the QRS complex on ECG (> 100 ms predicts seizures; > 160 ms predicts lethal ventricular arrhythmias).\n\n## The Classic Triad of Overdose ('The Three Cs'):\n1. **Cardiotoxicity**: Sinus tachycardia, QRS widening, ventricular tachycardia, torsades de pointes, cardiac arrest.\n2. **Convulsions**: Generalized tonic-clonic seizures due to GABA-A antagonism and anticholinergic toxicity.\n3. **Coma**: Profound CNS depression, respiratory failure, and death.\n\n## Emergency Antidote:\n- **Intravenous Sodium Bicarbonate (NaHCO3)**: Alkalinizes serum pH and provides sodium ions to overcome competitive sodium channel blockade."
+        },
+        {
+            "id": "pharm_antidepressants_quiz_2",
+            "type": "quiz",
+            "title": "TCA Overdose Management Check",
+            "content": "Assess emergency management of TCA toxicity.",
+            "quizQuestion": "What is the primary first-line pharmacological antidote administered to reverse cardiac toxicity and QRS widening in acute TCA overdose?",
+            "quizOptions": [
+                "Intravenous Flumazenil",
+                "Intravenous Sodium Bicarbonate",
+                "Naloxone subcutaneous injection",
+                "Activated charcoal via lavage only"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antidepressants_7",
+            "type": "content",
+            "title": "Monoamine Oxidase Inhibitors (MAOIs)",
+            "content": "# Monoamine Oxidase Inhibitors (MAOIs)\n\n**MAOIs** inhibit the mitochondrial enzyme monoamine oxidase, preventing the intracellular breakdown of serotonin, norepinephrine, and dopamine.\n\n## MAO Enzyme Isoforms:\n- **MAO-A**: Metabolizes 5-HT, NE, DA, and dietary tyramine. (Inhibition produces antidepressant effect).\n- **MAO-B**: Selectively metabolizes DA, phenylethylamine, and benzylamine. (Inhibition used in Parkinson's disease).\n\n## Classical Irreversible MAOIs:\n- **Phenelzine (Nardil)** and **Tranylcypromine (Parnate)**: Irreversibly destroy both MAO-A and MAO-B ('suicide inhibitors'); requires up to 2 weeks for the body to synthesize new enzymes.\n- **Selegiline Transdermal Patch (Emsam)**: Bypasses gut MAO-A at low doses (6 mg/24h), reducing dietary restrictions while treating depression.\n\n## Clinical Niche:\nHighly effective in treatment-resistant depression and atypical depression (characterized by mood reactivity, hyperphagia, hypersomnia, and leaden paralysis)."
+        },
+        {
+            "id": "pharm_antidepressants_8",
+            "type": "content",
+            "title": "The Hypertensive Crisis and Tyramine Diet",
+            "content": "# MAOIs: The Cheese Effect\n\nWhen non-selective MAOIs are prescribed, strict dietary adherence is required to prevent a fatal **hypertensive crisis**.\n\n## The Mechanism of the Tyramine Reaction:\n1. Dietary **tyramine** is present in aged, fermented, or cured foods (aged cheeses, draft beers, cured meats, red wine, soy sauce, fava beans).\n2. Normally, intestinal and hepatic MAO-A destroys dietary tyramine before it reaches systemic circulation.\n3. When MAO-A is irreversibly blocked, intact tyramine enters the bloodstream and travels to peripheral noradrenergic nerve terminals.\n4. Tyramine acts as a false transmitter, displacing massive quantities of stored norepinephrine into the circulation.\n5. Massive alpha-1 adrenergic stimulation causes acute arterial vasoconstriction, producing malignant hypertension, throbbing occipital headache, intracranial hemorrhage, and myocardial infarction."
+        },
+        {
+            "id": "pharm_antidepressants_9",
+            "type": "content",
+            "title": "Serotonin Syndrome (Serotonin Toxicity)",
+            "content": "# Serotonin Syndrome\n\n**Serotonin Syndrome** is a potentially life-threatening condition caused by excessive intrasynaptic serotonin, typically resulting from combining multiple serotonergic agents (e.g., SSRI + MAOI, or SSRI + Tramadol / St. John's Wort / Linezolid / MDMA).\n\n## Hunter Toxicity Criteria (Diagnostic Triad):\n1. **Neuromuscular Excitation**: Spontaneous clonus, inducible clonus, ocular clonus, hyperreflexia, and shivering.\n2. **Autonomic Instability**: Hyperthermia (often > 40 C), tachycardia, labile blood pressure, diaphoresis, and flushing.\n3. **Altered Mental Status**: Agitation, confusion, delirium, and mania.\n\n## Clinical Distinctions:\n- Hyperreflexia and clonus are hallmark signs distinguishing Serotonin Syndrome from Neuroleptic Malignant Syndrome (which features 'lead-pipe' rigidity and hyporeflexia).\n\n## Treatment:\nDiscontinue offending drugs, aggressive cooling, benzodiazepines for sedation, and the 5-HT2A antagonist **cyproheptadine**."
+        },
+        {
+            "id": "pharm_antidepressants_quiz_3",
+            "type": "quiz",
+            "title": "Serotonin Toxicity Quiz",
+            "content": "Verify clinical assessment of Serotonin Syndrome.",
+            "quizQuestion": "Which clinical physical exam finding is the hallmark diagnostic feature of Serotonin Syndrome according to the Hunter Toxicity Criteria?",
+            "quizOptions": [
+                "Flaccid muscle paralysis",
+                "Lead-pipe cogwheel rigidity",
+                "Spontaneous or inducible clonus and hyperreflexia",
+                "Hypothermia and bradycardia"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "pharm_antidepressants_10",
+            "type": "content",
+            "title": "Atypical Antidepressants: Bupropion & Mirtazapine",
+            "content": "# Atypical Antidepressants\n\nThese agents have distinct pharmacological profiles outside the reuptake inhibition of SERT.\n\n## Bupropion (Wellbutrin):\n- **Mechanism**: Norepinephrine-Dopamine Reuptake Inhibitor (NDRI).\n- **Advantages**: Completely free of serotonergic sexual dysfunction and weight gain; promotes mild weight loss and alertness; approved for smoking cessation (Zyban).\n- **Seizure Risk**: Lowers the seizure threshold in a dose-dependent manner; strictly contraindicated in patients with anorexia nervosa, bulimia, or active seizure disorders.\n\n## Mirtazapine (Remeron):\n- **Mechanism**: Noradrenergic and Specific Serotonergic Antidepressant (NaSSA). Blocks presynaptic central **alpha-2 adrenergic auto- and hetero-receptors**, disinhibiting release of 5-HT and NE. Also potently blocks 5-HT2A, 5-HT2C, 5-HT3, and H1 receptors.\n- **Clinical Profile**: Highly sedating and stimulates intense appetite/weight gain at low doses (7.5-15 mg); useful in elderly depressed patients with insomnia and cachexia."
+        },
+        {
+            "id": "pharm_antidepressants_11",
+            "type": "content",
+            "title": "Serotonin Modulators: Trazodone & Vortioxetine",
+            "content": "# Serotonin Modulators\n\nThese medications combine reuptake inhibition with direct receptor agonism and antagonism.\n\n## Trazodone (Desyrel):\n- **Mechanism**: Serotonin Antagonist and Reuptake Inhibitor (SARI). Potent 5-HT2A antagonist, weak SERT inhibitor, and potent H1 and alpha-1 antagonist.\n- **Clinical Use**: Rarely used as a solo daytime antidepressant due to heavy sedation; widely prescribed off-label in low doses (25-100 mg) as a non-addictive sleep aid.\n- **Rare Adverse Event**: Priapism (prolonged, painful erection without sexual stimulation) requiring urgent urological intervention.\n\n## Vortioxetine (Trintellix):\n- **Mechanism**: Multimodal antidepressant (SERT inhibitor + 5-HT1A agonist + 5-HT3 antagonist).\n- **Benefit**: Demonstrates pro-cognitive benefits in executive function and processing speed in depressed patients."
+        },
+        {
+            "id": "pharm_antidepressants_12",
+            "type": "content",
+            "title": "Rapid-Acting Agents: Ketamine & Esketamine",
+            "content": "# Glutamatergic Breakthrough: Ketamine\n\nFor 60 years, all antidepressants targeted monoamines. In 2019, the FDA approved **intranasal esketamine (Spravato)** for treatment-resistant depression (TRD).\n\n## Mechanism of Action:\n- Non-competitive antagonist of the ionotropic **NMDA (N-methyl-D-aspartate) glutamate receptor**.\n- Disinhibits GABAergic interneurons, causing a rapid glutamate surge.\n- Stimulates post-synaptic **AMPA receptors**, activating intracellular **mTORC1** (mammalian target of rapamycin complex 1) signaling pathways.\n- Leads to rapid synaptogenesis and synthesis of synaptic proteins in the prefrontal cortex within hours.\n\n## Clinical Profile:\n- Produces robust antidepressant and anti-suicidal effects within 2 to 24 hours (compared to 4-6 weeks for SSRIs).\n- Requires monitoring for transient dissociation and blood pressure spikes in certified clinical REMS centers."
+        },
+        {
+            "id": "pharm_antidepressants_quiz_4",
+            "type": "quiz",
+            "title": "Ketamine Pharmacology Check",
+            "content": "Verify knowledge of novel rapid-acting antidepressants.",
+            "quizQuestion": "What is the primary neurobiological target of ketamine and esketamine that mediates their rapid antidepressant effects?",
+            "quizOptions": [
+                "Selective serotonin transporter (SERT)",
+                "NMDA glutamate receptor antagonism",
+                "GABA-A chloride channel opening",
+                "Dopamine D2 receptor agonism"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antidepressants_13",
+            "type": "content",
+            "title": "Antidepressant Discontinuation Syndrome",
+            "content": "# Discontinuation Syndrome (FINISH)\n\nAbrupt cessation or rapid dose tapering of antidepressants (especially agents with short half-lives like paroxetine and venlafaxine) causes **Antidepressant Discontinuation Syndrome**.\n\n## The FINISH Mnemonic:\n- **F - Flu-like symptoms**: Fatigue, headache, lethargy, muscle aches, diaphoresis.\n- **I - Insomnia**: Vivid, disturbing dreams or nightmares.\n- **N - Nausea**: Vomiting, loose stools, abdominal cramping.\n- **I - Imbalance**: Dizziness, vertigo, ataxia, lightheadedness.\n- **S - Sensory disturbances**: Burning sensations, numbness, and pathognomonic 'brain zaps' (electric shock sensations across the skull).\n- **H - Hyperarousal**: Anxiety, irritability, agitation, and crying spells.\n\n## Prevention:\nGradual hyperbolic tapering over weeks or months. Not an addictive craving; reflects neuroreceptor adaptation."
+        },
+        {
+            "id": "pharm_antidepressants_14",
+            "type": "content",
+            "title": "Duration of Treatment and Maintenance",
+            "content": "# Clinical Course and Guidelines\n\nAntidepressant treatment progresses through distinct clinical phases:\n\n```\nNormal Mood +---------------------------------------------------+\n            |                                                   |\n            |     Response       Remission                      |\n            |     (>= 50% drop)  (PHQ-9 <= 4)                   |\nDepression  +-----+--------------+------------------------------+\n            |<-- Acute Phase --->|<-- Continuation Phase ------>|<-- Maintenance Phase -->|\n            |   (6 - 12 weeks)   |       (4 - 9 months)         |   (1 - 5+ years)        |\n```\n\n## Practice Guidelines (APA & CANMAT):\n- **First Single Episode**: Continue medication at full therapeutic dose for 6 to 9 months *after* achieving full remission to prevent relapse.\n- **Recurrent Episodes (>= 2 or 3 episodes)** or high suicide risk: Long-term or indefinite maintenance pharmacotherapy is strongly recommended."
+        },
+        {
+            "id": "pharm_antidepressants_15",
+            "type": "content",
+            "title": "Summary of Antidepressants",
+            "content": "# Antidepressant Pharmacology Summary\n\n## Key Takeaways:\n1. **First-Line SSRIs/SNRIs**: Safest therapeutic index, highly effective for MDD and anxiety disorders.\n2. **TCA Hazards**: Highly effective but lethal in overdose due to cardiac sodium channel blockade; antidote is IV sodium bicarbonate.\n3. **MAOI Restrictions**: Irreversible blockade requires strict avoidance of dietary tyramine to prevent malignant hypertensive crises.\n4. **Serotonin Syndrome**: Emergent toxicity marked by clonus, hyperreflexia, hyperthermia, and autonomic instability.\n5. **Atypical Formulations**: Bupropion preserves sexual function (contraindicated in bulimia/seizures); Mirtazapine stimulates appetite and sleep.\n6. **Glutamate Paradigm**: Ketamine targets NMDA receptors, triggering rapid synaptogenesis within hours."
+        }
+    ]
+}

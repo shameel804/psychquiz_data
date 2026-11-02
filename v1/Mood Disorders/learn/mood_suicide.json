@@ -1,0 +1,155 @@
+{
+    "id": "learn_mood_suicide",
+    "topicId": "mood_suicide",
+    "topicTitle": "Suicide & Self-Harm",
+    "description": "Master suicide risk assessment, lethality factors, differentiation from non-suicidal self-injury (NSSI), and evidence-based crisis intervention protocols",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mood_suicide_1",
+            "type": "content",
+            "title": "Introduction to Suicidology",
+            "content": "# Foundations of Suicidology\n\n**Suicide** is a major global public health crisis, claiming over 700,000 lives annually worldwide (one death every 40 seconds).\n\n## Key Epidemiological Metrics:\n- **Gender Paradox**: In almost all nations, **women have higher rates of suicide attempts** (approx 3 times higher), while **men have significantly higher rates of completed suicide** (approx 3 to 4 times higher).\n  - Driven primarily by men choosing methods of higher lethality (firearms, hanging vs. poisoning).\n- **Age Trends**: Suicide rates peak in older adults (men aged >= 75) and represent the second leading cause of death in youth and young adults (ages 15-29).\n- **Psychiatric Association**: Over 90% of individuals who die by suicide have an underlying psychiatric disorder at the time of death (major mood disorders account for > 60%)."
+        },
+        {
+            "id": "mood_suicide_2",
+            "type": "content",
+            "title": "Terminology and The Columbia Spectrum",
+            "content": "# Suicide Terminology & Definitions\n\nStandardized terminology is legally and clinically essential (CDC & FDA Columbia Classification C-CASA):\n\n## Precise Diagnostic Terms:\n- **Passive Suicidal Ideation**: Wish to be dead or not wake up, without active intent or plans (*'I wish a truck would hit me'*).\n- **Active Suicidal Ideation**: Thinking about killing oneself, with varying degrees of intent or planning.\n- **Suicide Attempt**: Self-directed, potentially injurious behavior with at least some implicit or explicit **intent to die** as a result of the act.\n- **Aborted Attempt**: Person takes steps toward self-harm but stops themselves before physical injury occurs (e.g., holding a bottle of pills to mouth but putting it down).\n- **Interrupted Attempt**: A third party physically intervenes to stop the person from harming themselves.\n\n> **Outdated Language to Avoid:** Never say 'committed suicide' (suggests criminal act; use *'died by suicide'*) or 'successful/failed suicide attempt' (use *'completed suicide'* or *'non-fatal suicide attempt'*)."
+        },
+        {
+            "id": "mood_suicide_3",
+            "type": "content",
+            "title": "Non-Suicidal Self-Injury (NSSI)",
+            "content": "# Non-Suicidal Self-Injury (NSSI)\n\n**NSSI** involves deliberate, direct destruction of body tissue without suicidal intent (DSM-5 Section III condition for further study).\n\n## Clinical Features:\n- Common methods: Cutting, burning, severe scratching, hitting oneself.\n- Typical onset: Early adolescence (12-15 years old).\n\n## Primary Psychological Functions of NSSI:\n1. **Affect Regulation**: Providing rapid relief from intolerable negative emotional tension (physical pain triggers endogenous endorphin release, grounding dissociation).\n2. **Self-Punishment**: Enacting internalized rage, shame, or self-hatred.\n3. **Interpersonal Influence**: Communicating severe distress to caregivers when verbal expression fails.\n\n## Distinguishing NSSI from Suicide Attempts:\n| Feature | NSSI | Suicide Attempt |\n|---------|------|-----------------|\n| Intent | **Zero intent to die**; goal is emotional relief | **Intent to end life** |\n| Lethality | Low medical lethality | Moderate to high medical lethality |\n| Frequency | Frequent, repetitive (often daily/weekly) | Episodic, infrequent |"
+        },
+        {
+            "id": "mood_suicide_quiz_1",
+            "type": "quiz",
+            "title": "Suicide Terminology Check",
+            "content": "Verify knowledge of suicidological definitions.",
+            "quizQuestion": "What is the crucial distinguishing feature that separates Non-Suicidal Self-Injury (NSSI) from a genuine suicide attempt?",
+            "quizOptions": [
+                "The age of the patient at first onset",
+                "The explicit intent to end one's life as a result of the self-directed action",
+                "The presence of an underlying mood disorder",
+                "Whether the action took place in an inpatient psychiatric facility"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_suicide_4",
+            "type": "content",
+            "title": "The Interpersonal Theory of Suicide (Joiner)",
+            "content": "# Thomas Joiner's Interpersonal Theory\n\nDeveloped by **Thomas Joiner**, the Interpersonal Theory of Suicide answers the fundamental question: *Why do people die by suicide?*\n\n## The Core Model:\nTo make a lethal suicide attempt, an individual must possess both the **Desire for Suicide** AND the **Capability for Suicide**:\n\n```\n+------------------------------------+      +------------------------------------+\n|      Perceived Burdensomeness      |  +   |        Thwarted Belongingness      |\n|  ('My death will be worth more     |      |   ('I am alone; no one cares       |\n|   than my life to others')         |      |    about or understands me')       |\n+------------------------------------+      +------------------------------------+\n                                       |\n                                       v\n                          [Active Desire for Suicide]\n                                       |\n                                       +  [Acquired Capability for Suicide]\n                                       v   (fearlessness of death + physical pain tolerance)\n                         [Lethal or Near-Lethal Suicide Attempt]\n```"
+        },
+        {
+            "id": "mood_suicide_5",
+            "type": "content",
+            "title": "The Acquired Capability for Suicide",
+            "content": "# Acquired Capability for Suicide\n\nHuman beings possess an intense, hardwired evolutionary survival instinct. Overcoming the terror of death requires **acquired capability**.\n\n## Mechanisms of Acquisition:\n- Acquired capability develops through **habituation and opponent processes** in response to painful and provocative life experiences.\n- Repeated exposure to pain, injury, and violence desensitizes the nervous system to physical discomfort and extinguishes the intrinsic fear of death.\n\n## Contributing Life Experiences:\n- Prior non-fatal suicide attempts (the strongest single predictor).\n- History of repetitive NSSI (cutting).\n- Combat exposure, handling firearms, or working in emergency trauma.\n- Childhood physical or sexual abuse.\n- High-risk sensation seeking or extreme physical contact sports."
+        },
+        {
+            "id": "mood_suicide_6",
+            "type": "content",
+            "title": "Major Risk Factors for Suicide",
+            "content": "# Comprehensive Suicide Risk Factors\n\nClinicians categorize suicide risk factors into static (unchangeable) and dynamic (modifiable) domains.\n\n## Static Risk Factors:\n- **Prior Suicide Attempt**: The single most potent historical predictor of future death by suicide (30-40 times higher risk).\n- **Family History of Suicide**: Genetic transmission (heritability approx 40-50%) and psychological modeling.\n- **Demographics**: Male sex, older age (>= 75), Caucasian or Indigenous descent, living alone, unmarried or divorced.\n- **Adverse Childhood Experiences (ACEs)**: Severe physical/sexual abuse or neglect.\n\n## Dynamic (Modifiable) Clinical Risk Factors:\n- **Severe Hopelessness**: (Beck Hopelessness Scale score > 9 predicts suicide).\n- **Psychic Pain (Psychache)**: Unbearable psychological anguish (Shneidman).\n- **Active Substance Intoxication**: Disinhibits impulses and clouds judgment.\n- **Acute Sleep Loss / Severe Insomnia**: Disconnects prefrontal cortical control."
+        },
+        {
+            "id": "mood_suicide_quiz_2",
+            "type": "quiz",
+            "title": "Suicide Risk Factors Check",
+            "content": "Assess clinical risk factors for suicide.",
+            "quizQuestion": "Statistically and clinically, what is the single strongest historical predictor of future completed suicide in an individual patient?",
+            "quizOptions": [
+                "Current employment status",
+                "A prior suicide attempt",
+                "Presence of an introverted personality style",
+                "High score on a test of logical reasoning"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_suicide_7",
+            "type": "content",
+            "title": "Immediate Warning Signs: The IS PATH WARM Mnemonic",
+            "content": "# Acute Warning Signs: IS PATH WARM\n\nFormulated by the American Association of Suicidology to alert clinicians and the public to imminent, acute suicide emergencies:\n\n```\n+-------------------------------------------------------------+\n| I - Ideation (expressed or observed active suicide threats) |\n| S - Substance abuse (increased alcohol or illicit drug use) |\n| P - Purposelessness (no reason for living)                  |\n| A - Anxiety (agitation, panic, severe psychic distress)     |\n| T - Trapped (feeling there is no way out)                   |\n| H - Hopelessness (nothing will ever improve)                |\n| W - Withdrawal (from friends, family, and society)          |\n| A - Anger (uncontrolled rage or revenge-seeking)            |\n| R - Recklessness (risky behaviors without regard for self)  |\n| M - Mood changes (dramatic emotional swings)                |\n+-------------------------------------------------------------+\n```\n\n> **The Dangerous Calm:** A sudden, unexpected peaceful calm in a previously agitated, severely depressed patient often indicates they have made a final decision to die and feel relief that their suffering will soon end."
+        },
+        {
+            "id": "mood_suicide_8",
+            "type": "content",
+            "title": "Clinical Assessment Scales: C-SSRS and Columbia Protocol",
+            "content": "# The Columbia-Suicide Severity Rating Scale (C-SSRS)\n\nThe **C-SSRS** is the gold standard, evidence-supported clinical screening tool used in hospitals, clinics, and research worldwide.\n\n## The Stepped Assessment Protocol:\n1. **Wish to be Dead**: 'Have you wished you were dead or could go to sleep and not wake up?'\n2. **Non-Specific Active Suicidal Thoughts**: 'Have you actually had thoughts of killing yourself?'\n3. **Active Suicidal Ideation with Any Methods (Not Plan)**: 'Have you been thinking about how you might do this?'\n4. **Active Suicidal Ideation with Some Intent to Act**: 'Have you had these thoughts and had some intention of acting on them?'\n5. **Active Suicidal Ideation with Specific Plan and Intent**: 'Have you started to work out the details of how to kill yourself, and do you intend to carry out this plan?'\n\n*Affirmative answers to Questions 4 or 5 denote immediate high acute risk requiring urgent emergency intervention.*"
+        },
+        {
+            "id": "mood_suicide_9",
+            "type": "content",
+            "title": "Lethality vs. Intent and Means Restriction",
+            "content": "# Lethality, Intent, and Means Restriction\n\n## The Lethality-Intent Discrepancy:\n- **Intent**: How desperately the person desires to die.\n- **Objective Lethality**: The medical danger of the method chosen.\n- *Example:* A medically naive patient ingests 15 multivitamins believing it is fatal (High Intent, Low Lethality). Another person shoots themselves in the foot intending a cry for help, but severs the femoral artery (Low Intent, High Lethality).\n\n## Means Restriction: The Single Most Effective Public Health Tool\n- Suicidal crises are frequently acute, transient, and ambivalent (lasting minutes to hours).\n- If lethal means are inaccessible during that window, the person rarely substitutes an equally lethal alternative.\n- **Evidence**: Installing bridge barriers, restricting toxic pesticides, blister-packing paracetamol, and safe firearm storage dramatically drop overall population suicide rates."
+        },
+        {
+            "id": "mood_suicide_quiz_3",
+            "type": "quiz",
+            "title": "Means Restriction Check",
+            "content": "Verify understanding of suicide prevention public health strategies.",
+            "quizQuestion": "Why is 'means restriction' (such as bridge barriers or safe firearm storage) considered the single most effective public health suicide prevention intervention?",
+            "quizOptions": [
+                "It cures the underlying genetic cause of mood disorders",
+                "Suicidal crises are often acute and time-limited, and individuals rarely substitute equally lethal alternative means when blocked",
+                "It eliminates all forms of depressive thinking permanently",
+                "It replaces the need for psychiatric emergency hospitalization"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_suicide_10",
+            "type": "content",
+            "title": "The Stanley-Brown Safety Planning Intervention",
+            "content": "# The Stanley-Brown Safety Plan\n\nTraditional 'no-suicide contracts' are clinically ineffective and provide zero legal protection. The **Stanley-Brown Safety Planning Intervention (SPI)** is the evidence-based replacement (reduces suicidal behavior by approx 45%).\n\n## The 6 Step-by-Step Collaborative Protocol:\n1. **Step 1: Warning Signs**: Personal idiosyncratic triggers (thoughts, images, moods, behaviors) signaling a crisis is beginning.\n2. **Step 2: Internal Coping Strategies**: Things I can do by myself to take my mind off problems without contacting anyone (going for a walk, listening to music).\n3. **Step 3: Social Contacts and Settings for Distraction**: Places and people that help take my mind off distress (coffee shop, calling a casual friend).\n4. **Step 4: Trusted Friends / Family for Help**: People I can tell I am in crisis.\n5. **Step 5: Professionals and Agencies to Contact**: Clinician, urgent care, crisis text line, **988 Suicide & Crisis Lifeline**.\n6. **Step 6: Making the Environment Safe**: Explicit removal or locked restriction of firearms, pills, and sharp objects."
+        },
+        {
+            "id": "mood_suicide_11",
+            "type": "content",
+            "title": "Evidence-Based Psychotherapies for Suicide Prevention",
+            "content": "# Specialized Psychotherapies Targeting Suicide\n\nTwo specific psychological modalities demonstrate empirical efficacy in directly reducing suicide attempts:\n\n## 1. Dialectical Behavior Therapy (DBT) (Marsha Linehan):\n- Only psychotherapy proven in multiple randomized controlled trials to reduce completed suicides and suicide attempts in chronically suicidal individuals with borderline personality disorder.\n- Teaches distress tolerance, radical acceptance, and emotional regulation skills.\n\n## 2. Cognitive Therapy for Suicide Prevention (CT-SP) (Gregory Brown & Aaron Beck):\n- Short-term (approx 10 sessions) targeted intervention.\n- Identifies the specific 'suicidal mode' and vulnerabilities.\n- Uses cognitive restructuring, behavioral rehearsal of the safety plan, and relapse prevention simulations (imaginal exposure to crisis cues)."
+        },
+        {
+            "id": "mood_suicide_12",
+            "type": "content",
+            "title": "Pharmacological Interventions with Anti-Suicidal Properties",
+            "content": "# Psychopharmacology: Specific Anti-Suicidal Agents\n\nMost psychiatric medications treat symptoms, but three specific agents exert distinct, evidence-based **anti-suicidal properties** independent of their general symptom effects:\n\n## 1. Lithium Carbonate:\n- Extensive meta-analyses prove lithium reduces completed suicide and attempt rates by **approx 60% to 80%** in Bipolar Disorder and recurrent Major Depression.\n- Unique anti-impulsive, neuroprotective, and anti-aggressive properties.\n\n## 2. Clozapine (Clozaril):\n- The only medication with an explicit **FDA indication for reducing the risk of recurrent suicidal behavior** in schizophrenia and schizoaffective disorder.\n\n## 3. Ketamine and Esketamine:\n- Produce rapid, robust reductions in acute suicidal ideation within **2 to 24 hours**."
+        },
+        {
+            "id": "mood_suicide_quiz_4",
+            "type": "quiz",
+            "title": "Anti-Suicidal Pharmacotherapy Check",
+            "content": "Verify knowledge of medications with proven anti-suicidal efficacy.",
+            "quizQuestion": "Which medication is specifically FDA-approved for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder?",
+            "quizOptions": [
+                "Haloperidol",
+                "Clozapine",
+                "Fluoxetine",
+                "Lorazepam"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_suicide_13",
+            "type": "content",
+            "title": "Crisis Intervention and Involuntary Commitment",
+            "content": "# Inpatient Admission and Legal Standards\n\nWhen acute suicide risk is imminent and outpatient safety planning is insufficient, emergency psychiatric evaluation is required.\n\n## Clinical Indicators for Immediate Hospitalization:\n- Presence of an active, highly lethal suicide plan with explicit intent and available means.\n- Presence of acute psychosis, command auditory hallucinations instructing suicide, or severe delirium.\n- Complete collapse of social support, inability to cooperate with safety planning, or severe intoxication.\n\n## Involuntary Psychiatric Hold Standards:\n- Legal mechanisms (e.g., Baker Act in Florida, 5150 in California) allow temporary detention for psychiatric evaluation if three criteria are met:\n  1. The individual has a diagnosed or suspected mental illness.\n  2. The individual poses an **imminent danger to self**, danger to others, or is gravely disabled.\n  3. The individual refuses voluntary evaluation."
+        },
+        {
+            "id": "mood_suicide_14",
+            "type": "content",
+            "title": "Postvention and Contagion (The Werther Effect)",
+            "content": "# Suicide Contagion and Postvention\n\n## Suicide Contagion and Clusters:\n- Exposure to suicide in families, peer groups, or via sensationalized media coverage can provoke copycat suicides, particularly among vulnerable adolescents and young adults.\n- Known historically as the **Werther Effect** (after Goethe's novel *The Sorrows of Young Werther*).\n- Media guidelines: Never romanticize suicide, do not publish specific lethal methods or suicide notes, avoid sensational headlines, and always publish crisis helpline numbers (988).\n\n## Postvention:\n- Structured crisis support provided to bereaved survivors (family, friends, schoolmates) following a suicide death.\n- Suicide survivors experience severe complicated grief, intense guilt, stigma, and an elevated personal risk for suicide."
+        },
+        {
+            "id": "mood_suicide_15",
+            "type": "content",
+            "title": "Summary of Suicide & Self-Harm",
+            "content": "# Suicide & Self-Harm Summary\n\n## Master Clinical Principles:\n1. **Intent is Paramount**: Suicide attempts involve intent to die; NSSI involves tissue destruction without suicidal intent to regulate intolerable affect.\n2. **Joiner's Interpersonal Model**: Lethal suicide attempts require both the Desire (Thwarted Belongingness + Perceived Burdensomeness) and the Acquired Capability (habituation to pain/fear).\n3. **Strongest Predictor**: A prior suicide attempt is the single most powerful historical risk factor.\n4. **Means Restriction**: Restricting access to lethal means saves lives because suicidal crises are frequently acute and time-limited.\n5. **Safety Planning**: The 6-step Stanley-Brown Safety Plan replaces ineffective 'contracts for safety'.\n6. **Anti-Suicide Pharmacology**: Lithium (bipolar/MDD) and Clozapine (schizophrenia) possess proven, unique anti-suicide properties."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_child_attachment",
+    "topicId": "child_attachment",
+    "topicTitle": "Attachment Theory",
+    "description": "Examine the evolutionary and developmental foundations of human attachment, contrasting Bowlby's ethological theory with Ainsworth's Strange Situation, attachment classifications, and lifespan consequences.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "child_attachment_1",
+            "type": "content",
+            "title": "The Evolutionary Need for Connection",
+            "content": "# Attachment Theory: Foundations\n\nWhat is the nature of the deep emotional bond between an infant and their primary caregiver?\n\n## Early Misconceptions:\n- **Behaviorism:** Claimed infants bond to mothers purely because mothers provide food (secondary drive based on hunger reduction).\n- **Psychoanalysis (Freud):** Claimed infants bond through oral gratification during breastfeeding.\n\n## The Ethological Revolution:\n- British psychoanalyst **John Bowlby** and American developmentalist **Mary Ainsworth** refuted these hunger-based theories.\n- Human infants possess an innate, evolutionary **attachment behavioral system** selected by evolution to maintain physical proximity to protective caregivers for survival."
+        },
+        {
+            "id": "child_attachment_2",
+            "type": "content",
+            "title": "Harlow's Surrogate Mother Experiments (1958)",
+            "content": "# Harry Harlow: Contact Comfort\n\nHarry Harlow provided decisive empirical evidence separating nutritional feeding from emotional attachment in infant rhesus monkeys:\n\n```\nInfant Monkey Offered Two Artificial Surrogate Mothers:\n1. [Wire Mother]   ---> Made of cold, bare wire; equipped with milk nursing bottle.\n2. [Cloth Mother]  ---> Covered in warm, soft terrycloth; provided NO milk.\n```\n\n## The Striking Finding:\n- Infant monkeys spent **17 to 18 hours per day** clinging to the soft cloth mother, visiting the wire mother only briefly to nurse before immediately returning to the cloth mother!\n- **Contact Comfort:** In moments of terror (confronted with a loud mechanical toy monster), monkeys ran and embraced the soft cloth mother for emotional security, proving that attachment is rooted in comfort, warmth, and responsiveness, not food."
+        },
+        {
+            "id": "child_attachment_3",
+            "type": "content",
+            "title": "Bowlby's Ethological Attachment Theory",
+            "content": "# John Bowlby's Attachment Framework\n\nJohn Bowlby synthesized psychoanalysis, cognitive psychology, and evolutionary ethology (Konrad Lorenz's work on imprinting):\n\n## The Four Phases of Attachment Formation:\n1. **Preattachment (Birth - 6 Weeks):** Innate signaling behaviors (crying, smiling, grasping) bring caregivers into close contact; infants do not mind being left with unfamiliar adults.\n2. **Attachment-in-the-Making (6 Weeks - 6/8 Months):** Infants respond preferentially to primary caregivers; developing trust.\n3. **Clear-Cut Attachment (6/8 Months - 18/24 Months):** Formation of true attachment bond; characterized by:\n   * **Separation Anxiety:** Distressed crying when caregiver leaves.\n   * **Stranger Anxiety:** Wariness of unfamiliar adults.\n   * **Secure Base Behavior:** Using caregiver as a safe anchor from which to explore.\n4. **Reciprocal Relationships (18 Months+):** Understanding parental goals; negotiating departures."
+        },
+        {
+            "id": "child_attachment_quiz_1",
+            "type": "quiz",
+            "title": "Harlow & Bowlby Basics Check",
+            "content": "Verify your understanding of Harlow's experiments and Bowlby's attachment phases!",
+            "quizQuestion": "In Harry Harlow's landmark 1958 surrogate mother experiments, infant rhesus monkeys demonstrated that the primary psychological foundation of attachment is:",
+            "quizOptions": [
+                "Nutritional reinforcement through food delivery",
+                "Contact comfort provided by warmth and tactile softness",
+                "Operant conditioning via negative reinforcement",
+                "The imprinting reflex triggered within the first two hours of birth"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_attachment_4",
+            "type": "content",
+            "title": "Internal Working Models (Bowlby)",
+            "content": "# The Internal Working Model (IWM)\n\nBowlby proposed that early attachment experiences become internalized as a cognitive-affective mental template: the **Internal Working Model**.\n\n## The Dual Facets of the IWM:\n\n```\n                                [INTERNAL WORKING MODEL]\n                                            |\n                    +-----------------------+-----------------------+\n                    |                                               |\n        [MODEL OF SELF]                                     [MODEL OF OTHERS]\n   - \"Am I worthy of love and care?\"                   - \"Are other people reliable, trustworthy,\n   - Internalized sense of self-worth                    and available in times of distress?\"\n```\n\n## Lifelong Impact:\n- Acts as an automatic relational schema that guides social expectations, romantic relationships, emotional coping, and parenting style into adulthood!"
+        },
+        {
+            "id": "child_attachment_5",
+            "type": "content",
+            "title": "The Strange Situation Paradigm (Mary Ainsworth)",
+            "content": "# Mary Ainsworth's Strange Situation (1978)\n\nHow do researchers objectively classify attachment security in 12-to-18-month-old infants?\n\n## The 8-Episode Standardized Laboratory Protocol:\n1. Parent and infant enter playroom.\n2. Infant explores toys; parent acts as secure base.\n3. Stranger enters, talks to parent, approaches infant.\n4. **First Separation:** Parent quietly leaves; stranger remains with infant.\n5. **First Reunion:** Parent returns, comforts infant; stranger leaves.\n6. **Second Separation:** Parent leaves; infant is entirely alone in room.\n7. Stranger enters and attempts to comfort infant.\n8. **Second Reunion:** Parent returns, picks up infant.\n\n> **The Critical Diagnostic Window:** The infant's behavior during the **REUNIONS** (episodes 5 and 8) determines their attachment classification!"
+        },
+        {
+            "id": "child_attachment_6",
+            "type": "content",
+            "title": "The Primary Attachment Classifications",
+            "content": "# Ainsworth's Three Attachment Styles\n\n## 1. Secure Attachment (Type B - Approx 65% of US infants)\n- **Exploration:** Uses caregiver as a secure base to explore toys comfortably.\n- **Separation:** May show distress/crying when caregiver leaves.\n- **Reunion:** Greets caregiver with joy, seeks physical contact, calms down rapidly, and returns happily to playing.\n\n## 2. Insecure-Avoidant Attachment (Type A - Approx 20%)\n- **Exploration:** Ignores caregiver, plays aloofly.\n- **Separation:** Shows little or no overt distress when parent leaves.\n- **Reunion:** Actively avoids, looks away from, or ignores parent upon return; treats stranger similarly to parent! (Physiological monitors reveal high internal stress heart rate despite aloof exterior!).\n\n## 3. Insecure-Resistant / Ambivalent Attachment (Type C - Approx 10-15%)\n- **Exploration:** Clings anxiously, fails to explore toys.\n- **Separation:** Inconsolable, hysterical distress.\n- **Reunion:** Seeks contact but angrily pushes parent away (kicking, squirming); cannot be comforted."
+        },
+        {
+            "id": "child_attachment_quiz_2",
+            "type": "quiz",
+            "title": "Strange Situation Check",
+            "content": "Evaluate infant behavioral patterns in Ainsworth's Strange Situation!",
+            "quizQuestion": "During the reunion episode of the Strange Situation, a 14-month-old infant greets their returning parent enthusiastically, seeks physical contact, is rapidly soothed, and resumes exploring toys. What attachment style does this represent?",
+            "quizOptions": [
+                "Insecure-Avoidant (Type A)",
+                "Secure Attachment (Type B)",
+                "Insecure-Resistant/Ambivalent (Type C)",
+                "Disorganized/Disoriented (Type D)"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_attachment_7",
+            "type": "content",
+            "title": "Disorganized Attachment (Main & Solomon, 1986)",
+            "content": "# Disorganized/Disoriented Attachment (Type D)\n\nMary Main and Judith Solomon discovered a fourth, highly vulnerable attachment category:\n\n## Behavioral Profile:\n- Lacks any organized, coherent behavioral coping strategy during the Strange Situation.\n- Exhibits confused, contradictory, fearful behaviors upon reunion:\n  * Approaching parent while looking away (head averted).\n  * Freezing like a statue in trance-like postures for several seconds.\n  * Collapsing onto the floor when parent enters.\n\n## The Clinical Etiology:\n- **\"Fright Without Solution\" (Main & Hesse):** The caregiver is simultaneously the biological source of fear (due to severe abuse, parental terror, or unresolved parental trauma) AND the biological haven of safety!\n- Represents the strongest developmental predictor of later psychiatric pathology and dissociative disorders."
+        },
+        {
+            "id": "child_attachment_8",
+            "type": "content",
+            "title": "Caregiver Predictors: Maternal Sensitivity",
+            "content": "# What Predicts Attachment Security?\n\nWhy do infants develop different attachment styles?\n\n## Maternal Sensitivity (Mary Ainsworth):\n- The primary caregiver's ability to perceive, accurately interpret, and respond promptly and appropriately to the infant's nonverbal emotional signals.\n\n## Parental Patterns Mapped to Attachment Styles:\n- **Secure (Type B):** Consistently sensitive, emotionally attuned, responsive, warm.\n- **Avoidant (Type A):** Consistently rejecting, cold, impatient, or intrusive/over-stimulating.\n- **Resistant/Ambivalent (Type C):** Inconsistently responsive (sometimes warm, sometimes neglectful based on parent's mood rather than infant's needs).\n- **Disorganized (Type D):** Frightening, abusive, severely dissociated, or intoxicated behavior."
+        },
+        {
+            "id": "child_attachment_9",
+            "type": "content",
+            "title": "Cross-Cultural Variations in Attachment",
+            "content": "# Cross-Cultural Attachment Patterns (van IJzendoorn & Kroonenberg)\n\nMeta-analysis across 8 nations (2,000 Strange Situation tests) revealed crucial cultural nuances:\n\n## Universal Dominance of Security:\n- Secure attachment (Type B) was the most prevalent category across **every single culture** studied (50% to 75%).\n\n## Cultural Differences in Insecure Styles:\n- **Germany:** Shows significantly higher rates of **Insecure-Avoidant (Type A)** attachment.\n  * *Cultural Explanation:* German child-rearing values early independence, self-reliance, and emotional autonomy.\n- **Japan & Israel (Kibbutzim):** Shows significantly higher rates of **Insecure-Resistant (Type C)** attachment.\n  * *Cultural Explanation:* Japanese infants rarely experience separation from mothers (*amae* ideal of close physical closeness); the Strange Situation is unusually terrifying."
+        },
+        {
+            "id": "child_attachment_quiz_3",
+            "type": "quiz",
+            "title": "Disorganization & Culture Check",
+            "content": "Test your mastery of disorganized attachment mechanisms and cross-cultural studies!",
+            "quizQuestion": "In Mary Main's formulation, why do infants develop Disorganized/Disoriented attachment (Type D) when raised by severely abusive or traumatized caregivers?",
+            "quizOptions": [
+                "The child experiences a biological paradox where the caregiver is simultaneously the source of fear and the only haven of safety",
+                "The child is born with an underdeveloped hippocampus",
+                "The caregiver provides too much contact comfort",
+                "The child has achieved formal operational thought too early"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "child_attachment_10",
+            "type": "content",
+            "title": "Long-Term Consequences: Childhood into Adulthood",
+            "content": "# Longitudinal Trajectories of Attachment Security\n\nHow does infant attachment predict long-term life outcomes (Minnesota Longitudinal Study; Alan Sroufe)?\n\n## Secure Infants (Type B) in Later Life:\n- **Childhood:** Higher self-esteem, superior emotion regulation, more popular with peers, more empathetic.\n- **Adolescence:** Greater leadership, stronger academic perseverance, fewer behavioral problems.\n- **Adulthood:** Healthier romantic partnerships, greater trust, higher relationship satisfaction.\n\n## Insecure Infants in Later Life:\n- **Avoidant (Type A):** Prone to emotional detachment, hostility, defensive self-reliance, and externalizing conduct disorders.\n- **Resistant (Type C):** Prone to chronic anxiety, dependency, clinginess, and internalizing mood disorders."
+        },
+        {
+            "id": "child_attachment_11",
+            "type": "content",
+            "title": "The Adult Attachment Interview (AAI)",
+            "content": "# Adult Attachment Classifications (Mary Main)\n\nThe **Adult Attachment Interview (AAI)** evaluates adults' current mental representations of their childhood relationships with parents, classified by discourse coherence:\n\n## The Four Adult Classifications:\n1. **Autonomous / Secure:** Speaks coherently and objectively about childhood, valuing relationships even when recalling difficult or painful experiences.\n2. **Dismissing (Corresponds to Infant Avoidant):** Minimizes the importance of attachment; claims \"I had a perfect childhood\" but cannot recall concrete supporting memories; claims complete independence.\n3. **Preoccupied (Corresponds to Infant Ambivalent):** Overwhelmed and angrily entangled with past parental grievances; rambling, emotionally incoherent discourse.\n4. **Unresolved / Disorganized:** Shows cognitive lapses in monitoring reasoning when discussing loss or trauma."
+        },
+        {
+            "id": "child_attachment_12",
+            "type": "content",
+            "title": "Adult Romantic Attachment (Hazan & Shaver, 1987)",
+            "content": "# Romantic Attachment in Adulthood\n\nCindy Hazan and Phillip Shaver demonstrated that infant attachment styles manifest in adult romantic love relationships:\n\n## Adult Romantic Styles:\n- **Secure Lovers:** Find it easy to get close to partners; comfortable depending on others and being depended on; no fear of abandonment.\n- **Anxious-Preoccupied Lovers:** Obsessed with fear that partner does not truly love them; demanding constant reassurance; prone to jealousy and clinginess.\n- **Dismissive-Avoidant Lovers:** Uncomfortable with intimacy; prioritize independence and self-reliance over emotional vulnerability.\n- **Fearful-Avoidant Lovers:** Crave close relationships but are terrified of being hurt or rejected."
+        },
+        {
+            "id": "child_attachment_quiz_4",
+            "type": "quiz",
+            "title": "Adult Attachment Check",
+            "content": "Verify your understanding of the Adult Attachment Interview and romantic attachment styles!",
+            "quizQuestion": "In Hazan and Shaver's romantic attachment framework, an adult who constantly worries that their romantic partner does not truly love them and demands chronic reassurance exhibits which style?",
+            "quizOptions": [
+                "Dismissive-Avoidant",
+                "Anxious-Preoccupied",
+                "Autonomous Secure",
+                "Categorical Disorganized"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "child_attachment_13",
+            "type": "content",
+            "title": "Earned Security and Intergenerational Transmission",
+            "content": "# Intergenerational Transmission & Earned Security\n\nCan an insecure attachment destiny be broken?\n\n## The Intergenerational Transmission of Attachment:\n- A parent's AAI classification predicts their infant's Strange Situation style with approx **75% accuracy** before the infant is even born!\n\n## Earned Security:\n- Individuals who experienced severe adversity or insecure parenting in childhood can achieve **Earned Security** in adulthood through:\n  1. Reflective psychotherapy and emotional processing.\n  2. A long-term, stable, secure romantic partnership.\n- What matters is not whether your childhood was pain-free, but whether you can construct a **coherent, reflective narrative** of your emotional past!"
+        },
+        {
+            "id": "child_attachment_14",
+            "type": "content",
+            "title": "Clinical Attachment Interventions",
+            "content": "# Clinical Interventions: Circle of Security\n\nHow do clinicians repair disrupted parent-infant attachment?\n\n## The Circle of Security Protocol (Marvin et al.):\n- Visual intervention model teaching parents how to serve as both a **Secure Base** (supporting exploration) and a **Safe Haven** (welcoming the child back for comfort).\n- Video-feedback interventions: Recording parents interacting with their infants and reviewing the footage to enhance maternal sensitivity and mentalizing capacity."
+        },
+        {
+            "id": "child_attachment_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Attachment Theory\n\n## Core Principles Mastered:\n\n### 1. Evolutionary Foundations\n- Harlow demonstrated contact comfort over nutrition; Bowlby framed attachment as an innate survival proximity-seeking behavioral system.\n\n### 2. The Strange Situation & Infant Styles (Ainsworth)\n- Secure (Type B), Insecure-Avoidant (Type A), Insecure-Resistant (Type C), Disorganized (Type D; Main & Solomon).\n- Driven by caregiver sensitivity; secure attachment is universally dominant across cultures.\n\n### 3. Internal Working Models & Adult Continuity\n- Adult Attachment Interview (Autonomous, Dismissing, Preoccupied, Unresolved).\n- Hazan & Shaver mapped infant patterns onto adult romantic relationships.\n- Earned security proves that processing past trauma into a coherent narrative breaks intergenerational cycles.\n\n> **Up Next:** Explore how emotions and self-concept emerge in **Social-Emotional Development**!"
+        }
+    ]
+}

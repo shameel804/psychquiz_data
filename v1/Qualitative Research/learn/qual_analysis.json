@@ -1,0 +1,155 @@
+{
+  "id": "learn_qual_analysis",
+  "topicId": "qual_analysis",
+  "topicTitle": "Qualitative Data Analysis",
+  "description": "Master the rigorous analysis of qualitative data, covering coding taxonomies, thematic analysis procedures (Braun & Clarke), narrative structures, and Lincoln and Guba's trustworthiness framework.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "qual_analysis_1",
+      "type": "content",
+      "title": "The Nature of Qualitative Data Analysis",
+      "content": "# The Logic of Qualitative Analysis\n\n**Qualitative data analysis** is the systematic, rigorous process of deconstructing, organizing, synthesizing, and interpreting non-numerical empirical materials (interview transcripts, field notes, diaries, focus group audio) to identify core patterns, themes, and theoretical models.\n\n## The Core Dialectic: Reduction vs. Thick Interpretation\n- **Data Reduction:** Condensing hundreds of pages of raw textual transcripts into manageable, organized conceptual codes and themes.\n- **Interpretive Depth:** Preserving the contextual nuance, emotional resonance, and authentic human voice of participants without stripping away the lived experience.\n\n## An Iterative, Non-Linear Journey:\nUnlike quantitative testing, where data collection concludes before statistical calculations begin, qualitative analysis is **recursive and iterative**\u2014data collection and preliminary analysis occur concurrently, each informing the other."
+    },
+    {
+      "id": "qual_analysis_2",
+      "type": "content",
+      "title": "The Mechanics of Qualitative Coding",
+      "content": "# The Foundations of Qualitative Coding\n\nIn qualitative science, a **code** is a researcher-generated word or short phrase that symbolically assigns a summative, salient, essence-capturing attribute to a segment of language-based or visual data (Johnny Salda\u00f1a, 2015).\n\n## The Two Cycles of Coding:\n\n### 1. First-Cycle Coding (Initial Deconstruction):\n- Scrutinizing raw transcripts line-by-line or paragraph-by-paragraph to assign preliminary labels to discrete phenomena.\n\n### 2. Second-Cycle Coding (Pattern Synthesis):\n- Reviewing, clustering, reorganizing, and condensing first-cycle codes into broader hierarchical categories, conceptual families, and overarching themes."
+    },
+    {
+      "id": "qual_analysis_3",
+      "type": "content",
+      "title": "First-Cycle Coding Methods",
+      "content": "# Common First-Cycle Coding Taxonomies\n\nPsychologists select specific coding approaches depending on their theoretical and epistemological frameworks.\n\n## Prominent First-Cycle Approaches:\n- **In Vivo Coding (Verbatim Coding):** Using the participant's exact literal words or colloquial phrases as the code label (e.g., *'feeling like a ghost'* or *'hitting the emotional wall'*); prioritizes indigenous participant voices.\n- **Descriptive Coding:** Summarizes the basic topic or subject of a passage in a single noun or phrase.\n- **Process Coding:** Uses gerunds ('-ing' words) to capture ongoing actions, physical movements, and psychological processes (e.g., *'renegotiating boundaries'*, *'resisting stigma'*).\n- **Emotion Coding:** Labels the affective experiences, moods, and internal feeling states described by participants.\n- **Values Coding:** Codes reflecting a participant's values, attitudes, and ideological belief systems."
+    },
+    {
+      "id": "qual_analysis_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Coding Mechanics",
+      "content": "Verify your understanding of qualitative coding methodologies.",
+      "quizQuestion": "In qualitative data analysis, what distinguishes 'In Vivo Coding' from other first-cycle coding methods?",
+      "quizOptions": [
+        "It uses Latin medical terminology exclusively",
+        "It utilizes the participant's exact, verbatim words or spoken phrases as the code label",
+        "It requires coding transcripts using brain imaging software",
+        "It is executed entirely by automated computer algorithms"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "qual_analysis_4",
+      "type": "content",
+      "title": "Inductive vs. Deductive Analytical Logic",
+      "content": "# Inductive vs. Deductive Coding\n\nQualitative researchers approach data with differing degrees of preexisting theoretical structure.\n\n## 1. Inductive (Bottom-Up / Data-Driven) Analysis:\n- Codes and themes are derived directly from the raw data itself without trying to fit into a preexisting theoretical coding frame.\n- Highly exploratory; allows unexpected psychological phenomena and unpredicted insights to emerge naturally.\n\n## 2. Deductive (Top-Down / Theory-Driven) Analysis:\n- The researcher begins with a predefined **codebook** based on existing psychological theories or literature (e.g., using Gross's process model of emotion regulation to code coping transcripts).\n- Examines how specific theoretical concepts manifest within a targeted empirical context.\n\n## Abductive Synthesis:\nMost experienced qualitative psychologists engage in **abductive reasoning**\u2014moving dialectically back and forth between empirical surprise and theoretical concepts."
+    },
+    {
+      "id": "qual_analysis_5",
+      "type": "content",
+      "title": "Thematic Analysis: Braun & Clarke's Model",
+      "content": "# Thematic Analysis: Braun & Clarke (2006, 2019)\n\n**Thematic Analysis (TA)** is the premier, systematically structured method for identifying, analyzing, and reporting patterned meanings across qualitative datasets in psychological science.\n\n## Defining a 'Theme':\n- A **theme** captures something important about the data in relation to the research question, representing some level of **patterned response or meaning** across the dataset.\n- A theme is NOT simply a summary of an interview question; it is an active conceptual narrative authored by the researcher that explains an underlying psychological process.\n\n## Semantic vs. Latent Themes:\n- **Semantic Themes:** Identified within the explicit, surface meanings of the data; descriptive.\n- **Latent Themes:** Interrogates underlying assumptions, conceptual frameworks, and ideologies shaping the narrative; interpretive."
+    },
+    {
+      "id": "qual_analysis_6",
+      "type": "content",
+      "title": "The Six Phases of Thematic Analysis",
+      "content": "# The Six Progressive Phases of TA\n\nExecuting rigorous thematic analysis follows a disciplined six-phase sequence (Braun & Clarke).\n\n```\n[1. Familiarization] ---> [2. Coding] ---> [3. Generating Themes]\n                                                   |\n                                                   v\n[6. Reporting] <--- [5. Defining Themes] <--- [4. Reviewing Themes]\n```\n\n## Detailed Phase Breakdown:\n1. **Familiarization with Data:** Reading and re-reading transcripts with curious immersion; creating initial notes.\n2. **Generating Initial Codes:** Systematically coding features across the entire dataset.\n3. **Searching for Themes:** Clustering codes into broader candidate thematic buckets.\n4. **Reviewing Themes:** Checking candidate themes against coded extracts (Level 1) and the entire dataset (Level 2); building a **thematic map**.\n5. **Defining and Naming Themes:** Formulating the distinct narrative essence and title of each theme.\n6. **Producing the Report:** Weaving data extracts into a compelling analytical argument."
+    },
+    {
+      "id": "qual_analysis_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Thematic Analysis Phases",
+      "content": "Assess your understanding of Braun and Clarke's thematic framework.",
+      "quizQuestion": "In Braun and Clarke's six-phase model of Thematic Analysis, what occurs during Phase 4: Reviewing Themes?",
+      "quizOptions": [
+        "Conducting the initial participant interviews",
+        "Checking candidate themes against both coded extracts and the entire dataset to refine a coherent thematic map",
+        "Publishing the article in an academic journal",
+        "Calculating Pearson correlation coefficients across raters"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "qual_analysis_7",
+      "type": "content",
+      "title": "Narrative Analysis: Structural and Dialogic",
+      "content": "# Narrative Analysis in Psychology\n\n**Narrative analysis** focuses on the storied nature of human experience\u2014examining how individuals use stories to construct identity, make sense of trauma, and impose order upon chaotic life events.\n\n## Catherine Kohler Riessman's Four Models:\n1. **Thematic Narrative Analysis:** Focuses primarily on *what* is said (the content of the story).\n2. **Structural Narrative Analysis:** Focuses on *how* the story is structured and told.\n   - *William Labov's Narrative Architecture:* Abstract, Orientation, Complicating Action, Evaluation (the soul of the narrative), Resolution, and Coda.\n3. **Dialogic / Performance Analysis:** Focuses on the dynamic, interactive performance between storyteller and listener.\n4. **Visual Narrative Analysis:** Analyzing visual artifacts embedded within life stories."
+    },
+    {
+      "id": "qual_analysis_8",
+      "type": "content",
+      "title": "Discourse Analysis: Language as Social Action",
+      "content": "# Discourse Analysis (DA)\n\nRooted in post-structural linguistics and social constructionism, **Discourse Analysis** treats language not as a passive, neutral transmitter of internal thoughts, but as an active form of **social action** that constructs power relations, categories, and realities.\n\n## Two Major Strands in Psychology:\n\n### 1. Discursive Psychology (Potter & Wetherell):\n- Focuses on conversational dynamics and rhetoric in everyday interactions, investigating how people deploy language to manage blame, defend reputation, and build credibility.\n\n### 2. Foucauldian Critical Discourse Analysis (Ian Parker):\n- Explores how broad cultural and institutional discourses (e.g., medical discourses of mental illness, legal discourses of criminality) produce and sustain societal power imbalances and subject positions."
+    },
+    {
+      "id": "qual_analysis_9",
+      "type": "content",
+      "title": "Computer-Assisted Qualitative Data Analysis (CAQDAS)",
+      "content": "# CAQDAS Software in Modern Analysis\n\nModern qualitative psychologists leverage **Computer-Assisted Qualitative Data Analysis Software (CAQDAS)** to manage massive textual datasets.\n\n## Prominent CAQDAS Platforms:\n- NVivo, ATLAS.ti, MAXQDA, Dedoose.\n\n## What CAQDAS Does (and Does NOT) Do:\n- **What it DOES:** Efficiently organizes hundreds of transcripts, facilitates rapid code retrieval, models visual coding matrices, and tracks inter-coder reliability.\n- **The Vital Caveat:** **Software does NOT analyze qualitative data!** The software is an organizational database; the human researcher must execute all creative thinking, pattern synthesis, thematic conceptualization, and interpretation."
+    },
+    {
+      "id": "qual_analysis_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Narrative & Discourse Analysis",
+      "content": "Verify your understanding of narrative structures and discourse analysis.",
+      "quizQuestion": "In William Labov's structural model of personal narratives, which component represents the emotional 'soul' of the story where the speaker reveals why the event was personally meaningful?",
+      "quizOptions": [
+        "The Abstract",
+        "The Orientation",
+        "The Evaluation",
+        "The Coda"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": "qual_analysis_10",
+      "type": "content",
+      "title": "Lincoln & Guba's Trustworthiness Framework",
+      "content": "# Establishing Rigor: Trustworthiness\n\nYvonna Lincoln and Egon Guba (1985) introduced the definitive four-part framework establishing qualitative **trustworthiness**, liberating qualitative science from inappropriate quantitative measurement criteria.\n\n## The Four Pillars of Trustworthiness:\n1. **Credibility:** Confidence in the 'truth value' of the findings for the participants and context (Counterpart to Internal Validity).\n2. **Transferability:** Demonstrating that findings have applicability in other contexts through thick description (Counterpart to External Validity / Generalizability).\n3. **Dependability:** Demonstrating that findings are consistent and could be repeated given similar contexts (Counterpart to Reliability).\n4. **Confirmability:** Demonstrating that interpretations are grounded directly in the data rather than researcher imagination (Counterpart to Objectivity)."
+    },
+    {
+      "id": "qual_analysis_11",
+      "type": "content",
+      "title": "Methodological Strategies for Credibility",
+      "content": "# Operationalizing Credibility in Research\n\nQualitative researchers employ rigorous procedural safeguards to guarantee credibility.\n\n## Essential Safeguards:\n- **Prolonged Engagement:** Spending sufficient time in the field to build deep trust, understand cultural context, and detect misperceptions.\n- **Persistent Observation:** Identifying pervasive characteristics and salient factors most relevant to the problem.\n- **Triangulation:** Cross-verifying evidence across multiple data sources, investigators, and methods.\n- **Member Checking (Participant Validation):** Returning synthesized findings and quotes to participants to verify accuracy: *'Does this ring true to your experience?'*\n- **Peer Debriefing:** Regular review sessions with a knowledgeable colleague who serves as a critical devil's advocate."
+    },
+    {
+      "id": "qual_analysis_12",
+      "type": "content",
+      "title": "Dependability and Confirmability: The Audit Trail",
+      "content": "# The Comprehensive Audit Trail\n\nTo satisfy the standards of dependability and confirmability, researchers construct a transparent, meticulous **audit trail**.\n\n## Components of an Audit Trail:\n1. **Raw Empirical Data:** Audio recordings, verbatim transcripts, fieldnotes, institutional documents.\n2. **Data Reduction Notes:** Analytical memos, codebooks, code definitions, and evolving thematic hierarchies.\n3. **Process Memos:** Detailed chronological records of all methodological decisions, challenges, and revisions made during the study.\n4. **Reflexive Diary:** Personal reflections regarding subjectivity, emotional reactions, and ethical choices.\n\n## External Audit:\nAn independent external auditor should be able to follow the audit trail step-by-step from raw transcripts to the final published report, confirming the logical chain of evidence."
+    },
+    {
+      "id": "qual_analysis_13",
+      "type": "content",
+      "title": "Writing the Qualitative Research Report",
+      "content": "# Authoring the Qualitative Report\n\nThe qualitative research report is not a dry presentation of statistical tables; it is an evocative, evidentiary narrative that brings the participants' psychological reality to life.\n\n## The Golden Balance in Qualitative Writing:\n- **Data Extracts (Quotes):** Provide vivid, verbatim empirical proof grounded in the participant's authentic voice.\n- **Analytical Commentary:** The researcher's interpretative narrative that contextualizes, decodes, and connects each quote to the overarching psychological theme.\n- *Rule of Thumb:* Never present a block quote in isolation without providing analytical interpretation explaining *why* that quote matters to the argument!"
+    },
+    {
+      "id": "qual_analysis_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Rigor & Audit Trails",
+      "content": "Assess your understanding of Lincoln and Guba's trustworthiness criteria.",
+      "quizQuestion": "In Lincoln and Guba's framework, what methodological tool provides a transparent, detailed historical record of all coding decisions, process memos, and raw data to demonstrate dependability and confirmability?",
+      "quizOptions": [
+        "A statistical power curve",
+        "An audit trail",
+        "A Chi-square contingency table",
+        "A standard error formula"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "qual_analysis_14",
+      "type": "content",
+      "title": "Common Pitfalls in Qualitative Analysis",
+      "content": "# Pitfalls to Avoid in Qualitative Analysis\n\nNovice qualitative researchers frequently encounter specific methodological errors that undermine analytic rigor.\n\n## Major Analytical Pitfalls:\n- **Topic Summary Masquerading as Themes:** Organizing the report around the interview questions rather than conceptual patterns of meaning across the data.\n- **Anecdotalism / Cherry-Picking:** Selecting a single isolated quote that supports a favored theory while ignoring widespread counter-evidence.\n- **Over-Quantification:** Reporting exact percentages (e.g., *'67.4% of participants felt sad'*) in small qualitative samples, which misrepresents the exploratory nature of qualitative inquiry.\n- **Passive Voice Absence:** Omitting the researcher's reflexive role, falsely implying that 'themes emerged' magically on their own without active human interpretation."
+    },
+    {
+      "id": "qual_analysis_15",
+      "type": "content",
+      "title": "Summary of Qualitative Data Analysis",
+      "content": "# Synthesis of Qualitative Analysis\n\nQualitative data analysis transforms rich narrative complexity into transparent, systematic, and theoretical psychological knowledge.\n\n## Core Analytical Pillars:\n1. **Coding Rigor:** Moving systematically from first-cycle deconstructive codes (In Vivo, Process, Emotion) to second-cycle pattern synthesis.\n2. **Thematic Excellence:** Executing Braun and Clarke's six recursive phases to develop rich, conceptual latent themes.\n3. **Narrative & Discourse:** Deconstructing story structures (Labov) and institutional linguistic power relations.\n4. **Trustworthiness Framework:** Upholding credibility, transferability, dependability, and confirmability (Lincoln & Guba).\n5. **Transparent Evidence:** Weaving vivid participant extracts into rigorous analytical narratives anchored by an unassailable audit trail."
+    }
+  ]
+}

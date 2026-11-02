@@ -1,0 +1,155 @@
+{
+    "id": "learn_io_leadership",
+    "topicId": "io_leadership",
+    "topicTitle": "Leadership Theories",
+    "description": "Examine major leadership paradigms in organizational psychology, analyzing transformational vs. transactional models, situational leadership, Leader-Member Exchange, and toxic leadership.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "io_leadership_1",
+            "type": "content",
+            "title": "The Evolution of Leadership Science",
+            "content": "# The Science of Organizational Leadership\n\nWhat makes a great leader? For centuries, folklore assumed leaders were born, not made (**The Great Man Theory**). Over the past 80 years, I-O psychology transformed leadership from myth into rigorous behavioral science:\n\n```\n                             [THE EVOLUTION OF LEADERSHIP MODELS]\n                                              |\n   [1. TRAIT THEORIES (1930s-40s)]    --> What personality traits define a leader? (Intelligence, Extraversion)\n                 |\n                 v\n   [2. BEHAVIORAL STYLES (1950s-60s)] --> What do effective leaders DO? (Task vs Relationship focus)\n                 |\n                 v\n   [3. CONTINGENCY MODELS (1970s-80s)]--> How does the situation dictate the optimal leadership style?\n                 |\n                 v\n   [4. CONTEMPORARY MODELS (1990s+)]  --> Transformational, Authentic, LMX, and Servant Leadership.\n```"
+        },
+        {
+            "id": "io_leadership_2",
+            "type": "content",
+            "title": "Behavioral Approaches: Ohio State & Michigan Studies",
+            "content": "# The Behavioral Revolution: What Leaders Do\n\nIn the 1950s, researchers stopped measuring personality traits and began cataloging actual leader behaviors:\n\n## The Ohio State Leadership Studies (Stogdill et al.):\nIdentified two independent behavioral dimensions:\n1. **Initiating Structure (Task-Oriented):** Organizing work, defining roles, establishing schedules, and enforcing deadlines.\n2. **Consideration (People-Oriented):** Building mutual trust, respecting subordinates' ideas, and caring for their personal well-being.\n\n## The Michigan Studies (Likert):\n- Distinquished **Production-Oriented** from **Employee-Oriented** leadership.\n- *Key Finding:* Leaders high in BOTH Consideration and Initiating Structure consistently achieve superior subordinate satisfaction and team productivity!"
+        },
+        {
+            "id": "io_leadership_3",
+            "type": "content",
+            "title": "Fiedler's Contingency Model (1967)",
+            "content": "# Fred Fiedler: Matching Leader to Situation\n\nFred Fiedler formulated the first comprehensive **Contingency Model of Leadership**, asserting that leadership effectiveness depends on matching a leader's style to the **situational favorability**:\n\n## The Least Preferred Coworker (LPC) Scale:\n- Leaders rate the coworker they least enjoyed working with:\n  - **High LPC (Relationship-Oriented):** Rates LPC favorably; values interpersonal harmony.\n  - **Low LPC (Task-Oriented):** Rates LPC harshly; values task execution above all.\n\n```\n   SITUATIONAL FAVORABILITY (Leader-Member Relations + Task Structure + Position Power)\n   ------------------------------------------------------------------------------------\n   EXTREMELY FAVORABLE SITUATIONS   --> LOW LPC (Task-Oriented) LEADERS EXCEL!\n   MODERATELY FAVORABLE SITUATIONS  --> HIGH LPC (Relationship-Oriented) LEADERS EXCEL!\n   EXTREMELY UNFAVORABLE SITUATIONS --> LOW LPC (Task-Oriented) LEADERS EXCEL!\n```"
+        },
+        {
+            "id": "io_leadership_quiz_1",
+            "type": "quiz",
+            "title": "Behavioral & Contingency Check",
+            "content": "Verify your understanding of Ohio State and Fiedler models!",
+            "quizQuestion": "In Fred Fiedler's Contingency Model of Leadership, under what environmental conditions do Low LPC (Task-Oriented) leaders perform most effectively?",
+            "quizOptions": [
+                "Only in moderately favorable, ambiguous social situations",
+                "In both extremely favorable and extremely unfavorable situational environments",
+                "Only when working with volunteer non-profit organizations",
+                "Never; task-oriented leaders are obsolete in modern business"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_leadership_4",
+            "type": "content",
+            "title": "Hersey & Blanchard's Situational Leadership Model (SLT)",
+            "content": "# Hersey & Blanchard: Follower Readiness\n\nPaul Hersey and Ken Blanchard proposed that leaders must dynamically alter their leadership style to match the **Developmental Readiness (Maturity)** of their followers:\n\n```\n   FOLLOWER READINESS LEVEL               OPTIMAL LEADERSHIP STYLE\n   ------------------------------------------------------------------------------------\n   R1: Low Ability & Low Willingness  --> TELLING (Directing): High Task, Low Relationship.\n       (Incompetent and Insecure)         Provides specific instructions and close supervision.\n   R2: Low Ability & High Willingness --> SELLING (Coaching): High Task, High Relationship.\n       (Motivated but Lacks Skills)       Directs and explains decisions while encouraging.\n   R3: High Ability & Low Willingness --> PARTICIPATING (Supporting): Low Task, High Relationship.\n       (Capable but Insecure/Hesitant)    Shares decision-making and acts as a facilitator.\n   R4: High Ability & High Willingness--> DELEGATING: Low Task, Low Relationship.\n       (Expert and Confident)             Turns over complete autonomy and responsibility.\n```"
+        },
+        {
+            "id": "io_leadership_5",
+            "type": "content",
+            "title": "Transformational vs. Transactional Leadership (Bass)",
+            "content": "# The Paradigm Shift: Bernard Bass (1985)\n\nBernard Bass expanded James MacGregor Burns' work into the dominant framework of modern leadership:\n\n```\n                                [THE LEADERSHIP SPECTRUM]\n                                            |\n         +----------------------------------+----------------------------------+\n         |                                                                     |\n   [TRANSACTIONAL LEADERSHIP]                                            [TRANSFORMATIONAL LEADERSHIP]\n   - Focuses on exchange transactions.                                   - Inspires followers to transcend self-interest\n   - Contingent Reward (bonus for output).                                 for the collective good.\n   - Management by Exception (Active/Passive:                            - Generates profound paradigm shifts,\n     intervening only when errors occur).                                  innovation, and extraordinary performance!\n```\n\nTransformational leadership doesn't replace transactional mechanics; it builds upon them to unleash peak potential."
+        },
+        {
+            "id": "io_leadership_6",
+            "type": "content",
+            "title": "The Four I's of Transformational Leadership",
+            "content": "# The Anatomy of Transformation: The Four I's\n\nBass identified four core behavioral dimensions that constitute Transformational Leadership:\n\n```\n   1. IDEALIZED INFLUENCE (Charisma)       --> Acts as an impeccable moral role model;\n                                               instills pride, respect, and deep trust.\n                                               Followers identify passionately with the leader.\n   \n   2. INSPIRATIONAL MOTIVATION             --> Articulates a compelling, inspiring vision\n                                               of the future; challenges followers with high standards.\n   \n   3. INTELLECTUAL STIMULATION             --> Challenges old assumptions and orthodoxies;\n                                               encourages creativity, questions, and novel problem-solving.\n   \n   4. INDIVIDUALIZED CONSIDERATION         --> Acts as a mentor and coach; attends to each\n                                               follower's unique developmental needs and aspirations.\n```"
+        },
+        {
+            "id": "io_leadership_quiz_2",
+            "type": "quiz",
+            "title": "Transformational Leadership Check",
+            "content": "Verify your understanding of Bass's transformational model!",
+            "quizQuestion": "In Bernard Bass's Four I's of Transformational Leadership, what behavior characterizes 'Intellectual Stimulation'?",
+            "quizOptions": [
+                "Forcing employees to complete IQ tests every morning",
+                "Challenging conventional assumptions, encouraging divergent thinking, and empowering followers to innovate novel solutions",
+                "Giving cash bonuses for every error discovered in accounting",
+                "Ignoring all employee suggestions completely"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_leadership_7",
+            "type": "content",
+            "title": "Leader-Member Exchange (LMX) Theory (George Graen)",
+            "content": "# Relational Dyads: Leader-Member Exchange (LMX)\n\nTraditional leadership theories assumed leaders treat all subordinates identically. George Graen and colleagues proved that leaders form **unique, individualized dyadic relationships** with each employee:\n\n```\n   [THE LEADER]\n        | \n        +-----------------------------------+-----------------------------------+\n        | (High-Quality Exchange)           | (Low-Quality Exchange)\n        v                                   v\n   [THE IN-GROUP]                      [THE OUT-GROUP]\n   - Mutual trust, respect, autonomy.   - Formal contractual compliance only.\n   - High mentoring and plum projects.  - One-way downward directives.\n   - Lower turnover, rapid promotion.   - Low satisfaction, high alienation, high turnover.\n```\n\n## Modern Leadership Mandate:\nLeaders must actively expand their in-groups, offering high-quality developmental exchange to ALL diverse team members."
+        },
+        {
+            "id": "io_leadership_8",
+            "type": "content",
+            "title": "Authentic & Servant Leadership",
+            "content": "# Leading with Ethics and Service\n\nFollowing corporate fraud scandals (Enron, WorldCom), leadership science pivoted toward moral character:\n\n## 1. Authentic Leadership (Avolio & Gardner, 2005):\n- **Self-Awareness:** Deep understanding of one's own values, strengths, and blind spots.\n- **Relational Transparency:** Open, genuine, non-defensive sharing of thoughts and mistakes.\n- **Balanced Processing:** Objectively analyzing all data before making decisions.\n- **Internalized Moral Perspective:** Guided by internal ethical standards, resisting social pressure.\n\n## 2. Servant Leadership (Robert Greenleaf, 1977):\n- Flips the traditional organizational pyramid upside down!\n- The leader's primary goal is not personal power, but **serving the developmental needs of employees and community**."
+        },
+        {
+            "id": "io_leadership_9",
+            "type": "content",
+            "title": "Toxic Leadership & The Dark Triad",
+            "content": "# When Leaders Destroy: The Dark Triad\n\nLeadership is not inherently benevolent. High positions of organizational power frequently attract individuals possessing the **Dark Triad** of personality:\n\n```\n   NARCISSISM        --> Grandiose entitlement, craving constant adulation, hypersensitive\n                         to criticism, exploits subordinates for personal glory.\n   MACHIAVELLIANISM  --> Cynical, cold, pragmatic manipulation (*\"The ends justify the means\"*),\n                         adept at political intrigue and deceit.\n   PSYCHOPATHY       --> Callous lack of empathy or remorse, impulsive risk-taking, superficial charm.\n```\n\n## Abusive Supervision (Tepper, 2000):\nSustained hostile verbal and nonverbal behavior (ridiculing subordinates, silent treatment) inflicts severe allostatic stress, triggering anxiety, absenteeism, and organizational sabotage."
+        },
+        {
+            "id": "io_leadership_quiz_3",
+            "type": "quiz",
+            "title": "LMX & Toxic Leadership Check",
+            "content": "Verify your understanding of LMX and toxic leadership!",
+            "quizQuestion": "According to Leader-Member Exchange (LMX) theory, how do relationships between a leader and 'Out-Group' subordinates differ from those with 'In-Group' subordinates?",
+            "quizOptions": [
+                "Out-Group members receive higher salaries and equity shares",
+                "Out-Group interactions are strictly limited to formal contractual job obligations with minimal personal trust, mentoring, or autonomy",
+                "Out-Group members are physically barred from entering the office building",
+                "Out-Group members manage the CEO's personal schedule"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_leadership_10",
+            "type": "content",
+            "title": "Gender and Leadership: The Double Bind",
+            "content": "# Breaking the Labyrinth: Gender & Leadership\n\nDespite women earning over 50% of advanced degrees, they hold under 10% of Fortune 500 CEO roles (Eagly & Carli, *Through the Labyrinth*).\n\n## The Leadership Double Bind (Role Congruity Theory - Alice Eagly):\n- Society's mental prototype of a \"Leader\" is agentic (assertive, dominant, tough).\n- Society's mental prototype of a \"Woman\" is communal (warm, nurturing, caring).\n\n```\n   Agentic Female Leader  --> Judged as \"abrasive, aggressive, unlikable, and harsh!\"\n   Communal Female Leader --> Judged as \"too sweet, weak, indecisive, and lacking executive presence!\"\n   ==> A NO-WIN COGNITIVE CATCH-22!\n```\n\nMeta-analyses prove that female leaders systematically score higher on **Transformational Leadership** dimensions than male peers!"
+        },
+        {
+            "id": "io_leadership_11",
+            "type": "content",
+            "title": "Cross-Cultural Leadership: The GLOBE Project",
+            "content": "# Global Leadership: Robert House et al. (2004)\n\nThe **GLOBE Study** examined 17,300 managers across 62 societies to identify universally endorsed versus culturally contingent leadership attributes:\n\n```\n   UNIVERSALLY DESIRABLE LEADERSHIP ATTRIBUTES   CULTURALLY CONTINGENT ATTRIBUTES\n   ------------------------------------------------------------------------------------\n   - High Integrity and Honesty                 - Individual Autonomy / Independence\n   - Inspirational Vision and Charisma          - Participative / Egalitarian Decision-Making\n   - Decisiveness and Team-Orientation          - Status-Consciousness and Formal Protocol\n   - Foresight and Strategic Planning           - Paternalism (protective father figure)\n```\n\nParticipative leadership is celebrated in egalitarian Scandinavia, but viewed as weak and incompetent in high-Power-Distance hierarchical cultures."
+        },
+        {
+            "id": "io_leadership_12",
+            "type": "content",
+            "title": "Leadership Development: 360-Degree Feedback & Coaching",
+            "content": "# Cultivating Leaders: Modern Development Methods\n\nHow do organizations develop transformational leaders?\n\n## 1. 360-Degree Multi-Source Feedback:\n- Performance ratings collected simultaneously from:\n  - Superiors (boss)\n  - Direct Subordinates\n  - Lateral Peers\n  - The Leader Themselves (Self-Evaluation).\n- Dismantles executive blind spots by highlighting discrepancies between self-image and peer perception.\n\n## 2. Executive Coaching & Stretch Assignments:\n- Placing developing leaders in ambiguous, high-stakes international assignments (*\"crucible experiences\"*) accelerates emotional self-regulation and strategic adaptability."
+        },
+        {
+            "id": "io_leadership_quiz_4",
+            "type": "quiz",
+            "title": "Gender & Global Leadership Check",
+            "content": "Verify your understanding of role congruity and global leadership!",
+            "quizQuestion": "According to Alice Eagly's Role Congruity Theory, what is the 'Double Bind' that confronts female leaders in corporate organizations?",
+            "quizOptions": [
+                "They are required to work twice as many hours for zero pay",
+                "If they act assertively (agentic), they are disliked as harsh; if they act warmly (communal), they are dismissed as lacking strength",
+                "They are legally prohibited from speaking in executive meetings",
+                "They must hold two separate master's degrees"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_leadership_13",
+            "type": "content",
+            "title": "Shared & Distributed Leadership",
+            "content": "# Beyond the Heroic CEO: Shared Leadership\n\nIn complex, knowledge-intensive industries, the myth of the solitary heroic leader is collapsing:\n\n## What is Shared Leadership?\nAn emergent team property wherein leadership roles and influence are dynamically distributed among multiple team members based on domain expertise rather than formal hierarchy.\n\n```\n   Stage 1: Technical Architecture Problem --> Senior Engineer takes leadership.\n   Stage 2: Client Contract Negotiation   --> Account Executive takes leadership.\n   Stage 3: Team Conflict De-escalation    --> Empathetic Project Manager takes leadership.\n```\n\nTeams practicing shared leadership exhibit significantly higher agility, innovation, and resilience."
+        },
+        {
+            "id": "io_leadership_14",
+            "type": "content",
+            "title": "Comparative Analysis of Leadership Paradigms",
+            "content": "# Theoretical Comparison of Leadership Paradigms\n\n| Leadership Paradigm | Primary Focus | Core Mechanism |\n|---|---|---|\n| **Contingency Model (Fiedler)** | Leader-Situation Fit | LPC match to situational favorability. |\n| **Situational (Hersey & Blanchard)**| Follower Readiness | Telling, Selling, Participating, Delegating. |\n| **Transformational (Bass)** | Vision & Inspiration | 4 I's transcend subordinate self-interest. |\n| **Leader-Member Exchange (LMX)** | Dyadic Relationships | In-group trust vs Out-group contract. |\n| **Authentic Leadership (Avolio)** | Moral Transparency | Self-awareness, ethics, balanced processing. |\n| **Servant Leadership (Greenleaf)** | Altruistic Service | Prioritizing employee growth above power. |"
+        },
+        {
+            "id": "io_leadership_15",
+            "type": "content",
+            "title": "Module Synthesis: Leadership Theories",
+            "content": "# Key Takeaways: Leadership Theories\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Theory / Model        | Key Pioneers                | Core Leadership Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Ohio State Studies    | Stogdill (1950s)            | Initiating Structure (Task) and   |\n|                       |                             | Consideration (People) behaviors. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Transformational      | Bernard Bass (1985)         | 4 I's: Idealized Influence,       |\n| Leadership            |                             | Inspiration, Intellect, Attention.|\n+-----------------------+-----------------------------+-----------------------------------+\n| LMX Theory            | George Graen (1975, 1995)   | Individual dyadic relationships:  |\n|                       |                             | In-group trust vs Out-group rules.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Role Congruity Theory | Alice Eagly (2002)          | Prejudices create double binds    |\n|                       |                             | for agentic female executives.    |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nTrue leadership is not an authoritarian exercise of power, but the capacity to inspire vision, nurture diverse talent, cultivate ethical trust, and build adaptive human teams."
+        }
+    ]
+}

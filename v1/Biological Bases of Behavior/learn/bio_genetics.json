@@ -1,0 +1,155 @@
+{
+    "id": "learn_bio_genetics",
+    "topicId": "bio_genetics",
+    "topicTitle": "Genetics & Behavior",
+    "description": "Master the genetic foundations of psychology: DNA structure and chromosomes, genotype vs. phenotype, twin and adoption heritability studies, and dynamic gene-environment interactions.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "bio_genetics_1",
+            "type": "content",
+            "title": "Introduction to Behavioral Genetics",
+            "content": "# Genetics & Human Behavior\n\nAre human beings born as blank slates shaped entirely by their upbringing and culture, or are our personalities, intellectual capacities, and psychiatric vulnerabilities pre-programmed in our DNA?\n\nThe ancient **Nature vs. Nurture** debate is resolved in modern psychology through the science of **Behavioral Genetics**:\n\nNature and Nurture are not warring opposites; they are inextricably intertwined partners. Genes do not act as rigid deterministic puppet-masters; rather, they provide the biological blueprint of possibilities that the environment continuously activates, suppresses, and shapes.\n\n## In This Module, You Will Learn:\n- The biological architecture of DNA, genes, and chromosomes\n- The critical distinction between Genotype and Phenotype\n- Twin and adoption research paradigms estimating Heritability\n- Gene-Environment Interactions (G x E) and Behavioral Epigenetics"
+        },
+        {
+            "id": "bio_genetics_2",
+            "type": "content",
+            "title": "Chromosomes, DNA, and Genes",
+            "content": "# The Cellular Genetic Blueprint\n\nEvery human body cell (except mature red blood cells and gametes) houses the complete genetic operating code for constructing a human being:\n\n```\n[ CELL NUCLEUS ] ---> [ 46 Chromosomes (23 Pairs) ] ---> [ DNA Double Helix ] ---> [ Genes ]\n```\n\n## Core Genetic Structures:\n- **Chromosomes:** Thread-like structures of coiled DNA located in the cell nucleus. Humans possess **46 chromosomes arranged in 23 pairs** (22 autosome pairs + 1 sex chromosome pair: XX in biological females, XY in biological males).\n- **DNA (Deoxyribonucleic Acid):** A double-helix molecule composed of four nucleotide chemical bases: **Adenine (A), Thymine (T), Guanine (G), and Cytosine (C)**.\n- **Gene:** A specific functional segment of DNA that contains the biochemical instructions for synthesizing a specific protein enzyme or polypeptide chain.\n- **Human Genome:** Contains approx 20,000 to 25,000 protein-coding genes."
+        },
+        {
+            "id": "bio_genetics_3",
+            "type": "content",
+            "title": "Alleles: Dominant vs. Recessive",
+            "content": "# Alleles & Mendelian Inheritance\n\nGenes reside at specific locations (**loci**) on chromosomes. Alternative versions of the same gene are called **Alleles**:\n\n## Homozygous vs. Heterozygous:\n- **Homozygous:** Possessing two identical alleles for a specific gene (e.g., both alleles code for blue eyes).\n- **Heterozygous:** Possessing two different alleles for a specific gene.\n\n## Dominant vs. Recessive Alleles:\n- **Dominant Allele:** An allele whose trait is physically expressed even if only one copy is inherited (e.g., Huntington's disease allele).\n- **Recessive Allele:** An allele whose trait is expressed only if an individual inherits two copies (homozygous recessive), such as Phenylketonuria (PKU).\n\n## Polygenic Inheritance:\n- In psychology, virtually **NO complex behavioral trait** (such as intelligence, extraversion, or schizophrenia) is caused by a single gene!\n- Human psychological traits are **Polygenic**: influenced by the complex, additive interactions of hundreds or thousands of distinct genes."
+        },
+        {
+            "id": "bio_genetics_quiz_1",
+            "type": "quiz",
+            "title": "Basic Genetics Check",
+            "content": "Assess your understanding of chromosomes, genes, and polygenic inheritance!",
+            "quizQuestion": "How many total chromosomes, arranged in how many homologous pairs, are present in the nucleus of a typical human somatic body cell?",
+            "quizOptions": [
+                "23 total chromosomes in 12 pairs",
+                "46 total chromosomes in 23 pairs",
+                "92 total chromosomes in 46 pairs",
+                "100 total chromosomes in 50 pairs"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "bio_genetics_4",
+            "type": "content",
+            "title": "Genotype vs. Phenotype",
+            "content": "# Genotype vs. Phenotype\n\nA foundational distinction in genetics is the difference between an organism's underlying genetic code and its observable expression:\n\n## 1. Genotype\n- An individual's exact, underlying genetic composition - the specific sequence of DNA alleles inherited from biological parents at fertilization.\n- Fixed permanently at conception.\n\n## 2. Phenotype\n- The observable physical, physiological, and behavioral characteristics of an individual (e.g., eye color, height, measured IQ, personality traits, presence of clinical depression).\n\n## The Fundamental Formula of Phenotypic Expression:\n```\nPhenotype = Genotype + Environmental Influences + Epigenetic Modifications\n```\n\n- Two individuals with identical genotypes (monozygotic twins) can develop radically different phenotypes if reared in different environments!"
+        },
+        {
+            "id": "bio_genetics_5",
+            "type": "content",
+            "title": "Heritability: What It Means and Doesn't Mean",
+            "content": "# Understanding Heritability (h^2)\n\n**Heritability** is one of the most widely misunderstood concepts in all of psychological science.\n\n## Formal Scientific Definition:\n- **Heritability (h^2)** is a statistical estimate of the proportion of **total observed phenotypic variation** among individuals in a *specific population* that can be attributed to genetic differences among those individuals.\n- Expressed as a coefficient ranging from **0.00 to 1.00** (or 0% to 100%).\n\n## What Heritability Does NOT Mean:\n- Heritability does **NOT** apply to a single individual! (Saying IQ has a heritability of 0.60 does NOT mean 60% of your intelligence comes from genes and 40% comes from school).\n- Heritability is **NOT** a fixed constant. If environmental opportunities become identical for everyone in a society, heritability increases toward 1.00 because all remaining differences are genetic!"
+        },
+        {
+            "id": "bio_genetics_6",
+            "type": "content",
+            "title": "Twin Study Methodologies",
+            "content": "# The Power of Twin Studies\n\nTo disentangle genetic influences from environmental rearing, behavioral geneticists study twins:\n\n## The Twin Paradigm:\n- **Monozygotic (MZ) Twins (Identical):** Develop from a single fertilized egg (zygote) that splits into two embryos; share **100% of their genetic alleles**.\n- **Dizygotic (DZ) Twins (Fraternal):** Develop from two separate eggs fertilized by two separate sperm; share on average **50% of their segregating alleles** (genetically identical to standard siblings).\n\n## The Logic of Concordance Rates:\n- If identical twins (sharing 100% DNA) display significantly higher behavioral similarity (**concordance**) for a trait than fraternal twins (sharing 50% DNA), when both pairs are reared in the same home, researchers infer a strong genetic contribution."
+        },
+        {
+            "id": "bio_genetics_quiz_2",
+            "type": "quiz",
+            "title": "Twin & Heritability Check",
+            "content": "Evaluate your comprehension of heritability and twin research logic!",
+            "quizQuestion": "Why do behavioral geneticists compare the concordance rates of monozygotic (MZ) twins versus dizygotic (DZ) twins reared in the same household?",
+            "quizOptions": [
+                "To completely eliminate the role of the environment from psychological science",
+                "Because MZ twins share 100% of their genes while DZ twins share on average only 50%, isolating genetic contributions",
+                "Because DZ twins never share the same prenatal environment",
+                "To prove that personality is 100% determined by parental discipline"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "bio_genetics_7",
+            "type": "content",
+            "title": "Twins Reared Apart: The Minnesota Study",
+            "content": "# The Minnesota Twin Family Study (Bouchard et al.)\n\nThe ultimate natural experiment in behavioral genetics occurs when identical twins are separated at birth and adopted by different families in different cities:\n\n## Thomas Bouchard's Landmark Findings:\n- Tracked over 100 pairs of identical twins reared apart (MZA) across North America and Europe.\n- MZA twins displayed astonishing similarities in mannerisms, voice tone, vocational interests, and even eccentric habits, despite never meeting each other.\n\n## Established Heritability Estimates (in adult Western cohorts):\n- **General Intelligence (g):** Heritability approx 0.50 to 0.70\n- **Big Five Personality Traits:** Heritability approx 0.40 to 0.50 (Extraversion, Neuroticism, Openness, Agreeableness, Conscientiousness)\n- **Schizophrenia:** Heritability approx 0.80\n- **Autism Spectrum Disorder:** Heritability approx 0.80 to 0.90"
+        },
+        {
+            "id": "bio_genetics_8",
+            "type": "content",
+            "title": "Adoption Studies: Disentangling Nature & Nurture",
+            "content": "# Adoption Study Methodology\n\nAdoption studies provide an independent methodological test to separate biological heredity from home upbringing:\n\n## The Comparison Logic:\n- Does the adopted child resemble their **Biological Parents** (who provided genes but zero environmental rearing)?\n- Or does the adopted child resemble their **Adoptive Parents** (who provided the home, diet, language, values, and parenting, but zero genes)?\n\n## Empirical Discoveries:\n- **For Personality & Cognitive Traits:** Adopted children grow up to resemble their **biological parents** far more than their adoptive parents in personality, temperament, and adult IQ!\n- **For Values, Faith & Manners:** Adopted children reflect the values, religious traditions, and political party affiliations of their **adoptive parents**."
+        },
+        {
+            "id": "bio_genetics_9",
+            "type": "content",
+            "title": "Gene-Environment Correlations (rGE)",
+            "content": "# Gene-Environment Correlations (rGE)\n\nGenetics and environment do not operate in independent silos. Sandra Scarr and Kathleen McCartney identified three ways genes actively shape our environments:\n\n### 1. Passive Gene-Environment Correlation\n- Biological parents provide both genes and an environment that matches those genes.\n- *Example:* Genetically athletic parents pass on athletic genes AND stock the home with sports gear and enroll the child in sports.\n\n### 2. Evocative (Reactive) Correlation\n- An individual's genetically influenced traits evoke predictable reactions from others.\n- *Example:* An infant with a genetically calm, cheerful temperament evokes smiling, cuddling, and warm praise from caregivers.\n\n### 3. Active Correlation ('Niche-Picking')\n- As individuals mature, they actively seek out environmental niches that align with their genetic predispositions.\n- *Example:* A teenager with genetic inclinations toward sensation-seeking joins the skateboarding or extreme-sports subculture."
+        },
+        {
+            "id": "bio_genetics_quiz_3",
+            "type": "quiz",
+            "title": "Gene-Environment Dynamics Check",
+            "content": "Verify your comprehension of gene-environment correlations and niche-picking!",
+            "quizQuestion": "When a musically gifted child actively chooses to spend afternoons practicing guitar and joins the high school jazz band, what type of gene-environment correlation is being demonstrated?",
+            "quizOptions": [
+                "Passive gene-environment correlation",
+                "Evocative gene-environment correlation",
+                "Active gene-environment correlation (niche-picking)",
+                "Epigenetic methylation cascade"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bio_genetics_10",
+            "type": "content",
+            "title": "Gene-Environment Interaction (G x E)",
+            "content": "# Gene-Environment Interactions (G x E)\n\nA **Gene-Environment Interaction (G x E)** occurs when the phenotypic effect of an environmental exposure depends directly on an individual's specific genotype:\n\n## The Diathesis-Stress Model:\n```\n[ Genetic Diathesis / Vulnerability ] + [ Severe Environmental Stress ] ===> [ Psychological Disorder ]\n```\n\n## The Landmark Caspi et al. Serotonin Transporter Study (2003):\n- Investigated the **5-HTTLPR** gene (serotonin transporter gene), which exists in two primary allele forms: **Short (s)** and **Long (l)**.\n- Individuals who possessed two copies of the **Short allele (s/s)** who experienced severe childhood maltreatment displayed an immense surge in adult major depression rates.\n- Individuals who possessed two copies of the **Long allele (l/l)** who experienced the exact same severe childhood trauma showed remarkable resilience and did not develop elevated depression rates!\n- **Key Lesson:** The gene alone didn't cause depression, and the trauma alone didn't cause depression; depression emerged only from the **interaction of gene AND environment**."
+        },
+        {
+            "id": "bio_genetics_11",
+            "type": "content",
+            "title": "Behavioral Epigenetics: Molecular Software",
+            "content": "# Behavioral Epigenetics: The Chemical Switchboard\n\nFor decades, DNA was viewed as an unalterable stone tablet. The revolutionary frontier of **Behavioral Epigenetics** proved that while your genetic DNA code never changes, the chemical 'switches' regulating whether genes are turned ON or OFF are dynamically altered by life experiences!\n\n## Epigenetic Mechanisms:\n- **DNA Methylation:** Adding methyl groups (CH3) to DNA molecules, tightly winding chromatin to silence/turn off gene expression.\n- **Histone Modification:** Relaxing or tightening DNA spools around histone proteins to facilitate or block transcription.\n\n## Michael Meaney's Maternal Rat Grooming Studies:\n- Rat pups born to anxious mothers that were licked and groomed extensively by foster mothers had methyl tags stripped away from their glucocorticoid receptor gene in the hippocampus.\n- These pups grew up calm, biologically resilient to stress, and passed this calm maternal behavior down to their offspring!"
+        },
+        {
+            "id": "bio_genetics_12",
+            "type": "content",
+            "title": "Genome-Wide Association Studies (GWAS)",
+            "content": "# Genome-Wide Association Studies (GWAS)\n\nIn the 21st century, modern behavioral genetics transitioned to scanning complete genomes of hundreds of thousands of people simultaneously:\n\n## How GWAS Operates:\n- Sequences hundreds of thousands of **Single Nucleotide Polymorphisms (SNPs)** across massive population cohorts (e.g., the UK Biobank with 500,000 sequenced participants).\n- Identifies tiny statistical variations across the genome associated with complex traits.\n\n## Polygenic Risk Scores (PRS):\n- Summing the tiny weighted contributions of thousands of individual genetic variants into a single numerical index estimating an individual's genetic susceptibility to conditions like bipolar disorder, Alzheimer's, or ADHD."
+        },
+        {
+            "id": "bio_genetics_quiz_4",
+            "type": "quiz",
+            "title": "Epigenetics & GWAS Check",
+            "content": "Assess your understanding of epigenetic mechanisms and polygenic risk scores!",
+            "quizQuestion": "What biological process involves adding chemical methyl groups to DNA molecules, turning specific genes off without altering the underlying genetic sequence in response to environmental trauma or nurture?",
+            "quizOptions": [
+                "DNA Methylation",
+                "Saltatory conduction",
+                "Excitotoxicity",
+                "Synaptic reuptake"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "bio_genetics_13",
+            "type": "content",
+            "title": "Evolutionary Psychology & Natural Selection",
+            "content": "# Evolutionary Psychology & Behavioral Adaptations\n\nBehavioral genetics explores why individuals differ from each other; **Evolutionary Psychology** explores why all humans share common psychological nature:\n\n## The Core Evolutionary Tenet:\n- The human mind is comprised of psychological adaptations shaped by natural selection over millions of years of hominid evolution.\n\n## Universal Human Psychological Adaptations:\n- **Innate Fear Modules:** Humans effortlessly learn to fear snakes, spiders, and heights (ancient evolutionary hazards), but rarely develop conditioned phobias of cars or electrical outlets (which kill far more people today).\n- **Universal Facial Expressions:** Paul Ekman proved that six primary emotions (joy, sadness, anger, fear, disgust, surprise) are recognized across every isolated human culture on Earth.\n- **Language Predisposition:** All human infants effortlessly acquire human speech without formal schooling."
+        },
+        {
+            "id": "bio_genetics_14",
+            "type": "content",
+            "title": "Ethical Considerations in Genetic Testing",
+            "content": "# Ethical Frontiers in Behavioral Genetics\n\nThe ability to sequence human genomes raises profound ethical questions for psychologists and society:\n\n## Emerging Dilemmas:\n- **Genetic Determinism & Fatalism:** The false public belief that if a trait is 'in your genes', your destiny is fixed and lifestyle intervention is futile.\n- **Genetic Discrimination:** Protecting individuals from employers or insurance providers denying coverage based on elevated polygenic risk scores (safeguarded by GINA in the United States).\n- **Embryo Screening & Gene Editing:** Ethical boundaries surrounding selecting embryos based on polygenic scores for cognitive traits."
+        },
+        {
+            "id": "bio_genetics_15",
+            "type": "content",
+            "title": "Summary & Genetic Synthesis",
+            "content": "# Summary: Genetics & Behavior\n\n## Core Principles Mastered:\n- **Genetic Architecture:** 46 chromosomes (23 pairs), DNA double-helix, 20,000+ protein-coding genes.\n- **Genotype vs. Phenotype:** Inherited genetic sequence (genotype) vs. observable biological and behavioral expression (phenotype).\n- **Polygenic Inheritance:** Complex psychological traits are governed by thousands of interacting genes.\n- **Heritability (h^2):** Proportion of phenotypic variance in a population attributable to genetic variance; does NOT apply to an individual.\n- **Twin & Adoption Paradigms:** Comparing MZ vs. DZ concordance; Minnesota study proved approx 50% heritability for IQ and personality.\n- **Gene-Environment Correlations (rGE):** Passive, Evocative, and Active (niche-picking).\n- **G x E Interactions:** Diathesis-stress model (e.g., 5-HTTLPR serotonin transporter allele interacting with childhood trauma).\n- **Epigenetics:** Environmental experiences altering DNA methylation to switch genes on/off.\n\n> **Looking Ahead:** In our final module of this course, we examine the cutting-edge Brain Imaging Techniques used to visualize the living mind!"
+        }
+    ]
+}

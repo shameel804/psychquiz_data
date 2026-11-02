@@ -1,0 +1,155 @@
+{
+    "id": "learn_dm_theories",
+    "topicId": "dm_theories",
+    "topicTitle": "Decision-Making Theories",
+    "description": "Analyze foundational normative, descriptive, and computational models of choice, contrasting Expected Utility Theory with Prospect Theory, Bounded Rationality, and Dual-Process Systems.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "dm_theories_1",
+            "type": "content",
+            "title": "Normative vs. Descriptive Decision Theories",
+            "content": "# The Landscape of Decision Theory\n\nDecision theory divides fundamentally into two philosophical paradigms:\n\n## 1. Normative Decision Theories\n- **Question:** How *should* rational agents make decisions if they adhere to pure logic, probability, and mathematical consistency?\n- **Focus:** Optimization, axiomatic rationality, Expected Value, Expected Utility Theory.\n\n## 2. Descriptive Decision Theories\n- **Question:** How do actual, fallible human beings *actually* make decisions in real life under cognitive, emotional, and time constraints?\n- **Focus:** Behavioral economics, Bounded Rationality, Prospect Theory, Dual-Process Systems.\n\n## The Core Tension:\n- Decades of empirical experiments prove that human behavior routinely violates normative axioms in systematic, predictable ways."
+        },
+        {
+            "id": "dm_theories_2",
+            "type": "content",
+            "title": "Expected Value Theory and the St. Petersburg Paradox",
+            "content": "# Expected Value & The St. Petersburg Paradox\n\nEarly mathematicians proposed **Expected Value (EV)** as the rational guide for gambling:\n\n```\nExpected Value (EV) = Sum of [Probability x Monetary Payoff]\n```\n\n## The St. Petersburg Paradox (Nicolas Bernoulli, 1713):\n- A coin is flipped until it lands heads.\n- If heads appears on flip 1, you win \\$2. If heads on flip 2, you win \\$4. If on flip 3, \\$8... payout doubles every toss ($2^n$).\n- **Mathematical EV:** (1/2)(\\$2) + (1/4)(\\$4) + (1/8)(\\$8)... = \\$1 + \\$1 + \\$1... = **INFINITE Expected Value!**\n\n## The Paradox:\n- If EV determines choice, a rational person should pay their entire life savings to play this game.\n- Yet in reality, almost no one is willing to pay more than **\\$20** to play!\n- Proved that monetary wealth does not equal psychological value."
+        },
+        {
+            "id": "dm_theories_3",
+            "type": "content",
+            "title": "Expected Utility Theory (von Neumann & Morgenstern)",
+            "content": "# Expected Utility Theory (EUT)\n\nDaniel Bernoulli (1738) resolved the paradox by proposing that subjective psychological satisfaction (**Utility**) exhibits **diminishing marginal returns**:\n- A gain of \\$1,000 provides massive utility to an impoverished person, but negligible utility to a billionaire.\n\n```\nExpected Utility (EU) = Sum of [Probability x Utility(Payoff)]\n```\n\n## Axiomatic Foundations (John von Neumann & Oskar Morgenstern, 1944):\nEUT proved that if a decision-maker obeys four foundational axioms of rationality, they can be modeled as maximizing expected utility:\n1. **Completeness:** Preferences are well-defined (A > B, B > A, or A = B).\n2. **Transitivity:** If A > B and B > C, then logically A > C.\n3. **Continuity:** Smooth trade-offs between certain and probabilistic prospects.\n4. **Independence:** Adding an irrelevant alternative cannot flip preference between existing options."
+        },
+        {
+            "id": "dm_theories_quiz_1",
+            "type": "quiz",
+            "title": "Expected Value & Utility Check",
+            "content": "Verify your understanding of the St. Petersburg Paradox and Expected Utility axioms!",
+            "quizQuestion": "In classical Expected Utility Theory, what economic axiom states that if an individual prefers option A over option B, introducing an irrelevant option C cannot reverse this preference?",
+            "quizOptions": [
+                "The Independence Axiom",
+                "The Transitivity Axiom",
+                "The Completeness Axiom",
+                "The Law of Diminishing Marginal Returns"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "dm_theories_4",
+            "type": "content",
+            "title": "Violations of Normative Theory: The Allais Paradox",
+            "content": "# The Allais Paradox (Maurice Allais, 1953)\n\nFrench economist Maurice Allais demonstrated that human decision-makers systematically violate the Independence Axiom of Expected Utility Theory.\n\n## Choice 1:\n- **Option A:** \\$1 million for certain (100% chance). [Most pick A]\n- **Option B:** 89% chance of \\$1 million, 10% chance of \\$5 million, 1% chance of \\$0.\n\n## Choice 2:\n- **Option C:** 11% chance of \\$1 million, 89% chance of \\$0.\n- **Option D:** 10% chance of \\$5 million, 90% chance of \\$0. [Most pick D]\n\n## The Mathematical Violation:\n- Mathematically, Choice 2 is derived directly from Choice 1 by subtracting an identical 89% chance of \\$1 million from both options!\n- **The Certainty Effect:** People place disproportionate psychological weight on absolute certainty compared to merely high probability."
+        },
+        {
+            "id": "dm_theories_5",
+            "type": "content",
+            "title": "Herbert Simon's Bounded Rationality",
+            "content": "# Bounded Rationality & Satisficing (Herbert Simon)\n\nNobel laureate Herbert Simon (1955) argued that classical utility maximization is an impossible fairy tale because human decision-makers are bounded by physical cognitive constraints.\n\n## The Three Bounds on Rationality:\n1. **Information Incompleteness:** Real-world agents never have complete access to all market data.\n2. **Cognitive / Computational Limitations:** Working memory capacity and processing speed prevent calculating all permutations.\n3. **Finite Time Constraints:** Decisions must be executed before survival opportunities vanish.\n\n## Satisficing vs. Maximizing:\n- **Maximizing:** Searching endlessly for the optimal mathematical choice (exhausting, often impossible).\n- **Satisficing (Satisfy + Suffice):** Searching only until an alternative meets an internal threshold of acceptability (**an aspiration level**), then halting the search immediately!"
+        },
+        {
+            "id": "dm_theories_6",
+            "type": "content",
+            "title": "Prospect Theory: The Value Function",
+            "content": "# Prospect Theory (Kahneman & Tversky, 1979)\n\nDaniel Kahneman and Amos Tversky revolutionized economics by introducing **Prospect Theory**, an empirically grounded descriptive model of choice under risk.\n\n## The S-Shaped Value Function:\n\n```\n                   Subjective Value\n                          |\n                          |        /--- Gains (Concave: Risk-Averse)\n                          |       /\n                          |      /\n  Losses (Convex) --------+-----+---------------- Outcome (Wealth Change)\n         \\                |\n          \\               |\n           \\              |  Reference Point (Status Quo)\n            \\             |\n             \\            | (Steeper Slope for Losses: Loss Aversion)\n```\n\n## Three Fundamental Properties:\n1. **Reference Dependence:** Utility is evaluated as gains or losses relative to a neutral **reference point** (status quo), not absolute wealth.\n2. **Diminishing Sensitivity:** The marginal difference between \\$10 and \\$20 feels much larger than the difference between \\$1,010 and \\$1,020.\n3. **Loss Aversion:** The value function is distinctly steeper for losses than for gains (Loss Aversion Ratio approx 2:1)."
+        },
+        {
+            "id": "dm_theories_quiz_2",
+            "type": "quiz",
+            "title": "Satisficing & Prospect Theory Check",
+            "content": "Evaluate your understanding of bounded rationality and Prospect Theory's value curve!",
+            "quizQuestion": "In Herbert Simon's concept of Bounded Rationality, what term describes the decision-making strategy where an agent selects the first option that meets an acceptable aspiration threshold rather than seeking the optimal choice?",
+            "quizOptions": [
+                "Maximizing",
+                "Satisficing",
+                "Subitizing",
+                "Discounting"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_theories_7",
+            "type": "content",
+            "title": "Prospect Theory: Probability Weighting",
+            "content": "# Probability Weighting in Prospect Theory\n\nDo humans treat probabilities linearly? In Expected Utility, a 1% increase in probability is valued identically whether shifting from 0% to 1% or from 49% to 50%.\n\n## The Non-Linear Weighting Function, w(p):\n\n```\nSubjective Weight, w(p)\n1.0 |                    /-- (Overweighting of Low Probabilities)\n    |                   /   \n    |                  /    \n    |                 /     --- Identity Line (Rationality)\n    |                /      \n    |               /   (Underweighting of Moderate & High Probabilities)\n0.0 |______________*********************************_____\n    0.0                                            1.0 Objective Probability (p)\n```\n\n## Key Distortions:\n- **Overweighting of Rare Events:** A 0.001% chance of a plane crash or winning the lottery is given vastly inflated psychological weight.\n- **The Possibility Effect:** Shifting from 0% to 1% feels profound (hope/fear).\n- **The Certainty Effect:** Shifting from 99% to 100% feels qualitatively immense."
+        },
+        {
+            "id": "dm_theories_8",
+            "type": "content",
+            "title": "The Fourfold Pattern of Risk Preferences",
+            "content": "# The Fourfold Pattern of Risk Attitudes\n\nCombining the S-shaped value function with the non-linear probability weighting function yields Prospect Theory's famous **Fourfold Pattern**:\n\n| | GAINS (High / Moderate Payoffs) | LOSSES (High / Moderate Payoffs) |\n|---|---|---|\n| **HIGH PROBABILITY** (Certainty Effect) | **Risk-Averse**<br>Prefer \\$900 for sure over 90% chance of \\$1,000.<br>*Fear of disappointment.* | **Risk-Seeking**<br>Prefer 90% chance of losing \\$1,000 over losing \\$900 for sure.<br>*Desperate gamble to avoid loss.* |\n| **LOW PROBABILITY** (Possibility Effect) | **Risk-Seeking**<br>Prefer 1% chance of \\$10,000 over \\$100 for sure.<br>*Lottery tickets / Hope.* | **Risk-Averse**<br>Prefer paying \\$100 premium over 1% chance of \\$10,000 loss.<br>*Insurance policies / Fear.* |"
+        },
+        {
+            "id": "dm_theories_9",
+            "type": "content",
+            "title": "Dual-Process Theory: System 1 and System 2",
+            "content": "# Dual-Process Framework of Decision Making\n\nKeith Stanovich, Richard West, and Daniel Kahneman conceptualized human thought as an ongoing dialogue between two cognitive operating systems:\n\n## System 1 (\"Fast Thinking / Intuitive\"):\n- Operates automatically, effortlessly, unconsciously, and rapidly.\n- Uses heuristics, associations, and emotions (e.g., detecting hostility in a voice, reading billboard words, ducking when a ball flies at your face).\n\n## System 2 (\"Slow Thinking / Reflective\"):\n- Operates deliberately, effortfully, consciously, and serially.\n- Requires focused attention and working memory capacity (e.g., computing 17 x 24, checking the validity of a complex logical argument, parallel parking in a tight space).\n\n## The Lazy Controller:\n- System 2 is computationally lazy, frequently rubber-stamping System 1's heuristic intuitions without verification."
+        },
+        {
+            "id": "dm_theories_quiz_3",
+            "type": "quiz",
+            "title": "Fourfold Pattern & Dual Systems Check",
+            "content": "Test your mastery of the Fourfold Pattern and dual-process cognitive architecture!",
+            "quizQuestion": "In Prospect Theory's Fourfold Pattern, why do individuals buy lottery tickets (low probability of high gain) while simultaneously buying homeowner insurance (low probability of catastrophic loss)?",
+            "quizOptions": [
+                "Overweighting of low probabilities produces risk-seeking for rare gains (lotteries) and risk-aversion for rare losses (insurance)",
+                "System 2 overrides System 1 in both financial scenarios",
+                "Both decisions are driven by the Allais Paradox",
+                "Monetary outcomes are evaluated linearly without reference points"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "dm_theories_10",
+            "type": "content",
+            "title": "Heuristic Fast & Frugal Trees (Gerd Gigerenzer)",
+            "content": "# Ecological Rationality & Simple Heuristics\n\nGerd Gigerenzer argued against Kahneman's view that heuristics are inferior cognitive shortcuts that produce errors. Instead, he formulated the **Fast and Frugal Heuristics** program.\n\n## The \"Less is More\" Effect:\n- Complex statistical models (like multiple linear regression) often suffer from **overfitting** when predicting uncertain future events.\n- Simple, robust heuristics that ignore most information can actually make **more accurate** real-world out-of-sample predictions than complex algorithms!\n\n## The Take-the-Best Heuristic:\n1. Retrieve the cue with the highest diagnostic validity.\n2. Compare alternatives on that single cue.\n3. If one alternative scores higher, stop searching and choose it immediately!\n4. Ignore all other variables; no trade-offs, no complex weighting!"
+        },
+        {
+            "id": "dm_theories_11",
+            "type": "content",
+            "title": "Neuroeconomics: The Neural Valuation System",
+            "content": "# Neuroeconomics: Value in the Brain\n\nHow do neural circuits compute subjective utility during choice?\n\n## The Common Neural Currency (Paul Glimcher):\n- To choose between non-comparable goods (e.g., *\"Should I spend \\$20 on a book, a sushi dinner, or movie tickets?\"*), the brain must convert disparate sensory options into a unified scale of value.\n\n```\nSensory Inputs ---> [Ventromedial PFC (vmPFC)] + [Ventral Striatum] ---> Computes Subjective Utility ($)\n                                         |\n                                         v\n                             [Dorsolateral PFC / Motor]\n                                  (Action Selection)\n```\n\n## Brain Structures:\n- **vmPFC & Orbitofrontal Cortex (OFC):** Represents the subjective economic value of chosen goods.\n- **Ventral Striatum (Nucleus Accumbens):** Tracks expected reward magnitudes and prediction errors."
+        },
+        {
+            "id": "dm_theories_12",
+            "type": "content",
+            "title": "Temporal Discounting and Hyperbolic Valuation",
+            "content": "# Intertemporal Choice and Delay Discounting\n\nHow do humans choose between immediate gratification and future rewards?\n\n## Exponential Discounting (Normative Model):\n- Assumes a constant discount rate over time: \\$100 today is valued identically relative to \\$100 in 1 year, as \\$100 in 10 years is to \\$100 in 11 years.\n\n## Hyperbolic Discounting (Behavioral Reality):\n- Human discounting curves are **hyperbolic**: steep discounting for immediate delays, flattening out over distant horizons.\n\n```\n[Dynamic Inconsistency]:\n- Choice A: \\$100 today vs. \\$110 tomorrow.       ---> Almost everyone picks \\$100 TODAY!\n- Choice B: \\$100 in 30 days vs. \\$110 in 31 days. ---> Almost everyone waits for \\$110 IN 31 DAYS!\n```\n\n- The 24-hour delay is identical, but proximity to the present moment triggers impulsive limbic craving (**Present Bias**)!"
+        },
+        {
+            "id": "dm_theories_quiz_4",
+            "type": "quiz",
+            "title": "Neuroeconomics & Discounting Check",
+            "content": "Verify your understanding of common neural currency and hyperbolic discounting!",
+            "quizQuestion": "In neuroeconomics, which brain structure is critically identified as encoding the subjective economic value of choices into a common neural currency?",
+            "quizOptions": [
+                "Ventromedial Prefrontal Cortex (vmPFC)",
+                "Primary Auditory Cortex",
+                "Spinal Cord Dorsal Horn",
+                "Cerebellar Dentate Nucleus"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "dm_theories_13",
+            "type": "content",
+            "title": "Regret Theory and Emotional Valuation",
+            "content": "# Regret Theory (Loomes & Sugden, 1982)\n\nHuman choices are not driven solely by expected payoffs; they are heavily influenced by anticipated emotional counterfactuals.\n\n## Anticipated Regret:\n- Decision-makers compare the outcome of their chosen option with the counterfactual outcome that would have occurred had they chosen the alternative.\n- If the alternative would have been better, the person suffers **regret**; if worse, they enjoy **rejoicing**.\n\n## Action vs. Inaction Asymmetry (Kahneman & Tversky):\n- In the short term, people experience significantly more acute regret from bad actions taken (**commission**) than from missed opportunities (**omission**).\n- In the long term (looking back over a lifetime), people experience the deepest, most enduring regret over paths *not* taken!"
+        },
+        {
+            "id": "dm_theories_14",
+            "type": "content",
+            "title": "Model Comparison: Normative vs Descriptive",
+            "content": "# Synthesis of Decision Models\n\nDirect comparison across major decision frameworks:\n\n| Theoretical Dimension | Expected Utility Theory | Bounded Rationality | Prospect Theory |\n|---|---|---|---|\n| Model Nature | Normative / Prescriptive | Descriptive / Procedural | Descriptive / Mathematical |\n| Underlying Goal | Absolute optimization | Satisficing (good enough) | Reference-dependent valuation |\n| Computational Load | Infinite / Exhaustive | Minimal / Heuristic | Two-stage (editing & evaluation) |\n| Probability Handling | Linear objective probabilities | Qualitative thresholds | Non-linear weighting function |\n| Wealth Evaluation | Final total wealth states | Search aspiration levels | Changes relative to reference point |\n| Risk Assumption | Consistent risk-aversion | Context-dependent | Fourfold pattern via value curve |"
+        },
+        {
+            "id": "dm_theories_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Decision-Making Theories\n\n## Core Frameworks Mastered:\n\n### 1. Expected Utility Theory (von Neumann & Morgenstern)\n- Normative model based on transitivity, completeness, and independence; undermined by the St. Petersburg and Allais Paradoxes.\n\n### 2. Bounded Rationality (Simon)\n- Real-world limits on information, memory, and time force agents to satisfice rather than maximize.\n\n### 3. Prospect Theory (Kahneman & Tversky)\n- S-shaped value function: reference-dependent, concave for gains, convex for losses, steep loss aversion.\n- Non-linear probability weighting yields the Fourfold Pattern of risk attitudes.\n\n### 4. Dual Systems & Neuroeconomics\n- Fast System 1 heuristics vs. Slow System 2 reflection.\n- vmPFC and ventral striatum represent subjective value as a common neural currency.\n\n> **Up Next:** See how decision science transforms policy and legal systems in **Applied Decision Making**!"
+        }
+    ]
+}

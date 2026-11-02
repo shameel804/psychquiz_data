@@ -1,0 +1,155 @@
+{
+    "id": "learn_pers_humanistic",
+    "topicId": "pers_humanistic",
+    "topicTitle": "Humanistic & Social-Cognitive",
+    "description": "Examine the Third Force of humanistic psychology and social-cognitive theory, analyzing Maslow's hierarchy, Rogers' self-concept, Bandura's reciprocal determinism, and Mischel's CAPS model.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "pers_humanistic_1",
+            "type": "content",
+            "title": "The Third Force: Humanistic Psychology",
+            "content": "# The Humanistic & Social-Cognitive Revolution\n\nIn the mid-20th century, psychology was split into two reductionist camps:\n1. **Freudian Psychoanalysis:** Viewed humans as prisoners of unconscious animalistic sex and death drives.\n2. **Behaviorism:** Viewed humans as passive, mechanical stimulus-response organisms.\n\nIn response, **Humanistic Psychology (\"The Third Force\")** arose, declaring that human beings possess inherent dignity, conscious free will, creative potential, and a natural biological drive toward self-actualization.\n\n```\n                                [THE HUMANISTIC & SOCIAL-COGNITIVE PARADIGMS]\n                                                     |\n         +-------------------------------------------+-------------------------------------------+\n         |                                                                                       |\n   [HUMANISTIC PARADIGM: Growth & Agency]                                  [SOCIAL-COGNITIVE PARADIGM: Interaction & Self-Efficacy]\n   - Maslow's Hierarchy of Needs & Peak Experiences                        - Bandura's Triadic Reciprocal Determinism\n   - Rogers' Person-Centered Theory & Unconditional Regard                 - Mischel & Shoda's CAPS \"If... Then...\" Signatures\n   - Incongruence, Conditions of Worth, & Fully Functioning                - Rotter's Locus of Control & Seligman's Optimism\n```"
+        },
+        {
+            "id": "pers_humanistic_2",
+            "type": "content",
+            "title": "Abraham Maslow's Hierarchy of Needs (1943, 1954)",
+            "content": "# Abraham Maslow: The Architecture of Human Needs\n\nAbraham Maslow organized human motivation into a hierarchical pyramid, distinguishing between **Deficiency Needs (D-Needs)** and **Growth Needs (B-Needs / Being Needs)**:\n\n```\n                                 [SELF-ACTUALIZATION / TRANSCENDENCE]\n                                 Fulfilling ultimate creative potential;\n                                 peak experiences, cosmic unity.\n                                                ^\n                                                |\n                                     [ESTEEM NEEDS (D-Need)]\n                                  Respect, status, competence,\n                                  confidence, and recognition.\n                                                ^\n                                                |\n                              [BELONGING & LOVE NEEDS (D-Need)]\n                              Intimate relationships, friendship,\n                              family, tribal belonging, acceptance.\n                                                ^\n                                                |\n                                   [SAFETY NEEDS (D-Need)]\n                                Security of body, employment,\n                                resources, health, property, law.\n                                                ^\n                                                |\n                             [PHYSIOLOGICAL NEEDS (D-Need)]\n                             Air, water, food, warmth, sleep,\n                             homeostasis, excretion, reproduction.\n```"
+        },
+        {
+            "id": "pers_humanistic_3",
+            "type": "content",
+            "title": "Characteristics of Self-Actualized Individuals",
+            "content": "# Maslow's Study of Exemplary Humans\n\nRather than studying neurotic patients, Maslow studied the biographies of historical figures he deemed self-actualized (Albert Einstein, Eleanor Roosevelt, Abraham Lincoln, Spinoza):\n\n## Hallmarks of the Self-Actualized Person:\n1. **Accurate Perception of Reality:** Free from defensive illusions, biases, and wishful thinking.\n2. **Spontaneous and Authentic:** Guided by internal ethics rather than artificial social etiquette.\n3. **Problem-Centered, Not Ego-Centered:** Devoted to a mission, calling, or problem outside themselves.\n4. **Autonomous and Independent:** Resilient in the face of public criticism or social isolation.\n5. **Peak Experiences:** Transcendent moments of awe, unity, timelessness, and profound gratitude."
+        },
+        {
+            "id": "pers_humanistic_quiz_1",
+            "type": "quiz",
+            "title": "Maslow's Hierarchy Check",
+            "content": "Verify your understanding of Maslow's humanistic need hierarchy!",
+            "quizQuestion": "In Abraham Maslow's Hierarchy of Needs, how do 'Deficiency Needs' (such as physiological, safety, and esteem needs) differ from 'Being / Growth Needs' (Self-Actualization)?",
+            "quizOptions": [
+                "Deficiency needs arise from deprivation and decrease in urgency once satisfied, whereas growth needs arise from a desire to flourish and increase as they are engaged",
+                "Deficiency needs only exist in laboratory animals",
+                "Growth needs must be satisfied before an individual can seek food or water",
+                "Deficiency needs are illegal under civil law"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "pers_humanistic_4",
+            "type": "content",
+            "title": "Carl Rogers: The Person-Centered Theory",
+            "content": "# Carl Rogers: The Actualizing Tendency (1959, 1961)\n\nCarl Rogers founded **Person-Centered Therapy**, asserting that every organism possesses a fundamental master drive: **The Actualizing Tendency** (the biological drive to develop all capacities in ways that maintain or enhance the organism).\n\n## The Architecture of the Self:\n\n```\n                                  [THE ROGERIAN SELF]\n                                           |\n         +---------------------------------+---------------------------------+\n         |                                                                   |\n   [THE REAL / ACTUAL SELF]                                            [THE IDEAL SELF]\n   - The self-concept as you actually                                  - The person you deeply aspire\n     perceive yourself to be in reality.                                 to become (aspirations, values).\n```\n\n```\n   CONGRUENCE (Mental Health & Vitality)       INCONGRUENCE (Neurosis & Anxiety)\n   Real Self and Ideal Self OVERLAP TIGHTLY!   Real Self and Ideal Self HAVE A MASSIVE GAP!\n   (Authentic, comfortable in one's skin).     (Chronic guilt, defensiveness, self-loathing).\n```"
+        },
+        {
+            "id": "pers_humanistic_5",
+            "type": "content",
+            "title": "Conditions of Worth vs. Unconditional Positive Regard",
+            "content": "# Why Do People Become Incongruent? Carl Rogers\n\nWhy do healthy infants develop fragmented, anxious self-concepts?\n\n## The Poison of Conditional Regard:\n- Children have an innate need for **Positive Regard** (love, warmth, acceptance).\n- Parents often provide **Conditional Positive Regard** (*\"I love you ONLY IF you get straight A's and play soccer\"*).\n- The child internalizes **Conditions of Worth**, disowning their authentic feelings to buy parental approval, driving a wedge between their Real Self and Ideal Self!\n\n```\n   THE HEALING ANTIDOTE: UNCONDITIONAL POSITIVE REGARD\n   Accepting, prizing, and loving a person unconditionally, completely free of judgment.\n   Creates a psychologically safe climate allowing the individual to drop defensive masks,\n   reconcile incongruence, and become a \"Fully Functioning Person\"!"
+        },
+        {
+            "id": "pers_humanistic_6",
+            "type": "content",
+            "title": "Bandura's Triadic Reciprocal Determinism",
+            "content": "# The Social-Cognitive Turn: Albert Bandura (1986)\n\nAlbert Bandura bridged behavioral conditioning and cognitive processing, formulating **Social Cognitive Theory**.\n\n## Triadic Reciprocal Determinism:\nHuman personality and functioning is the product of continuous, dynamic, three-way mutual interaction:\n\n```\n                        [INTERNAL PERSONAL FACTORS (P)]\n                        (Cognitive schemas, beliefs, self-efficacy,\n                         emotional states, biological predispositions)\n                                     /\\\n                                    /  \\\n                                   /    \\\n                                  /      \\\n                                 /        \\\n      [EXTERNAL ENVIRONMENT (E)] <--------> [OBSERVABLE BEHAVIOR (B)]\n      (Social norms, physical spaces,       (Actions, choices, verbal statements,\n       peer reactions, institutional rules)   motor skills, persistent effort)\n```\n\nEach factor constantly acts as both cause and consequence of the other two!"
+        },
+        {
+            "id": "pers_humanistic_quiz_2",
+            "type": "quiz",
+            "title": "Rogers & Bandura Foundations Check",
+            "content": "Verify your understanding of Rogerian incongruence and reciprocal determinism!",
+            "quizQuestion": "According to Carl Rogers, what causes an individual to develop psychological neurosis, anxiety, and a fractured self-concept?",
+            "quizOptions": [
+                "Traumatic chemical poisoning of the thyroid",
+                "Internalizing 'Conditions of Worth' from conditional love, creating a massive incongruence between their Real Self and Ideal Self",
+                "Lack of sufficient dream analysis in infancy",
+                "Over-activation of the sympathetic nervous system"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pers_humanistic_7",
+            "type": "content",
+            "title": "Walter Mischel & Yuichi Shoda's CAPS Model (1995)",
+            "content": "# Cognitive-Affective Personality System (CAPS)\n\nHow do we reconcile stable personality with cross-situational behavioral variability? Mischel and Shoda formulated the **Cognitive-Affective Personality System (CAPS)**:\n\nPersonality is an organized network of **Cognitive-Affective Units (CAUs)**: Encodings, Expectancies, Beliefs, Affects, Goals, and Competencies.\n\n```\n   THE \"IF... THEN...\" BEHAVIORAL SIGNATURE:\n   Personality is NOT a static trait average; it is a stable, characteristic IF-THEN pattern!\n   \n   - Person A: IF challenged by authority, THEN complies submissively;\n               IF challenged by peers,     THEN becomes combative and hostile.\n   - Person B: IF challenged by authority, THEN rebels aggressively;\n               IF challenged by peers,     THEN acts as a mediator.\n```\n\nBoth individuals have completely stable, highly predictable personalities, but their behavior varies systematically across situations!"
+        },
+        {
+            "id": "pers_humanistic_8",
+            "type": "content",
+            "title": "Julian Rotter's Locus of Control (1966)",
+            "content": "# Who Controls Your Destiny? Locus of Control\n\nJulian Rotter established that an individual's behavior is guided by their **Generalized Expectancies** regarding reinforcement control:\n\n```\n   INTERNAL LOCUS OF CONTROL                     EXTERNAL LOCUS OF CONTROL\n   +---------------------------------------+     +----------------------------------------+\n   | - Belief that outcomes are the DIRECT |     | - Belief that outcomes are controlled  |\n   |   RESULT of one's own efforts, choices|       by luck, chance, fate, or powerful     |\n   |   and actions (\"I am the captain!\").  |       external others (\"Why even try?\").     |\n   | - High academic achievement, proactive|     | - Learned helplessness, passivity, high|\n   |   health behaviors, emotional grit.   |       depression, and career stagnation.     |\n   +---------------------------------------+     +----------------------------------------+\n```"
+        },
+        {
+            "id": "pers_humanistic_9",
+            "type": "content",
+            "title": "Martin Seligman: Learned Optimism & The PERMA Model",
+            "content": "# Martin Seligman: Positive Psychology\n\nIn 1998, Martin Seligman used his APA presidency to pivot psychology from pathology to human flourishing:\n\n## 1. Learned Optimism (Explanatory Style):\n- **Optimistic Style:** Setbacks explained as **External, Unstable, and Specific** (*\"The test was unusually tricky this week, but I will adjust my study strategy\"*).\n- **Pessimistic Style:** Setbacks explained as **Internal, Stable, and Global** (*\"I failed because I am completely stupid at everything!\"*).\n\n## 2. The PERMA Model of Flourishing (2011):\n- **P**ositive Emotion, **E**ngagement (Flow), **R**elationships, **M**eaning, **A**ccomplishment."
+        },
+        {
+            "id": "pers_humanistic_quiz_3",
+            "type": "quiz",
+            "title": "CAPS & Locus of Control Check",
+            "content": "Verify your understanding of Mischel's CAPS signatures and Rotter's locus of control!",
+            "quizQuestion": "In Mischel and Shoda's Cognitive-Affective Personality System (CAPS), how is an individual's enduring personality best conceptualized and identified?",
+            "quizOptions": [
+                "As an unchangeable biological lump in the temporal lobe",
+                "As a stable, characteristic profile of 'If... Then...' behavioral signatures reflecting how mental units interact with specific situational triggers",
+                "As a single aggregate number on an IQ test",
+                "As a purely random collection of behaviors"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pers_humanistic_10",
+            "type": "content",
+            "title": "Self-Efficacy as Personality Core (Bandura)",
+            "content": "# Human Agency: Self-Efficacy\n\nBandura positioned **Self-Efficacy** (the belief in one's capability to organize and execute courses of action required to produce given attainments) as the bedrock of human agency:\n\n```\n   PEOPLE WITH HIGH SELF-EFFICACY:               PEOPLE WITH LOW SELF-EFFICACY:\n   ----------------------------------------      -------------------------------------------\n   - View difficult problems as challenges.      - Avoid challenging tasks; view them as threats.\n   - Develop deep, sustained interest in tasks.  - Focus obsessively on personal deficiencies.\n   - Recover quickly from setbacks.              - Quickly surrender in the face of obstacles.\n   - High performance, low depression.           - Chronic anxiety, learned helplessness.\n```"
+        },
+        {
+            "id": "pers_humanistic_11",
+            "type": "content",
+            "title": "Critiques of Humanistic & Social-Cognitive Paradigms",
+            "content": "# Scientific Scrutiny: Evaluating the Third Force\n\n```\n   CRITIQUES OF HUMANISM (Maslow & Rogers)       CRITIQUES OF SOCIAL-COGNITIVE THEORY\n   ----------------------------------------      -------------------------------------------\n   - Excessively naive optimism regarding human  - Tends to overemphasize rational cognition,\n     capacity for evil, violence, and cruelty.     minimizing biological and unconscious drives.\n   - Concepts like \"Self-Actualization\" are      - Complex \"If... Then...\" signatures are\n     vague, subjective, and hard to operationalize.difficult to measure compared to simple Big Five traits.\n   - Strong Western individualist cultural bias. - Requires immense computational modeling.\n```"
+        },
+        {
+            "id": "pers_humanistic_12",
+            "type": "content",
+            "title": "Clinical Integration: Person-Centered Therapy & CBT",
+            "content": "# Clinical Applications of Humanism & Social-Cognition\n\nThese paradigms directly created modern psychotherapy:\n\n- **Person-Centered Therapy (Rogers):** Empathy, Congruence, and Unconditional Positive Regard form the necessary \"core conditions\" of all successful therapeutic alliances.\n- **Cognitive Behavioral Therapy (CBT):** Merges Bandura's self-efficacy and behavioral mastery experiments with Beck and Ellis's cognitive restructuring.\n- **Acceptance & Agency:** Balances Rogerian unconditional self-acceptance with Banduran behavioral action."
+        },
+        {
+            "id": "pers_humanistic_quiz_4",
+            "type": "quiz",
+            "title": "Self-Efficacy & Clinical Applications Check",
+            "content": "Verify your understanding of self-efficacy and humanistic therapy!",
+            "quizQuestion": "In Carl Rogers' Person-Centered Therapy, what are the three essential core conditions a therapist must provide to catalyze client self-actualization and psychological healing?",
+            "quizOptions": [
+                "Hypnosis, free association, and dream interpretation",
+                "Congruence (genuineness), Unconditional Positive Regard, and Empathic Understanding",
+                "Electric shock, token economies, and strict behavioral punishment",
+                "Silent psychoanalytic note-taking behind a couch"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pers_humanistic_13",
+            "type": "content",
+            "title": "Comprehensive Humanistic & Cognitive Comparison Matrix",
+            "content": "# Theoretical Architecture of Humanistic & Social-Cognitive Paradigms\n\n| Theoretical Framework | View of Human Nature | Core Mechanism | Key Pioneering Tool |\n|---|---|---|---|\n| **Hierarchy of Needs (Maslow)**| Inherently growth-oriented | D-Needs satisfy survival; B-Needs actualize potential. | Peak experiences analysis. |\n| **Person-Centered (Rogers)** | Driven to self-actualize | Congruence between Real and Ideal Self. | Unconditional positive regard. |\n| **Reciprocal Determinism (Bandura)**| Active agentic learner | Bidirectional P <-> B <-> E interaction. | Self-efficacy modeling. |\n| **CAPS Architecture (Mischel)**| Contextual cognitive processor | Cognitive-Affective Units trigger \"If... Then...\" acts.| Behavioral signatures profiling. |\n| **Locus of Control (Rotter)** | Expectancy-driven agent | Internal vs External reinforcement attributions. | I-E Scale questionnaire. |\n| **Learned Optimism (Seligman)**| Malleable explanatory agent | Optimistic vs Pessimistic causal attributions. | PERMA flourishing index. |"
+        },
+        {
+            "id": "pers_humanistic_14",
+            "type": "content",
+            "title": "The Modern Legacy: Humanistic Cognitive Science",
+            "content": "# The Flourishing Mind in the 21st Century\n\nToday, the humanistic vision lives on through **Self-Determination Theory** (Deci & Ryan) and **Positive Psychology** (Seligman, Csikszentmihalyi):\n\n- Replaces the pathologizing medical deficit model with **Strengths-Based Psychology**.\n- Empowers individuals to take ownership of their psychological growth, cultivate meaningful community bonds, and actualize human potential."
+        },
+        {
+            "id": "pers_humanistic_15",
+            "type": "content",
+            "title": "Module Synthesis: Humanistic & Social-Cognitive",
+            "content": "# Key Takeaways: Humanistic & Social-Cognitive\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Theoretical Principle        |\n+-----------------------+-----------------------------+-----------------------------------+\n| Hierarchy of Needs    | Abraham Maslow (1943, 1954) | Deficiency needs must be met      |\n|                       |                             | before self-actualization ignites.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Person-Centered Theory| Carl Rogers (1959, 1961)    | Congruence between Real and Ideal |\n|                       |                             | Self heals via unconditional love.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Reciprocal Determinism| Albert Bandura (1986)       | Person, Behavior, and Environment |\n|                       |                             | mutually shape one another.       |\n+-----------------------+-----------------------------+-----------------------------------+\n| CAPS Signatures       | Mischel & Shoda (1995)      | Stable personality reflects       |\n|                       |                             | contextual 'If... Then...' rules. |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nHuman beings are not passive victims of unconscious instincts or external reinforcement. Endowed with agency, self-efficacy, and a natural yearning for growth, humans actively author their own life trajectories."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_rel_maintenance",
+    "topicId": "rel_maintenance",
+    "topicTitle": "Relationship Maintenance & Conflict",
+    "description": "Examine the behavioral, economic, and communication processes that sustain intimate partnerships, analyzing Gottman's Four Horsemen, Social Exchange Theory, and conflict resolution modalities.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "rel_maintenance_1",
+            "type": "content",
+            "title": "The Dynamics of Relationship Maintenance",
+            "content": "# Preserving the Bond: Relationship Maintenance\n\nFalling in love is effortless; staying in love requires deliberate, ongoing behavioral and psychological investment.\n\n## What is Relationship Maintenance?\n**Relationship Maintenance** encompasses the strategic and routine behaviors partners employ to keep their union in a desired state of satisfaction, trust, and commitment.\n\n```\n                             [THE PILLARS OF MAINTENANCE]\n                                          |\n         +--------------------------------+--------------------------------+\n         |                                                                 |\n   [ECONOMIC / INTERDEPENDENCE MODELS]           [COMMUNICATION & CONFLICT MODELS]\n   - Social Exchange Theory (Thibaut & Kelley)   - Gottman's Four Horsemen & Antidotes\n   - Rusbult's Investment Model                  - Demand-Withdraw Communication Patterns\n   - Equity Theory (Walster et al.)              - Emotional Flooding and Self-Soothing\n```\n\nLet us first examine the psychological economics of intimate partnership!"
+        },
+        {
+            "id": "rel_maintenance_2",
+            "type": "content",
+            "title": "Social Exchange Theory (Thibaut & Kelley, 1959)",
+            "content": "# Psychological Economics: Social Exchange Theory\n\nJohn Thibaut and Harold Kelley formulated **Social Exchange Theory**, conceptualizing relationships as an ongoing economic balance sheet:\n\n```\n   OUTCOME = REWARDS (companionship, intimacy, support) - COSTS (conflict, time, lost options)\n```\n\n## Evaluating Outcomes: Two Internal Baselines\n1. **Comparison Level (CL):**\n   - Your baseline expectation of what you deserve in a relationship, shaped by past relationships and media. If Outcome > CL, you feel **Satisfied**; if Outcome < CL, you feel **Dissatisfied**.\n2. **Comparison Level for Alternatives (CLalt):**\n   - Your perceived outcome in your best available outside alternative (dating someone else or being single). Dictates **Dependence and Stability**!\n\n```\n   Satisfied & Stable:   Outcome > CL   AND   Outcome > CLalt\n   Unsatisfied but TRAPPED: CL > Outcome > CLalt (Miserable, but has no better options!)\n```"
+        },
+        {
+            "id": "rel_maintenance_3",
+            "type": "content",
+            "title": "Caryl Rusbult's Investment Model (1980, 1983)",
+            "content": "# Caryl Rusbult: The Investment Model of Commitment\n\nWhy do people stay in relationships that have low satisfaction and high conflict? Caryl Rusbult expanded Social Exchange Theory by introducing **Investments**:\n\n```\n   [SATISFACTION LEVEL]  (+)\n   (Rewards - Costs > CL)\n            |\n            v\n   [QUALITY OF ALTERNATIVES] (-) ----> [RELATIONSHIP COMMITMENT] ----> [RELATIONSHIP STABILITY]\n   (Better off alone or elsewhere?)                ^                       (Stay vs. Leave)\n            |                                      |\n            +-----> [INVESTMENT SIZE] (+) ---------+\n                    (Resources bound to the union)\n```\n\n## Intrinsic vs. Extrinsic Investments:\n- **Intrinsic:** Time, emotional vulnerability, shared secrets, personal effort.\n- **Extrinsic:** Shared house, joint bank accounts, children, mutual friend circles.\n- High investments create **structural barriers to exit**, explaining why victims of domestic abuse often remain trapped in hostile environments."
+        },
+        {
+            "id": "rel_maintenance_quiz_1",
+            "type": "quiz",
+            "title": "Social Exchange & Investment Check",
+            "content": "Verify your understanding of Rusbult's Investment Model!",
+            "quizQuestion": "In Caryl Rusbult's Investment Model of Commitment, what three specific components determine an individual's overall commitment to remaining in a romantic relationship?",
+            "quizOptions": [
+                "Age, astrological compatibility, and physical height",
+                "Satisfaction level, quality of alternatives, and investment size",
+                "Monthly income, number of vacations, and shoe size",
+                "Number of shared credit cards alone"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_maintenance_4",
+            "type": "content",
+            "title": "Equity Theory: Walster, Berscheid, & Walster (1973)",
+            "content": "# Fairness in Love: Equity Theory\n\nElaine Walster and colleagues asserted that partners do not merely seek maximal personal rewards; they are driven by a deep psychological need for **Equity**:\n\n```\n   (Partner A's Outcomes / Partner A's Inputs)  =  (Partner B's Outcomes / Partner B's Inputs)\n```\n\n## The Distress of Inequity:\n- **The Underbenefited Partner:** Puts in all the emotional and domestic labor but receives little reward -> Feels intense **resentment, anger, and burnout**.\n- **The Overbenefited Partner:** Receives immense care and pampering while contributing little -> Feels subtle **guilt, unease, and embarrassment**.\n\nCouples who perceive their partnership as equitable exhibit significantly higher marital satisfaction and lower rates of infidelity than either underbenefited or overbenefited spouses!"
+        },
+        {
+            "id": "rel_maintenance_5",
+            "type": "content",
+            "title": "John Gottman's 'Love Lab' & The 5:1 Magic Ratio",
+            "content": "# The Science of Marital Longevity: John Gottman\n\nAt the University of Washington, **John Gottman** established the famous **\"Love Lab\"**, equipping apartments with cameras, heart rate monitors, and skin conductance sensors to record couples discussing contentious conflicts.\n\nBy analyzing 15-minute video interactions, Gottman can **predict divorce with over 90% accuracy**!\n\n```\n   THE CRITICAL METRIC: THE RATIO OF POSITIVE TO NEGATIVE INTERACTIONS\n   \n   Stable, Enduring Marriages:  --> 5 POSITIVE INTERACTIONS FOR EVERY 1 NEGATIVE (5:1 RATIO)\n                                    (Warm smiles, humor, affection, validation, touch)\n   \n   Couples Headed for Divorce:  --> 0.8 POSITIVE FOR EVERY 1 NEGATIVE (0.8:1 RATIO)!\n                                    (Negativity overwhelms the emotional reservoir)\n```"
+        },
+        {
+            "id": "rel_maintenance_6",
+            "type": "content",
+            "title": "Gottman's Four Horsemen of the Apocalypse",
+            "content": "# The Four Fatal Toxic Communication Patterns\n\nGottman identified four lethal communication habits that reliably destroy relationships:\n\n```\n   1. CRITICISM       --> Attacking partner's global character rather than a specific behavior.\n                          \"You NEVER take out the trash because you are a lazy, selfish slob!\"\n                               |\n                               v\n   2. CONTEMPT        --> Mockery, sarcasm, sneering, eye-rolling, name-calling, hostile humor.\n                          \"Oh, look at Mr. Genius who can't even balance a checkbook!\"\n                          **THE #1 SINGLE BEST PREDICTOR OF DIVORCE AND ILLNESS!**\n                               |\n                               v\n   3. DEFENSIVENESS   --> Making excuses, playing the innocent victim, counter-attacking.\n                          \"I wouldn't forget if you didn't nag me every 5 seconds!\"\n                               |\n                               v\n   4. STONEWALLING    --> Withdrawing, looking away, freezing, emotional stonewalling.\n                          Shutting down communication entirely (common in flooded men).\n```"
+        },
+        {
+            "id": "rel_maintenance_quiz_2",
+            "type": "quiz",
+            "title": "Gottman's Four Horsemen Check",
+            "content": "Verify your understanding of Gottman's diagnostic markers!",
+            "quizQuestion": "In John Gottman's longitudinal research at the Love Lab, which of the 'Four Horsemen' emerged as the single most lethal and powerful predictor of marital dissolution?",
+            "quizOptions": [
+                "Stonewalling",
+                "Contempt (sneering, eye-rolling, mockery, and disgust)",
+                "Mild criticism of cooking skills",
+                "Arguing about football scores"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_maintenance_7",
+            "type": "content",
+            "title": "Gottman's Proven Antidotes to the Four Horsemen",
+            "content": "# Dismantling the Horsemen: Behavioral Antidotes\n\nGottman developed specific, actionable behavioral antidotes to replace each toxic communication pattern:\n\n| Lethal Horseman | Behavioral Antidote | Implementation Strategy |\n|---|---|---|\n| **Criticism** | **Gentle Startup** | Use \"I\" statements and describe the specific event without blame: *\"I feel overwhelmed when the kitchen is messy; could you help me clean?\"* |\n| **Contempt** | **Build Culture of Appreciation** | Regularly express gratitude, fondness, and verbal admiration for partner's strengths. |\n| **Defensiveness** | **Take Responsibility** | Acknowledge your piece of the problem: *\"You're right, I forgot to call. I'm sorry.\"* |\n| **Stonewalling** | **Physiological Self-Soothing** | Call a 20-minute timeout to lower heart rate below 100 bpm before resuming dialogue. |"
+        },
+        {
+            "id": "rel_maintenance_8",
+            "type": "content",
+            "title": "Bids for Connection & Emotional Bank Accounts",
+            "content": "# The Micro-Moments of Love: Bids for Connection\n\nGottman discovered that relationship longevity is not determined by grand vacations, but by everyday micro-interactions called **Bids for Connection**:\n\n## What is a Bid?\nAny gesture, question, comment, or touch aimed at connecting with your partner (*\"Look at that beautiful bird outside!\"* or reaching for their hand).\n\n```\n   THREE WAYS PARTNERS RESPOND TO A BID:\n   1. Turning Toward (86% in happy couples) --> Acknowledges and engages: \"Wow, that is gorgeous!\"\n   2. Turning Away  (33% in divorcing couples)-> Ignores or looks at phone, pretending not to hear.\n   3. Turning Against                        --> Snaps with hostility: \"Can't you see I am busy?!\"\n```\n\nTurning toward bids steadily deposits credit into the **Emotional Bank Account**, creating an emotional buffer against future stressful conflicts."
+        },
+        {
+            "id": "rel_maintenance_9",
+            "type": "content",
+            "title": "The Demand-Withdraw Pattern & Flooding",
+            "content": "# Toxic Conflict Cycles: Demand-Withdraw\n\nAndrew Christensen and Thomas Heavey documented the most common destructive conflict dance in distressed couples: **The Demand-Withdraw Cycle**:\n\n```\n   PARTNER A (The Pursuer - often female)        PARTNER B (The Distancer - often male)\n   - Feels unaddressed emotional disconnection.  - Feels overwhelmed and criticized.\n   - Presses for discussion, nags, demands.  --> - Withdraws, retreats, stonewalls.\n   - \"We NEED to talk about this right now!\"     - \"I am leaving; I have nothing to say.\"\n                    ^                                            |\n                    |                                            v\n                    +--------------------------------------------+\n                    (Withdrawal triggers GREATER pursuit and rage!)\n```\n\n## The Neurobiology of Emotional Flooding:\nWhen conflict escalates, heart rate exceeds **100 beats per minute**, surging with adrenaline. The prefrontal cortex shuts down, rendering rational perspective-taking neurologically impossible!"
+        },
+        {
+            "id": "rel_maintenance_quiz_3",
+            "type": "quiz",
+            "title": "Bids & Communication Patterns Check",
+            "content": "Verify your understanding of bids and emotional flooding!",
+            "quizQuestion": "According to John Gottman, what occurs neurobiologically during 'Emotional Flooding' when a spouse's heart rate surges past 100 beats per minute during an argument?",
+            "quizOptions": [
+                "The person falls into deep stage 4 slow-wave sleep immediately",
+                "Top-down executive cognitive processing shuts down, making rational listening and constructive communication neurologically impossible",
+                "The person develops photographic memory for the conversation",
+                "The person's hearing improves by 500%"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_maintenance_10",
+            "type": "content",
+            "title": "Attributional Styles in Romantic Partnerships",
+            "content": "# How Couples Explain Partner Behavior: Bradbury & Fincham\n\nThomas Bradbury and Frank Fincham demonstrated that happy and unhappy couples interpret identical partner actions through fundamentally opposite **Attributional Styles**:\n\n```\n   SCENARIO: Partner brings home a surprise bouquet of roses.\n   \n   HAPPY COUPLE (Relationship-Enhancing):   \"How incredibly thoughtful and sweet! She is\n                                            such a loving, generous person!\"\n                                            (Internal, Global, Stable attribution)\n   \n   UNHAPPY COUPLE (Distress-Maintaining):   \"What guilty secret is he trying to hide? Or did the\n                                            grocery store just have a clearance sale?\"\n                                            (External, Specific, Unstable attribution)\n```\n\nDistress-maintaining attributions ensure that even positive romantic gestures are neutralized and viewed with cynicism."
+        },
+        {
+            "id": "rel_maintenance_11",
+            "type": "content",
+            "title": "Stafford & Canary's 5 Relational Maintenance Strategies",
+            "content": "# Everyday Maintenance: Laura Stafford & Dan Canary\n\nCommunication scholars Laura Stafford and Dan Canary identified five empirically validated behavioral maintenance strategies that sustain long-term commitment:\n\n```\n   STRATEGY                   BEHAVIORAL IMPLEMENTATION\n   ------------------------------------------------------------------------------------\n   1. POSITIVITY           --> Cheerful, optimistic demeanor; avoiding unprompted criticism.\n   2. OPENNESS             --> Transparently discussing feelings, desires, and relationship goals.\n   3. ASSURANCES           --> Explicitly reassuring partner of love, fidelity, and future commitment.\n   4. SOCIAL NETWORKS      --> Spending time with mutual friends and extended family.\n   5. SHARING TASKS        --> Equitably sharing household chores, child-rearing, and financial labor.\n```\n\n*Sharing Tasks* consistently emerges as one of the most powerful predictors of female marital satisfaction in contemporary dual-earner households."
+        },
+        {
+            "id": "rel_maintenance_12",
+            "type": "content",
+            "title": "The Psychology of Forgiveness: Enright & Worthington",
+            "content": "# Healing Relational Injuries: Forgiveness\n\nInterpersonal betrayal (infidelity, broken promises, financial deceit) inevitably occurs. How do couples repair trust?\n\n## Decisional vs. Emotional Forgiveness (Everett Worthington):\n- **Decisional Forgiveness:** A conscious, cognitive choice to forgo vengeance and treat the partner with basic goodwill.\n- **Emotional Forgiveness:** The gradual replacement of negative bitter emotions with empathy and compassion (requiring time and physiological calming).\n\n```\n   WHAT FORGIVENESS IS NOT:\n   - It is NOT forgetting or excusing the transgression.\n   - It is NOT condoning abuse or waiving necessary boundaries.\n   - It is an internal release of the corrosive emotional toxin of bitterness.\n```"
+        },
+        {
+            "id": "rel_maintenance_quiz_4",
+            "type": "quiz",
+            "title": "Attributions & Maintenance Check",
+            "content": "Verify your understanding of relationship attributions and maintenance!",
+            "quizQuestion": "When a husband forgets his anniversary dinner, his wife thinks, 'He was exhausted from working an 80-hour week to support our family; he is still a wonderful man.' According to Bradbury and Fincham, what attribution style is she displaying?",
+            "quizOptions": [
+                "A distress-maintaining dispositional attribution",
+                "A relationship-enhancing situational attribution",
+                "A self-serving narcissistic attribution",
+                "A paranoid projective attribution"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_maintenance_13",
+            "type": "content",
+            "title": "Modern Maintenance Challenges: Technoference & The Second Shift",
+            "content": "# Contemporary Strains on Romantic Maintenance\n\nModern sociotechnical changes have introduced novel relational hazards:\n\n## 1. Technoference (\"Phubbing\" - Phone Snubbing):\n- Checking smartphones during romantic dinners or intimate conversations lowers relationship satisfaction and elevates depressive symptoms in partners (McDaniel & Coyne, 2016).\n\n## 2. Arlie Hochschild's \"The Second Shift\":\n- Even when both partners work full-time corporate jobs, women historically shoulder a disproportionate share of domestic housework and cognitive household management (**the mental load**), fueling acute relational resentment."
+        },
+        {
+            "id": "rel_maintenance_14",
+            "type": "content",
+            "title": "Integrative Framework of Relational Resilience",
+            "content": "# The Architecture of Relational Resilience\n\n| Theoretical Domain | Key Mechanism | Core Antidote / Tool |\n|---|---|---|\n| **Social Economics** | Rusbult's Investment Model | Deepening shared meaningful investments. |\n| **Fairness & Justice** | Equity Theory (Walster) | Ensuring mutual, balanced division of labor. |\n| **Communication** | Gottman's 5:1 Love Lab Ratio | Turning toward bids; gentle startups. |\n| **Affective Regulation** | Flooding Prevention | 20-minute timeouts for physiological soothing. |\n| **Cognitive Framework** | Bradbury's Attributions | Cultivating generous, relationship-enhancing attributions. |"
+        },
+        {
+            "id": "rel_maintenance_15",
+            "type": "content",
+            "title": "Module Synthesis: Relationship Maintenance",
+            "content": "# Key Takeaways: Relationship Maintenance & Conflict\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Scientific Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Investment Model      | Caryl Rusbult (1980, 1983)  | Commitment = Satisfaction -       |\n|                       |                             | Alternatives + Investments.       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Four Horsemen of      | John Gottman (1994, 2015)   | Criticism, Contempt, Defensiveness|\n| the Apocalypse        |                             | and Stonewalling predict divorce. |\n+-----------------------+-----------------------------+-----------------------------------+\n| 5:1 Magic Ratio       | John Gottman                | Stable couples maintain 5 positive|\n|                       |                             | interactions for every 1 negative.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Demand-Withdraw Cycle | Christensen & Heavey (1990) | Female pursuit + male withdrawal  |\n|                       |                             | fuels destructive escalation.     |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nMarriages thrive not on the absence of conflict, but on the presence of positive emotional repair, mutual equity, and the emotional discipline to turn toward one another in everyday life."
+        }
+    ]
+}

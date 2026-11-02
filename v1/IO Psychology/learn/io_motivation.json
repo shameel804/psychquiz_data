@@ -1,0 +1,155 @@
+{
+    "id": "learn_io_motivation",
+    "topicId": "io_motivation",
+    "topicTitle": "Work Motivation",
+    "description": "Explore the psychological theories governing workplace motivation, including Herzberg's two-factor theory, Locke's goal setting, Self-Determination Theory, and Adams' equity theory.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "io_motivation_1",
+            "type": "content",
+            "title": "The Nature of Work Motivation",
+            "content": "# Fueling Human Potential: Work Motivation\n\nWhy do some employees pour boundless creative passion into their work while others do the bare minimum to avoid getting fired?\n\n## Defining Work Motivation:\n**Work Motivation** is a set of energetic forces originating both within and beyond an individual that determines the **Direction, Intensity, and Persistence** of work-related behavior:\n\n```\n                                [THREE FACETS OF MOTIVATION]\n                                             |\n         +-----------------------------------+-----------------------------------+\n         |                                   |                                   |\n   [DIRECTION]                         [INTENSITY]                         [PERSISTENCE]\n   What the worker chooses to focus    How hard the worker pushes on       How long the worker sustains\n   their energy on (quality vs speed). that target at any given moment.    effort in the face of obstacles.\n```\n\nLet us analyze the major empirical frameworks explaining employee drive!"
+        },
+        {
+            "id": "io_motivation_2",
+            "type": "content",
+            "title": "Herzberg's Two-Factor Theory (1959)",
+            "content": "# Frederick Herzberg: Motivator-Hygiene Theory\n\nIn 1959, Frederick Herzberg surveyed 200 accountants and engineers, discovering that **job satisfaction and job dissatisfaction are NOT opposites on a single continuum**; they are governed by two distinct psychological needs!\n\n```\n   HYGIENE FACTORS (Extrinsic / Environment)     MOTIVATOR FACTORS (Intrinsic / Work Itself)\n   +---------------------------------------+     +----------------------------------------+\n   - Working conditions, salary, company   |     - Challenging work, achievement,         |\n     policies, job security, supervision.  |       recognition, responsibility, growth.   |\n   - When absent: Acute DISSATISFACTION!   |     - When present: HIGH MOTIVATION & JOY!   |\n   - When optimized: NEUTRAL PEACE         |     - When absent: Neutral baseline          |\n     (Zero dissatisfaction, but NO DRIVE!) |       (No drive, but not actively bitter).   |\n   +---------------------------------------+     +----------------------------------------+\n```\n\n> **Herzberg's Axiom:** You cannot motivate employees by merely increasing salary or perks (Hygiene); you must enrich the actual intrinsic nature of the work (Motivators)!"
+        },
+        {
+            "id": "io_motivation_3",
+            "type": "content",
+            "title": "Hackman & Oldham's Job Characteristics Model (1976)",
+            "content": "# The Job Characteristics Model (JCM)\n\nJ. Richard Hackman and Greg Oldham operationalized Herzberg's motivators into a measurable structural blueprint: **The Job Characteristics Model**.\n\n```\n   CORE JOB DIMENSIONS          CRITICAL PSYCHOLOGICAL STATES       PERSONAL & WORK OUTCOMES\n   -----------------------------------------------------------------------------------------\n   1. Skill Variety         --+\n   2. Task Identity         ----+-> Experienced Meaningfulness     --> High Internal Work Motivation\n   3. Task Significance     --+     of the Work\n   \n   4. Autonomy              ------> Experienced Responsibility     --> High Quality Job Performance\n                                    for Work Outcomes\n   \n   5. Feedback              ------> Knowledge of the Actual        --> Low Turnover & Absenteeism\n                                    Results of Work\n```\n\n## Growth Need Strength (GNS) as a Moderator:\nEmployees with high GNS (craving personal growth and challenge) respond powerfully to enriched jobs; those with low GNS may feel overwhelmed."
+        },
+        {
+            "id": "io_motivation_quiz_1",
+            "type": "quiz",
+            "title": "Herzberg & JCM Check",
+            "content": "Verify your understanding of Herzberg's theory and job characteristics!",
+            "quizQuestion": "According to Frederick Herzberg's Two-Factor Theory, what is the organizational outcome of significantly increasing employee salaries and improving office heating?",
+            "quizOptions": [
+                "It eliminates job dissatisfaction, but fails to generate true intrinsic motivation or enthusiastic drive",
+                "It transforms every employee into a passionate creative genius immediately",
+                "It triggers severe employee strikes and workplace sabotage",
+                "It causes massive depression across the entire organization"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "io_motivation_4",
+            "type": "content",
+            "title": "Locke & Latham's Goal-Setting Theory (1990, 2002)",
+            "content": "# Edwin Locke & Gary Latham: Goal-Setting Theory\n\nGoal-Setting Theory is widely recognized as the single most robust, validated, and practically effective motivation theory in all of organizational psychology.\n\n## The Core Empirical Finding:\n**Specific, Difficult (Challenging) Goals** consistently lead to significantly higher performance than vague goals (*\"Do your best!\"*) or easy goals!\n\n```\n   Vague / \"Do Your Best\" Goal  --> Interpreted loosely; people stop when mildly tired.\n   Specific, Difficult Goal     --> Defines a clear standard; mobilizes sustained effort!\n```\n\n## The Four Mechanisms of Goals:\n1. **Directive Function:** Directs attention toward goal-relevant activities and away from distractors.\n2. **Energizing Function:** High goals stimulate greater physical and mental effort.\n3. **Persistence:** Difficult goals prolong effort over time.\n4. **Strategy Formulation:** Promotes the discovery and adoption of novel tactical strategies."
+        },
+        {
+            "id": "io_motivation_5",
+            "type": "content",
+            "title": "Moderators in Goal-Setting: When Do Goals Work?",
+            "content": "# The Conditions for Goal Success\n\nSpecific, challenging goals do not work automatically. Locke and Latham identified four critical moderators:\n\n```\n                                  [GOAL SUCCESS MODERATORS]\n                                              |\n         +------------------------------------+------------------------------------+\n         |                                    |                                    |\n   [1. GOAL COMMITMENT]                 [2. FEEDBACK]                        [3. SELF-EFFICACY]\n   The employee must genuinely care     Must receive objective feedback      Must believe they possess\n   about achieving the target           tracking progress toward the goal    the capabilities needed to\n   (public goals, participative input). (allows strategy course-correction). attain the target.\n```\n\n## The SMART Goal Framework in Practice:\n- **S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound."
+        },
+        {
+            "id": "io_motivation_6",
+            "type": "content",
+            "title": "Self-Determination Theory at Work (Deci & Ryan)",
+            "content": "# Self-Determination Theory (SDT) in the Workplace\n\nEdward Deci and Richard Ryan formulated **Self-Determination Theory**, distinguishing between Autonomous (Intrinsic) Motivation and Controlled (Extrinsic) Motivation.\n\n## The Three Universal Psychological Needs at Work:\n1. **Autonomy:** Having discretion and voice over *how, when, and where* tasks are performed.\n2. **Competence:** Feeling effective, mastering complex skills, and receiving growth opportunities.\n3. **Relatedness:** Feeling valued, respected, and connected to colleagues and leadership.\n\n```\n   THE PITFALL OF EXCESSIVE SURVEILLANCE & CONTROLLING INCENTIVES:\n   Micromanagement and rigid monetary carrots crush perceived autonomy, driving employees into\n   the \"controlled motivation\" zone, fueling burnout, cynicism, and disengagement!"
+        },
+        {
+            "id": "io_motivation_quiz_2",
+            "type": "quiz",
+            "title": "Goal-Setting & SDT Check",
+            "content": "Verify your understanding of goal setting and self-determination!",
+            "quizQuestion": "According to Edwin Locke and Gary Latham's Goal-Setting Theory, why does instructing workers to 'just do your best' consistently lead to lower performance than setting specific, challenging targets?",
+            "quizOptions": [
+                "Because workers dislike being given instructions",
+                "Because 'do your best' is ambiguous, allowing individuals to define satisfactory output subjectively and stop when mildly tired",
+                "Because 'do your best' requires completing advanced calculus equations",
+                "Because difficult goals cause instant nervous breakdowns"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_motivation_7",
+            "type": "content",
+            "title": "J. Stacy Adams' Equity Theory in Organizations",
+            "content": "# Fairness in the Workplace: Equity Theory\n\nJ. Stacy Adams (1965) applied cognitive consistency to workplace compensation:\n\n```\n   (My Outcomes / My Inputs)   vs.   (Referent Other's Outcomes / Referent Other's Inputs)\n   Where Inputs  = Education, experience, working 60 hours/week, intense dedication.\n   Where Outcomes= Salary, bonuses, promotions, verbal praise, premier office.\n```\n\n## Behavioral Responses to Inequity:\n- **Underpayment Inequity:** You work 60 hours for $50k; your peer works 40 hours for $80k -> Produces acute cognitive distress!\n- **How Workers Restore Equity:** Reducing effort (*quiet quitting*), stealing company supplies, demanding a raise, or resigning in protest."
+        },
+        {
+            "id": "io_motivation_8",
+            "type": "content",
+            "title": "Victor Vroom's Expectancy Theory (VIE Theory, 1964)",
+            "content": "# The Rational Calculus of Effort: Vroom's VIE Theory\n\nVictor Vroom conceptualized motivation as a multiplicative rational calculation:\n\n```\n   MOTIVATIONAL FORCE = EXPECTANCY  x  INSTRUMENTALITY  x  VALENCE\n```\n\n## The Three Essential Multiplicative Links:\n1. **Expectancy (Effort -> Performance):** *\"If I work hard, will I actually achieve the performance target?\"* (Governed by training, resources, self-efficacy).\n2. **Instrumentality (Performance -> Outcome):** *\"If I achieve the target, will management actually deliver the promised reward?\"* (Governed by organizational trust).\n3. **Valence (Outcome Value):** *\"Do I actually desire and value the reward being offered?\"*\n\n> **The Multiplicative Trap:** If ANY single variable equals ZERO, total motivation equals ZERO! (If an employee doesn't trust the boss to pay the bonus, Instrumentality = 0 ==> Motivation collapses!)."
+        },
+        {
+            "id": "io_motivation_9",
+            "type": "content",
+            "title": "Self-Efficacy & The Pygmalion Effect (Bandura)",
+            "content": "# Belief in Capability: Albert Bandura in the Workplace\n\n**Workplace Self-Efficacy** is an employee's conviction that they can successfully execute the behaviors required to complete a specific task:\n\n```\n   FOUR SOURCES OF WORKPLACE SELF-EFFICACY (Bandura):\n   1. Enactive Mastery: Prior successful performance on similar tasks (most potent!).\n   2. Vicarious Modeling: Observing a peer of similar background succeed.\n   3. Verbal Persuasion: Credible, realistic encouragement from respected leaders.\n   4. Physiological State: Managing anxiety, sleep, and physical energy.\n```\n\n## The Pygmalion Effect in Management (Eden, 1992):\nWhen managers express high, genuine expectations for subordinates, employee self-efficacy surges, directly elevating objective performance!"
+        },
+        {
+            "id": "io_motivation_quiz_3",
+            "type": "quiz",
+            "title": "VIE & Equity Theory Check",
+            "content": "Verify your understanding of Vroom's VIE model and Adams' equity theory!",
+            "quizQuestion": "In Victor Vroom's Expectancy (VIE) Theory, what occurs if an employee believes they can achieve the performance goal (Expectancy = 1.0) and desperately values the bonus (Valence = 1.0), but knows the company CEO is corrupt and never pays promised bonuses (Instrumentality = 0)?",
+            "quizOptions": [
+                "Motivation remains at its absolute maximum level",
+                "Total motivational force collapses to zero",
+                "The employee works four times harder to impress the CEO",
+                "The employee is automatically promoted to Vice President"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_motivation_10",
+            "type": "content",
+            "title": "Job Crafting: Reshaping Work Meaning",
+            "content": "# Taking Control: Job Crafting (Wrzesniewski & Dutton, 2001)\n\nRather than passively waiting for management to enrich jobs, proactive employees engage in **Job Crafting**:\n\n## The Three Dimensions of Job Crafting:\n1. **Task Crafting:** Changing the scope, number, or nature of work tasks (e.g., an IT support technician introducing automated video tutorials).\n2. **Relational Crafting:** Reshaping who you interact with at work (e.g., mentoring younger peers, building cross-functional ties).\n3. **Cognitive Crafting:** Reframing how you perceive the purpose and meaning of your labor.\n\n```\n   The Hospital Cleaner Study (Wrzesniewski et al., 1997):\n   Cleaners who viewed their work not as \"sweeping floors\" (Job), but as \"healing vulnerable patients\n   by maintaining sterile rooms and comforting families\" (Calling) reported immense joy and pride!"
+        },
+        {
+            "id": "io_motivation_11",
+            "type": "content",
+            "title": "Compensation & Performance Incentives",
+            "content": "# The Science of Incentives: Carrots, Sticks, and Drive\n\nHow should companies structure compensation to optimize motivation?\n\n## Daniel Pink's Framework (*Drive*, 2009):\n- **Algorithmic / Routine Tasks:** Performance-contingent bonuses (piece-rate pay) work well for repetitive, routine manual labor.\n- **Heuristic / Complex Cognitive Tasks:** High performance-contingent cash rewards narrow focus, elevate anxiety, and **impair complex creative problem-solving**!\n\n```\n   OPTIMAL COMPENSATION ARCHITECTURE:\n   1. Pay employees enough to take the issue of money off the table (High Baseline Salary).\n   2. Provide Autonomy (freedom in task execution).\n   3. Foster Mastery (opportunities to sharpen skills).\n   4. Clarify Purpose (connecting labor to societal impact).\n```"
+        },
+        {
+            "id": "io_motivation_12",
+            "type": "content",
+            "title": "Cross-Cultural Work Motivation",
+            "content": "# Cultural Conditioning of Motivation\n\nMotivational interventions do not translate identically across global cultural boundaries:\n\n```\n   INDIVIDUALIST WORKPLACES (USA, UK, Australia)    COLLECTIVIST WORKPLACES (Japan, Korea, Mexico)\n   +---------------------------------------+       +----------------------------------------+\n   | - Driven by individual bonuses,       |       | - Driven by team recognition, group    |\n   |   personal public recognition.        |         harmony, and long-term organizational  |\n   | - High valuing of individual autonomy |         loyalty.                               |\n   |   and job mobility.                   |       | - Public individual awards cause acute |\n   +---------------------------------------+         embarrassment and social friction!     |\n                                                   +----------------------------------------+\n```"
+        },
+        {
+            "id": "io_motivation_quiz_4",
+            "type": "quiz",
+            "title": "Job Crafting & Incentives Check",
+            "content": "Verify your understanding of job crafting and compensation science!",
+            "quizQuestion": "In Amy Wrzesniewski and Jane Dutton's model of Job Crafting, what does 'Cognitive Crafting' specifically involve?",
+            "quizOptions": [
+                "Refurbishing broken computer equipment during lunch breaks",
+                "Mentally reframing how an individual views the purpose, meaning, and societal impact of their work",
+                "Demanding higher stock option payouts from the Board of Directors",
+                "Memorizing company manuals word-for-word"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_motivation_13",
+            "type": "content",
+            "title": "Designing Integrated Motivational Systems",
+            "content": "# Designing High-Motivation Organizations\n\nModern I-O psychology unifies these diverse frameworks into an integrated management architecture:\n\n- **1. Align Basic Hygiene:** Provide competitive baseline compensation, psychological safety, and clear role boundaries.\n- **2. Enrich Job Architecture:** Ensure autonomy, skill variety, and direct task significance (JCM).\n- **3. Implement SMART Goals:** Set specific, challenging targets with transparent, frequent feedback loops (Locke & Latham).\n- **4. Ensure Transparent Justice:** Maintain procedural and distributive equity in promotions and bonus allocations (Adams).\n- **5. Encourage Job Crafting:** Empower employees to shape their relational and task boundaries to foster intrinsic purpose."
+        },
+        {
+            "id": "io_motivation_14",
+            "type": "content",
+            "title": "Comparative Analysis of Motivation Models",
+            "content": "# Theoretical Comparison of Work Motivation Models\n\n| Theoretical Model | Primary Level | Core Motivational Driver |\n|---|---|---|\n| **Two-Factor Theory (Herzberg)** | Need / Content | Intrinsic motivators (achievement) vs extrinsic hygiene. |\n| **Job Characteristics (JCM)** | Job Design | 5 core dimensions foster experienced meaningfulness. |\n| **Goal-Setting (Locke & Latham)**| Cognitive / Process | Specific, difficult goals mobilize directive effort. |\n| **Self-Determination (Deci)** | Need / Organismic | Autonomy, Competence, and Relatedness drive intrinsic flow. |\n| **Equity Theory (Adams)** | Social Comparison | Restoring fair ratios of inputs to outcomes relative to peers. |\n| **VIE Theory (Vroom)** | Cognitive / Rational | Motivational Force = Expectancy x Instrumentality x Valence. |"
+        },
+        {
+            "id": "io_motivation_15",
+            "type": "content",
+            "title": "Module Synthesis: Work Motivation",
+            "content": "# Key Takeaways: Work Motivation\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Theory / Model        | Key Pioneers                | Core Motivational Principle       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Two-Factor Theory     | Frederick Herzberg (1959)   | Hygiene factors prevent distress; |\n|                       |                             | motivators spark true joy.        |\n+-----------------------+-----------------------------+-----------------------------------+\n| Goal-Setting Theory   | Locke & Latham (1990, 2002) | Specific, difficult goals yield   |\n|                       |                             | highest task performance.         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Self-Determination    | Edward Deci & Richard       | Autonomy, Competence, Relatedness |\n| Theory (SDT)          | Ryan (1985, 2000)           | fuel intrinsic dedication.        |\n+-----------------------+-----------------------------+-----------------------------------+\n| VIE Expectancy Theory | Victor Vroom (1964)         | Motivation = Expectancy x         |\n|                       |                             | Instrumentality x Valence.        |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nHuman motivation is not a simple transaction of money for labor. True engagement ignites when organizations provide autonomy, meaningful challenge, equitable justice, and opportunities for mastery."
+        }
+    ]
+}

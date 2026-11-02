@@ -1,0 +1,155 @@
+{
+    "id": "learn_mem_types",
+    "topicId": "mem_types",
+    "topicTitle": "Types of Memory",
+    "description": "Examine the diverse categories of long-term memory, contrasting declarative and nondeclarative systems, episodic and semantic networks, procedural skills, and prospective memory.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mem_types_1",
+            "type": "content",
+            "title": "Taxonomy of Long-Term Memory",
+            "content": "# The Taxonomy of Long-Term Memory\n\nLong-term memory is not a monolithic structure. Instead, it comprises multiple specialized neurocognitive systems operating with distinct rules and neural circuitries.\n\n```\n                          [Long-Term Memory]\n                                  |\n        +-------------------------+-------------------------+\n        |                                                   |\n   [Explicit / Declarative]                       [Implicit / Nondeclarative]\n   (Conscious Awareness)                          (Without Conscious Recall)\n        |\\                                                   |\n   +----+----+                               +---------------+---------------+\n   |         |                               |               |               |\n[Episodic] [Semantic]                  [Procedural]    [Priming]      [Conditioning]\n(Events)   (Facts)                     (Skills/Habits) (Perceptual)   (Associations)\n```\n\n## The Fundamental Distinction:\n- **Explicit (Declarative):** Memories accessible to conscious awareness that can be verbalized.\n- **Implicit (Nondeclarative):** Behavioral manifestations of learning expressed through performance rather than conscious recollection."
+        },
+        {
+            "id": "mem_types_2",
+            "type": "content",
+            "title": "Episodic vs. Semantic Memory (Tulving)",
+            "content": "# Tulving's Distinction: Episodic vs Semantic\n\nIn 1972, Endel Tulving revolutionized memory research by splitting declarative memory into two distinct sub-systems:\n\n## Episodic Memory (Mental Time Travel)\n- Stores personally experienced events situated in a specific spatial and temporal context.\n- Involves **autonoetic consciousness** (self-knowing awareness): re-experiencing the past from a first-person perspective.\n- **Examples:** Your high school graduation day, what you ate for breakfast this morning, your first driving lesson.\n\n## Semantic Memory (Mental Encyclopedia)\n- Stores general world knowledge, facts, concepts, language meanings, and rules.\n- Involves **noetic consciousness** (knowing without personal reliving).\n- **Examples:** Knowing that Paris is the capital of France, that water freezes at 0 degrees Celsius, or that a triangle has three sides."
+        },
+        {
+            "id": "mem_types_3",
+            "type": "content",
+            "title": "Neuropsychological Dissociations in Declarative Memory",
+            "content": "# Evidence for the Episodic-Semantic Split\n\nClinical patient studies provide conclusive evidence that episodic and semantic memory rely on partially dissociable neural architectures.\n\n## Patient H.M. (Henry Molaison):\n- Bilateral medial temporal lobe resection resulted in profound anterograde episodic amnesia.\n- Could not form new episodic memories of people he met, yet could acquire new semantic facts under specific constrained conditions.\n\n## Patient Gene (K.C.):\n- Suffered a motorcycle accident causing widespread brain damage.\n- Lost his entire episodic memory across his past and future (total autonoetic amnesia).\n- Retained semantic memory: he could play chess, knew the rules, and knew that his brother had died, but could not recall a single actual moment spent with his brother.\n\n## Semantic Dementia:\n- Progressive neurodegeneration of the anterior temporal lobes.\n- Patients lose the meaning of words and concepts (e.g., asking 'what is a sheep?'), while retaining recent episodic memories of personal events."
+        },
+        {
+            "id": "mem_types_quiz_1",
+            "type": "quiz",
+            "title": "Declarative Memory Check",
+            "content": "Verify your understanding of episodic versus semantic memory systems!",
+            "quizQuestion": "An amnesic patient knows that Abraham Lincoln was the 16th President of the United States, but cannot remember visiting Washington D.C. with their family last summer. This demonstrates a dissociation between:",
+            "quizOptions": [
+                "Intact procedural memory and impaired semantic memory",
+                "Intact semantic memory and impaired episodic memory",
+                "Intact iconic memory and impaired echoic memory",
+                "Intact prospective memory and impaired retrospective memory"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mem_types_4",
+            "type": "content",
+            "title": "Procedural Memory: Skills and Habits",
+            "content": "# Procedural Memory\n\n**Procedural memory** is the implicit system responsible for motor skills, cognitive routines, and behavioral habits that are executed automatically without conscious supervision.\n\n## Characteristics:\n- Acquired gradually through repetitive physical or cognitive practice\n- Resistant to forgetting and decay over time (e.g., riding a bike after 20 years)\n- Extremely difficult to verbalize (e.g., explaining exact finger muscle tensions used to tie a shoelace)\n\n## Mirror-Drawing Experiment:\n- Patient H.M. was trained to trace complex geometric shapes by looking only at a mirror reflection.\n- Over consecutive days, his tracing errors steadily dropped to expert levels.\n- **Remarkable finding:** Each morning, H.M. claimed he had never seen the apparatus before, proving procedural skill acquisition operates completely independent of conscious episodic recall!"
+        },
+        {
+            "id": "mem_types_5",
+            "type": "content",
+            "title": "Implicit Memory: Priming and Conditioning",
+            "content": "# Implicit Memory Beyond Motor Skills\n\nNondeclarative memory encompasses several additional unconscious learning mechanisms:\n\n## 1. Priming\n- An enhanced sensitivity to a stimulus resulting from recent prior exposure to the same or a related stimulus, occurring without deliberate awareness.\n- **Perceptual Priming:** Briefly flashing the word 'STAMP' makes a subject complete the word stem 'ST___' as 'STAMP' rather than 'START' or 'STORM'.\n- **Conceptual Priming:** Exposure to the word 'NURSE' accelerates reaction times to recognizing 'DOCTOR'.\n\n## 2. Classical Conditioning\n- Learned reflex associations between previously neutral stimuli and unconditioned stimuli (e.g., eye-blink conditioning, learned fear responses).\n\n## 3. Non-Associative Learning\n- Habituation (diminished responding to repeated harmless stimuli) and Sensitization (heightened responding to noxious stimuli)."
+        },
+        {
+            "id": "mem_types_6",
+            "type": "content",
+            "title": "Explicit vs. Implicit Testing Paradigms",
+            "content": "# Measuring Implicit vs Explicit Memory\n\nExperimental psychologists employ distinct test designs to isolate these memory pathways:\n\n| Dimension | Explicit Memory Tests | Implicit Memory Tests |\n|---|---|---|\n| Task Instructions | Direct instructions to retrieve past study list | Instructions focus on immediate problem-solving |\n| Common Tasks | Free recall, cued recall, old/new recognition | Word-stem completion, lexical decision, fragmented picture naming |\n| Subject Awareness | Conscious intentional recollection required | No conscious reference to study episode required |\n| Amnesic Performance | Severely degraded | Completely normal in many paradigms |\n| Level of Processing Effect | Strong impact (deep > shallow) | Minimal or no impact on perceptual priming |\n\n> **Core Insight:** The brain constantly records information and modifies behavioral tendencies even when the conscious mind fails to remember the learning episode."
+        },
+        {
+            "id": "mem_types_quiz_2",
+            "type": "quiz",
+            "title": "Implicit Memory Check",
+            "content": "Evaluate your understanding of priming and nondeclarative memory tests!",
+            "quizQuestion": "In a lexical decision task, a participant identifies the string 'BUTTER' as a real English word significantly faster if it was preceded immediately by the word 'BREAD'. What psychological phenomenon does this demonstrate?",
+            "quizOptions": [
+                "Episodic autonoetic retrieval",
+                "Conceptual semantic priming",
+                "Negative classical conditioning",
+                "Retrograde interference"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mem_types_7",
+            "type": "content",
+            "title": "Prospective Memory: Remembering the Future",
+            "content": "# Prospective Memory\n\nWhile retrospective memory involves recalling past events, **prospective memory** is the cognitive capacity to remember to perform an intended action at an appropriate time in the future.\n\n## The Prospective Memory Stages:\n```\n1. Formation of Intention --> 2. Retention Interval --> 3. Target Detection --> 4. Execution\n```\n\n## Two Core Categories:\n\n### 1. Event-Based Prospective Memory\n- Triggered by an external environmental cue.\n- **Example:** Remembering to give a message to your colleague when you see them at lunch.\n- Relies on perceptual cues and associative retrieval; generally easier to trigger.\n\n### 2. Time-Based Prospective Memory\n- Triggered by the arrival of a specific time or elapsed interval.\n- **Example:** Remembering to take medication at 8:00 PM or taking a cake out of the oven after 45 minutes.\n- Demands continuous self-initiated monitoring and executive control; vulnerable to aging."
+        },
+        {
+            "id": "mem_types_8",
+            "type": "content",
+            "title": "Cognitive Mechanisms of Prospective Memory",
+            "content": "# How Does Prospective Retrieval Occur?\n\nCognitive researchers debate how prospective intentions are monitored during daily activities:\n\n## 1. The Preparatory Attentional and Memory (PAM) Theory\n- Proposes that prospective remembering always requires constant, effortful capacity-consuming preparatory monitoring.\n- If executive attention is occupied by a demanding primary task, prospective performance drops dramatically.\n\n## 2. The Multi-Process Framework (McDaniel & Einstein)\n- Proposes that prospective retrieval can occur either via active monitoring OR via automatic associative popping-into-mind.\n- **When Automatic:** Occurs when the cue is highly focal (e.g., an alarm bell ringing) and the intention is simple.\n- **When Effortful:** Necessary when the cue is non-focal or time-based."
+        },
+        {
+            "id": "mem_types_9",
+            "type": "content",
+            "title": "Neural Architectures of Memory Types",
+            "content": "# Brain Structures Governing Memory Types\n\nDifferent types of memory depend upon distinct anatomical neural circuits across the brain:\n\n| Memory System | Primary Anatomical Substrates |\n|---|---|\n| **Episodic Memory** | Medial temporal lobes, Hippocampus, Entorhinal cortex, Retrosplenial cortex |\n| **Semantic Memory** | Anterior temporal lobes, Inferior temporal gyrus, Prefrontal cortex |\n| **Procedural Skills** | Basal ganglia (Striatum), Cerebellum, Supplementary motor area |\n| **Priming** | Sensory neocortex (occipital/temporal lobes) |\n| **Emotional Conditioning** | Amygdala, Hypothalamus |\n| **Prospective Memory** | Rostral prefrontal cortex (Brodmann Area 10), Frontoparietal executive network |"
+        },
+        {
+            "id": "mem_types_quiz_3",
+            "type": "quiz",
+            "title": "Prospective Memory & Neuroanatomy Check",
+            "content": "Test your knowledge of prospective memory classifications and brain circuitry!",
+            "quizQuestion": "Which of the following scenarios best exemplifies a time-based prospective memory task?",
+            "quizOptions": [
+                "Returning a book when you walk past the town library",
+                "Taking a daily antibiotic tablet promptly at 9:00 AM",
+                "Calling your mechanic because you heard a strange rattle in the car",
+                "Buying milk because you noticed an empty carton in the refrigerator"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mem_types_10",
+            "type": "content",
+            "title": "Semantic Networks and Spreading Activation",
+            "content": "# Organization of Semantic Memory\n\nHow is semantic information organized in the human brain? Collins and Quillian (1969) and Collins and Loftus (1975) introduced semantic network models.\n\n## Spreading Activation Theory:\n- Concepts are represented as interconnected **nodes** within a massive multidimensional semantic web.\n- Associative links between nodes vary in strength based on semantic relatedness.\n- Activating one node (e.g., 'BIRD') causes neural electrical activation to spread outward across adjacent links, pre-activating related nodes ('WINGS', 'FEATHERS', 'ROBIN').\n\n```\n[CANARY] ----(is a)----> [BIRD] ----(has)----> [FEATHERS]\n   |                       |\n (sings)                (can fly)\n```\n\n## Empirical Verification:\n- Sentence verification reaction times correlate with network distance: verifying \"A canary can sing\" is faster than verifying \"A canary has skin\"!"
+        },
+        {
+            "id": "mem_types_11",
+            "type": "content",
+            "title": "Autobiographical Memory and the Reminiscence Bump",
+            "content": "# Autobiographical Memory\n\nAutobiographical memory is a complex blend of episodic personal memories and semantic self-knowledge that constructs our enduring life story.\n\n## The Lifespan Retrieval Curve:\nWhen older adults are asked to recall memories across their entire life, three distinct phases emerge:\n\n1. **Childhood Amnesia:** Complete absence or extreme paucity of personal memories prior to age 3 or 4 (due to hippocampal immaturity and pre-linguistic coding).\n2. **The Reminiscence Bump:** A pronounced spike in recalled memories originating between ages 15 and 25.\n   - **Why?** Identity formation, major life transitions, career beginnings, and biological peak efficiency.\n3. **Recent Recency Component:** Standard forgetting curve for events occurring in the most recent 10 to 20 years."
+        },
+        {
+            "id": "mem_types_12",
+            "type": "content",
+            "title": "Interaction Across Memory Systems",
+            "content": "# Dynamic Interactions Between Systems\n\nWhile psychologists isolate memory types for research clarity, everyday human behavior requires seamless orchestration across all systems.\n\n## Example: Cooking a Meal\n- **Semantic Memory:** Knowing that onions must be peeled, that olive oil has a smoke point, and what garlic smells like.\n- **Episodic Memory:** Recalling how your grandmother burned the sauce last Thanksgiving.\n- **Procedural Memory:** The fluid motor sequence of slicing garlic thinly with a chef's knife without conscious finger tracking.\n- **Prospective Memory:** Remembering to remove the roast from the oven when the kitchen timer rings at 6:30 PM.\n\n## System Compensation:\nPatients with episodic deficits can often be taught compensatory strategies relying on intact procedural routines and external prospective prompts."
+        },
+        {
+            "id": "mem_types_quiz_4",
+            "type": "quiz",
+            "title": "Autobiographical Memory Check",
+            "content": "Evaluate your understanding of the lifespan retrieval curve!",
+            "quizQuestion": "The phenomenon wherein adults over age 50 demonstrate a disproportionately high recall of autobiographical events from between ages 15 and 25 is scientifically known as:",
+            "quizOptions": [
+                "Infantile amnesia",
+                "The reminiscence bump",
+                "The von Restorff effect",
+                "Cryptomnesia"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mem_types_13",
+            "type": "content",
+            "title": "Clinical Conditions Affecting Memory Types",
+            "content": "# Clinical Neuropsychology of Memory Types\n\nDistinct clinical syndromes selectively destroy specific memory systems while sparing others:\n\n## Alzheimer's Disease:\n- Early pathology targets the entorhinal cortex and hippocampus.\n- Results in severe anterograde episodic loss, while procedural motor skills (playing piano, driving) often remain intact until late stages.\n\n## Parkinson's and Huntington's Diseases:\n- Degeneration of the basal ganglia (substantia nigra / striatum).\n- Causes severe impairments in procedural habit learning and motor sequencing, while episodic memory can remain comparatively preserved.\n\n## Transient Global Amnesia (TGA):\n- Sudden, temporary loss of episodic memory lasting 2 to 12 hours.\n- Patients repeatedly ask the same questions (\"Where are we?\") but retain full semantic knowledge of their identity, language, and procedural functions."
+        },
+        {
+            "id": "mem_types_14",
+            "type": "content",
+            "title": "Technological Applications and Memory Systems",
+            "content": "# Applying Memory Systems to Modern Technology\n\nUnderstanding human memory architecture enables engineers to design tools that augment human cognition:\n\n## Prospective Memory Augmentation:\n- Smartphone reminders, calendar notifications, and GPS alerts convert vulnerable time-based prospective tasks into reliable event-based triggers.\n\n## Procedural Skill Optimization:\n- Virtual reality surgical simulators exploit procedural motor learning loops, using haptic feedback to build muscle memory before surgeons ever touch a real patient.\n\n## Semantic Search Algorithms:\n- Modern artificial intelligence language models construct vector embeddings that mimic human semantic networks and spreading activation across conceptual nodes."
+        },
+        {
+            "id": "mem_types_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Types of Memory\n\n## Core Taxonomies Mastered:\n\n### 1. Explicit vs. Implicit Memory\n- **Explicit (Declarative):** Conscious recollection of episodes and facts.\n- **Implicit (Nondeclarative):** Unconscious expression through skills, priming, and conditioning.\n\n### 2. Episodic vs. Semantic Memory (Tulving)\n- **Episodic:** Personally experienced events with autonoetic mental time travel (hippocampal dependent).\n- **Semantic:** Decontextualized general factual knowledge (anterior temporal dependent).\n\n### 3. Procedural Memory\n- Motor and cognitive skills acquired via practice, automated in the basal ganglia and cerebellum.\n\n### 4. Prospective Memory\n- Remembering to execute future actions, divided into event-based (cued) and time-based (self-initiated) intentions.\n\n> **Up Next:** Investigate why memory breaks down in **Forgetting & Memory Errors**!"
+        }
+    ]
+}

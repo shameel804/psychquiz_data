@@ -1,0 +1,155 @@
+{
+  "id": "learn_stats_descriptive",
+  "topicId": "stats_descriptive",
+  "topicTitle": "Descriptive Statistics",
+  "description": "Master descriptive statistical methods in psychological research, exploring measures of central tendency, variability, normal distributions, z-scores, and data visualization.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "stats_descriptive_1",
+      "type": "content",
+      "title": "Introduction to Descriptive Statistics",
+      "content": "# The Purpose of Descriptive Statistics\n\nIn psychological research, **descriptive statistics** provide mathematical and graphical tools to summarize, organize, and simplify raw quantitative data into meaningful, interpretable patterns.\n\n## Descriptive vs. Inferential Statistics:\n- **Descriptive Statistics:** Describe the characteristics of the specific observed sample at hand (e.g., calculating the average reaction time and score spread of 50 participants).\n- **Inferential Statistics:** Use sample data to draw probabilistic generalizations and inferences about the broader unobserved population.\n\n## The Language of Variables & Measurement Scales (Stevens, 1946):\n1. **Nominal:** Categorical labels without numerical order (e.g., gender, experimental condition, diagnostic category).\n2. **Ordinal:** Ordered ranks with unequal or unknown intervals (e.g., class rank, finishing positions in a marathon).\n3. **Interval:** Ordered categories with equal numerical intervals, but an arbitrary zero point (e.g., Fahrenheit/Celsius temperature, standard IQ scores).\n4. **Ratio:** Equal intervals with a true absolute zero point representing total absence (e.g., reaction time in milliseconds, heart rate in beats per minute)."
+    },
+    {
+      "id": "stats_descriptive_2",
+      "type": "content",
+      "title": "Measures of Central Tendency",
+      "content": "# Central Tendency: Mean, Median, Mode\n\n**Measures of central tendency** identify a single representative numerical value that characterizes the center or midpoint of a score distribution.\n\n## The Three Core Measures:\n\n### 1. The Mean (Arithmetic Average):\n- Formula: Sum of all raw scores divided by total sample size (n).\n- Sample Mean notation: **x-bar**\n- Population Mean notation: **mu**\n- *Characteristics:* Highly sensitive to every score in the dataset; dramatically distorted by extreme outliers.\n\n### 2. The Median (50th Percentile):\n- The physical middle score when all raw scores are arranged in ascending numerical order.\n- *Characteristics:* Robust against extreme outliers and skewed distributions.\n\n### 3. The Mode:\n- The most frequently occurring score in the dataset.\n- *Characteristics:* Can be unimodal, bimodal, or multimodal; the only appropriate central tendency metric for nominal categorical data."
+    },
+    {
+      "id": "stats_descriptive_3",
+      "type": "content",
+      "title": "Skewness and Selecting Central Tendency",
+      "content": "# Distribution Shapes and Central Tendency\n\nThe choice of whether to report **mean**, **median**, or **mode** depends directly on the distribution shape of the dataset.\n\n## 1. Symmetrical Normal Distribution:\n- Perfect bell-shaped distribution: **Mean = Median = Mode**\n- The mean is the most efficient and mathematically powerful measure.\n\n## 2. Positively Skewed Distribution (Right-Skewed):\n- Tail extends toward the positive (high) end (e.g., annual personal income, reaction times).\n- Order of measures: **Mode < Median < Mean**\n- The mean is pulled upward by extreme positive outliers; the **median** is the most honest representation of central tendency.\n\n## 3. Negatively Skewed Distribution (Left-Skewed):\n- Tail extends toward the negative (low) end (e.g., scores on an extremely easy exam).\n- Order of measures: **Mean < Median < Mode**\n- The mean is pulled downward by severe low outliers; the **median** remains the superior metric."
+    },
+    {
+      "id": "stats_descriptive_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Central Tendency",
+      "content": "Verify your understanding of measures of central tendency under distribution skewness.",
+      "quizQuestion": "In a study measuring annual household income across a metropolitan area, the data is heavily positively skewed by a few billionaire households. Which measure of central tendency provides the most representative metric of typical income?",
+      "quizOptions": [
+        "The sample mean (x-bar)",
+        "The median",
+        "The range",
+        "The standard deviation"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_descriptive_4",
+      "type": "content",
+      "title": "Measures of Variability: Range & IQR",
+      "content": "# The Concept of Variability\n\nCentral tendency describes the center of a dataset, but **variability** describes the degree of score dispersion, spread, or clustering around that central point.\n\n## 1. The Range:\n- Formula: Highest raw score minus lowest raw score.\n- *Limitation:* Extremely crude; relies exclusively on the two most extreme scores, completely ignoring the distribution of all intermediate scores.\n\n## 2. The Interquartile Range (IQR):\n- The score range containing the central 50% of the distribution.\n- Formula: Third Quartile (Q3 at 75th percentile) minus First Quartile (Q1 at 25th percentile):\n```\nIQR = Q3 - Q1\n```\n- *Advantage:* Highly resistant to extreme outliers; standard metric paired with the median in skewed distributions."
+    },
+    {
+      "id": "stats_descriptive_5",
+      "type": "content",
+      "title": "Variance and Standard Deviation",
+      "content": "# Variance and Standard Deviation\n\nThe most mathematically vital measures of variability quantify the average squared distance of individual scores from the mean.\n\n## Sum of Squares (SS):\n- The sum of squared deviation scores: `SS = sum of (x - x-bar)^2`\n\n## Variance (s^2 for sample; sigma^2 for population):\n- **Population Variance (sigma^2):** `SS / N`\n- **Sample Variance (s^2):** `SS / (n - 1)`\n  *(We divide by `n - 1`, degrees of freedom, to correct for sample bias and provide an unbiased estimator of population variance)*.\n\n## Standard Deviation (s for sample; sigma for population):\n- The square root of variance, restoring variability back to original raw score measurement units:\n```\ns = square root of [ SS / (n - 1) ]\n```\n- **Interpretation:** The typical or standard distance that an individual score deviates from the group mean (**x-bar**)."
+    },
+    {
+      "id": "stats_descriptive_6",
+      "type": "content",
+      "title": "The Normal Distribution & Empirical Rule",
+      "content": "# The Normal Distribution (Bell Curve)\n\nThe **normal distribution** is a symmetrical, unimodal, asymptotic probability distribution foundational to psychological assessment and parametric statistics.\n\n## The Empirical Rule (68-95-99.7 Rule):\nIn any normal distribution with mean **mu** and standard deviation **sigma**:\n\n- **approx 68.26%** of all scores fall within **+- 1 sigma** of the mean (`mu - 1 sigma` to `mu + 1 sigma`).\n- **approx 95.44%** of all scores fall within **+- 2 sigma** of the mean (`mu - 2 sigma` to `mu + 2 sigma`).\n- **approx 99.74%** of all scores fall within **+- 3 sigma** of the mean (`mu - 3 sigma` to `mu + 3 sigma`).\n\n```\n              Normal Distribution\n                   |   68%   |\n               |     95%     |\n             |      99.7%      |\n   -------------------------------------\n   -3s   -2s   -1s   x-bar   +1s   +2s   +3s\n```"
+    },
+    {
+      "id": "stats_descriptive_7",
+      "type": "content",
+      "title": "Standard Scores: The z-Score Transformation",
+      "content": "# Standard Scores (z-Scores)\n\nA **z-score** transforms raw scores into standardized units, specifying the exact location of a score by identifying how many standard deviations it lies above or below the mean.\n\n## The z-Score Formula:\n```\nz = (x - mu) / sigma    (for population)\nz = (x - x-bar) / s     (for sample)\n```\n\n## Properties of the Standard Normal Distribution:\n- Standardizing any distribution into z-scores creates a distribution with:\n  - **Mean = 0**\n  - **Standard Deviation = 1**\n\n## Comparing Apples and Oranges:\nz-scores enable direct, fair comparisons across completely different measurement scales (e.g., determining whether a student performed better on an English exam with mean 70 and s = 10 vs. a Chemistry exam with mean 50 and s = 5)."
+    },
+    {
+      "id": "stats_descriptive_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: Variability & z-Scores",
+      "content": "Assess your understanding of standard deviation and z-score transformations.",
+      "quizQuestion": "In an intelligence test with population mean mu = 100 and population standard deviation sigma = 15, an individual scores x = 130. What is their z-score and approx percentile rank?",
+      "quizOptions": [
+        "z = +1.0, approx 84th percentile",
+        "z = +2.0, approx 97.7th percentile",
+        "z = +3.0, approx 99.9th percentile",
+        "z = -2.0, approx 2.3rd percentile"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_descriptive_8",
+      "type": "content",
+      "title": "Kurtosis and Distribution Architecture",
+      "content": "# Kurtosis: Peakedness and Tail Weight\n\nBeyond central tendency and skewness, **kurtosis** describes the shape of a distribution in terms of its peakedness and the thickness of its tails relative to a normal distribution.\n\n## The Three Categories of Kurtosis:\n1. **Mesokurtic:** Normal distribution profile; moderate peakedness with standard tail thickness.\n2. **Leptokurtic (Positive Kurtosis):** Sharply peaked distribution with heavy, fat tails; scores are tightly concentrated near the mean with occasional extreme outliers.\n3. **Platykurtic (Negative Kurtosis):** Flatter distribution with thin, light tails; scores are broadly and evenly dispersed across the range.\n\n## Psychological Significance:\nDetecting kurtosis prevents researchers from violating distributional assumptions required for subsequent parametric inferential testing."
+    },
+    {
+      "id": "stats_descriptive_9",
+      "type": "content",
+      "title": "Data Visualization: Histograms & Density Plots",
+      "content": "# Graphical Representations of Frequency\n\nVisual inspection of raw score distributions is a mandatory preliminary step in statistical analysis.\n\n## Primary Visual Formats:\n- **Frequency Histograms:** Contiguous vertical bars representing the frequency of continuous scores divided into discrete bin intervals (no gaps between bars).\n- **Bar Charts:** Vertical or horizontal bars with distinct gaps between them, used strictly for discrete, categorical (nominal/ordinal) variables.\n- **Kernel Density Plots:** Smooth continuous curves estimating the underlying probability density function of continuous variables.\n- **Frequency Polygons:** Line graphs connecting the midpoints of histogram bin intervals, ideal for overlaying two or more comparison groups on a single axis."
+    },
+    {
+      "id": "stats_descriptive_10",
+      "type": "content",
+      "title": "Boxplots and Five-Number Summaries",
+      "content": "# The Box-and-Whisker Plot (Tukey)\n\nDeveloped by **John Tukey**, the **boxplot** provides a compact visual summary of a distribution based on the **Five-Number Summary**.\n\n## The Five-Number Summary:\n1. **Minimum Value** (non-outlier)\n2. **First Quartile (Q1 / 25th Percentile)**\n3. **Median (Q2 / 50th Percentile)**\n4. **Third Quartile (Q3 / 75th Percentile)**\n5. **Maximum Value** (non-outlier)\n\n```\n   Minimum          Q1      Median      Q3          Maximum\n      |-------------+---------|---------+--------------|\n                    |   Central 50%     |\n                    |      (IQR)        |\n```\n\n## Outlier Identification:\n- **Outliers:** Scores falling more than **1.5 x IQR** beyond the quartiles (plotted as distinct dots).\n- **Extreme Outliers:** Scores falling more than **3.0 x IQR** beyond the quartiles."
+    },
+    {
+      "id": "stats_descriptive_11",
+      "type": "content",
+      "title": "Scatterplots and Bivariate Relationships",
+      "content": "# Visualizing Bivariate Relationships\n\nWhen examining the relationship between two continuous variables, the **scatterplot** is the premier diagnostic visualization tool.\n\n## Scatterplot Features:\n- Each individual participant is represented by a single point plotted at coordinates `(X, Y)`.\n- **Direction of Association:** Upward slope from left to right indicates positive relationship; downward slope indicates negative relationship.\n- **Linearity vs. Curvilinearity:** Reveals whether a relationship is linear or non-linear (e.g., U-shaped Yerkes-Dodson arousal curve).\n- **Bivariate Outliers:** Points that deviate markedly from the general trend line, exerting disproportionate leverage on correlation coefficients."
+    },
+    {
+      "id": "stats_descriptive_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Data Visualization",
+      "content": "Verify your understanding of graphical tools and Tukey's boxplots.",
+      "quizQuestion": "In a standard boxplot, what does the total length of the central box (the distance between Q1 and Q3) represent?",
+      "quizOptions": [
+        "The full range from lowest to highest score",
+        "The Interquartile Range (IQR), containing the central 50% of scores",
+        "The standard deviation (s)",
+        "The 95% confidence interval of the mean"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_descriptive_12",
+      "type": "content",
+      "title": "Percentiles and Standardized Scoring Scales",
+      "content": "# Standardized Scoring Systems\n\nPsychometricians convert raw scores and z-scores into user-friendly standardized score formats to communicate assessment results to clients, educators, and clinicians.\n\n## Common Standardized Metric Formats:\n\n| Scale | Mean | Standard Deviation | Common Application |\n|-------|------|--------------------|--------------------|\n| **z-Score** | 0 | 1.0 | Academic research, raw stats |\n| **T-Score** | 50 | 10 | Clinical personality (MMPI-3) |\n| **Standard IQ** | 100 | 15 | WAIS-IV, WISC-V intelligence tests |\n| **SAT / GRE** | 500 | 100 | College/Graduate admissions |\n| **Stanine** | 5 | 2 | K-12 educational testing (1-9 scale) |\n\n## Percentile Ranks:\nIndicates the percentage of individuals in the normative reference group who scored at or below a given score (e.g., 90th percentile means scoring equal to or higher than 90% of peers)."
+    },
+    {
+      "id": "stats_descriptive_13",
+      "type": "content",
+      "title": "The Impact of Outliers",
+      "content": "# Managing Outliers in Descriptive Data\n\nAn **outlier** is an extreme observation that deviates markedly from the overall pattern of the rest of the dataset.\n\n## Sources of Outliers:\n1. **Data Entry Errors:** Typographical errors (e.g., typing 250 years instead of 25 for participant age).\n2. **Measurement Malfunctions:** Sensor glitches or software crashes.\n3. **Participant Non-Compliance:** Guessing randomly without reading questions.\n4. **Genuine Extreme Diversity:** Legitimate, authentic rare individual differences.\n\n## Outlier Management Techniques:\n- **Trimming:** Removing extreme upper and lower percentages (e.g., 5% trimmed mean).\n- **Winsorizing:** Replacing extreme outliers with the nearest non-outlier percentile value.\n- *Golden Rule:* Never delete outliers quietly; always disclose data cleaning decisions transparently."
+    },
+    {
+      "id": "stats_descriptive_14",
+      "type": "content",
+      "title": "Ethical Principles in Data Presentation",
+      "content": "# Avoiding Deceptive Data Visualizations\n\nVisualizations possess tremendous persuasive power; ethical researchers ensure graphics represent quantitative realities faithfully.\n\n## Common Visual Distortions to Avoid:\n- **Truncated Axes:** Cutting off the vertical y-axis near the top to make tiny, statistically trivial differences look like massive, dramatic gulfs.\n- **Non-Linear Scaling:** Inconsistent or logarithmic intervals used without explicit disclosure.\n- **3D Chart Distortions:** Adding three-dimensional perspective tilts to pie charts or bar charts, visually exaggerating foreground wedges.\n- **Chartjunk (Edward Tufte):** Superfluous visual ornamentation, shading, and icons that clutter comprehension and distract from empirical data."
+    },
+    {
+      "id": "stats_descriptive_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Standardized Scales & Ethics",
+      "content": "Assess your understanding of standardized scoring systems and data presentation.",
+      "quizQuestion": "A clinical personality test (such as the MMPI) uses T-scores with a mean of 50 and standard deviation of 10. A client receives a T-score of 70 on the Depression scale. How many standard deviations above the mean is this score?",
+      "quizOptions": [
+        "+1 standard deviation",
+        "+2 standard deviations",
+        "+3 standard deviations",
+        "0 standard deviations"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "stats_descriptive_15",
+      "type": "content",
+      "title": "Summary of Descriptive Statistics",
+      "content": "# Synthesis of Descriptive Statistics\n\nDescriptive statistics form the bedrock of quantitative psychology, enabling clear communication of complex empirical findings.\n\n## Key Summary Principles:\n1. **Central Tendency:** Symmetrical data uses mean (**x-bar** or **mu**); skewed data relies on the robust median; nominal data requires the mode.\n2. **Variability:** Standard deviation (**s** or **sigma**) and variance provide essential context on score dispersion around the mean.\n3. **Normal Distribution:** The empirical rule provides exact benchmarks: approx 68% within +- 1 sigma, approx 95% within +- 2 sigma.\n4. **Standardization:** z-scores standardize disparate scales onto a common metric with mean 0 and s = 1.\n5. **Ethical Visualization:** Histograms, boxplots, and scatterplots must present data transparently without misleading axis truncations."
+    }
+  ]
+}

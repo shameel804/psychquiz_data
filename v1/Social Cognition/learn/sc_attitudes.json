@@ -1,0 +1,155 @@
+{
+    "id": "learn_sc_attitudes",
+    "topicId": "sc_attitudes",
+    "topicTitle": "Attitudes & Cognitive Dissonance",
+    "description": "Investigate the structure of human attitudes, Leon Festinger's Cognitive Dissonance Theory, Daryl Bem's Self-Perception Theory, the Elaboration Likelihood Model, and implicit attitudes.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sc_attitudes_1",
+            "type": "content",
+            "title": "The Nature of Attitudes: The ABC Model",
+            "content": "# The Architecture of Attitudes\n\nWhat is an **attitude**? In social psychology, an attitude is a psychological tendency expressed by evaluating a particular entity with some degree of favor or disfavor.\n\n## The Classical ABC Model of Attitudes:\n\n```\n                                    [ATTITUDE]\n                                        |\n         +------------------------------+------------------------------+\n         |                              |                              |\n    [A - AFFECTIVE]             [B - BEHAVIORAL]               [C - COGNITIVE]\n    - Emotional feelings        - Observable actions           - Beliefs, facts, ideas\n    - Excitement, disgust       - Buying, voting, protesting   - Logical evaluations\n    - *\"I love electric cars\"*  - *\"I bought an electric car\"* - *\"They reduce emissions\"*\n```\n\n## Do Attitudes Predict Behavior?\n- Richard LaPiere (1934) traveled the US with a Chinese couple; 250 hotels served them politely. When mailed 6 months later, **92% stated they would refuse service to Chinese guests**!\n- Proved that general attitudes frequently fail to predict specific real-world behaviors unless situational pressures, social norms, and attitude strength are aligned."
+        },
+        {
+            "id": "sc_attitudes_2",
+            "type": "content",
+            "title": "Leon Festinger's Cognitive Dissonance Theory (1957)",
+            "content": "# Cognitive Dissonance Theory\n\nLeon Festinger published one of the most celebrated theories in psychology: **Cognitive Dissonance Theory**.\n\n## The Core Premise:\n- Human beings possess a powerful internal drive for consistency among their beliefs, attitudes, and behaviors.\n- When an individual holds two psychologically contradictory cognitions (or acts in a way that directly contradicts their attitude), they experience **Cognitive Dissonance**:\n  * An intensely uncomfortable state of psychological tension and physiological arousal.\n- Because psychological dissonance is aversive, people are highly motivated to reduce it!"
+        },
+        {
+            "id": "sc_attitudes_3",
+            "type": "content",
+            "title": "Three Methods to Reduce Dissonance",
+            "content": "# How Humans Resolve Cognitive Dissonance\n\nConsider a smoker who knows that smoking causes fatal lung cancer:\n- Cognition 1: *\"I smoke two packs a day.\"*\n- Cognition 2: *\"Smoking causes cancer and early death.\"*\n- Dissonance: Extreme psychological discomfort!\n\n## Three Pathways to Restore Consistency:\n\n```\n1. CHANGE THE BEHAVIOR:       Stop smoking completely (Difficult; requires painful withdrawal!).\n            |\n2. CHANGE THE COGNITION:      \"The medical cancer data is exaggerated; it won't happen to me.\"\n            |\n3. ADD NEW CONSONANT COGNITION: \"Smoking relaxes me and relieves stress; quality of life is more\n                              important than length of life! My grandfather smoked and lived to 90!\"\n```\n\n> **Human Tendency:** Because changing ingrained behavior is physically difficult, people overwhelmingly resolve dissonance by **distorting their beliefs and rationalizing**!"
+        },
+        {
+            "id": "sc_attitudes_quiz_1",
+            "type": "quiz",
+            "title": "Cognitive Dissonance Basics Check",
+            "content": "Verify your understanding of Festinger's core dissonance principles!",
+            "quizQuestion": "In Leon Festinger's Cognitive Dissonance Theory, what primary psychological state motivates individuals to alter their beliefs or rationalize their contradictory choices?",
+            "quizOptions": [
+                "An aversive, uncomfortable state of psychological tension and physiological arousal triggered by contradictory cognitions or actions",
+                "The pleasant warmth of achieving formal operational thought",
+                "A sudden surge of dopamine in the nucleus accumbens",
+                "The complete erasure of working memory"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_attitudes_4",
+            "type": "content",
+            "title": "The Induced Compliance Paradigm: Festinger & Carlsmith",
+            "content": "# The Classic \\$1 vs. \\$20 Experiment (1959)\n\nFestinger and J. Merrill Carlsmith conducted a legendary experiment that completely overturned behaviorist reinforcement theory:\n\n## The Tedious Task Protocol:\n- College students spent a mind-numbing hour doing boring repetitive tasks (turning wooden pegs a quarter turn; packing spools into a box).\n- The experimenter then asked the participant to lie to the next waiting student, telling her the experiment was *\"thrilling and fun\"*.\n\n## Two Experimental Conditions:\n- **Group 1:** Paid **\\$20** (a fortune in 1959!) to tell the lie.\n- **Group 2:** Paid only **\\$1** to tell the lie.\n- Later, an independent researcher asked participants how much they *actually* enjoyed the peg-turning task."
+        },
+        {
+            "id": "sc_attitudes_5",
+            "type": "content",
+            "title": "Insufficient Justification and Attitude Change",
+            "content": "# Results: Insufficient Justification\n\nWhat did the peg-turners say on their final rating of the boring task?\n\n| Payoff | Behaviorist Prediction | Cognitive Dissonance Prediction | Actual Empirical Finding |\n|---|---|---|---|\n| **Paid \\$20** | Great enjoyment (Large reward reinforces liking) | Minimal dissonance (Sufficient external justification: *\"I lied for \\$20\"*) | Rated task as **boring (-0.5)** |\n| **Paid \\$1** | Zero enjoyment (Tiny reward produces no reinforcement) | **MAXIMUM DISSONANCE** (Insufficient external justification: *\"I lied for just \\$1? I wouldn't sell my soul for a dollar... I must have actually enjoyed it!\"*) | Rated task as **genuinely enjoyable (+1.35)!** |\n\n## The Principle of Insufficient Justification:\n- When people act against their beliefs with minimal external incentive, they experience intense dissonance, forcing them to change their internal attitude to justify the act!"
+        },
+        {
+            "id": "sc_attitudes_6",
+            "type": "content",
+            "title": "Effort Justification (Aronson & Mills, 1959)",
+            "content": "# Effort Justification: Loving What We Suffer For\n\nElliot Aronson and Judson Mills tested **Effort Justification**:\n\n## The Sex Discussion Group Experiment:\n- Female college students volunteered to join an exclusive campus sexual discussion group.\n- **Mild Initiation:** Read aloud a list of mildly embarrassing sex-related words.\n- **Severe Initiation:** Read aloud obscene, highly graphic four-letter words and explicit sexual passages to a male experimenter.\n- **The Meeting:** Both groups then listened to a recorded discussion that was intentionally designed to be agonizingly boring, rambling, and worthless!\n\n## Findings:\n- Women in the **Severe Initiation condition** rated the boring discussion as *\"fascinating, insightful, and brilliant!\"*\n- **Cognitive Dissonance:** *\"I endured a humiliating, grueling initiation for this group... therefore, this group must be extraordinary!\"*"
+        },
+        {
+            "id": "sc_attitudes_quiz_2",
+            "type": "quiz",
+            "title": "Insufficient & Effort Justification Check",
+            "content": "Evaluate findings from Festinger's \\$1 vs \\$20 study and Aronson's effort justification!",
+            "quizQuestion": "In Festinger and Carlsmith's landmark 1959 study, why did participants paid \\$1 report enjoying the boring peg-turning task significantly more than participants paid \\$20?",
+            "quizOptions": [
+                "\\$1 was worth more than \\$20 in 1959",
+                "Participants paid \\$20 had sufficient external justification for lying, whereas participants paid \\$1 had insufficient external justification and resolved their internal dissonance by changing their attitude",
+                "Participants paid \\$1 were naturally more intelligent",
+                "The task changed physically for the \\$1 group"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_attitudes_7",
+            "type": "content",
+            "title": "Post-Decision Dissonance: The \"Spreading of Alternatives\"",
+            "content": "# Post-Decision Dissonance (Jack Brehm, 1956)\n\nWhat happens to our attitudes immediately after making a difficult, close choice between two desirable options?\n\n## Brehm's Appliance Experiment:\n- Women rated the desirability of 8 small household appliances (toasters, coffee makers, blenders).\n- Experimenter offered a choice between two appliances the participant had rated identically high (e.g., #4 toaster vs. #5 coffee maker).\n- After choosing one appliance to keep, participants re-rated all appliances.\n\n## The \"Spreading of Alternatives\":\n\n```\nBefore Choice:  [Toaster = Rating of 8]  =====(Equal)=====>  [Coffee Maker = Rating of 8]\n                                           |\n                               (Chooses Coffee Maker)\n                                           v\nAfter Choice:   [Toaster = Rating of 5!] <====(Divergence)====> [Coffee Maker = Rating of 10!]\n```\n\n## Why Spreading Occurs:\n- To eliminate regret and post-decision dissonance, people exaggerate the virtues of the chosen item and downplay the rejected alternative!"
+        },
+        {
+            "id": "sc_attitudes_8",
+            "type": "content",
+            "title": "Self-Perception Theory: Daryl Bem (1967)",
+            "content": "# Daryl Bem's Self-Perception Theory\n\nDaryl Bem proposed an elegant, radical behaviorist alternative to cognitive dissonance:\n\n## The Core Premise:\n- People do NOT experience uncomfortable psychological tension or inner dissonance.\n- Instead, when internal cues are weak or ambiguous, people simply infer their own attitudes by **observing their own behavior**, exactly like an outside observer would!\n\n## Bem's Reinterpretation of the \\$1 vs. \\$20 Study:\n- *\"I told someone the task was fun, and I only got paid a dollar. I wouldn't lie for a dollar, so I must have actually enjoyed it!\"*\n\n## Resolving the Debate (Fazio, Zanna, & Cooper):\n- **Cognitive Dissonance Theory** operates when behavior violates **important, core self-values** (generating genuine physiological arousal).\n- **Self-Perception Theory** operates when attitudes are **weak, vague, or newly formed**!"
+        },
+        {
+            "id": "sc_attitudes_9",
+            "type": "content",
+            "title": "The Overjustification Effect (Lepper, Greene, & Nisbett)",
+            "content": "# The Overjustification Effect (1973)\n\nSelf-Perception Theory predicted a stunning counter-intuitive phenomenon: **extrinsic rewards can destroy intrinsic motivation**!\n\n## The Drawing Study in Preschoolers:\n- Children who naturally loved drawing with colorful felt-tipped markers were assigned to conditions:\n  * **Expected Reward Group:** Promised a \"Good Player Award\" ribbon for drawing.\n  * **Unexpected Reward Group:** Received the ribbon as a surprise after drawing.\n  * **No Reward Group:** Just drew without rewards.\n\n## Free-Play Observations Two Weeks Later:\n- Children who received the expected reward spent **half as much free time drawing** as the other groups!\n- **The Self-Perception Shift:** The children looked at their own past behavior and concluded: *\"I drew to get that ribbon, not because I love drawing. Without a prize, drawing is boring!\"*"
+        },
+        {
+            "id": "sc_attitudes_quiz_3",
+            "type": "quiz",
+            "title": "Self-Perception & Overjustification Check",
+            "content": "Test your mastery of Bem's self-perception model and the overjustification effect!",
+            "quizQuestion": "In Mark Lepper's classic experiment, offering preschoolers an expected tangible reward for playing with markers that they already naturally enjoyed caused which long-term behavioral outcome?",
+            "quizOptions": [
+                "Their intrinsic desire to draw during free play declined significantly (the Overjustification Effect)",
+                "They became lifelong professional artists",
+                "Their IQ scores jumped ten points",
+                "They developed an avoidant attachment style"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_attitudes_10",
+            "type": "content",
+            "title": "The Elaboration Likelihood Model (Petty & Cacioppo)",
+            "content": "# The Elaboration Likelihood Model (ELM)\n\nRichard Petty and John Cacioppo (1986) formulated the **ELM** to map the dual routes of persuasion:\n\n```\n                                    [PERSUASIVE COMMUNICATION]\n                                                |\n                        +-----------------------+-----------------------+\n                        |                                               |\n             [CENTRAL ROUTE]                                     [PERIPHERAL ROUTE]\n  - High motivation & cognitive ability               - Low motivation or distracted\n  - Deep elaboration of logical argument strength     - Heuristic shortcuts, celebrity endorsements,\n  - Produces: **Enduring, resistant attitude change**   attractive visuals, catchy music\n                                                      - Produces: **Weak, temporary attitude change**\n```\n\n## The Deciding Factors:\n- Personal relevance, issue involvement, and cognitive need for cognition dictate which route is taken."
+        },
+        {
+            "id": "sc_attitudes_11",
+            "type": "content",
+            "title": "Theory of Planned Behavior (Icek Ajzen)",
+            "content": "# The Theory of Planned Behavior (TPB)\n\nWhen do attitudes actually predict deliberate real-world actions?\n\n```\n1. [Attitude Toward Behavior]  (\"Exercising daily is healthy and enjoyable\")\n2. [Subjective Norms]          (\"My friends and family exercise regularly\")   ===> [BEHAVIORAL INTENTION] ===> [ACTION!]\n3. [Perceived Behavioral Control](\"I have the time, gym pass, and ability\")\n```\n\n## The Master Predictor: Intention\n- An attitude alone cannot predict behavior.\n- Explicit behavior is predicted directly by **Behavioral Intention**, which is forged by the combined alignment of specific attitudes, perceived peer norms, and feelings of personal self-efficacy/control."
+        },
+        {
+            "id": "sc_attitudes_12",
+            "type": "content",
+            "title": "Neural Substrates of Cognitive Dissonance",
+            "content": "# The Neurobiology of Dissonance\n\nIs cognitive dissonance real physical discomfort, or just a psychological metaphor?\n\n## The fMRI Neural Circuitry (van Veen et al., Nature Neuroscience 2009):\n- Scanned participants while executing the induced compliance paradigm.\n- Acting counter to personal attitudes ignited robust, immediate activations in the:\n  * **Dorsal Anterior Cingulate Cortex (dACC):** The brain's conflict-monitoring alarm.\n  * **Anterior Insula:** The visceral distress and interoceptive pain processor.\n- Resolving dissonance via attitude change directly down-regulated this neural distress signal, proving dissonance is authentic neurobiological conflict!"
+        },
+        {
+            "id": "sc_attitudes_quiz_4",
+            "type": "quiz",
+            "title": "ELM & Dissonance Neurobiology Check",
+            "content": "Verify your understanding of persuasion routes and the neurobiology of dissonance!",
+            "quizQuestion": "In Petty and Cacioppo's Elaboration Likelihood Model (ELM), which route of persuasion is characterized by deep, careful cognitive scrutiny of message argument strength, leading to durable and counter-argument resistant attitude change?",
+            "quizOptions": [
+                "The Peripheral Route",
+                "The Central Route",
+                "The Subliminal Route",
+                "The Preoperational Route"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_attitudes_13",
+            "type": "content",
+            "title": "Cognitive Dissonance in Cults: When Prophecy Fails",
+            "content": "# Festinger's Infiltration of the Seekers Cult (1956)\n\nIn *When Prophecy Fails*, Leon Festinger, Henry Riecken, and Stanley Schachter infiltrated a doomsday flying saucer cult:\n\n## The Prophecy:\n- The cult leader prophesied that a massive world flood would destroy the planet at midnight on December 21, but a flying saucer would rescue the faithful believers.\n- Cult members gave away their life savings, quit their jobs, and threw away their possessions.\n\n## What Happened When the Flood Did Not Occur?\n- At 4:45 AM, the leader wept and claimed to receive a new message: *\"God was so impressed by this tiny group's faith that He chose to spare the entire planet from destruction!\"*\n- **Result:** Instead of realizing they had been duped, the cult members became **more devoted than ever**, proselytizing aggressively on street corners to add consonant cognitions!"
+        },
+        {
+            "id": "sc_attitudes_14",
+            "type": "content",
+            "title": "Hypocrisy Induction: Aronson's Safe-Sex Study",
+            "content": "# The Hypocrisy Induction Paradigm (Elliot Aronson)\n\nHow can cognitive dissonance be harnessed to foster prosocial public health behaviors?\n\n## Aronson's Condom Promotion Study (1991):\n- University students were asked to record a public service videotape advocating condom use to prevent HIV transmission to high schoolers (**Public Commitment**).\n- Half the students were then asked to list all the times they personally had failed to use condoms in their own lives (**Mindfulness of Hypocrisy**).\n- **The Dissonance Flash:** The realization of being a public hypocrite created intense internal discomfort!\n- **Result:** Students in the hypocrisy condition purchased condoms and practiced safe sex at rates **twice as high** as control groups!"
+        },
+        {
+            "id": "sc_attitudes_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Attitudes & Cognitive Dissonance\n\n## Core Principles Mastered:\n\n### 1. Attitude Structure\n- The ABC model: Affective, Behavioral, and Cognitive components; LaPiere demonstrated the attitude-behavior gap.\n\n### 2. Cognitive Dissonance (Festinger)\n- Contradictory cognitions ignite aversive tension (dACC and anterior insula activation).\n- Insufficient justification (\\$1 vs. \\$20), Effort justification (Aronson's severe initiation), and Post-decision spreading of alternatives.\n\n### 3. Alternative & Applied Models\n- Bem's Self-Perception Theory: Inferring attitudes from behavior; the Overjustification Effect.\n- Petty & Cacioppo's ELM: Central (deep argument elaboration) vs. Peripheral (heuristic shortcuts) routes.\n- Ajzen's Theory of Planned Behavior and Aronson's hypocrisy induction.\n\n> **Up Next:** Explore self-concept, social identity, and self-presentation in **The Social Self**!"
+        }
+    ]
+}

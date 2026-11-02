@@ -1,0 +1,155 @@
+{
+    "id": "learn_rel_attraction",
+    "topicId": "rel_attraction",
+    "topicTitle": "Attraction & Love",
+    "description": "Examine the evolutionary, biological, cognitive, and social determinants of attraction and love, including Sternberg's triangular theory, adult attachment styles, and mate selection frameworks.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "rel_attraction_1",
+            "type": "content",
+            "title": "The Foundations of Attraction: Proximity & Familiarity",
+            "content": "# The Architecture of Romantic Attraction\n\nWhat sparks initial romantic interest between human beings? Decades of empirical social psychology prove that attraction is governed by systematic, measurable principles:\n\n## 1. The Propinquity (Proximity) Effect:\n- The single best predictor of whether two people will become friends or romantic partners is **physical and functional proximity**.\n\n```\n   The Westgate Housing Study (Festinger, Schachter, & Back, 1950):\n   - Tracked friendship formation among married MIT graduate students randomly assigned to 17 buildings.\n   - Results: 65% of close friends lived in the same building.\n   - Next-door neighbors were 10 TIMES more likely to become close friends than residents\n     living at opposite ends of the hallway!\n   - Functional Distance: Living near stairwells doubled friendship formation due to foot traffic.\n```\n\n## 2. The Mere Exposure Effect (Zajonc, 1968):\n- Repeated, harmless perceptual exposure to a person increases familiar comfort and positive liking."
+        },
+        {
+            "id": "rel_attraction_2",
+            "type": "content",
+            "title": "Physical Attractiveness & Evolutionary Cues",
+            "content": "# The Science of Physical Beauty\n\nIs beauty merely in the eye of the beholder, or does the human brain recognize universal biological signifiers of health and reproductive fitness?\n\n## Universal Markers of Attractiveness Across Cultures:\n1. **Facial Bilateral Symmetry:** Signals genetic robustness, resistance to parasitic infections, and stable developmental biology.\n2. **Averageness (Composite Faces - Langlois & Roggman, 1990):** Computer-generated composite faces blending 32 individual faces are rated as significantly more attractive than the individual faces composing them!\n3. **Waist-to-Hip Ratio (WHR - Devendra Singh):** Across cultures, a female WHR of approx 0.70 (indicating estrogen-mediated fat distribution and optimal fertility) is universally preferred.\n\n## The \"What is Beautiful is Good\" Halo Effect:\nAttractive individuals are unconsciously judged as more intelligent, socially skilled, warm, and successful (Dion, Berscheid, & Walster, 1972)."
+        },
+        {
+            "id": "rel_attraction_3",
+            "type": "content",
+            "title": "Similarity vs. Complementarity: The Matching Hypothesis",
+            "content": "# Birds of a Feather or Opposites Attract?\n\nPopular culture proclaims that \"opposites attract.\" Psychological science overwhelmingly proves the exact opposite: **Similarity reigns supreme!**\n\n## 1. Byrne's Law of Attraction (Similarity-Attraction Effect):\n- Interpersonal attraction is a direct linear function of the proportion of shared attitudes, values, and socioeconomic beliefs.\n\n## 2. The Matching Hypothesis (Walster et al., 1966):\n- Individuals form long-term romantic relationships with partners who are closely matched to their own level of physical attractiveness and social desirability.\n\n```\n   [THE MYTH OF COMPLEMENTARITY]\n   Do dominant and submissive partners balance each other? While complementary communication\n   skills can be helpful, similarity in core values, religion, politics, intellect, and\n   lifestyle is the single strongest predictor of 20-year marital longevity!\n```"
+        },
+        {
+            "id": "rel_attraction_quiz_1",
+            "type": "quiz",
+            "title": "Attraction Fundamentals Check",
+            "content": "Verify your understanding of proximity and similarity research!",
+            "quizQuestion": "In Festinger, Schachter, and Back's famous Westgate housing study (1950), what spatial factor best predicted which graduate students became close friends?",
+            "quizOptions": [
+                "Having identical astrological signs",
+                "Physical and functional proximity (such as living next door or near shared stairwells)",
+                "Living in completely separate buildings on opposite ends of the university campus",
+                "Sharing the exact same dietary allergies"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_attraction_4",
+            "type": "content",
+            "title": "Evolutionary Perspectives: David Buss & Parental Investment",
+            "content": "# Evolutionary Psychology: Trivers & Buss\n\nWhy do men and women exhibit subtle divergences in romantic mate preferences?\n\n## Robert Trivers' Parental Investment Theory (1972):\n- The sex that invests more biological resources in producing offspring (internal gestation, lactation) will be **more selective and choosy** in mate selection.\n- The sex that invests fewer obligatory biological resources will compete more fiercely for reproductive access.\n\n## David Buss's 37-Culture Global Study (1989):\nAcross 37 distinct societies spanning 10,000+ individuals:\n- **Men universally prioritized:** Physical youth, beauty, and vitality (biological cues of fertility and reproductive capacity).\n- **Women universally prioritized:** Social status, financial resources, ambition, and industriousness (cues of ability to provide for offspring).\n\n*Sociocultural Alternative (Alice Eagly's Social Role Theory):* Sex differences in mate preferences shrink dramatically in nations with high gender equality!"
+        },
+        {
+            "id": "rel_attraction_5",
+            "type": "content",
+            "title": "Robert Sternberg's Triangular Theory of Love (1986)",
+            "content": "# Sternberg's Triangular Theory of Love\n\nRobert Sternberg unified the complex varieties of human love into a geometric model composed of three core vertices:\n\n```\n                                    [INTIMACY]\n                             (Warmth, closeness, trust)\n                                        /\\\n                                       /  \\\n                                      /    \\\n                                     /      \\\n                                    /        \\\n                                   /          \\\n                         [PASSION] ------------ [COMMITMENT]\n                    (Physical attraction,      (Cognitive decision\n                     romance, sexual drive)     to maintain love)\n```\n\nEvery romantic relationship can be classified by the presence or absence of these three vital components!"
+        },
+        {
+            "id": "rel_attraction_6",
+            "type": "content",
+            "title": "The Seven Varieties of Love in Sternberg's Model",
+            "content": "# Mapping Love's Topography: Sternberg's Taxonomy\n\n```\n   VARIETY OF LOVE         INTIMACY?    PASSION?    COMMITMENT?    CLINICAL EXAMPLE\n   ------------------------------------------------------------------------------------\n   1. Liking               YES          No          No             Close, trusting platonic friendship.\n   2. Infatuation          No           YES         No             \"Love at first sight\"; obsessive crush.\n   3. Empty Love           No           No          YES            Dying marriage held together for duty.\n   4. Romantic Love        YES          YES         No             Intense summer fling; passion and trust.\n   5. Companionate Love    YES          No          YES            Long-term marriage; passion faded, deep bond.\n   6. Fatuous Love         No           YES         YES            Whirlwind Vegas wedding after 48 hours.\n   7. CONSUMMATE LOVE      YES          YES         YES            THE COMPLETE IDEAL! Passion, trust, & duty.\n```\n\nConsummate love represents the ultimate relational achievement, but Sternberg warned that **maintaining it is far harder than achieving it**!"
+        },
+        {
+            "id": "rel_attraction_quiz_2",
+            "type": "quiz",
+            "title": "Sternberg's Triangular Model Check",
+            "content": "Verify your understanding of Sternberg's love taxonomy!",
+            "quizQuestion": "According to Robert Sternberg's Triangular Theory of Love, what type of love is characterized by high levels of Intimacy and high Commitment, but where physical Passion has largely subsided over time?",
+            "quizOptions": [
+                "Infatuated Love",
+                "Companionate Love",
+                "Fatuous Love",
+                "Empty Love"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_attraction_7",
+            "type": "content",
+            "title": "Adult Attachment in Romance (Hazan & Shaver)",
+            "content": "# Romantic Attachment: Cindy Hazan & Phillip Shaver (1987)\n\nHazan and Shaver demonstrated that infant attachment styles (Bowlby, Ainsworth) systematically predict how adults navigate romantic relationships:\n\n```\n                                [ADULT ATTACHMENT GRID]\n                                           |\n         +---------------------------------+---------------------------------+\n         |                                                                   |\n   [SECURE ATTACHMENT (~55%)]                                          [ANXIOUS-PREOCCUPIED (~20%)]\n   - Comfortable with intimacy and autonomy.                           - Terrified of abandonment; desperate\n   - Trusts partner; handles conflict constructively.                    for constant validation and reassurance.\n   - Balances closeness with independence.                             - Hyper-vigilant to partner's emotional shifts.\n         |\n         +---------------------------------+---------------------------------+\n         |                                                                   |\n   [DISMISSIVE-AVOIDANT (~20%)]                                        [FEARFUL-AVOIDANT (~5%)]\n   - Equates intimacy with loss of independence.                       - Deeply desires closeness but terrified\n   - Suppresses emotions; shuts down when partner                      - of getting hurt; volatile push-pull\n     expresses vulnerability.                                            relationship dynamics.\n```"
+        },
+        {
+            "id": "rel_attraction_8",
+            "type": "content",
+            "title": "The Neurochemistry of Love: Lust, Romance, Attachment",
+            "content": "# The Neurobiology of Love: Helen Fisher\n\nBiological anthropologist Helen Fisher used functional fMRI neuroimaging to identify three distinct, evolutionarily brain systems governing love:\n\n```\n   BRAIN SYSTEM           PRIMARY NEUROCHEMICALS         EVOLUTIONARY PURPOSE\n   ------------------------------------------------------------------------------------\n   1. LUST (Libido)    --> Androgens (Testosterone) &  --> Drives individuals to seek\n                           Estrogens                       sexual union with any partner.\n   2. ATTRACTION       --> Dopamine, Norepinephrine;   --> Focuses romantic energy on a\n      (Obsession)          LOW Serotonin (obsessive focus) SINGLE preferred mating partner.\n   3. ATTACHMENT       --> Oxytocin (cuddling/trust) & --> Fosters long-term pair-bonding to\n      (Security)           Vasopressin (defense/loyalty)   raise fragile offspring together.\n```\n\nfMRI scans of people madly in love reveal intense activation in the **Ventral Tegmental Area (VTA) and Caudate Nucleus** - the exact dopaminergic reward pathway hijacked by cocaine!"
+        },
+        {
+            "id": "rel_attraction_9",
+            "type": "content",
+            "title": "Passionate vs. Companionate Love Across Time",
+            "content": "# The Trajectory of Love Over the Decades\n\nElaine Hatfield (1986) highlighted the inevitable emotional transition that occurs across long-term partnerships:\n\n```\n   INTENSITY LEVEL\n         ^ \n         |   PASSIONATE LOVE: Euphoric, obsessive, sexually intense.\n         |   (Peaks rapidly within 1-2 years, then plummets!)\n         |   \\  \n         |    \\ \n         |     \\                       COMPANIONATE LOVE: Deep affection, shared\n         |      \\---------------------> values, mutual trust, and affectionate warmth.\n         |                             (Builds steadily and endures for decades!)\n         +------------------------------------------------------------------------> TIME\n```\n\nCouples who mistakenly assume that the natural decline of passionate euphoria means \"we fell out of love\" often divorce unnecessarily, failing to cultivate rich companionate devotion."
+        },
+        {
+            "id": "rel_attraction_quiz_3",
+            "type": "quiz",
+            "title": "Attachment & Neurochemistry Check",
+            "content": "Verify your understanding of attachment and neurobiology!",
+            "quizQuestion": "In Helen Fisher's neurobiological model of love, which neurochemicals are primarily responsible for fostering long-term calm pair-bonding, trust, and enduring maternal/partner attachment?",
+            "quizOptions": [
+                "Epinephrine and cortisol",
+                "Oxytocin and vasopressin",
+                "Substance P and acetylcholine",
+                "Glutamate and GABA"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_attraction_10",
+            "type": "content",
+            "title": "Reciprocal Liking & Self-Fulfilling Prophecies",
+            "content": "# The Magic of Knowing You Are Liked\n\nOne of the most potent drivers of interpersonal attraction is **Reciprocal Liking**:\n\n## Curtis and Miller's (1986) Classic Deception Study:\n- Pairs of strangers engaged in initial conversations.\n- The experimenter covertly whispered to Person A that Person B *\"really liked them\"* or *\"really disliked them.\"*\n- When reunited, Person A acted with great warmth and friendliness toward the partner they believed liked them.\n- **Outcome:** Person B responded with genuine warmth and ended up liking Person A significantly more! **Believing you are liked becomes a self-fulfilling prophecy.**\n\n## The Gain-Loss Theory of Attraction (Aronson & Linder, 1965):\nWe like someone most when their evaluation of us begins critical/lukewarm and gradually transforms into enthusiastic praise (*\"Winning someone over\"*)."
+        },
+        {
+            "id": "rel_attraction_11",
+            "type": "content",
+            "title": "Digital Dating & The Paradox of Choice",
+            "content": "# Love in the Digital Age: Algorithmic Courtship\n\nOver 50% of modern romantic couples meet via digital dating apps (Tinder, Hinge, Bumble). How has digital architecture transformed courtship?\n\n## 1. The Paradox of Choice (Barry Schwartz, 2004):\n- Having access to thousands of potential partners on swipe-based apps reduces satisfaction and increases FOMO (Fear of Missing Out).\n- Users treat human partners like consumable catalog items, becoming hyper-critical and abandoning relationships at the first minor flaw.\n\n## 2. Ephemeral Courtship & Ghosting:\n- Digital detachment dehumanizes communication, fostering **ghosting** (abruptly severing all contact without explanation).\n- Triggers acute rejection distress and lack of closure in the abandoned partner."
+        },
+        {
+            "id": "rel_attraction_12",
+            "type": "content",
+            "title": "Arranged vs. Love Marriages Across Cultures",
+            "content": "# Cultural Variations: Love and Marriage Models\n\nWestern psychology often views individual romantic passion as the sole legitimate prerequisite for marriage. However, cross-cultural data challenges this ethnocentric assumption:\n\n```\n   MARITAL SATISFACTION OVER TIME (Gupta & Singh, 1982; Xiaohe & Whyte):\n   \n   Satisfaction\n        ^ \n        |   LOVE MARRIAGES (Individual Choice): Starts very high, but shows gradual decline\n        |   over 10-20 years.\n        |   \n        |   ARRANGED MARRIAGES (Family Supported): Starts moderately, but shows steady\n        |   INCREASE in satisfaction and marital commitment over 10-20 years!\n        +------------------------------------------------------------------------> TIME\n```\n\nArranged unions often succeed because they align compatible socioeconomic foundations, familial support networks, and shared values, giving companionate love fertile ground to flourish."
+        },
+        {
+            "id": "rel_attraction_quiz_4",
+            "type": "quiz",
+            "title": "Digital Dating & Cross-Cultural Check",
+            "content": "Verify your understanding of modern and cross-cultural relationship research!",
+            "quizQuestion": "In research on the 'Paradox of Choice' applied to digital dating apps (such as swipe-based matchmaking), what psychological outcome typically occurs when users are presented with seemingly endless choices of potential partners?",
+            "quizOptions": [
+                "Users become immediately 100% satisfied and delete their accounts",
+                "Users become hyper-critical, experience lower relationship satisfaction, and struggle to commit to any single partner",
+                "Users completely lose their physical vision",
+                "Users stop using smartphones permanently"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rel_attraction_13",
+            "type": "content",
+            "title": "Relationship Compatibility: What Truly Matters?",
+            "content": "# The Science of Marital Compatibility\n\nWhat factors empirically differentiate couples who celebrate their 50th golden anniversary from those who split in court?\n\n```\n   NON-PREDICTIVE / OVERRATED FACTORS            HIGHLY PREDICTIVE COMPATIBILITY FACTORS\n   ------------------------------------------------------------------------------------\n   - Shared trivial hobbies (golf, hiking)      - Shared core moral and ethical values\n   - Astrological sign matching                 - Emotional intelligence and self-regulation\n   - Intense passionate chemistry at week 1     - Constructive, non-defensive conflict styles\n   - Outward physical attractiveness parity     - Agreement on financial priorities & parenting\n```\n\nShared values and mature conflict resolution skills far outweigh shared superficial hobbies in determining long-term marital success."
+        },
+        {
+            "id": "rel_attraction_14",
+            "type": "content",
+            "title": "Comparative Analysis of Attraction Theories",
+            "content": "# Integrating Perspectives on Attraction and Love\n\n| Perspective | Core Explanatory Driver | Primary Theoretical Mechanism |\n|---|---|---|\n| **Propinquity / Mere Exposure** | Physical / Spatial Environment | Familiarity breeds comfort and positive affective valence. |\n| **Evolutionary Psychology** | Adaptive Reproductive Fitness | Men prioritize fertility cues; women prioritize resource investment. |\n| **Triangular Theory** | Cognitive / Affective Geometry | Balance among Intimacy, Passion, and Commitment. |\n| **Adult Attachment Theory** | Internal Working Models of Self | Childhood bonding shapes adult trust vs. abandonment terror. |\n| **Neurochemical Model** | Neurotransmitter / Hormone Loops| Dopamine (obsession) transitions to oxytocin (deep pair-bond). |"
+        },
+        {
+            "id": "rel_attraction_15",
+            "type": "content",
+            "title": "Module Synthesis: Attraction & Love",
+            "content": "# Key Takeaways: Attraction & Love\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Scientific Finding           |\n+-----------------------+-----------------------------+-----------------------------------+\n| Propinquity Effect    | Festinger et al. (1950)     | Physical and functional proximity |\n|                       |                             | is the best predictor of friendship.|\n+-----------------------+-----------------------------+-----------------------------------+\n| Triangular Theory     | Robert Sternberg (1986)     | Love composed of Intimacy,        |\n| of Love               |                             | Passion, and Commitment.          |\n+-----------------------+-----------------------------+-----------------------------------+\n| Adult Attachment      | Cindy Hazan & Phillip       | Infant styles carry forward into  |\n|                       | Shaver (1987)               | adult romantic security vs panic. |\n+-----------------------+-----------------------------+-----------------------------------+\n| Neurobiology of Love  | Helen Fisher (2004)         | VTA dopaminergic reward loops     |\n|                       |                             | transition to oxytocin bonding.   |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nLove is not an inexplicable magical accident; it is an intricate biological, emotional, and social dance that flourishes when partners cultivate similarity, intimacy, and mature commitment."
+        }
+    ]
+}

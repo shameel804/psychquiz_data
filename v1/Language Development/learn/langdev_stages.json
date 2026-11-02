@@ -1,0 +1,155 @@
+{
+    "id": "learn_langdev_stages",
+    "topicId": "langdev_stages",
+    "topicTitle": "Stages of Language Development",
+    "description": "Chart the chronological stages of child language acquisition, from prelinguistic gestures and phonemic tuning to the vocabulary explosion, syntactic mastery, and pragmatic conversational competence.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "langdev_stages_1",
+            "type": "content",
+            "title": "The Trajectory of Speech and Language",
+            "content": "# The Journey into Human Speech\n\nHow does an infant journey from the first newborn cry to fluent, grammatically nuanced storytelling by age five?\n\n## The Core Linguistic Building Blocks:\n1. **Phonology:** The sound system of language and the rules for combining them (phonemes).\n2. **Semantics:** The system of meanings associated with words and morphemes.\n3. **Syntax & Morphology:** The grammatical rules governing word order and internal word structure (affixes, tenses).\n4. **Pragmatics:** The sociolinguistic rules for using language appropriately in conversational contexts.\n\n## The Invariant Progression:\n- Across all human languages, whether spoken or signed, children master these linguistic subsystems in a universal chronological sequence."
+        },
+        {
+            "id": "langdev_stages_2",
+            "type": "content",
+            "title": "Prelinguistic Communication: 0 to 12 Months",
+            "content": "# Prelinguistic Milestones\n\nBefore speaking their first word, infants lay the foundation of communication through vocalization and gesture:\n\n## Chronological Vocal Timeline:\n- **0 to 2 Months:** Reflexive vocalizations (crying, vegetative burping, coughing).\n- **2 to 4 Months:** Cooing (vowel-like melodic sounds: *\"oooh\"*, *\"aaah\"* expressing contentment).\n- **4 to 6 Months:** Vocal play (squealing, growling, blowing raspberries, testing pitch).\n- **6 to 10 Months (Canonical Babbling):** Rhythmic consonant-vowel syllable strings (*\"mamama\", \"dadada\"*).\n- **10 to 12 Months (Variegated Babbling):** Combining diverse syllables with adult-like intonation (*\"badagabu?\"*).\n\n## The Role of Gestures (10-12 Months):\n- **Proto-imperative Gestures:** Pointing to an object as a command or request (*\"Give me that cookie!\"*).\n- **Proto-declarative Gestures:** Pointing to direct an adult's attention simply to share interest (*\"Look at that bird!\"*); strong predictor of later vocabulary size!"
+        },
+        {
+            "id": "langdev_stages_3",
+            "type": "content",
+            "title": "First Words and the Vocabulary Explosion",
+            "content": "# The Lexical Explosion (12 to 24 Months)\n\nAround 12 months, infants produce their **first true word**\u2014a consistent phonetic string used deliberately to refer to a specific referent in reality.\n\n## The Holophrastic Phase (12-18 Months):\n- One-word utterances that express complete complex propositions (*\"Down!\"* = *\"Please pick me down from this high chair!\"*).\n\n## The Naming Explosion (approx 18 Months):\n\n```\nVocabulary Growth Curve:\nWords:\n500+ |                                              * (Age 2: Multi-word sentences)\n     |                                          * *\n     |                                    * * *\n  50 |                    * * * * * * * * (18 Months: The Naming Spurt!)\n   0 |____________________*__________________________\n     Age:                12              18         24 Months\n```\n\n## Fast-Mapping (Susan Carey):\n- The extraordinary cognitive ability of toddlers to form a rapid initial hypothesis about a new word's meaning after only a single brief exposure!"
+        },
+        {
+            "id": "langdev_stages_quiz_1",
+            "type": "quiz",
+            "title": "Early Milestones Check",
+            "content": "Verify your understanding of prelinguistic gestures and the naming explosion!",
+            "quizQuestion": "An 11-month-old infant points out the car window at a passing dog, looks back at their mother, and vocalizes excitedly just to share interest in the dog. What communicative gesture is this?",
+            "quizOptions": [
+                "A proto-declarative gesture",
+                "A proto-imperative gesture",
+                "A telegraphic sentence",
+                "An overregularization error"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "langdev_stages_4",
+            "type": "content",
+            "title": "Lexical Errors: Overextension and Underextension",
+            "content": "# Semantic Mapping Errors in Toddlers\n\nWhile mastering vocabulary, toddlers make predictable mapping errors:\n\n## 1. Overextension\n- Applying a word too broadly to concepts outside its valid semantic category based on perceptual similarities.\n- *Examples:* Calling all four-legged animals \"doggy\"; calling all round objects (oranges, marbles, the moon) \"ball\".\n- Occurs because the child understands differences, but lacks vocabulary and uses the closest available word.\n\n## 2. Underextension\n- Applying a word too narrowly to a single specific exemplar, failing to recognize other category members.\n- *Example:* Using the word \"kitty\" strictly to refer to the family's pet cat, refusing to believe that the neighbor's Siamese cat is also a \"kitty\"."
+        },
+        {
+            "id": "langdev_stages_5",
+            "type": "content",
+            "title": "Grammar Development: Telegraphic Speech",
+            "content": "# The Dawn of Syntax: Telegraphic Speech (18-24 Months)\n\nWhen vocabulary reaches approx 50 words, toddlers begin combining two words together: **Telegraphic Speech**.\n\n## Characteristics of Telegraphic Speech (Roger Brown):\n- Like a telegram where words cost money, sentences are stripped of non-essential function words, prepositions, articles, and auxiliary verbs.\n- Preserves high-content words: **nouns, verbs, and adjectives** (*\"More milk\", \"Daddy shoe\", \"Big doggie\"*).\n\n## Strict Syntactic Integrity:\n- Remarkably, telegraphic speech almost never violates native word order!\n- An English-speaking toddler says *\"Throw ball\"* (Verb-Object), never *\"Ball throw\"*; a German or Japanese child reflects their respective native syntactic orders, proving early grammar knowledge."
+        },
+        {
+            "id": "langdev_stages_6",
+            "type": "content",
+            "title": "Morphological Mastery and the Wug Test (Gleason)",
+            "content": "# Jean Berko Gleason's Wug Test (1958)\n\nDo children simply memorize past-tense words and plurals by rote repetition, or do they internalize generative abstract morphological rules?\n\n## The Famous Wug Experiment:\n- 4-year-old children were shown a picture of a cartoon bird-like creature:\n  * *\"This is a WUG.\"*\n- A second identical creature was added:\n  * *\"Now there is another one. There are two of them. There are two...\"*\n- **Child Answer:** *\"WUGS!\"*\n\n```\n[Novel Nonce Word: WUG] ---> Child has NEVER heard \"Wug\" before in their life!\n                        ---> Child immediately adds the plural morpheme rule (-s /z/)!\n```\n\n## The Scientific Proof:\n- Proved conclusively that children extract abstract, generative morphological rules that they apply creatively to completely novel words!"
+        },
+        {
+            "id": "langdev_stages_quiz_2",
+            "type": "quiz",
+            "title": "Telegraphic Speech & The Wug Test Check",
+            "content": "Evaluate your understanding of early syntax and Gleason's morphological experiments!",
+            "quizQuestion": "What fundamental linguistic reality was definitively proven by Jean Berko Gleason's classic 1958 'Wug Test'?",
+            "quizOptions": [
+                "Children learn language exclusively by imitating and memorizing words heard from adults",
+                "Children internalize abstract, generative morphological rules that they can apply to completely novel words they have never heard before",
+                "Children cannot understand grammar until age seven",
+                "Telegraphic speech lacks all word order rules"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "langdev_stages_7",
+            "type": "content",
+            "title": "Pragmatic Development: Conversational Competence",
+            "content": "# Pragmatics: The Social Use of Language\n\nKnowing vocabulary and grammar is useless without **pragmatics**\u2014the ability to use language effectively and appropriately across social situations.\n\n## Core Pragmatic Skills Acquired (Ages 2 to 6):\n1. **Turn-Taking:** Understanding that conversation is a collaborative dance of reciprocal turns.\n2. **Topic Maintenance & Contingency:** Staying on topic across multiple conversational turns rather than abruptly changing subjects.\n3. **Illocutionary Intent:** Understanding indirect requests (*\"It's cold in here\"* means *\"Please close the window\"*).\n4. **Register Shifting:** Speaking differently depending on the listener (using polite, formal speech with a school principal, but simplified parentese when talking to a baby brother)."
+        },
+        {
+            "id": "langdev_stages_8",
+            "type": "content",
+            "title": "Narrative Development: Constructing Stories",
+            "content": "# The Architecture of Child Narratives\n\nNarrative skill (telling a cohesive story) is the bridge between oral language and early reading literacy:\n\n## The Developmental Stages of Narrative (Applebee):\n- **Heaps (Age 2):** Unrelated strings of statements about an event (*\"A cat. A big dog. Red truck. I fell down.\"*).\n- **Sequences (Age 3):** Events linked by a common theme or character, but without chronological sequence.\n- **Primitive Narratives (Age 4):** Grouped around a core event with emotional consequences, but lacking true causal resolution.\n- **True Narratives (Age 5-6):** Classic story grammar: a clear protagonist, initiating event, internal obstacle/problem, goal-directed action attempt, and satisfying resolution!"
+        },
+        {
+            "id": "langdev_stages_9",
+            "type": "content",
+            "title": "Metalinguistic Awareness in Middle Childhood",
+            "content": "# Metalinguistic Awareness\n\nAround ages 5 to 7, children develop **metalinguistic awareness**\u2014the ability to reflect on and analyze language as an objective cultural system rather than just using it to communicate.\n\n## Observable Triumphs of Metalinguistic Skill:\n- **Phonological Awareness:** Recognizing rhymes, counting syllables, and segmenting words into individual sounds (/c/-/a/-/t/); vital for reading decoding.\n- **Appreciating Wordplay & Humor:** Understanding riddles and puns that rely on multiple word meanings (*\"Why did the banana go to the doctor? Because it wasn't peeling well!\"*).\n- **Syntactic Ambiguity:** Recognizing when a sentence can have two completely different interpretations."
+        },
+        {
+            "id": "langdev_stages_quiz_3",
+            "type": "quiz",
+            "title": "Pragmatics & Metalinguistics Check",
+            "content": "Test your mastery of conversational pragmatics and metalinguistic awareness!",
+            "quizQuestion": "A 7-year-old child laughs uncontrollably at a pun because they recognize that a single word has two completely different meanings depending on context. What cognitive-linguistic capacity makes this humor possible?",
+            "quizOptions": [
+                "Metalinguistic awareness",
+                "Telegraphic speech",
+                "Sensorimotor accommodation",
+                "Phonemic underextension"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "langdev_stages_10",
+            "type": "content",
+            "title": "Environmental Factors: Socioeconomic Status and the 30-Million-Word Gap",
+            "content": "# The 30-Million-Word Gap Debate (Hart & Risley, 1995)\n\nBetty Hart and Todd Risley conducted a famous longitudinal study recording language in homes across socioeconomic tiers:\n\n## The Original Finding:\n- By age 3, children from high-income professional families heard approx **30 million more words** than children in low-income families, correlating with higher elementary school reading test scores.\n\n## Modern Re-evaluation and Quality vs. Quantity:\n- Modern developmentalists (Kathy Hirsh-Pasek) emphasize that **conversational turn-taking quality** matters far more than raw word volume!\n- Warm, interactive **\"conversational duets\"**\u2014rich back-and-forth verbal responsiveness between caregiver and child\u2014wire infant auditory-linguistic circuits regardless of family wealth."
+        },
+        {
+            "id": "langdev_stages_11",
+            "type": "content",
+            "title": "Screen Time and Language Acquisition",
+            "content": "# Digital Media and Early Language Acquisition\n\nCan educational videos (e.g., *Baby Einstein*) teach infants language?\n\n## The Video Deficit Effect (Patricia Kuhl):\n- Infants under age 2 suffer from a **video deficit**: they learn language robustly from real human beings in person, but learn **virtually nothing** from television or video screens!\n\n## Kuhl's Landmark Experiment (2003):\n- American 9-month-old infants were exposed to Mandarin Chinese:\n  * **Group 1:** Live native Mandarin speakers read books and played with infants.\n  * **Group 2:** High-definition video recordings of the identical speakers reading identical books.\n- **Result:** Group 1 infants showed robust phonemic learning equal to native Mandarin infants; Group 2 showed **zero phonemic learning**!\n- Proved that social presence and contingent gaze are mandatory for early neural speech tuning."
+        },
+        {
+            "id": "langdev_stages_12",
+            "type": "content",
+            "title": "Bilingualism Across Language Stages",
+            "content": "# Bilingual Language Milestones\n\nDo bilingual children suffer from speech delays?\n\n## The Scientific Reality:\n- **Milestones are Identical:** Bilingual infants coo, babble, say their first words, and produce two-word combinations at the exact same developmental ages as monolinguals.\n- **Total Conceptual Vocabulary:** A bilingual child's vocabulary in Language A may be slightly smaller than a monolingual peer, but their **total conceptual vocabulary across both languages combined** equals or exceeds monolingual peers!\n- **Code-Mixing:** Mixing words from both languages in early sentences is a natural, creative linguistic tool, not a sign of confusion."
+        },
+        {
+            "id": "langdev_stages_quiz_4",
+            "type": "quiz",
+            "title": "Environmental & Bilingual Stages Check",
+            "content": "Verify your understanding of screen-time learning limits and bilingual milestones!",
+            "quizQuestion": "In Patricia Kuhl's 2003 experiments on infant language learning, why did 9-month-old infants successfully learn Mandarin phonemes from live in-person speakers but show zero learning from identical high-definition video recordings?",
+            "quizOptions": [
+                "The video cameras produced auditory distortion",
+                "Infant brain wiring requires social contingency, shared gaze, and live human interaction to tune phonemic maps (the Video Deficit Effect)",
+                "Infants are born with a genetic aversion to technology",
+                "Video viewing causes instant synaptic pruning in the retina"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "langdev_stages_13",
+            "type": "content",
+            "title": "Promoting Early Language: Practical Protocols",
+            "content": "# Evidence-Based Strategies to Boost Child Language\n\nHow can caregivers optimize linguistic environments?\n\n## Proven Techniques:\n1. **Dialogic Reading (Grover Whitehurst):** Asking open-ended questions during shared picture-book reading (*\"What do you think will happen next?\"*), expanding children's answers, and praising contributions.\n2. **Expansion and Recasting:** Expanding incomplete child utterances with correct grammar (*\"Dog run!\"* -> *\"Yes, the dog is running fast down the street!\"*).\n3. **Follow the Child's Lead:** Talk about what the child is currently looking at or touching (exploiting joint attention) rather than forcing topic shifts."
+        },
+        {
+            "id": "langdev_stages_14",
+            "type": "content",
+            "title": "Linguistic Diversity and Dialects",
+            "content": "# Linguistic Diversity: Dialects vs. Deficits\n\nLinguists emphasize that regional and cultural dialects (e.g., African American English [AAE], Appalachian English) are **not defective language**:\n- They are rule-governed, systematic linguistic varieties with intricate grammatical syntax (e.g., the habitual \"be\" in AAE: *\"He be working\"* communicates ongoing habitual action distinct from present activity).\n- Effective educational pedagogy practices **bidialectal code-switching**, teaching children when to use home dialects and when to deploy standard academic English."
+        },
+        {
+            "id": "langdev_stages_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Stages of Language Development\n\n## Core Principles Mastered:\n\n### 1. Prelinguistic Milestones\n- Cooing (2-4m), Babbling (6-10m), Proto-declarative pointing (10-12m).\n\n### 2. The Lexical and Grammatical Surge\n- First words at 12m; naming explosion at 18m driven by fast-mapping; telegraphic speech (18-24m).\n- Wug Test proved generative morphological internalization.\n\n### 3. Pragmatics & Metalinguistics\n- Conversational turn-taking and story grammar; metalinguistic humor and phonological awareness at age 6-7.\n\n### 4. Environmental & Social Constraints\n- Conversational turn-taking quality matters more than raw word quantity.\n- Video Deficit Effect: Live social interaction is mandatory for early speech tuning.\n\n> **Up Next:** Explore the theoretical debates on language acquisition in **Theories of Language Development**!"
+        }
+    ]
+}

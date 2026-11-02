@@ -1,0 +1,155 @@
+{
+    "id": "learn_consumer_behavior",
+    "topicId": "consumer_behavior",
+    "topicTitle": "Consumer Behavior",
+    "description": "Examine the psychological and behavioral processes governing consumer choice, analyzing decision-making models, brand equity, behavioral pricing heuristics, and social proof.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "consumer_behavior_1",
+            "type": "content",
+            "title": "The Mind of the Shopper: Consumer Behavior",
+            "content": "# The Science of Consumer Choice\n\nEvery day, human beings make hundreds of commercial decisions: what coffee to brew, what car to buy, what media to subscribe to. Consumer Psychology investigates the cognitive, affective, and social factors that govern how individuals **select, purchase, use, and dispose** of products and services.\n\n```\n                             [THE CONSUMER PSYCHOLOGY MATRIX]\n                                            |\n         +----------------------------------+----------------------------------+\n         |                                                                     |\n   [DECISION-MAKING & HEURISTICS]                                [BRAND PERCEPTION & SOCIAL PROOF]\n   - The 5-Stage Consumer Decision Model (EBM)                   - Aaker's Brand Equity & Self-Congruity\n   - System 1 (Intuitive) vs. System 2 (Deliberate) Choice       - Social Proof & Herd Behavior in Reviews\n   - Behavioral Economics & Decoy Effects                        - The Endowed Progress Effect & Loyalty\n```"
+        },
+        {
+            "id": "consumer_behavior_2",
+            "type": "content",
+            "title": "The 5-Stage Consumer Decision-Making Process",
+            "content": "# The EBM Model of Consumer Decision-Making\n\nEngel, Blackwell, and Miniard established that consumer choice follows a sequential cognitive journey:\n\n```\n   [1. PROBLEM / NEED RECOGNITION] --> Difference between actual state and desired state\n                                       ignited by internal hunger or external advertising.\n            |\n            v\n   [2. INFORMATION SEARCH]         --> Internal memory search (past brands) followed by\n                                       external search (Google, reviews, peers).\n            |\n            v\n   [3. EVALUATION OF ALTERNATIVES] --> Comparing the \"Consideration Set\" of brands on key\n                                       evaluative criteria (price, quality, status).\n            |\n            v\n   [4. PURCHASE DECISION]          --> Executing the transaction (influenced by retail environment).\n            |\n            v\n   [5. POST-PURCHASE EVALUATION]   --> Assessing satisfaction vs. Cognitive Dissonance (Buyer's Remorse)!\n```"
+        },
+        {
+            "id": "consumer_behavior_3",
+            "type": "content",
+            "title": "System 1 vs. System 2 in Purchasing Decisions",
+            "content": "# Daniel Kahneman: Fast and Slow Shopping\n\nDual-process cognitive theory dictates how consumers evaluate commercial products:\n\n```\n   SYSTEM 1 (Fast, Automatic, Heuristic)         SYSTEM 2 (Slow, Deliberate, Analytical)\n   +---------------------------------------+     +----------------------------------------+\n   - Low-Involvement everyday purchases.   |     - High-Involvement major purchases.      |\n   - Candy, chewing gum, coffee, soap.     |     - Houses, automobiles, college tuition.  |\n   - Driven by visual packaging, color,    |     - Scrutinizes technical specifications,  |\n     brand familiarity, and impulse craving|       warranties, and long-term financing.   |\n   - 85% OF ALL IN-STORE PURCHASES!        |     - High cognitive glucose expenditure!    |\n   +---------------------------------------+     +----------------------------------------+\n```\n\nRetailers optimize sales by maximizing **Cognitive Ease** (simple menus, clean pricing), keeping shoppers in frictionless System 1 mode."
+        },
+        {
+            "id": "consumer_behavior_4",
+            "type": "content",
+            "title": "David Aaker's Brand Equity Framework (1991)",
+            "content": "# The Psychology of Brands: Brand Equity\n\nA brand is not merely a logo; it is a complex cognitive associative network stored in long-term semantic memory. David Aaker mapped the **Pillars of Brand Equity**:\n\n```\n                                [AAKER'S BRAND EQUITY]\n                                          |\n         +-------------------+------------+------------+-------------------+\n         |                   |                         |                   |\n   [BRAND AWARENESS]   [PERCEIVED QUALITY]       [BRAND ASSOCIATIONS]  [BRAND LOYALTY]\n   Top-of-mind recall; Expected performance     Emotional and symbolic Unshakable repeat\n   familiarity builds  and craftsmanship         meanings attached to   purchases; resistance\n   automatic trust.    superiority.              the brand (Apple=Cool) to competitor deals.\n```\n\nStrong brand equity allows companies to command massive price premiums over physically identical generic products!"
+        },
+        {
+            "id": "consumer_behavior_quiz_1",
+            "type": "quiz",
+            "title": "Decision Process & Brand Equity Check",
+            "content": "Verify your understanding of consumer decision models and brand equity!",
+            "quizQuestion": "In the Engel, Blackwell, and Miniard (EBM) model of consumer decision-making, what is the final critical stage that determines whether a customer becomes a loyal repeat buyer or seeks refunds?",
+            "quizOptions": [
+                "Information search",
+                "Post-Purchase Evaluation (assessing satisfaction versus cognitive dissonance/buyer's remorse)",
+                "Need recognition",
+                "Product disposal in the trash"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_behavior_5",
+            "type": "content",
+            "title": "Self-Congruity Theory: M. Joseph Sirgy (1982)",
+            "content": "# We Buy Who We Are: Self-Congruity Theory\n\nWhy do motorcycle riders tattoo the Harley-Davidson logo onto their skin? M. Joseph Sirgy formulated **Self-Congruity Theory**:\n\nConsumers evaluate brands by comparing the **Brand Personality** to their own **Self-Concept**:\n\n```\n   1. ACTUAL SELF-CONGRUITY:   \"This brand matches who I truly am right now.\"\n                               (e.g., Practical boots matching practical identity).\n   2. IDEAL SELF-CONGRUITY:    \"This brand represents who I ASPIRINGLY long to become!\"\n                               (e.g., Luxury watch signifying executive elite status).\n   3. SOCIAL SELF-CONGRUITY:   \"This brand communicates my social prestige to my peers.\"\n```\n\nWhen a product mirrors a consumer's ideal identity, purchasing becomes an act of self-affirmation."
+        },
+        {
+            "id": "consumer_behavior_6",
+            "type": "content",
+            "title": "Social Proof & The Wisdom of the Crowd in Choice",
+            "content": "# The Power of Others: Social Proof in E-Commerce\n\nIn online shopping (Amazon, TripAdvisor), consumers are confronted with thousands of unknown sellers. **Social Proof** acts as the primary risk-mitigation heuristic:\n\n- **Star Ratings vs. Review Volume (Flanagin et al., 2014):** A 4.3-star product with 12,000 reviews outsells a 5.0-star product with only 3 reviews! High review volume signals safety in numbers.\n- **The Bestseller Effect:** Displaying a \"#1 Best Seller\" banner automatically boosts sales by **20% to 30%** purely through normative social proof.\n- **User-Generated Imagery:** Photos posted by real everyday customers generate **5 times higher conversion rates** than polished corporate studio photography."
+        },
+        {
+            "id": "consumer_behavior_7",
+            "type": "content",
+            "title": "Behavioral Pricing: The Decoy Effect (Dan Ariely)",
+            "content": "# Dan Ariely: The Economist Subscription Experiment\n\nIn *Predictably Irrational*, Dan Ariely presented MIT students with subscription options for *The Economist* magazine:\n\n```\n   TRIAL 1 (WITH DECOY PRESENT):                      TRIAL 2 (WITHOUT DECOY): \n   - Web Subscription:        $59   (16% picked)      - Web Subscription:        $59   (68% PICKED!)\n   - Print Subscription:      $125  (0% picked)       - Print + Web Bundle:      $125  (32% picked)\n   - Print + Web Bundle:      $125  (84% PICKED!)\n```\n\n## The Asymmetric Dominance (Decoy) Effect:\nOption B (Print alone for $125) is a useless **Decoy** that nobody wants. Its only psychological function is to make Option C (Print + Web for $125) look like an astonishing bargain, quadrupling corporate revenue!"
+        },
+        {
+            "id": "consumer_behavior_quiz_2",
+            "type": "quiz",
+            "title": "Self-Congruity & Pricing Heuristics Check",
+            "content": "Verify your understanding of self-congruity and the decoy effect!",
+            "quizQuestion": "In behavioral pricing experiments popularized by Dan Ariely (the Decoy Effect), what is the strategic purpose of introducing an inferior 'decoy' option that nobody buys?",
+            "quizOptions": [
+                "To confuse the customer so much that they leave the website",
+                "To make the target premium option look like an extraordinary bargain by comparison, shifting majority choice toward the higher-priced item",
+                "To comply with federal truth-in-advertising statutes",
+                "To test the server's database capacity"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_behavior_8",
+            "type": "content",
+            "title": "Richard Thaler's Mental Accounting (1985, 1999)",
+            "content": "# Nobel Laureate Richard Thaler: Mental Accounting\n\nNeoclassical economics assumes money is completely fungible (a dollar is a dollar). Richard Thaler proved that **humans organize money into distinct, irrational mental accounts**:\n\n```\n   MENTAL ACCOUNT CATEGORIES IN THE HUMAN BRAIN:\n   - \"Hard-Earned Salary Account\" --> Guarded fiercely; spent with extreme caution.\n   - \"Windfall / Gift Account\"     --> Casino winnings, tax refunds; spent recklessly on luxuries!\n   - \"Vacation Account\"          --> Spending $12 on a bottle of water in a resort feels fine!\n```\n\n## Transaction Utility vs. Acquisition Utility:\n- **Acquisition Utility:** The objective value of the product minus its price.\n- **Transaction Utility:** The psychological joy of getting a \"deal\" (*\"It was marked down from $200 to $100!\"*), driving people to buy items they will never use!"
+        },
+        {
+            "id": "consumer_behavior_9",
+            "type": "content",
+            "title": "The Endowed Progress Effect: Loyalty Programs",
+            "content": "# Joseph Nunes & Xavier Dr\u00e8ze: The Car Wash Study (2006)\n\nHow do you get customers to complete a loyalty stamp card?\n\nResearchers handed out 300 car wash loyalty stamp cards:\n\n```\n   CARD A: Requires 8 stamps to get a free wash (Given with 0 stamps pre-punched).\n   CARD B: Requires 10 stamps to get a free wash (Given with 2 STAMPS ALREADY PRE-PUNCHED!).\n```\n\n## The Mathematical Reality:\nBoth cards require the customer to purchase **EXACTLY 8 MORE CAR WASHES**!\n\n## The Psychological Reality (The Endowed Progress Effect):\n- Card A Completion Rate: **19%**.\n- Card B Completion Rate: **34% (Nearly DOUBLE the completion rate!)**.\n- Customers perceived that they had already begun the journey (artificial head start), activating the goal-gradient hypothesis and motivating rapid completion!"
+        },
+        {
+            "id": "consumer_behavior_10",
+            "type": "content",
+            "title": "Buyer's Remorse & Post-Purchase Dissonance",
+            "content": "# The Post-Purchase Hangover: Buyer's Remorse\n\nImmediately after making a major financial purchase (a new car, real estate, expensive jewelry), consumers experience acute **Post-Purchase Dissonance**:\n\n```\n   [PURCHASE COMPLETED] ---> \"Did I spend too much? Should I have chosen the other car?\"\n                                       |\n                                       v\n                          [ACUTE PSYCHOLOGICAL ANXIETY]\n                                       |\n         +-----------------------------+-----------------------------+\n         |                                                           |\n   [PROACTIVE DEALER REASSURANCE]                              [PRODUCT RETURN & CANCELLATION]\n   Confirmation emails, welcome gift,                          Customer panics, returns item,\n   reinforcing decision wisdom.                                leaves furious 1-star review.\n```\n\nLeading brands send congratulatory onboarding messages immediately after purchase to quell anxiety and solidify loyalty."
+        },
+        {
+            "id": "consumer_behavior_quiz_3",
+            "type": "quiz",
+            "title": "Mental Accounting & Loyalty Check",
+            "content": "Verify your understanding of mental accounting and the endowed progress effect!",
+            "quizQuestion": "In Nunes and Dr\u00e8ze's (2006) car wash experiment on the 'Endowed Progress Effect', why did giving customers a 10-stamp card with 2 pre-punched stamps nearly double loyalty completion rates compared to an 8-stamp card with zero stamps?",
+            "quizOptions": [
+                "Because 10 stamps gave customers two free automobiles",
+                "Because pre-stamped progress provided an illusion of momentum toward the goal, activating the goal-gradient motivation to complete the remaining tasks",
+                "Because customers were paid cash bonuses for every stamp",
+                "Because the car wash workers threatened customers"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_behavior_11",
+            "type": "content",
+            "title": "Retail Architecture & In-Store Psychology",
+            "content": "# Paco Underhill: The Science of Shopping\n\nPaco Underhill pioneered observational retail ethnography, discovering subconscious architectural rules:\n\n- **The Decompression Zone:** The first 10-15 feet inside a store entrance. Shoppers are adjusting to lighting and music and ignore all displays. Retailers place promotions deeper in the store!\n- **The Right-Turn Bias:** Over 90% of shoppers naturally turn to the right upon entering a store. The premier high-margin merchandise is placed in the **\"Power Wall\"** to the immediate right!\n- **The Butt-Brush Effect:** If a shopper's backside is brushed by a passerby while examining a rack, they immediately abandon the item and leave the aisle!"
+        },
+        {
+            "id": "consumer_behavior_12",
+            "type": "content",
+            "title": "Sustainable & Conscious Consumerism",
+            "content": "# The Rise of the Ethical Consumer\n\nModern consumers increasingly weigh environmental and ethical practices in purchasing:\n\n## The Attitude-Behavior Gap in Green Consumerism:\n- While 75% of consumers report in surveys that they care about sustainability, fewer than **20% consistently buy green products** when price premiums exceed 10%!\n- **Overcoming the Gap:** Green products succeed when they provide superior performance and convenience alongside environmental benefits (e.g., Tesla combining high performance with zero emissions)."
+        },
+        {
+            "id": "consumer_behavior_quiz_4",
+            "type": "quiz",
+            "title": "Retail Architecture Check",
+            "content": "Verify your understanding of retail environmental psychology!",
+            "quizQuestion": "In retail anthropology (Paco Underhill), why do successful department stores avoid placing high-margin promotional displays in the 'Decompression Zone' (the first 10-15 feet inside the entrance)?",
+            "quizOptions": [
+                "Because it is legally designated as a fire escape",
+                "Because shoppers entering the store are adjusting to interior lighting, crowd pace, and orientation, and subconsciously overlook all merchandise in that zone",
+                "Because security guards use that space for physical training",
+                "Because the floor is usually wet"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "consumer_behavior_13",
+            "type": "content",
+            "title": "Digital E-Commerce Psychology: Scarcity & Urgency",
+            "content": "# Algorithmic Urgency in E-Commerce\n\nModern e-commerce platforms deploy cognitive behavioral triggers:\n\n- **Artificial Scarcity:** *\"Only 2 hotel rooms left!\"* triggers acute loss aversion and competitive arousal.\n- **Temporal Countdown Timers:** A ticking red timer triggers adrenaline, shutting down System 2 analytical comparison shopping.\n- **Abandoned Cart Retargeting:** Sending an email 2 hours later (*\"Did you forget something?\"*) with a 5% discount converts over 20% of lost shoppers."
+        },
+        {
+            "id": "consumer_behavior_14",
+            "type": "content",
+            "title": "Comprehensive Consumer Behavior Matrix",
+            "content": "# Theoretical Architecture of Consumer Psychology\n\n| Theoretical Domain | Key Pioneers | Core Consumer Principle |\n|---|---|---|\n| **Decision Process** | Engel, Blackwell, Miniard | 5 sequential stages from Need to Post-Purchase. |\n| **Dual-Process Choice** | Daniel Kahneman (2011) | System 1 impulse heuristics vs System 2 scrutiny. |\n| **Brand Equity** | David Aaker (1991) | Awareness, Perceived Quality, Associations, Loyalty. |\n| **Decoy Pricing** | Dan Ariely (2008) | Asymmetric dominance shifts choice to premium target. |\n| **Mental Accounting** | Richard Thaler (1985) | Money categorized into irrational mental accounts. |\n| **Loyalty Acceleration** | Nunes & Dr\u00e8ze (2006) | Endowed progress effect doubles task completion. |"
+        },
+        {
+            "id": "consumer_behavior_15",
+            "type": "content",
+            "title": "Module Synthesis: Consumer Behavior",
+            "content": "# Key Takeaways: Consumer Behavior\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Commercial Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Brand Equity          | David Aaker (1991)          | Brands act as cognitive trust     |\n|                       |                             | shortcuts, commanding premiums.   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Decoy Effect          | Dan Ariely (2008)           | Asymmetric decoys alter preference|\n|                       |                             | between two competing options.    |\n+-----------------------+-----------------------------+-----------------------------------+\n| Mental Accounting     | Richard Thaler (1985)       | Humans irrationally separate money|\n|                       |                             | into non-fungible accounts.       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Endowed Progress      | Nunes & Dr\u00e8ze (2006)        | Artificial head starts double     |\n|                       |                             | loyalty card completion rates.    |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nConsumer choice is rarely a cold economic calculation. True consumer resonance occurs when brands satisfy practical needs while aligning with identity, reducing cognitive friction, and delivering emotional delight."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_sc_self",
+    "topicId": "sc_self",
+    "topicTitle": "The Social Self",
+    "description": "Examine the social architecture of the self, analyzing self-concept and self-esteem, Henri Tajfel's Social Identity Theory, Erving Goffman's impression management, and self-fulfilling prophecies.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "sc_self_1",
+            "type": "content",
+            "title": "The Self as a Social Construction",
+            "content": "# The Social Self\n\nWho are you? William James (1890) famously divided the self into two complementary facets:\n\n## The \"I\" and the \"Me\":\n- **The \"I\" (The Knower / Subject):** The active, subjective stream of conscious awareness experiencing the present moment.\n- **The \"Me\" (The Known / Object):** The accumulated descriptive library of attributes, identities, roles, memories, and physical possessions that you identify as *\"myself\"*.\n\n## The Social Mirror:\n- The human self does not develop in solitary confinement.\n- Charles Horton Cooley (1902) formulated the **Looking-Glass Self**: our sense of self is a reflection of how we imagine others perceive and judge us (*\"I am not who you think I am; I am not who I think I am; I am who I think you think I am\"*)."
+        },
+        {
+            "id": "sc_self_2",
+            "type": "content",
+            "title": "Self-Concept, Self-Esteem, and Self-Efficacy",
+            "content": "# Deconstructing the Triad of the Self\n\nPsychologists distinguish three distinct pillars of selfhood:\n\n1. **Self-Concept (Cognitive Content):** The descriptive knowledge structure of personal beliefs, traits, roles, and values (*\"I am a female psychology major who loves distance running\"*).\n2. **Self-Esteem (Affective Evaluation):** The overall emotional evaluation of one's personal worth and value (*\"I feel proud and satisfied with who I am\"*).\n3. **Self-Efficacy (Albert Bandura):** One's belief in their capability to execute the specific behaviors necessary to produce designated performance attainments (*\"I am confident I can pass this calculus exam\"*)."
+        },
+        {
+            "id": "sc_self_3",
+            "type": "content",
+            "title": "Social Identity Theory (Henri Tajfel & John Turner)",
+            "content": "# Social Identity Theory (SIT)\n\nHenri Tajfel and John Turner (1979) proved that an individual's self-concept is not composed solely of personal idiosyncratic traits. A massive portion of self-worth derives from **Social Identity**:\n\n```\nTotal Self-Concept = [Personal Identity: My individual traits, humor, abilities]\n                                      +\n                     [Social Identity: My group memberships, nationality, sports team, ethnicity]\n```\n\n## The Minimal Group Paradigm (Tajfel, 1971):\n- British schoolboys were assigned to arbitrary groups based on trivial criteria (guessing dots on a screen or preferring abstract paintings by Klee vs. Kandinsky).\n- Boys never met group members and gained no personal profit.\n- **Finding:** Boys systematically allocated significantly more monetary rewards to **in-group members** while actively penalizing the **out-group**!\n- Proved that mere arbitrary categorization triggers automatic **In-Group Favoritism** to boost collective self-esteem."
+        },
+        {
+            "id": "sc_self_quiz_1",
+            "type": "quiz",
+            "title": "Social Identity & Self Triad Check",
+            "content": "Verify your understanding of self constructs and Tajfel's Social Identity Theory!",
+            "quizQuestion": "In Henri Tajfel's Minimal Group Paradigm experiments, what minimal condition was required to trigger significant in-group favoritism and discrimination against out-group members?",
+            "quizOptions": [
+                "A history of violent real-world conflict over economic resources",
+                "Arbitrary, meaningless categorization into groups based on coin flips or painting preferences",
+                "Explicit instructions from a male authority figure",
+                "The presence of a disorganized attachment style"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_self_4",
+            "type": "content",
+            "title": "Social Comparison Theory: Leon Festinger (1954)",
+            "content": "# Social Comparison Theory\n\nHow do we evaluate our own abilities, attractiveness, and intelligence when objective physical standards are unavailable?\n\n## Festinger's Two Principles:\n1. When objective criteria are absent, people evaluate themselves by comparing themselves against others.\n2. People prefer to compare themselves against **similar peers**.\n\n## Direction of Comparison:\n\n```\n[UPWARD SOCIAL COMPARISON]   ---> Comparing yourself against someone superior in a domain.\n                                  - Pro: Inspires goals and improvement.\n                                  - Con: Can trigger acute feelings of inferiority, envy, and despair.\n\n[DOWNWARD SOCIAL COMPARISON] ---> Comparing yourself against someone worse off.\n                                  - Defensive function: Elevates immediate self-esteem (*\"At least I'm not that bad!\"*).\n```"
+        },
+        {
+            "id": "sc_self_5",
+            "type": "content",
+            "title": "Self-Evaluation Maintenance (Abraham Tesser)",
+            "content": "# Tesser's Self-Evaluation Maintenance (SEM) Model\n\nWhat happens when your best friend wins a prestigious award?\n\n## The Interplay of Closeness, Performance, and Relevance:\n- **If the domain is NOT relevant to your self-definition:** You bask in their reflected glory (**Basking in Reflected Glory / BIRGing**; feeling pride for your friend!).\n- **If the domain IS deeply relevant to your own identity:** Your self-esteem is severely threatened!\n\n## Three Ways to Protect Threatened Self-Esteem in SEM:\n1. **Distance yourself from the friend:** Stop hanging out together.\n2. **Devalue the domain:** *\"That prize doesn't really matter anyway.\"*\n3. **Improve your own performance** or actively sabotage their future efforts!"
+        },
+        {
+            "id": "sc_self_6",
+            "type": "content",
+            "title": "Dramaturgical Perspective: Erving Goffman (1959)",
+            "content": "# Erving Goffman: The Presentation of Self\n\nIn *The Presentation of Self in Everyday Life*, sociologist Erving Goffman used theatrical dramaturgical metaphors to analyze human interaction:\n\n## The World as a Stage:\n- Human beings are actors on a stage executing **Impression Management** to control the impressions others form of them.\n\n## Front Stage vs. Back Stage:\n- **Front Stage:** Where the performance is given before an audience; actors adhere to social etiquette, polite scripts, professional uniforms, and polished smiles.\n- **Back Stage:** The private sanctuary where the audience cannot see; actors drop their masks, swear, relax, rehearse lines, and confess true feelings."
+        },
+        {
+            "id": "sc_self_quiz_2",
+            "type": "quiz",
+            "title": "Social Comparison & Dramaturgy Check",
+            "content": "Evaluate your understanding of social comparison directions and Goffman's front/back stage!",
+            "quizQuestion": "In Erving Goffman's dramaturgical sociology, what is the 'Back Stage'?",
+            "quizOptions": [
+                "The public arena where formal performances are delivered to societal audiences",
+                "The private sanctuary hidden from the audience where individuals can drop their social masks, express authentic emotions, and step out of character",
+                "The neural substrate of the anterior insula",
+                "A formal operational logic test"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_self_7",
+            "type": "content",
+            "title": "Self-Monitoring (Mark Snyder)",
+            "content": "# Mark Snyder's Self-Monitoring Scale\n\nDo all people manage impressions equally? Mark Snyder identified marked individual differences in **Self-Monitoring**:\n\n| High Self-Monitors (Social Chameleons) | Low Self-Monitors (principled / Consistent) |\n|---|---|---|\n| Constantly scan the social environment for cues about what behavior is expected. | Guide behavior by internal values, true beliefs, and personal dispositions. |\n| Readily adapt behavior to match different crowds (*\"Who does this situation want me to be?\"*). | Consistent across all situations (*\"I am who I am, take it or leave it\"*). |\n| Have diverse, separate friend groups for different activities. | Have a small, tight group of friends who share their core beliefs. |\n| Skilled at deception, acting, and political diplomacy. | Honest, authentic, but can be viewed as socially tactless or blunt. |"
+        },
+        {
+            "id": "sc_self_8",
+            "type": "content",
+            "title": "Self-Handicapping (Berglas & Jones, 1978)",
+            "content": "# Self-Handicapping: Pre-Emptive Excuses\n\n**Self-handicapping** is the bizarre behavior of deliberately creating obstacles to one's own performance to protect self-esteem in case of failure!\n\n## The Classic Experiment:\n- Participants took an insoluble, impossible test, but were falsely told they had scored in the 99th percentile.\n- They were told they must take a second test, but were offered a choice between two performance drugs:\n  * Drug 1 (Activil): Enhances intellectual performance.\n  * Drug 2 (Pandocrin): Impairs intellectual performance.\n- **Finding:** Participants overwhelmingly chose the **impairing drug (Pandocrin)**!\n\n## The Win-Win Ego Defense:\n- If they fail the second test: *\"It wasn't my fault; the drug made me groggy!\"* (**Discounting failure**).\n- If they somehow succeed: *\"I must be a genius to pass even while drugged!\"* (**Augmenting success**)."
+        },
+        {
+            "id": "sc_self_9",
+            "type": "content",
+            "title": "Self-Fulfilling Prophecies: The Pygmalion Effect",
+            "content": "# The Pygmalion in the Classroom Experiment (Rosenthal & Jacobson, 1968)\n\nCan teachers' expectations literally alter children's biological intelligence?\n\n## The Experiment:\n- Elementary students took an ordinary IQ test. Experimenters falsely informed teachers that 20% of students were on the verge of an imminent intellectual \"growth spurt\" (**The Bloomers**).\n- The \"Bloomers\" were chosen **completely at random by coin toss**!\n\n## The Outcome One Year Later:\n- The randomly labeled \"Bloomers\" demonstrated **dramatic, statistically significant IQ score gains** relative to control classmates!\n\n## The Mechanism of the Self-Fulfilling Prophecy:\n\n```\n[Teacher Expects Bloomer Growth] ---> Creates warmer climate, gives more feedback, teaches more material\n                                                 |\n                                                 v\n[Student Senses Warmth & Challenge] ---> Works harder, gains confidence, internalizes academic identity\n                                                 |\n                                                 v\n                       [ACTUAL INTELLECTUAL IQ GAINS CONFIRM PREDICTION!]\n```"
+        },
+        {
+            "id": "sc_self_quiz_3",
+            "type": "quiz",
+            "title": "Self-Monitoring & Pygmalion Check",
+            "content": "Test your mastery of self-handicapping and Rosenthal's Pygmalion experiment!",
+            "quizQuestion": "In Rosenthal and Jacobson's landmark 1968 Pygmalion experiment, why did randomly chosen elementary school students exhibit real, measurable IQ score gains over the course of a school year?",
+            "quizOptions": [
+                "They were given daily caffeine and smart drugs",
+                "Teachers' false positive expectations created a self-fulfilling prophecy by altering their teaching behavior, warmth, and instructional rigor toward those students",
+                "The students possessed the low-activity MAOA gene",
+                "The students were bilingual"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sc_self_10",
+            "type": "content",
+            "title": "Independent vs. Interdependent Self-Construals (Markus & Kitayama)",
+            "content": "# Cultural Self-Construals (Hazel Markus & Shinobu Kitayama, 1991)\n\nCulture sculpts the very architecture of the self:\n\n```\nINDEPENDENT SELF-CONSTRUAL (Western / Individualist):   INTERDEPENDENT SELF-CONSTRUAL (East Asian / Collectivist):\n      +-------------+                                         +-------------+\n      |   [ SELF ]  |                                         |   [ SELF ]  |\n      | Autonomous, | <--- Distinct boundary separates       | Embedded in | <--- Fluid, overlapping boundaries\n      | Unique,     |      self from others                   | Community,  |      connected to social roles\n      | Stable      |                                         | Harmony     |\n      +-------------+                                         +-------------+\n```\n\n## Fundamental Psychological Divergences:\n- **Independent:** Self-esteem derives from personal uniqueness, beating competition, and asserting rights.\n- **Interdependent:** Self-esteem derives from fulfilling social obligations, fitting in, and preserving relational harmony."
+        },
+        {
+            "id": "sc_self_11",
+            "type": "content",
+            "title": "Self-Discrepancy Theory (E. Tory Higgins)",
+            "content": "# Self-Discrepancy Theory\n\nE. Tory Higgins proposed that emotional distress arises from mismatches between different representations of the self:\n\n## The Three Selves:\n1. **The Actual Self:** Who you believe you currently are.\n2. **The Ideal Self:** Who you would ideally like to be (hopes, dreams, aspirations).\n3. **The Ought Self:** Who you feel you should or have a duty to be (obligations, responsibilities).\n\n## Emotional Consequences of Discrepancies:\n- **Actual-Ideal Discrepancy:** Fails to achieve aspirations -> Triggers **Dejection-Related Emotions** (sadness, disappointment, depression).\n- **Actual-Ought Discrepancy:** Fails to fulfill duties -> Triggers **Agitation-Related Emotions** (guilt, anxiety, fear, panic)."
+        },
+        {
+            "id": "sc_self_12",
+            "type": "content",
+            "title": "Sociometer Theory of Self-Esteem (Mark Leary)",
+            "content": "# Sociometer Theory (Mark Leary)\n\nWhat is the evolutionary function of self-esteem? Why do humans care so obsessively about how they feel about themselves?\n\n## The Fuel Gauge Metaphor:\n- Mark Leary argued that self-esteem is NOT an internal goal in itself.\n- Self-esteem is a **sociometer**\u2014an internal psychological gauge that monitors the degree to which an individual is socially included, accepted, or rejected by other people!\n\n## Evolutionary Logic:\n- For ancestral humans, social exclusion from the tribe meant certain death.\n- When social rejection looms, the sociometer drops, triggering the painful visceral alarm of low self-esteem, which compels the individual to repair social bonds!"
+        },
+        {
+            "id": "sc_self_quiz_4",
+            "type": "quiz",
+            "title": "Self-Discrepancy & Sociometer Check",
+            "content": "Verify your understanding of Higgins' discrepancies and Leary's Sociometer Theory!",
+            "quizQuestion": "In Mark Leary's Sociometer Theory, what is the primary evolutionary function of self-esteem?",
+            "quizOptions": [
+                "It serves as an internal biological fuel gauge that monitors an individual's degree of social inclusion and acceptance by the peer group",
+                "It directly triggers myelination in the primary motor strip",
+                "It serves to enforce postformal dialectical thought",
+                "It eliminates the need for working memory during speech"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "sc_self_13",
+            "type": "content",
+            "title": "Narcissism and Fragile Self-Esteem",
+            "content": "# High Self-Esteem vs. Narcissism\n\nFor decades, educational movements assumed that elevating self-esteem was a cure-all for societal ills. Roy Baumeister proved this assumption was dangerously flawed:\n\n## Secure vs. Fragile Self-Esteem:\n- **Secure Self-Esteem:** Grounded in authentic competence and stable self-acceptance; does not require constant external validation.\n- **Fragile High Self-Esteem (Narcissism):** Grandiose, defensive, and entitled; relies on dominating others.\n- **Threatened Egotism (Baumeister et al.):** When a narcissist's grandiose self-image is punctured by criticism or insults, they respond with explosive, hostile aggression!"
+        },
+        {
+            "id": "sc_self_14",
+            "type": "content",
+            "title": "Self-Compassion: Kristin Neff",
+            "content": "# Self-Compassion vs. Self-Esteem (Kristin Neff)\n\nKristin Neff introduced **Self-Compassion** as a healthier, more resilient alternative to the endless quest for high self-esteem:\n\n## The Three Pillars of Self-Compassion:\n1. **Self-Kindness vs. Self-Judgment:** Treating oneself with gentleness and understanding when suffering or failing, rather than harsh self-criticism.\n2. **Common Humanity vs. Isolation:** Recognizing that suffering, flaws, and failure are part of the shared human condition, rather than feeling uniquely defective.\n3. **Mindfulness vs. Over-Identification:** Holding painful emotions in balanced awareness without exaggerating or suppressing them."
+        },
+        {
+            "id": "sc_self_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: The Social Self\n\n## Core Principles Mastered:\n\n### 1. The Socially Constructed Self\n- James's \"I\" vs. \"Me\"; Cooley's Looking-Glass Self.\n- Triad of Self-Concept (cognitive), Self-Esteem (affective), and Self-Efficacy (Bandura).\n\n### 2. Social Identity & Comparison\n- Tajfel's Social Identity Theory and Minimal Group Paradigm (in-group favoritism).\n- Festinger's Upward (inspiring/depressing) and Downward (defensive) social comparison.\n\n### 3. Presentation & Expectations\n- Goffman's Dramaturgy (Front vs. Back Stage); Snyder's Self-Monitoring.\n- Self-Handicapping as an ego defense; Rosenthal's Pygmalion self-fulfilling prophecy.\n\n### 4. Cultural & Evaluative Models\n- Independent vs. Interdependent self-construals (Markus & Kitayama).\n- Higgins' Self-Discrepancy Theory; Leary's Sociometer; Neff's Self-Compassion.\n\n> **Congratulations!** You have completed the entire **Social Cognition** course! You are now prepared to explore **Group Processes**!"
+        }
+    ]
+}

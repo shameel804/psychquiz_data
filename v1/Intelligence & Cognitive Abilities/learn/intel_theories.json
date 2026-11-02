@@ -1,0 +1,155 @@
+{
+    "id": "learn_intel_theories",
+    "topicId": "intel_theories",
+    "topicTitle": "Theories of Intelligence",
+    "description": "Examine major cognitive and psychometric theories of human intelligence, analyzing Spearman's g factor, Gardner's multiple intelligences, Sternberg's triarchic model, and emotional intelligence.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "intel_theories_1",
+            "type": "content",
+            "title": "The Nature of Human Intellect",
+            "content": "# The Architecture of Human Intelligence\n\nWhat is **intelligence**? David Wechsler defined it as:\n> *\"The aggregate or global capacity of the individual to act purposefully, to think rationally, and to deal effectively with their environment.\"*\n\nFor over a century, psychologists debated: Is intelligence a **single, unitary general ability**, or is it a collection of **multiple, independent cognitive talents**?\n\n```\n                             [THE THEORETICAL LANDSCAPE OF INTELLECT]\n                                                |\n         +--------------------------------------+--------------------------------------+\n         |                                                                             |\n   [UNITARY PSYCHOMETRIC MODELS]                                 [MULTIDIMENSIONAL & SYSTEMS MODELS]\n   - Spearman's General Factor (g)                               - Gardner's Multiple Intelligences (8 Intelligences)\n   - Cattell-Horn-Carroll (CHC) Gf-Gc Theory                     - Sternberg's Triarchic Theory (Analytical, Creative, Practical)\n   - Parieto-Frontal Integration Theory (P-FIT)                  - Emotional Intelligence (Salovey, Mayer, & Goleman)\n```"
+        },
+        {
+            "id": "intel_theories_2",
+            "type": "content",
+            "title": "Charles Spearman's General Factor: The 'g' Factor (1904)",
+            "content": "# Charles Spearman: The Discovery of 'g'\n\nIn 1904, English psychologist Charles Spearman examined children's academic test scores across vastly different subjects (Latin, Math, Geometry, Pitch Discrimination).\n\n## The Positive Manifold:\nSpearman discovered a universal mathematical reality: **People who score high on one cognitive test tend to score high on all other cognitive tests**, regardless of subject matter!\n\n```\n                                    [GENERAL INTELLIGENCE (g)]\n                                                 |\n         +-------------------+-------------------+-------------------+-------------------+\n         |                   |                   |                   |                   |\n     [Spatial (s1)]     [Verbal (s2)]     [Math (s3)]         [Memory (s4)]       [Logic (s5)]\n```\n\n## Spearman's Two-Factor Theory:\n- **g Factor (General Intelligence):** A shared, global biological mental energy underlying all cognitive operations.\n- **s Factors (Specific Abilities):** Unique skills specific to a particular task (e.g., musical pitch sensitivity)."
+        },
+        {
+            "id": "intel_theories_3",
+            "type": "content",
+            "title": "Cattell & Horn: Fluid vs. Crystallized Intelligence",
+            "content": "# Raymond Cattell & John Horn: Gf vs. Gc\n\nIn 1963, Raymond Cattell deconstructed Spearman's general factor into two distinct, fundamentally different types of intelligence:\n\n```\n   FLUID INTELLIGENCE (Gf)                       CRYSTALLIZED INTELLIGENCE (Gc)\n   +---------------------------------------+     +----------------------------------------+\n   | - Raw, biological, innate capacity.   |     | - Accumulated factual knowledge,       |\n   | - Abstract reasoning, pattern solving,|       vocabulary, skills, and cultural wisdom.|\n   |   rapid working memory processing.    |     | - Acquired through formal schooling    |\n   | - Independent of culture or schooling.|       and life experience.                   |\n   | - PEAKS IN EARLY 20s, THEN DECLINES!  |     | - STEADILY INCREASES ACROSS LIFESPAN!  |\n   +---------------------------------------+     +----------------------------------------+\n```\n\nAn 80-year-old professor has declining Fluid Intelligence (solving novel spatial puzzles slower), but peak Crystallized Intelligence (vast vocabulary, deep semantic knowledge)!"
+        },
+        {
+            "id": "intel_theories_quiz_1",
+            "type": "quiz",
+            "title": "Spearman & Gf-Gc Check",
+            "content": "Verify your understanding of Spearman's g and Cattell's Gf-Gc model!",
+            "quizQuestion": "According to Raymond Cattell and John Horn, how does 'Crystallized Intelligence' (Gc) typically change across the healthy adult lifespan compared to 'Fluid Intelligence' (Gf)?",
+            "quizOptions": [
+                "Crystallized intelligence peaks at age 18 and collapses by age 30",
+                "Crystallized intelligence steadily increases across adulthood through life experience and education, while fluid intelligence peaks in early adulthood and shows gradual decline",
+                "Both fluid and crystallized intelligence remain completely flat with zero change from birth to death",
+                "Crystallized intelligence is found only in newborn infants"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_theories_4",
+            "type": "content",
+            "title": "The Cattell-Horn-Carroll (CHC) Model",
+            "content": "# The Pinnacle of Psychometrics: The CHC Model\n\nToday, the most empirically validated psychometric framework in cognitive science is the **Cattell-Horn-Carroll (CHC) Theory** (McGrew, 2005):\n\n```\n   [STRATUM III: GENERAL ABILITY (g)]  --> The apex: General cognitive power.\n                  ^\n                  |\n   [STRATUM II: BROAD COGNITIVE ABILITIES (~10 Broad Domains)]\n   - Fluid Reasoning (Gf)                - Processing Speed (Gs)\n   - Crystallized Knowledge (Gc)         - Short-Term Working Memory (Gsm)\n   - Visual-Spatial Processing (Gv)      - Long-Term Retrieval (Glr)\n   - Auditory Processing (Ga)            - Quantitative Knowledge (Gq)\n                  ^\n                  |\n   [STRATUM I: NARROW COGNITIVE ABILITIES (~70+ Highly Specific Skills)]\n   - Word reading speed, phonetic coding, memory span, associative memory, visualization.\n```\n\nModern tests like the WAIS-IV and Woodcock-Johnson-IV are structured directly upon CHC theory."
+        },
+        {
+            "id": "intel_theories_5",
+            "type": "content",
+            "title": "Howard Gardner's Theory of Multiple Intelligences (1983)",
+            "content": "# Howard Gardner: Frames of Mind\n\nHarvard psychologist **Howard Gardner** rejected traditional IQ tests as narrow linguistic-mathematical gatekeepers, proposing **Multiple Intelligences (MI)**:\n\n```\n   1. LINGUISTIC:            Mastery of language, rhetoric, poetry, writing (Shakespeare).\n   2. LOGICAL-MATHEMATICAL:  Abstract logical reasoning, mathematics, scientific analysis (Einstein).\n   3. SPATIAL:               Mental visualization, architectural manipulation (Michelangelo).\n   4. MUSICAL:               Rhythmic pitch, tone, compositional sensitivity (Mozart).\n   5. BODILY-KINESTHETIC:    Motor control, athletic dexterity, surgical finesse (Simone Biles).\n   6. INTERPERSONAL:         Empathy, social leadership, understanding others (Martin Luther King Jr.).\n   7. INTRAPERSONAL:         Self-awareness, emotional self-regulation, deep self-knowledge.\n   8. NATURALISTIC:          Recognizing and classifying ecological flora and fauna (Charles Darwin).\n```\n\n*Scientific Critique:* Cognitive psychometricians note that Gardner's intelligences correlate with each other, reflecting underlying g, and represent \"talents\" rather than distinct autonomous intelligences."
+        },
+        {
+            "id": "intel_theories_6",
+            "type": "content",
+            "title": "Robert Sternberg's Triarchic Theory of Intelligence",
+            "content": "# Robert Sternberg: Successful Intelligence (1985)\n\nRobert Sternberg argued that intelligence is the ability to achieve personal success in life within one's sociocultural context through the balance of three faculties: **The Triarchic Theory**:\n\n```\n                                  [TRIARCHIC INTELLIGENCE]\n                                             |\n         +-----------------------------------+-----------------------------------+\n         |                                   |                                   |\n   [ANALYTICAL INTELLIGENCE]           [CREATIVE INTELLIGENCE]             [PRACTICAL INTELLIGENCE]\n   - Componential processing.          - Experiential processing.          - Contextual adaptation.\n   - Academic problem-solving,         - Generating novel solutions;       - \"Street smarts\"; tacit knowledge;\n     analyzing, evaluating, testing.     adapting to unique challenges.      shaping and selecting environments.\n   - Measured by standard IQ tests.    - Synthetic insight and invention.  - Managing everyday life demands.\n```\n\nHigh academic Analytical IQ guarantees nothing in career success without Practical tacit knowledge!"
+        },
+        {
+            "id": "intel_theories_quiz_2",
+            "type": "quiz",
+            "title": "Gardner & Sternberg Check",
+            "content": "Verify your understanding of multiple and triarchic intelligences!",
+            "quizQuestion": "In Robert Sternberg's Triarchic Theory of Intelligence, which component involves applying tacit knowledge and 'street smarts' to navigate everyday environments, manage social challenges, and get things done?",
+            "quizOptions": [
+                "Analytical Intelligence",
+                "Practical Intelligence",
+                "Creative Intelligence",
+                "Bodily-Kinesthetic Intelligence"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_theories_7",
+            "type": "content",
+            "title": "Emotional Intelligence (EI / EQ): Goleman & Salovey",
+            "content": "# The Emotional Mind: Emotional Intelligence\n\nPeter Salovey and John Mayer (1990) defined **Emotional Intelligence (EI)**, popularized globally by Daniel Goleman (1995):\n\n## The Mayer-Salovey-Caruso Four-Branch Ability Model (MSCEIT):\n\n```\n   [BRANCH 4: MANAGING EMOTIONS]   --> Regulating emotions in oneself and others (calming anger).\n                 ^\n                 |\n   [BRANCH 3: UNDERSTANDING EMOTIONS]--> Analyzing emotional blends and transitions (grief -> anger).\n                 ^\n                 |\n   [BRANCH 2: USING EMOTIONS]      --> Harnessing emotions to facilitate creative thinking and focus.\n                 ^\n                 |\n   [BRANCH 1: PERCEIVING EMOTIONS] --> Accurately reading facial micro-expressions and body language.\n```\n\nHigh EI predicts superior leadership, marital longevity, and lower clinical burnout in healthcare professionals."
+        },
+        {
+            "id": "intel_theories_8",
+            "type": "content",
+            "title": "Creativity & Intelligence: Divergent Thinking",
+            "content": "# Thinking Outside the Box: Creativity\n\nWhat is the relationship between intelligence and creativity? J.P. Guilford distinguished between two cognitive pathways:\n\n```\n   CONVERGENT THINKING (Traditional IQ)          DIVERGENT THINKING (Creativity)\n   +---------------------------------------+     +----------------------------------------+\n   - Zeroes in on the SINGLE correct answer|     - Radiates outward in multiple directions|\n     to a structured problem.              |       generating NOVEL, UNORTHODOX solutions.|\n   - Standard multiple-choice math exams.  |     - Measured via Torrance Tests (TTCT).    |\n   +---------------------------------------+     +----------------------------------------+\n```\n\n## The Threshold Hypothesis of Creativity:\nAbove an IQ of approx 120, the correlation between IQ and creative achievement weakens significantly: high intelligence is necessary, but **not sufficient on its own** to guarantee creative genius."
+        },
+        {
+            "id": "intel_theories_9",
+            "type": "content",
+            "title": "The Neurobiology of Intelligence: P-FIT Theory",
+            "content": "# Where Does Intelligence Live? P-FIT Theory\n\nRex Jung and Richard Haier (2007) synthesized neuroimaging data into the **Parieto-Frontal Integration Theory (P-FIT)** of human intelligence:\n\n```\n   Step 1: Temporal & Occipital Lobes  --> Sensory encoding of visual and auditory stimuli.\n                     |\n                     v\n   Step 2: Parietal Cortex (Angular)    --> Structural abstraction and spatial-symbolic integration.\n                     |\n                     v\n   Step 3: Prefrontal Cortex (dlPFC)   --> Hypothesis testing, working memory, and decision evaluation.\n                     |\n                     v\n   Step 4: Anterior Cingulate (ACC)    --> Action selection and inhibition of incorrect responses.\n```\n\n## The Neural Efficiency Hypothesis:\nBrighter brains are not working harder; fMRI and PET scans show that high-IQ individuals exhibit **LOWER glucose metabolism and greater neural efficiency** when solving complex problems!"
+        },
+        {
+            "id": "intel_theories_quiz_3",
+            "type": "quiz",
+            "title": "EI & Neuroscience of Intellect Check",
+            "content": "Verify your understanding of emotional intelligence and brain networks!",
+            "quizQuestion": "According to the Neural Efficiency Hypothesis of intelligence (Haier et al.), what do functional brain scans (fMRI/PET) reveal when high-IQ individuals solve moderately complex cognitive tasks?",
+            "quizOptions": [
+                "Their brains consume ten times more glucose and overheat",
+                "Their brains exhibit greater neural efficiency, consuming LESS glucose and activating focused, streamlined neural networks compared to lower-IQ peers",
+                "Their temporal lobes shut down completely",
+                "Their brains show identical activation to sleeping subjects"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_theories_10",
+            "type": "content",
+            "title": "Cross-Cultural Definitions of Intelligence",
+            "content": "# What Does it Mean to Be Smart Across Cultures?\n\nWestern psychology defines intelligence primarily as **individual cognitive processing speed, abstract analysis, and linguistic sharpness**:\n\n```\n   WESTERN DEFINITIONS                           NON-WESTERN / COLLECTIVIST DEFINITIONS\n   ----------------------------------------      -------------------------------------------\n   - Rapid problem solving (\"Quick thinker\").    - Deliberate, contemplative reflection.\n   - Abstract logic isolated from context.       - Social responsibility and interpersonal warmth.\n   - Technological problem mastery.              - Practical moral wisdom and respect for elders.\n```\n\n- **Rural Africa (Serpell, 1993):** The Chewa concept of *nzelu* includes both intellectual cleverness (*chenjela*) and social/moral responsibility (*tumikila*). A clever person who is arrogant or unhelpful is considered unintelligent!"
+        },
+        {
+            "id": "intel_theories_11",
+            "type": "content",
+            "title": "Artificial General Intelligence vs. Human Wisdom",
+            "content": "# The Silicon Challenge: AI vs. Human Mind\n\nAs Large Language Models and AI systems match humans on standardized exams, cognitive scientists highlight fundamental differences:\n\n## Moravec's Paradox (Hans Moravec, 1988):\n*\"It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility.\"*\n\nComputers execute fast statistical pattern calculations; humans possess **Embodied Cognition, Phenomenological Consciousness, and Existential Purpose**."
+        },
+        {
+            "id": "intel_theories_12",
+            "type": "content",
+            "title": "Practical Applications in Education and Leadership",
+            "content": "# Applying Intelligence Frameworks\n\n- **Differentiated Instruction:** Designing classroom curricula that engage analytical, creative, and practical cognitive pathways (Sternberg).\n- **Leadership Development:** Hiring executives based not merely on raw GMA, but on high emotional intelligence and social self-regulation (Goleman).\n- **Lifelong Cognitive Health:** Leveraging crystallized knowledge and intellectual curiosity to build **Cognitive Reserve**, buffering against neurodegenerative dementia."
+        },
+        {
+            "id": "intel_theories_quiz_4",
+            "type": "quiz",
+            "title": "Cross-Cultural Intellect Check",
+            "content": "Verify your understanding of cross-cultural perspectives on intelligence!",
+            "quizQuestion": "In cross-cultural psychological research (such as Robert Serpell's studies in Africa), how does the indigenous Chewa concept of intelligence ('nzelu') differ fundamentally from typical Western definitions?",
+            "quizOptions": [
+                "It requires memorizing mathematical formulas in under 10 seconds",
+                "It inextricably combines cognitive cleverness with social responsibility, moral character, and cooperative community service",
+                "It is measured exclusively by running speed in marathons",
+                "It is restricted entirely to elder males"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intel_theories_13",
+            "type": "content",
+            "title": "Theoretical Models Comparison Matrix",
+            "content": "# Theoretical Architecture of Intelligence Models\n\n| Model | Core Construct | Structural Typology | Key Pioneer |\n|---|---|---|---|\n| **Two-Factor Model** | General mental energy (g) | Single apex + specific s factors | Charles Spearman (1904) |\n| **Primary Mental Abilities**| 7 independent mental faculties | Multi-factor without apex | Louis Thurstone (1938) |\n| **Gf-Gc Theory** | Fluid vs Crystallized Intellect | Biological raw vs Acquired cultural | Raymond Cattell (1963) |\n| **CHC Model** | 3 Strata: General, Broad, Narrow | Hierarchical taxonomic consensus | Cattell-Horn-Carroll |\n| **Multiple Intelligences** | 8 semi-autonomous intelligences | Modular brain-based talents | Howard Gardner (1983) |\n| **Triarchic Theory** | Analytical, Creative, Practical | Information processing & context | Robert Sternberg (1985) |\n| **Emotional Intelligence**| 4 branches of emotional ability | Emotion-cognition integration | Salovey & Mayer (1990) |"
+        },
+        {
+            "id": "intel_theories_14",
+            "type": "content",
+            "title": "The Ongoing Synthesis of Human Intellect",
+            "content": "# The Modern Synthesis of Intelligence\n\nModern cognitive neuroscience bridges psychometrics and systems models:\n\n- Spearman's **g** reflects biological neural efficiency, white matter tract integrity, and prefrontal working memory volume (P-FIT).\n- Yet human real-world success requires Sternberg's **Practical Wisdom**, Gardner's **Diverse Talents**, and Goleman's **Emotional Compassion**."
+        },
+        {
+            "id": "intel_theories_15",
+            "type": "content",
+            "title": "Module Synthesis: Theories of Intelligence",
+            "content": "# Key Takeaways: Theories of Intelligence\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Scientific Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| General Factor (g)    | Charles Spearman (1904)     | Positive manifold: All cognitive  |\n|                       |                             | tests correlate via shared g.     |\n+-----------------------+-----------------------------+-----------------------------------+\n| Fluid vs Crystallized | Raymond Cattell (1963)      | Gf (raw reasoning) peaks early;   |\n|                       |                             | Gc (accumulated wisdom) grows.    |\n+-----------------------+-----------------------------+-----------------------------------+\n| Triarchic Theory      | Robert Sternberg (1985)     | Analytical, Creative, and         |\n|                       |                             | Practical Successful Intellect.   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Neural Efficiency     | Richard Haier (2007)        | P-FIT: High-IQ brains process with|\n| Hypothesis            |                             | streamlined lower glucose drain.  |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nHuman intellect is not a single number on a scorecard; it is a dynamic, multidimensional symphony of neural efficiency, creative divergence, and cultural wisdom that adapts humanity to an ever-evolving world."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_att_formation",
+    "topicId": "att_formation",
+    "topicTitle": "Attitude Formation & Change",
+    "description": "Examine the psychological architecture of attitudes, analyzing classical and operant conditioning, Festinger's cognitive dissonance, Bem's self-perception theory, and the Theory of Planned Behavior.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "att_formation_1",
+            "type": "content",
+            "title": "The Nature of Attitudes: The ABC Model",
+            "content": "# The Psychology of Human Attitudes\n\nWhat is an **attitude**? In social psychology, an attitude is an enduring evaluation - positive, negative, or mixed - of a person, object, concept, or social issue (the \"attitude object\").\n\n## The Classic Tripartite ABC Model:\nSocial psychologists deconstruct every attitude into three distinct, interconnected components:\n\n```\n                                    [THE ABC MODEL OF ATTITUDES]\n                                                 |\n         +---------------------------------------+---------------------------------------+\n         |                                       |                                       |\n   [AFFECTIVE (A)]                         [BEHAVIORAL (B)]                        [COGNITIVE (C)]\n   - Emotional reactions, feelings,        - Actions, behavioral tendencies,       - Beliefs, thoughts, facts, and\n     and physiological arousal               and past habits directed toward         objective evaluations regarding\n     toward the attitude object.             the attitude object.                    the attitude object.\n   - \"Snakes make my heart race            - \"I immediately run away from          - \"Snakes are limbless reptiles\n      with terrifying dread!\"                 snakes whenever I see one!\"             that may possess lethal venom.\"\n```"
+        },
+        {
+            "id": "att_formation_2",
+            "type": "content",
+            "title": "Behavioral Conditioning of Attitudes",
+            "content": "# How Are Attitudes Formed? Conditioning Paradigms\n\nAttitudes are rarely innate; they are systematically acquired through basic associative learning mechanisms:\n\n## 1. Classical / Evaluative Conditioning (Staats & Staats, 1958):\n- Pairing a neutral stimulus (a novel brand name) repeatedly with an emotionally charged stimulus (uplifting music, beautiful imagery, attractive models).\n- Over repeated pairings, the positive valence transfers directly to the neutral brand.\n\n## 2. Operant Conditioning (Insko, 1965):\n- Behaviors and spoken opinions followed by positive reinforcement (social praise, nodding, smiles) become strengthened into durable attitudes.\n- Insko surveyed college students by phone; reinforcing answers with \"good\" or \"fine\" shifted students' attitudes toward a campus festival for months!\n\n## 3. The Mere Exposure Effect (Robert Zajonc, 1968):\n- Repeated, unreinforced exposure to a novel neutral stimulus (nonsense words, foreign ideographs, faces) increases positive liking (*\"Familiarity breeds fondness, not contempt\"*)."
+        },
+        {
+            "id": "att_formation_3",
+            "type": "content",
+            "title": "Fritz Heider's Balance Theory (1946, 1958)",
+            "content": "# Cognitive Consistency: Heider's Balance Theory\n\nAustrian psychologist Fritz Heider proposed that individuals strive for cognitive balance among their personal relationships and opinions.\n\n## The P-O-X Triad:\nHeider mapped relationships in a triangle involving:\n- **P (Person):** The focal individual.\n- **O (Other):** Another person.\n- **X (eXternal Object):** An issue, idea, or candidate.\n\n```\n   BALANCED TRIAD (Product is POSITIVE):       UNBALANCED TRIAD (Product is NEGATIVE):\n           P                                           P\n          / \\                                         / \\\n       + /   \\ +                                   + /   \\ -\n        /  +  \\                                     /  +  \\\n       O ----- X                                   O ----- X\n   You(+) like your Friend(O),                 You(+) like your Friend(O),\n   both of you(+) love Jazz(X).                but your Friend(-) HATES Jazz(X)!\n   (+ * + * + = + ==> COGNITIVE PEACE!)        (+ * - * + = - ==> TENSION / DISSONANCE!)\n```\n\nUnbalanced states generate psychological tension, compelling the person to either convince their friend, change their own view, or end the friendship."
+        },
+        {
+            "id": "att_formation_quiz_1",
+            "type": "quiz",
+            "title": "Attitude Conditioning & Balance Check",
+            "content": "Verify your understanding of conditioning and balance theory!",
+            "quizQuestion": "According to Fritz Heider's Balance Theory, which of the following triads represents an 'unbalanced' state that produces psychological tension?",
+            "quizOptions": [
+                "You like Alice (+), Alice likes the band (+), and you like the band (+)",
+                "You dislike Bob (-), Bob likes the political candidate (+), and you dislike the political candidate (-)",
+                "You like your best friend (+), you love modern art (+), but your best friend intensely despises modern art (-)",
+                "You dislike David (-), David dislikes opera (-), and you like opera (+)"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "att_formation_4",
+            "type": "content",
+            "title": "Festinger's Cognitive Dissonance Theory (1957)",
+            "content": "# Leon Festinger: Cognitive Dissonance Theory\n\nIn 1957, Leon Festinger formulated one of social psychology's most revolutionary theories: **Cognitive Dissonance**.\n\n## Definition:\n**Cognitive Dissonance** is an aversive state of psychological and physiological tension arising when an individual holds two psychologically inconsistent cognitions, or when their behavior directly clashes with their values.\n\n```\n   Cognition 1: \"I know smoking cigarettes causes lethal cancer and heart disease.\"\n   Cognition 2: \"I smoke two packs of cigarettes every single day.\"\n                                  |\n                                  v\n                    [ACUTE COGNITIVE DISSONANCE!]\n                                  |\n         +------------------------+------------------------+\n         |                                                 |\n   [CHANGE BEHAVIOR]                                 [RATIONALIZE COGNITION]\n   Quitting smoking permanently                      \"My grandfather smoked daily and lived\n   (Difficult, painful withdrawals)                   to be 95! Life is short anyway!\"\n```\n\nBecause changing behavior is hard, humans routinely warp their cognitions to eliminate dissonance."
+        },
+        {
+            "id": "att_formation_5",
+            "type": "content",
+            "title": "The $1 vs. $20 Peg-Turning Study (1959)",
+            "content": "# The Classic Experiment: Festinger & Carlsmith\n\nTo test whether external rewards drive attitude change, Festinger and J. Merrill Carlsmith conducted a brilliant laboratory study:\n\n## The Induced Compliance Paradigm:\n- Participants spent an excruciatingly boring hour turning wooden pegs a quarter-turn at a time.\n- The experimenter then asked the participant to do a favor: tell the next waiting participant in the hall that the task was *\"incredibly exciting, enjoyable, and fun!\"*\n- **Condition A:** Paid **$20** (a substantial sum in 1959) to tell the lie.\n- **Condition B:** Paid only **$1** to tell the lie.\n- Afterward, an independent interviewer asked participants how much they *actually* enjoyed the task.\n\n```\n   Condition            External Justification    Internal Dissonance?     Actual Task Rating\n   --------------------------------------------------------------------------------------------\n   Paid $20 to lie  --> High (\"I lied for cash\")--> NO Dissonance        --> Rated as BORING (-0.45)\n   Paid $1 to lie   --> Low (\"I lied for $1?!\") --> SEVERE DISSONANCE    --> Rated as FUN (+1.35)!\n```\n\nThe $1 participants experienced acute dissonance and convinced themselves the task was truly fun to justify their lie!"
+        },
+        {
+            "id": "att_formation_6",
+            "type": "content",
+            "title": "Classic Paradigms of Cognitive Dissonance",
+            "content": "# Three Major Dissonance Paradigms\n\nDecades of research confirmed that dissonance operates across three distinct life scenarios:\n\n## 1. Post-Decisional Dissonance (\"Spreading of Alternatives\" - Brehm, 1956):\n- After making a tough choice between two equally attractive appliances, women re-rated the chosen appliance higher and derogated the rejected one to reassure themselves of their decision.\n\n## 2. Effort Justification (Aronson & Mills, 1959):\n- College women underwent a severe, embarrassing sexual initiation to join a discussion group, which turned out to be boring.\n- Women who endured the severe initiation rated the group as fascinating to justify their suffering (*\"We come to love what we suffer for\"*)!\n\n## 3. Insufficient Punishment (Aronson & Carlsmith, 1963):\n- Children threatened with mild punishment for playing with a forbidden toy internalized that the toy wasn't desirable, whereas severe threats produced temporary compliance without attitude shift."
+        },
+        {
+            "id": "att_formation_quiz_2",
+            "type": "quiz",
+            "title": "Cognitive Dissonance Check",
+            "content": "Verify your understanding of Festinger and Carlsmith's landmark findings!",
+            "quizQuestion": "In Festinger and Carlsmith's (1959) peg-turning study, why did participants paid only $1 to lie convince themselves that the boring task was genuinely enjoyable?",
+            "quizOptions": [
+                "Because $1 was enough money to purchase the entire testing laboratory",
+                "Because they had insufficient external justification for lying, creating dissonance that could only be resolved by changing their internal attitude",
+                "Because they were hypnotized by the experimenter during the peg-turning",
+                "Because the $20 participants were threatened with electric shocks"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "att_formation_7",
+            "type": "content",
+            "title": "Daryl Bem's Self-Perception Theory (1967, 1972)",
+            "content": "# Daryl Bem: Knowing Thyself from the Outside\n\nIn 1967, Daryl Bem offered a radical alternative to cognitive dissonance that required **no internal emotional conflict or drive reduction**:\n\n## The Core Premise:\nWhen internal feelings or attitudes are weak, ambiguous, or unformed, individuals infer their own attitudes much like an outside observer would: **by observing their own behavior and the context in which it occurs**!\n\n```\n   Behavior: \"I just ate three huge bowls of pasta.\"\n   Context:  \"Nobody forced me or paid me.\"\n   Inference:\"I must have been far hungrier than I realized!\"\n```\n\n## Reinterpreting the $1 vs. $20 Study:\nBem argued the $1 participants didn't feel emotional guilt; they simply observed their behavior (*\"I said it was fun for just $1; I wouldn't lie for a dollar, so I must have found it fun\"*)."
+        },
+        {
+            "id": "att_formation_8",
+            "type": "content",
+            "title": "The Overjustification Effect (Lepper et al., 1973)",
+            "content": "# When Rewards Backfire: The Overjustification Effect\n\nSelf-perception theory explains the famous **Overjustification Effect** in education and motivation:\n\n## Mark Lepper, David Greene, and Richard Nisbett (1973):\n- Nursery school children who naturally loved drawing with felt-tip markers were identified.\n- **Condition 1 (Expected Reward):** Promised a \"Good Player Award\" certificate for drawing.\n- **Condition 2 (Unexpected Reward):** Received the certificate unexpectedly after drawing.\n- **Condition 3 (No Reward):** Drew markers with no certificates.\n\n```\n   Weeks later, free-play time was observed (no awards available):\n   - Unexpected Reward Group  --> Continued drawing enthusiastically (High intrinsic motivation)\n   - No Reward Group          --> Continued drawing enthusiastically\n   - EXPECTED REWARD GROUP    --> DRAWING DROPPED BY 50%! (Intrinsic passion eroded!)\n```\n\nThe children inferred: *\"I used to draw because it was fun; now I draw for awards. If there are no awards, why draw?\"*"
+        },
+        {
+            "id": "att_formation_9",
+            "type": "content",
+            "title": "Reconciling Dissonance and Self-Perception",
+            "content": "# Resolving the Great Debate: Fazio, Zanna, & Cooper (1977)\n\nAre Dissonance Theory and Self-Perception Theory mutually exclusive? In 1977, Russell Fazio and colleagues reconciled them through physiological measurement:\n\n```\n                                [FAZIO'S RECONCILIATION MODEL]\n                                               |\n         +-------------------------------------+-------------------------------------+\n         |                                                                           |\n   [COGNITIVE DISSONANCE THEORY OPERATES]                      [SELF-PERCEPTION THEORY OPERATES]\n   - Behavior falls OUTSIDE the Latitude of Acceptance         - Behavior falls WITHIN the Latitude of Acceptance\n     (grossly contradicts core values/self-concept).             (minor discrepancy, vague or neutral attitude).\n   - Generates measurable autonomic arousal (GSR, HR).         - Zero physiological arousal generated.\n   - Drive reduction via cognitive restructuring.              - Cold, logical attributional inference.\n```\n\nBoth theories are correct: dissonance explains major moral and value crises; self-perception explains everyday attitude formation and minor behaviors."
+        },
+        {
+            "id": "att_formation_quiz_3",
+            "type": "quiz",
+            "title": "Self-Perception & Overjustification Check",
+            "content": "Verify your understanding of self-perception mechanisms!",
+            "quizQuestion": "In Lepper, Greene, and Nisbett's (1973) study of the Overjustification Effect, what happened when children who already loved drawing were promised an explicit extrinsic reward for their artwork?",
+            "quizOptions": [
+                "Their intrinsic interest in drawing plummeted during subsequent unrewarded free play",
+                "Their drawing skills advanced by three grade levels immediately",
+                "They stopped playing with all other toys permanently",
+                "They showed zero change in their long-term drawing behavior"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "att_formation_10",
+            "type": "content",
+            "title": "Daniel Katz's Functional Theory of Attitudes (1960)",
+            "content": "# Why Do We Hold Attitudes? Katz's Functional Model\n\nDaniel Katz asserted that attitudes are not arbitrary; they serve vital psychological functions for the individual:\n\n```\n                               [FOUR FUNCTIONS OF ATTITUDES]\n                                             |\n         +-------------------+---------------+-------------------+ \n         |                   |                                   | \n   [UTILITARIAN /       [KNOWLEDGE /                    [VALUE-EXPRESSIVE]\n    INSTRUMENTAL]        EPISTEMIC]                     Allows us to communicate\n   Maximizes rewards     Helps organize and simplify    our core identity, values,\n   and minimizes pains.  complex chaotic reality.       and moral beliefs to society.\n                             |\n                             +-------------------+\n                                                 v\n                                   [EGO-DEFENSIVE]\n                                   Protects self-esteem from internal\n                                   anxieties and external threats.\n```\n\n## The Matching Principle in Persuasion:\nTo change an attitude, the persuasive appeal must match the underlying psychological function the attitude serves!"
+        },
+        {
+            "id": "att_formation_11",
+            "type": "content",
+            "title": "Do Attitudes Actually Predict Behavior? LaPiere (1934)",
+            "content": "# The Attitude-Behavior Disconnect: Richard LaPiere\n\nDoes a person's declared attitude reliably predict their real-world actions?\n\n## The Landmark 1934 Road Trip Study:\n- Sociologist Richard LaPiere traveled 10,000 miles across the United States with a prestigious Chinese couple.\n- In the 1930s, anti-Asian prejudice was rampant. Yet out of **251 hotels, campgrounds, and restaurants visited, they were refused service only ONCE**!\n- Six months later, LaPiere mailed identical questionnaires to all 251 establishments asking: *\"Will you accept members of the Chinese race as guests?\"*\n\n```\n   Actual In-Person Behavior:       99.6% ACCEPTED THEM (Refused only 1 out of 251)\n   Written Questionnaire Responses: 92% SAID \"NO, WE DO NOT ACCEPT CHINESE GUESTS!\"\n```\n\nIn a landmark 1969 review, Allan Wicker confirmed that across dozens of studies, attitudes correlated with behavior at a weak **r = 0.15 to 0.30**."
+        },
+        {
+            "id": "att_formation_12",
+            "type": "content",
+            "title": "The Theory of Planned Behavior (Ajzen & Fishbein)",
+            "content": "# When Do Attitudes Predict Actions? Planned Behavior\n\nIcek Ajzen and Martin Fishbein resolved the attitude-behavior gap with the **Theory of Reasoned Action (1975)** and **Theory of Planned Behavior (TPB, 1991)**:\n\nAttitudes do not directly drive behavior; they predict **Behavioral Intentions**, which then guide deliberate action.\n\n```\n   [ATTITUDE TOWARD SPECIFIC BEHAVIOR]  --+\n   (\"Exercising daily will improve        |\n    my energy and cardiovascular health\")  |\n                                           v\n   [SUBJECTIVE NORMS] -------------------> [BEHAVIORAL INTENTION] ---> [ACTUAL BEHAVIOR]\n   (\"My partner and friends value           (\"I will go to the gym       (Exercising 5x/wk)\n    staying active and fit\")                 tomorrow at 7 AM!\")\n                                           ^\n   [PERCEIVED BEHAVIORAL CONTROL] --------+\n   (\"I have a gym pass, running shoes,\n    and 45 minutes of free time\")\n```\n\nWhen specific attitudes, social norms, and perceived self-efficacy align, behavioral prediction jumps to **r = 0.70+**!"
+        },
+        {
+            "id": "att_formation_quiz_4",
+            "type": "quiz",
+            "title": "Attitude-Behavior Prediction Check",
+            "content": "Verify your understanding of the Theory of Planned Behavior!",
+            "quizQuestion": "In Icek Ajzen's Theory of Planned Behavior (1991), which component represents an individual's belief regarding how easy or difficult executing the behavior will be (akin to self-efficacy)?",
+            "quizOptions": [
+                "Subjective social norms",
+                "Perceived behavioral control",
+                "Ego-defensive justification",
+                "Evaluative conditioning"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "att_formation_13",
+            "type": "content",
+            "title": "Attitude Accessibility & Strength (Russell Fazio)",
+            "content": "# The Power of Highly Accessible Attitudes\n\nRussell Fazio demonstrated that an attitude will predict spontaneous, automatic behavior **only if it is chronically accessible in memory**:\n\n## The Accessibility Metric:\n- Measured via **response latency**: How quickly (in milliseconds) can you evaluate an attitude object when prompted?\n- Highly accessible attitudes come to mind automatically upon encountering the object, acting as cognitive filters that bias perception and drive immediate behavior.\n\n```\n   FACTORS PRODUCING ACCESSIBLE, UNBREAKABLE ATTITUDES:\n   1. Direct Firsthand Experience (rather than passive reading).\n   2. High Vested Self-Interest (the issue directly affects one's personal life/wallet).\n   3. Repeated Behavioral Expression (frequently discussing or advocating the view).\n```"
+        },
+        {
+            "id": "att_formation_14",
+            "type": "content",
+            "title": "Applied Attitude Change in Public Health",
+            "content": "# Applying Attitude Principles to Societal Change\n\nPublic health agencies leverage attitude theories to design massive behavioral campaigns:\n\n## 1. Cognitive Dissonance in Safe-Sex Interventions (Stone et al., 1994):\n- College students were asked to advocate condom use in a public video, then privately confronted with their own past failures to use condoms (**Hypocrisy Induction Paradigm**).\n- To reduce acute dissonance, **83% bought condoms immediately afterward**, compared to only 33% of control students!\n\n## 2. Theory of Planned Behavior in Smoking Cessation:\n- Campaigns cannot simply say \"Smoking is bad\" (Attitude). They must target peer norms (Subjective Norms) and provide free nicotine patches and support lines (Perceived Behavioral Control)."
+        },
+        {
+            "id": "att_formation_15",
+            "type": "content",
+            "title": "Module Synthesis: Attitude Formation & Change",
+            "content": "# Key Takeaways: Attitude Formation & Change\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Theory / Model        | Key Pioneers                | Core Theoretical Mechanism        |\n+-----------------------+-----------------------------+-----------------------------------+\n| Balance Theory        | Fritz Heider (1958)         | P-O-X triads strive for cognitive |\n|                       |                             | balance; product of signs is (+). |\n+-----------------------+-----------------------------+-----------------------------------+\n| Cognitive Dissonance  | Leon Festinger (1957)       | Psychological tension from clashes|\n|                       |                             | between action and beliefs.       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Self-Perception       | Daryl Bem (1967)            | Inferring attitudes by observing  |\n|                       |                             | one's own outward behavior.       |\n+-----------------------+-----------------------------+-----------------------------------+\n| Theory of Planned     | Ajzen & Fishbein (1991)     | Attitude + Norms + Control        |\n| Behavior (TPB)        |                             | dictate Intentions and Action.    |\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nAttitudes are dynamic psychological structures shaped by associative learning, cognitive consistency drives, and social utility. Changing behavior requires aligning attitudes with norms and perceived capability."
+        }
+    ]
+}

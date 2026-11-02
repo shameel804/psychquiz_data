@@ -1,0 +1,155 @@
+{
+    "id": "learn_attach_styles",
+    "topicId": "attach_styles",
+    "topicTitle": "Attachment Styles Across the Lifespan",
+    "description": "Trace the lifespan evolution of attachment bonds, examining Strange Situation classifications, Adult Attachment Interview discourse, romantic love partnerships, and intergenerational transmission.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "attach_styles_1",
+            "type": "content",
+            "title": "Attachment: From the Cradle to the Grave",
+            "content": "# The Lifespan Continuum of Attachment\n\nJohn Bowlby famously declared that attachment characterizes human life *\"from the cradle to the grave\"*.\n\n## The Lifespan Evolution of Attachment:\n- In infancy, attachment is measured through physical proximity-seeking behaviors during laboratory separations.\n- In adolescence, attachment is renegotiated within peer networks.\n- In adulthood, attachment internalizes into cognitive representational models and transfers to romantic partners and one's own children.\n\n## The Central Scientific Question:\n- How stable are attachment patterns across the decades? Does an avoidant infant inevitably become a cold adult, or can relationships heal and transform our relational wiring?"
+        },
+        {
+            "id": "attach_styles_2",
+            "type": "content",
+            "title": "The Strange Situation Behavioral Profiles Reviewed",
+            "content": "# Ainsworth's Core Infant Typology\n\nAinsworth's 8-episode laboratory procedure isolates three organized behavioral strategies (and one disorganized breakdown):\n\n## 1. Secure Attachment (Type B - 60-65%)\n- Confident exploration from a secure base; rapid comfort upon reunion.\n\n## 2. Insecure-Avoidant Attachment (Type A - 15-20%)\n- Deactivating strategy: suppresses outward emotional displays; ignores returning caregiver; high internal autonomic heart-rate stress.\n\n## 3. Insecure-Resistant / Ambivalent Attachment (Type C - 10-15%)\n- Hyperactivating strategy: chronic anxious clinging; fails to explore; inconsolable anger and rejection upon reunion.\n\n## 4. Disorganized / Disoriented Attachment (Type D - 5-10%)\n- Complete strategy collapse: freezing, approaching with averted gaze, anomalous fears."
+        },
+        {
+            "id": "attach_styles_3",
+            "type": "content",
+            "title": "Attachment in Middle Childhood: The Separation Anxiety Test",
+            "content": "# Attachment in Middle Childhood (Ages 6 to 12)\n\nIn school-age children, attachment cannot be measured by physical crying at parental departures. How do developmentalists evaluate middle-childhood attachment?\n\n## Projective & Narrative Measures:\n- **Separation Anxiety Test (SAT; Klagsbrun & Bowlby):** Children view photographs of children experiencing mild separations (parents going to dinner) or severe separations (parents departing for two weeks).\n  * **Secure Children:** Acknowledge realistic sadness (*\"He feels sad and lonely\"*) but generate constructive coping solutions (*\"He can call them or play with his friend until they come back\"*).\n  * **Insecure Children:** Deny all emotion (*\"He doesn't care at all\"*) or express catastrophic despair (*\"He will starve and die\"*)."
+        },
+        {
+            "id": "attach_styles_quiz_1",
+            "type": "quiz",
+            "title": "Infant to Childhood Styles Check",
+            "content": "Verify your understanding of attachment behavioral strategies across early development!",
+            "quizQuestion": "In Ainsworth's Strange Situation, an infant who suppresses outward crying upon parental departure and actively looks away or walks past the returning parent upon reunion is utilizing which behavioral strategy?",
+            "quizOptions": [
+                "A deactivating avoidant strategy (Type A)",
+                "A hyperactivating resistant strategy (Type C)",
+                "A secure base exploratory strategy (Type B)",
+                "A disorganized trance state (Type D)"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "attach_styles_4",
+            "type": "content",
+            "title": "The Adult Attachment Interview: Mary Main",
+            "content": "# The Adult Attachment Interview (AAI; Mary Main, 1985)\n\nA semi-structured 1-hour psychiatric interview exploring adults' autobiographical memories of early childhood relationships with parents:\n\n## The Radical Breakthrough of the AAI:\n- The AAI is **NOT scored based on how wonderful or terrible your childhood was!**\n- It is scored strictly based on the **COHERENCE OF YOUR DISCOURSE**\u2014how truthfully, concisely, relevantly, and clearly you narrate your emotional past in the present moment (applying Paul Grice's Maxims of Discourse)."
+        },
+        {
+            "id": "attach_styles_5",
+            "type": "content",
+            "title": "The Four AAI Adult Classifications",
+            "content": "# Adult Attachment Classifications (AAI)\n\n| Adult Classification | Discourse Characteristics | Childhood Parallel |\n|---|---|---|\n| **1. Autonomous / Secure (F)** | Open, objective, coherent; values attachment; acknowledges hardships without bitterness or defensiveness. | **Secure (Type B)** |\n| **2. Dismissing (Ds)** | Incoherent via omissions; idealizes parents without concrete supporting memories (*\"Mother was an angel\"*); claims complete emotional self-sufficiency; minimizes distress. | **Insecure-Avoidant (Type A)** |\n| **3. Preoccupied (E)** | Incoherent via rambling, ungrammatical, angry run-on sentences; still angrily entangled and overwhelmed by past parental grievances. | **Insecure-Resistant (Type C)** |\n| **4. Unresolved / Disorganized (U)** | Disorganized slips in monitoring reasoning or discourse when discussing death, loss, or abuse (believing deceased person is physically in the room). | **Disorganized (Type D)** |"
+        },
+        {
+            "id": "attach_styles_6",
+            "type": "content",
+            "title": "Intergenerational Transmission of Attachment",
+            "content": "# The Intergenerational Transmission of Attachment\n\nHow do attachment models replicate themselves across generations?\n\n## The Predictive Power of the AAI:\n- When expectant mothers are interviewed with the AAI during their third trimester of pregnancy, their AAI classification predicts their unborn child's Strange Situation classification at 12 months with approx **75% accuracy**!\n\n```\n[Mother AAI Classification]                       [Infant Strange Situation at 12 Months]\nAutonomous / Secure           =========(75% Predictive Match)=========>   Secure (Type B)\nDismissing                    =========(75% Predictive Match)=========>   Insecure-Avoidant (Type A)\nPreoccupied                   =========(75% Predictive Match)=========>   Insecure-Resistant (Type C)\nUnresolved Trauma             =========(75% Predictive Match)=========>   Disorganized (Type D)\n```"
+        },
+        {
+            "id": "attach_styles_quiz_2",
+            "type": "quiz",
+            "title": "AAI & Intergenerational Transmission Check",
+            "content": "Evaluate your understanding of the Adult Attachment Interview scoring and transmission!",
+            "quizQuestion": "An adult undergoing the Adult Attachment Interview declares that her parents were 'saintly and flawless', yet fails to produce a single concrete childhood memory to support this claim and dismisses emotional relationships as unimportant. What AAI classification is this?",
+            "quizOptions": [
+                "Autonomous / Secure",
+                "Dismissing",
+                "Preoccupied",
+                "Unresolved"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attach_styles_7",
+            "type": "content",
+            "title": "Adult Romantic Attachment: Hazan & Shaver (1987)",
+            "content": "# Romantic Love as an Attachment Process\n\nCindy Hazan and Phillip Shaver published a famous \"Love Quiz\" in a Denver newspaper, discovering that adult romantic relationships follow the identical percentage distributions as infant Strange Situation styles:\n\n## The Three Romantic Styles:\n1. **Secure (approx 56%):** *\"I find it relatively easy to get close to others and am comfortable depending on them. I don't often worry about being abandoned or someone getting too close.\"*\n2. **Avoidant (approx 25%):** *\"I am somewhat uncomfortable being close to others; I find it difficult to trust them completely, difficult to allow myself to depend on them.\"*\n3. **Anxious/Ambivalent (approx 19%):** *\"I find that others are reluctant to get as close as I would like. I often worry that my partner doesn't really love me or won't want to stay with me.\"*"
+        },
+        {
+            "id": "attach_styles_8",
+            "type": "content",
+            "title": "Bartholomew's Four-Category Romantic Model",
+            "content": "# Kim Bartholomew's Four-Category Model (1991)\n\nKim Bartholomew systematized adult romantic attachment by crossing Bowlby's internal working models along two orthogonal axes:\n\n```\n                                        MODEL OF SELF (Anxiety / Dependence)\n                                      POSITIVE (Low)           NEGATIVE (High)\n                                            |                         |\nMODEL OF OTHERS   POSITIVE (Low Avoidance)  |  **SECURE**              **PREOCCUPIED**\n(Avoidance)                                 |  Comfortable with        Needy, clingy,\n                                            |  intimacy & autonomy.    fears abandonment.\n                                            |-------------------------+-------------------------\n                  NEGATIVE (High Avoidance) |  **DISMISSING-AVOIDANT** **FEARFUL-AVOIDANT**\n                                            |  Defensively self-reliant; Craves intimacy but\n                                            |  suppresses emotion.     terrified of pain.\n```"
+        },
+        {
+            "id": "attach_styles_9",
+            "type": "content",
+            "title": "Romantic Conflict and the Anxious-Avoidant Trap",
+            "content": "# The Anxious-Avoidant Attachment Trap\n\nWhat happens when an Anxious-Preoccupied partner dates a Dismissing-Avoidant partner?\n\n## The Toxic Demand-Withdraw Cycle (Sue Johnson):\n\n```\n[Anxious Partner Feels Distant] ---> Sends Clingy / Demanding Signals ---> [Avoidant Partner Feels Overwhelmed!]\n              ^                                                                      |\n              |                                                        (Withdraws / Shuts Down)\n              |                                                                      v\n[Anxious Panic Surges: Calls 20 Times!] <--- (Withdrawal Confirms Worst Fear!) <---+\n```\n\n## Why They Attract Each Other:\n- Each partner's toxic behavior confirms the other's internal working model! (The avoidant confirms that others are suffocating; the anxious confirms that others abandon)."
+        },
+        {
+            "id": "attach_styles_quiz_3",
+            "type": "quiz",
+            "title": "Adult Romantic Taxonomies Check",
+            "content": "Test your mastery of Bartholomew's four-category model and relationship cycles!",
+            "quizQuestion": "In Kim Bartholomew's adult attachment grid, an individual who possesses a negative model of self (high anxiety) combined with a negative model of others (high avoidance)\u2014craving romantic closeness but terrified of vulnerability and rejection\u2014is classified as:",
+            "quizOptions": [
+                "Secure",
+                "Dismissing-Avoidant",
+                "Fearful-Avoidant",
+                "Preoccupied"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "attach_styles_10",
+            "type": "content",
+            "title": "Attachment in the Workplace and Leadership",
+            "content": "# Attachment in Organizational Leadership\n\nInternal working models shape workplace behavior, leadership style, and career stress:\n\n## Workplace Expressions:\n- **Secure Leaders:** Empower employees, delegate comfortably, view mistakes as learning opportunities, and build psychologically safe corporate cultures.\n- **Anxious Workers:** Suffer chronic burnout, obsessive worry over supervisor approval, and fear of negative performance reviews.\n- **Avoidant Leaders:** Hyper-independent micromanagers who resist teamwork, suppress feedback, and view asking for help as a humiliating weakness."
+        },
+        {
+            "id": "attach_styles_11",
+            "type": "content",
+            "title": "Earned Security: Rewiring the Attachment Model",
+            "content": "# The Concept of Earned Security\n\nAre individuals with traumatic, insecure childhoods condemned to insecure adult relationships?\n\n## The Transformative Reality of Earned Security:\n- Longitudinal research proves that up to **25% to 30% of adults** born into insecure, adverse environments develop **Earned Security** in adulthood!\n\n## The Mechanisms of Transformation:\n1. **Long-Term Secure Romantic Partnership:** Being loved consistently by a secure partner disconfirms the old fearful internal working model over years.\n2. **Deep Psychotherapy (Attachment-Informed):** The therapist acts as a **reliable secure base**, allowing the client to safely re-experience, reflect upon, and integrate childhood grief.\n3. **Narrative Coherence:** What heals is constructing an integrated, honest autobiographical life story."
+        },
+        {
+            "id": "attach_styles_12",
+            "type": "content",
+            "title": "Attachment in Older Adulthood and Bereavement",
+            "content": "# Attachment in Late Adulthood\n\nHow do attachment dynamics manifest in the final chapters of life?\n\n## The Final Safe Haven:\n- In late adulthood, spouses remain primary attachment figures.\n- Secure older adults handle the death of a spouse with healthy oscillation (Dual-Process Model), maintaining continuing internal bonds.\n- Insecure-preoccupied elders face elevated risk for complicated Prolonged Grief Disorder, whereas dismissing elders often exhibit delayed, somatic grief symptoms (physical illness)."
+        },
+        {
+            "id": "attach_styles_quiz_4",
+            "type": "quiz",
+            "title": "Earned Security & Late Adulthood Check",
+            "content": "Verify your understanding of earned security mechanisms and adult transitions!",
+            "quizQuestion": "What is the psychological term for adults who experienced severe childhood neglect or insecure parenting, but successfully achieved secure, coherent relational functioning in adulthood through therapy or supportive long-term partnerships?",
+            "quizOptions": [
+                "Identity Foreclosure",
+                "Earned Security",
+                "Somatic Continuity",
+                "Sublimated Ambivalence"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "attach_styles_13",
+            "type": "content",
+            "title": "Attachment Stability Across the Lifespan",
+            "content": "# How Stable is Attachment Over Decades?\n\nLongitudinal studies tracking infants from age 1 into adulthood (Waters et al., 2000):\n\n## The 64% Stability Finding:\n- In stable socio-economic environments, **64% to 70% of individuals retained their identical attachment classification** from 12 months to age 21!\n\n## Causes of Change:\n- Changes from secure to insecure are driven by **severe negative life events** (parental divorce, traumatic loss, major medical illness).\n- Changes from insecure to secure are driven by supportive mentorship, therapy, and stable romantic love."
+        },
+        {
+            "id": "attach_styles_14",
+            "type": "content",
+            "title": "Emotionally Focused Therapy (EFT; Sue Johnson)",
+            "content": "# Emotionally Focused Therapy (EFT)\n\nDeveloped by Dr. Sue Johnson, **Emotionally Focused Therapy** is the gold-standard evidence-based couples therapy grounded directly in attachment theory:\n\n## De-escalating the Negative Cycle:\n- Helps romantic partners recognize that chronic fights (over dishes, money, sex) are superficial protests masking deep, primal attachment panics (*\"Are you there for me? Do I matter to you?\"*).\n- Coaches partners to express vulnerable attachment fears (*\"I pull away because I'm terrified I'm not good enough for you\"*), rebuilding mutual security."
+        },
+        {
+            "id": "attach_styles_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Attachment Across the Lifespan\n\n## Core Principles Mastered:\n\n### 1. Infancy to Adulthood Continuity\n- Strange Situation infant styles (Secure, Avoidant, Ambivalent, Disorganized).\n- Mary Main's Adult Attachment Interview (AAI) evaluates discourse coherence (Autonomous, Dismissing, Preoccupied, Unresolved).\n\n### 2. Intergenerational Transmission\n- Prenatal maternal AAI predicts infant Strange Situation security with 75% accuracy.\n\n### 3. Romantic Attachments (Hazan, Shaver, & Bartholomew)\n- 4-Category Grid: Secure, Preoccupied, Dismissing-Avoidant, Fearful-Avoidant.\n- Toxic demand-withdraw cycles in anxious-avoidant pairings.\n\n### 4. Transformation & Healing\n- Earned security breaks generational trauma via narrative coherence and loving partnerships; Emotionally Focused Therapy (EFT).\n\n> **Up Next:** Explore clinical pathologies and trauma interventions in **Clinical Applications of Attachment**!"
+        }
+    ]
+}

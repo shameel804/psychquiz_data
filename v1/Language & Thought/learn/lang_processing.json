@@ -1,0 +1,155 @@
+{
+    "id": "learn_lang_processing",
+    "topicId": "lang_processing",
+    "topicTitle": "Language Processing",
+    "description": "Examine the neurocognitive architecture of language processing, from speech perception and acoustic parsing to semantic-syntactic parsing, reading mechanics, dyslexia, and classical aphasias.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "lang_processing_1",
+            "type": "content",
+            "title": "The Architecture of Language Processing",
+            "content": "# The Architecture of Language Processing\n\nHow does the human brain transform physical sound waves into abstract thoughts, and convert inner thoughts into coordinated motor speech movements?\n\n## Core Levels of Linguistic Analysis:\n\n```\n[Pragmatics]  Context, social intent, sarcasm, metaphors\n     ^\n[Semantics]   Word meaning and conceptual propositions\n     ^\n[Syntax]      Grammar, hierarchical sentence structure, phrase rules\n     ^\n[Morphology]  Internal structure of words (roots, prefixes, suffixes)\n     ^\n[Phonology]   Speech sounds, phonemes, and acoustic features\n```\n\n## The Real-Time Challenge:\n- Conversational speech delivers between 150 and 200 words per minute.\n- The listener's brain must execute phonemic segmentation, lexical retrieval, syntactic parsing, and semantic integration simultaneously in fractions of a second!"
+        },
+        {
+            "id": "lang_processing_2",
+            "type": "content",
+            "title": "Speech Perception & Categorical Perception",
+            "content": "# Speech Perception and Categorical Boundaries\n\nHuman speech sounds (**phonemes**) vary continuously in acoustic frequency, yet we perceive them as discrete, categorical bins.\n\n## Voice Onset Time (VOT):\n- The time delay between releasing the vocal tract closure (lips) and the onset of vocal cord vibration.\n  * /b/ sound (voiced bilabial stop): VOT is very short (approx 0 to 15 ms).\n  * /p/ sound (voiceless bilabial stop): VOT is longer (approx 40 to 60 ms).\n\n## Categorical Perception:\n\n```\nPerceived Sound:\n100% /ba/ | *********\n          |         *\n          |          * (Sharp Boundary at ~25 ms VOT)\n          |           *\n  0% /ba/ |____________*********************************\n            0 ms       25 ms      50 ms      75 ms (VOT)\n            <-- /ba/ -->          <------ /pa/ ------>\n```\n\n- Rather than hearing a gradual transition, listeners perceive a sharp, abrupt jump from /ba/ to /pa/ at the 25 ms boundary!"
+        },
+        {
+            "id": "lang_processing_3",
+            "type": "content",
+            "title": "Multimodal Speech: The McGurk Effect",
+            "content": "# The McGurk Effect (McGurk & MacDonald, 1976)\n\nIs speech perception purely auditory? The **McGurk Effect** provides dramatic proof that speech perception is an inherently **multimodal** integration of auditory and visual signals.\n\n## The Classic Experiment:\n1. **Auditory Track:** A clear audio recording plays the spoken syllable: *\"ba-ba\"*.\n2. **Visual Track:** A video shows a speaker's lips moving to produce the velar syllable: *\"ga-ga\"*.\n3. **Perceived Synthesis:** When looking at the screen while listening, participants hear neither *\"ba\"* nor *\"ga\"*\u2014their brain fuses the signals into an entirely new percept: *\"da-da\"*!\n\n## Theoretical Significance:\n- The superior temporal sulcus merges visual lip-reading cues directly with auditory inputs prior to conscious perception.\n- Explains why communicating in noisy restaurants relies heavily on visual gaze at the speaker's face."
+        },
+        {
+            "id": "lang_processing_quiz_1",
+            "type": "quiz",
+            "title": "Speech Perception Check",
+            "content": "Verify your understanding of categorical perception and the McGurk effect!",
+            "quizQuestion": "In the classic McGurk effect, combining an auditory track of 'ba' with a visual video of lips saying 'ga' results in which fused perceptual experience?",
+            "quizOptions": [
+                "The listener hears complete silence",
+                "The listener perceives the fused syllable 'da'",
+                "The listener hears 'ga' with elevated volume",
+                "The listener experiences an immediate attentional blink"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_processing_4",
+            "type": "content",
+            "title": "Syntactic Parsing and Garden-Path Sentences",
+            "content": "# Syntactic Parsing\n\nHow do we determine the grammatical relationship between words in a sentence?\n\n## Garden-Path Sentences:\nSentences that momentarily mislead the reader into an incorrect grammatical interpretation due to structural ambiguity:\n- *\"The horse raced past the barn fell.\"*\n- *\"The old man the boat.\"*\n\n## The Two Competing Parsing Theories:\n\n### 1. Syntax-First / Garden-Path Model (Frazier & Rayner)\n- The parser operates using strict, heuristic grammatical principles, ignoring meaning until syntax breaks down.\n  * **Minimal Attachment:** Build the simplest possible syntactic tree.\n  * **Late Closure:** Attach new incoming words to the current open clause.\n\n### 2. Constraint-Based Model (MacDonald & Trueswell)\n- Syntax, semantic plausibility, visual context, and word frequencies interact simultaneously from the very first millisecond!"
+        },
+        {
+            "id": "lang_processing_5",
+            "type": "content",
+            "title": "ERP Signatures of Language: N400 and P600",
+            "content": "# Electrophysiological Markers of Language\n\nEvent-Related Potentials (ERPs) recorded via EEG reveal distinct temporal neural signatures for semantic vs. syntactic errors:\n\n## 1. The N400 Component (Kutas & Hillyard, 1980)\n- A negative voltage deflection peaking approx **400 ms** after stimulus onset.\n- **Triggered by:** Semantic anomalies or unexpected conceptual words.\n  * *\"He spread the warm bread with socks.\"* (Triggers massive N400).\n- Amplitude reflects the effort required to integrate a word into current semantic context.\n\n## 2. The P600 Component (Osterhout & Holcomb, 1992)\n- A positive voltage deflection peaking approx **600 ms** after stimulus onset.\n- **Triggered by:** Syntactic violations or grammatical parsing difficulties.\n  * *\"The cats won't eating the food.\"* (Triggers large P600).\n- Demonstrates that the brain handles grammar and meaning via dissociable computational pathways!"
+        },
+        {
+            "id": "lang_processing_6",
+            "type": "content",
+            "title": "The Reading Architecture: Dual-Route Model",
+            "content": "# The Dual-Route Cascaded Model of Reading\n\nMax Coltheart (2001) formulated the **Dual-Route Model** to explain how proficient readers translate printed letters into spoken words and meanings:\n\n```\n                             [Written Printed Word]\n                                        |\n                    +-------------------+-------------------+\n                    |                                       |\n       [Non-Lexical / Phonological]                 [Lexical / Direct Route]\n       (Grapheme-to-Phoneme Rules)                 (Orthographic Word Lexicon)\n                    |                                       |\n      * Used for novel words & non-words       * Used for familiar words & irregulars\n        (e.g., \"FLURK\", \"SLINT\")                 (e.g., \"YACHT\", \"COLONEL\", \"PINT\")\n                    |                                       |\n                    +-------------------+-------------------+\n                                        |\n                             [Speech Output / Meaning]\n```\n\n## Two Processing Highways:\n- **Sublexical Route:** Sounds out words phonetically, letter-by-letter.\n- **Direct Lexical Route:** Instantly accesses stored mental orthographic forms."
+        },
+        {
+            "id": "lang_processing_quiz_2",
+            "type": "quiz",
+            "title": "ERP & Reading Architecture Check",
+            "content": "Evaluate your understanding of electrophysiological language markers and dual-route reading!",
+            "quizQuestion": "Reading the sentence 'The broker persuaded the banker to jumped off the roof' will elicit which specific Event-Related Potential (ERP) wave due to the grammatical error?",
+            "quizOptions": [
+                "N400 wave",
+                "P600 wave",
+                "P300 novelty wave",
+                "Alpha wave desynchronization"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_processing_7",
+            "type": "content",
+            "title": "Developmental and Acquired Dyslexia",
+            "content": "# Neuropsychology of Dyslexia\n\nDyslexia is a neurobiological reading disorder characterized by difficulties with accurate and fluent word recognition, spelling, and decoding:\n\n## Subtypes of Acquired Dyslexia (Brain Trauma):\n\n### 1. Surface Dyslexia\n- Selective damage to the **Lexical / Direct Route**.\n- Patients can accurately read regular words and nonsense words (*\"flurp\"*), but fail on irregular words with unpredictable spelling (*\"yacht\"* read as *\"yatched\"*, *\"pint\"* rhyming with *\"hint\"*).\n\n### 2. Phonological Dyslexia\n- Selective damage to the **Non-Lexical Sublexical Route**.\n- Patients easily read familiar irregular words (*\"colonel\", \"island\"*), but are completely unable to sound out novel words or pronounce pronounceable non-words (*\"wug\"*).\n\n## Developmental Dyslexia:\n- Typically stems from a core **phonological deficit**: impaired phonological awareness and difficulty manipulating speech sounds, linked to atypical left perisylvian cortical development."
+        },
+        {
+            "id": "lang_processing_8",
+            "type": "content",
+            "title": "Neural Substrates: Classical Wernicke-Geschwind Model",
+            "content": "# The Classical Wernicke-Geschwind Model\n\nNorman Geschwind revitalized nineteenth-century neurology to build the foundational neuroanatomical model of language:\n\n```\n[Primary Auditory Cortex] ---> [Wernicke's Area] ---> (Arcuate Fasciculus) ---> [Broca's Area] ---> [Motor Cortex]\n(Acoustic Reception)          (Comprehension)       (White Matter Tract)       (Speech Plan)       (Vocal Muscles)\n```\n\n## The Core Circuitry:\n- **Broca's Area (Left Inferior Frontal Gyrus, BA 44/45):** Syntactic sequencing, grammatical structure, and speech production planning.\n- **Wernicke's Area (Left Superior Temporal Gyrus, BA 22):** Lexical storage and auditory speech comprehension.\n- **Arcuate Fasciculus:** Major white-matter axonal highway connecting Wernicke's and Broca's areas.\n- **Angular Gyrus (BA 39):** Cross-modal integration translating visual letters into auditory phonological codes."
+        },
+        {
+            "id": "lang_processing_9",
+            "type": "content",
+            "title": "Broca's Aphasia (Non-Fluent)",
+            "content": "# Broca's Aphasia (Expressive / Non-Fluent)\n\nCaused by damage to the left frontal operculum (Broca's area), typically following a middle cerebral artery stroke.\n\n## Clinical Profile:\n- **Non-Fluent, Halting Speech:** Speech production requires immense physical effort; output is telegraphic and stripped of grammatical affixes (*\"Boy... walk... park... dog\"*).\n- **Agrammatism:** Severe difficulty producing or comprehending complex syntactic constructions (especially passive voice: *\"The lion was killed by the tiger\u2014who died?\"*).\n- **Relatively Preserved Comprehension:** Patients understand everyday conversational speech well.\n- **Intact Self-Awareness:** Patients are painfully aware of their communication deficits, frequently leading to intense frustration and reactive depression."
+        },
+        {
+            "id": "lang_processing_quiz_3",
+            "type": "quiz",
+            "title": "Aphasia & Neural Models Check",
+            "content": "Test your mastery of classical language areas and aphasic syndromes!",
+            "quizQuestion": "A stroke patient speaks in slow, agonizingly halting telegraphic sentences with missing grammatical particles, but understands everyday conversational speech and displays intense frustration with their deficits. Which disorder do they exhibit?",
+            "quizOptions": [
+                "Wernicke's aphasia",
+                "Broca's aphasia",
+                "Conduction aphasia",
+                "Surface dyslexia"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_processing_10",
+            "type": "content",
+            "title": "Wernicke's and Conduction Aphasias",
+            "content": "# Fluent Aphasias\n\n## 1. Wernicke's Aphasia (Receptive / Fluent)\n- Caused by lesions in the left posterior superior temporal gyrus.\n- **Fluent \"Word Salad\":** Speech flows effortlessly with normal prosody, grammar, and rhythm, but is devoid of coherent meaning.\n- **Paraphasias & Neologisms:** Utters invented nonsensical words (*\"chork\"*) and phonemic substitutions.\n- **Profoundly Impaired Comprehension:** Severe deficit understanding spoken and written speech.\n- **Anosognosia:** Lack of awareness of their own linguistic deficits; patients often remain cheerfully unaware that their speech is unintelligible.\n\n## 2. Conduction Aphasia\n- Caused by lesions damaging the **arcuate fasciculus**.\n- **Hallmark Deficit:** Relatively fluent spontaneous speech and intact comprehension, but a profound and selective **inability to repeat spoken words** verbatim!"
+        },
+        {
+            "id": "lang_processing_11",
+            "type": "content",
+            "title": "Modern Dual-Stream Model of Speech (Hickok & Poeppel)",
+            "content": "# The Dual-Stream Model of Speech Processing\n\nGregory Hickok and David Poeppel (2007) replaced the outdated Wernicke-Geschwind model with a modern **Dual-Stream Model** mirroring the visual system:\n\n```\n                                  [Early Auditory Analysis: Superior Temporal Gyrus]\n                                                           |\n                         +---------------------------------+---------------------------------+\n                         |                                                                   |\n              [Ventral Stream (\"What\")]                                           [Dorsal Stream (\"How\")]\n              - Bilateral temporal pathways                                       - Strongly left-lateralized\n              - Maps sound to meaning / comprehension                             - Maps sound to articulation / motor speech\n              - Middle/Inferior Temporal Gyrus                                    - Parietal-temporal junction -> Prefrontal cortex\n```\n\n## Major Evolutionary Insight:\n- Speech comprehension (Ventral \"What\") is bilaterally distributed across both hemispheres, explaining why unilateral temporal damage rarely produces complete loss of speech understanding."
+        },
+        {
+            "id": "lang_processing_12",
+            "type": "content",
+            "title": "Hemispheric Lateralization and Right Hemisphere Roles",
+            "content": "# The Right Hemisphere in Language\n\nWhile the left hemisphere dominates grammar, phonetics, and literal vocabulary for 95% of right-handed adults, the **right hemisphere** plays vital, sophisticated linguistic roles:\n\n## Right Hemisphere Linguistic Contributions:\n- **Prosody & Intonation:** Processing the emotional tone of voice (distinguishing a genuine compliment from biting sarcasm via pitch contours).\n- **Pragmatics & Discourse Integration:** Understanding the broader narrative flow, tracking overarching themes, and inferring conversational context.\n- **Figurative Language:** Comprehending metaphors (*\"He has a heart of stone\"*), idioms (*\"Bite the bullet\"*), and humor/punchlines.\n- **Right Hemisphere Damage Syndrome:** Patients speak with flat, robotic monotone (aprosodia) and interpret all idioms with hyper-literal rigidity."
+        },
+        {
+            "id": "lang_processing_quiz_4",
+            "type": "quiz",
+            "title": "Dual-Stream & Right Hemisphere Check",
+            "content": "Verify your understanding of modern dual-stream anatomy and right-hemisphere pragmatics!",
+            "quizQuestion": "In Hickok and Poeppel's dual-stream model, which anatomical stream is primarily responsible for mapping acoustic speech representations onto motor-articulatory production networks?",
+            "quizOptions": [
+                "The Ventral 'What' Stream",
+                "The Dorsal 'How' Stream",
+                "The Default Mode Network",
+                "The Retinal-Tectal Pathway"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lang_processing_13",
+            "type": "content",
+            "title": "Clinical Rehabilitation of Language Disorders",
+            "content": "# Evidence-Based Language Therapies\n\nHow do clinical speech-language pathologists treat aphasic patients?\n\n## 1. Melodic Intonation Therapy (MIT)\n- Designed specifically for non-fluent Broca's aphasics.\n- Exploits preserved right-hemisphere musical, melodic, and rhythmic networks to \"sing\" short phrases, gradually retraining speech output through right-hemisphere plasticity.\n\n## 2. Constraint-Induced Aphasia Therapy (CIAT)\n- Based on motor stroke rehabilitation.\n- Patients are forced to communicate exclusively through spoken language while non-verbal compensatory gesturing and drawing are strictly constrained, preventing \"learned non-use\".\n\n## 3. Augmentative and Alternative Communication (AAC)\n- Speech-generating tablets and eye-gaze tracking communication boards restore social participation in severe motor neuron disorders."
+        },
+        {
+            "id": "lang_processing_14",
+            "type": "content",
+            "title": "Artificial Intelligence and Human Language",
+            "content": "# Computational Linguistics & Human Cognition\n\nHow do Modern Large Language Models (LLMs) compare to human cognitive processing?\n\n## Commonalities & Differences:\n- **Vector Semantics:** AI models represent word meanings as geometric spatial vectors in high-dimensional space, remarkably similar to human semantic networks and spreading activation.\n- **Prediction as Computation:** Both LLMs and the human brain constantly anticipate upcoming words in sentences (predictive coding; minimizing surprisal).\n- **The Grounding Problem:** LLMs manipulate statistical token correlations without embodied physical experience or sensory grounding, whereas human language is intrinsically grounded in perceptual-motor brain networks."
+        },
+        {
+            "id": "lang_processing_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Language Processing\n\n## Core Principles Mastered:\n\n### 1. Acoustic & Multimodal Perception\n- Categorical perception creates sharp perceptual phoneme boundaries.\n- The McGurk effect proves speech perception fuses visual lip movements with auditory signals.\n\n### 2. Syntactic & Semantic Parsing\n- Garden-path sentences illustrate parsing principles (minimal attachment).\n- Electrophysiological markers: N400 (semantic anomalies) vs. P600 (syntactic violations).\n\n### 3. Reading Mechanics (Dual-Route Model)\n- Lexical route (direct whole-word access) vs. Sublexical route (grapheme-to-phoneme sounding out).\n- Distinct dyslexia profiles: Surface vs. Phonological.\n\n### 4. Neuroanatomy & Aphasias\n- Broca's (non-fluent, agrammatic) vs. Wernicke's (fluent word salad, impaired comprehension) vs. Conduction (impaired repetition).\n- Modern Dual-Stream Model: Ventral (\"What\", bilateral meaning) vs. Dorsal (\"How\", left motor articulation).\n\n> **Up Next:** Explore the interface between language and human thought in **Thinking & Reasoning**!"
+        }
+    ]
+}

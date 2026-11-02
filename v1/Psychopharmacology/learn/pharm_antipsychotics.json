@@ -1,0 +1,155 @@
+{
+    "id": "learn_pharm_antipsychotics",
+    "topicId": "pharm_antipsychotics",
+    "topicTitle": "Antipsychotics",
+    "description": "Master the pharmacology of typical and atypical antipsychotics, dopamine pathways, extrapyramidal symptoms, and metabolic complications",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "pharm_antipsychotics_1",
+            "type": "content",
+            "title": "Introduction to Antipsychotics",
+            "content": "# Foundations of Antipsychotic Pharmacology\n\n**Antipsychotic medications** (neuroleptics) are psychoactive drugs utilized to manage psychosis, primarily in schizophrenia, schizoaffective disorder, and bipolar mania, as well as adjunctive treatment in major depression.\n\n## Discovery of Chlorpromazine (1952)\n- French surgeon Henri Laborit discovered that chlorpromazine calmed surgical patients without inducing anesthesia.\n- Jean Delay and Pierre Deniker administered it to psychiatric inpatients, demonstrating for the first time that severe psychotic agitation and hallucinations could be treated chemically.\n- Triggered the worldwide deinstitutionalization movement.\n\n## Core Classification:\n1. **First-Generation Antipsychotics (FGAs / Typical)**: Potent D2 receptor antagonists; high extrapyramidal symptom (EPS) burden.\n2. **Second-Generation Antipsychotics (SGAs / Atypical)**: Combined 5-HT2A and D2 antagonists; lower EPS risk, higher metabolic liability."
+        },
+        {
+            "id": "pharm_antipsychotics_2",
+            "type": "content",
+            "title": "The Four Dopamine Pathways",
+            "content": "# The Four Key Dopamine Pathways\n\nUnderstanding antipsychotic efficacy and side effects requires mastering the four primary cerebral dopamine tracts:\n\n## 1. Mesolimbic Pathway (VTA to Nucleus Accumbens)\n- **Function**: Reward, motivation, emotion, and salience.\n- **In Psychosis**: Hyperactive dopamine transmission causes **positive symptoms** (hallucinations, delusions).\n- **Antipsychotic Effect**: D2 antagonism reduces positive symptoms.\n\n## 2. Mesocortical Pathway (VTA to Prefrontal Cortex)\n- **Function**: Cognition, executive function, working memory, and affect.\n- **In Psychosis**: Hypoactive dopamine transmission contributes to **negative and cognitive symptoms**.\n- **Antipsychotic Effect**: FGAs can exacerbate negative symptoms by further reducing dopamine.\n\n## 3. Nigrostriatal Pathway (Substantia Nigra to Basal Ganglia)\n- **Function**: Extrapyramidal motor coordination.\n- **Antipsychotic Effect**: D2 blockade causes **Extrapyramidal Symptoms (EPS)** and Parkinsonism.\n\n## 4. Tuberoinfundibular Pathway (Hypothalamus to Anterior Pituitary)\n- **Function**: Dopamine naturally inhibits prolactin release.\n- **Antipsychotic Effect**: D2 blockade causes **hyperprolactinemia** (galactorrhea, amenorrhea, gynecomastia, sexual dysfunction)."
+        },
+        {
+            "id": "pharm_antipsychotics_3",
+            "type": "content",
+            "title": "First-Generation Antipsychotics (FGAs)",
+            "content": "# First-Generation Antipsychotics (Typical)\n\nFGAs act through high-affinity competitive antagonism of postsynaptic **dopamine D2 receptors** throughout the brain.\n\n## The Therapeutic Threshold Window:\n- **60% to 65% D2 Occupancy**: Necessary to achieve clinical reduction of positive psychotic symptoms.\n- **>= 77% to 80% D2 Occupancy**: Triggers extrapyramidal motor side effects and hyperprolactinemia.\n- FGAs possess a narrow therapeutic window between efficacy and motor dysfunction.\n\n## High-Potency vs. Low-Potency FGAs:\n- **High-Potency FGAs (Haloperidol, Fluphenazine, Trifluoperazine)**:\n  - Minimal off-target antihistaminic or anticholinergic binding.\n  - High incidence of acute EPS and hyperprolactinemia.\n- **Low-Potency FGAs (Chlorpromazine, Thioridazine)**:\n  - Low D2 affinity, high anticholinergic (M1), antihistaminic (H1), and alpha-1 affinity.\n  - Highly sedating, causes orthostatic hypotension, lower immediate EPS."
+        },
+        {
+            "id": "pharm_antipsychotics_quiz_1",
+            "type": "quiz",
+            "title": "Dopamine Pathways Check",
+            "content": "Verify comprehension of the four dopamine pathways.",
+            "quizQuestion": "Blockade of dopamine D2 receptors in which cerebral pathway is responsible for causing drug-induced parkinsonism and extrapyramidal symptoms?",
+            "quizOptions": [
+                "Mesolimbic pathway",
+                "Mesocortical pathway",
+                "Nigrostriatal pathway",
+                "Tuberoinfundibular pathway"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "pharm_antipsychotics_4",
+            "type": "content",
+            "title": "Extrapyramidal Symptoms (EPS): Acute Manifestations",
+            "content": "# Acute Extrapyramidal Symptoms\n\nAcute EPS results from an acute imbalance between depleted dopamine and unrestrained acetylcholine in the basal ganglia striatum.\n\n## The Three Acute Presentations:\n\n### 1. Acute Dystonia (Hours to Days)\n- Severe, involuntary, sustained muscle contractions of head and neck.\n- Presentations: Torticollis (twisted neck), oculogyric crisis (eyes locked upward), opisthotonos, and life-threatening laryngeal dystonia.\n- **Emergency Treatment**: Intramuscular anticholinergics (benztropine) or antihistamines (diphenhydramine).\n\n### 2. Akathisia (Days to Weeks)\n- Intense subjective motor restlessness and inner agitation; client feels compelled to pace, rock, or tap feet.\n- Frequently misdiagnosed as worsening psychotic agitation.\n- **Treatment**: Beta-blockers (propranolol) are first-line; benzodiazepines.\n\n### 3. Drug-Induced Parkinsonism (Weeks to Months)\n- Triad: Bradykinesia, cogwheel muscle rigidity, and resting 'pill-rolling' tremor, with masked facial facies and festinating gait."
+        },
+        {
+            "id": "pharm_antipsychotics_5",
+            "type": "content",
+            "title": "Tardive Dyskinesia (TD)",
+            "content": "# Tardive Dyskinesia (TD)\n\n**Tardive Dyskinesia** is a potentially irreversible choreoathetoid movement disorder resulting from chronic, long-term exposure to dopamine receptor antagonists.\n\n## Pathophysiology:\n- Chronic D2 receptor blockade leads to compensatory **up-regulation and super-sensitivity** of postsynaptic dopamine receptors in the nigrostriatal tract.\n\n## Clinical Manifestations:\n- Involuntary, repetitive, purposeless movements:\n  - **Orofacial Dyskinesia**: Lip smacking, tongue protrusion (fly-catcher tongue), chewing motions, cheek puffing.\n  - **Choreoathetoid Limb Movements**: Finger writhing ('piano playing'), toe tapping, pelvic thrusting.\n\n## Modern Pharmacological Treatment:\n- Discontinue or switch to atypical antipsychotic (quetiapine or clozapine).\n- FDA-approved **VMAT2 inhibitors (Valbenazine, Deutetrabenazine)**: Deplete presynaptic vesicular dopamine packaging, dampening hyperkinetic movements without worsening psychosis."
+        },
+        {
+            "id": "pharm_antipsychotics_6",
+            "type": "content",
+            "title": "Neuroleptic Malignant Syndrome (NMS)",
+            "content": "# Neuroleptic Malignant Syndrome (NMS)\n\n**Neuroleptic Malignant Syndrome (NMS)** is an idiosyncratic, acute, life-threatening medical emergency caused by severe dopamine depletion (mortality approx 10% to 20% if untreated).\n\n## The Classic Tetrad of NMS:\n1. **Severe Hyperthermia**: Core body temperature exceeding 38 C (often > 40 C).\n2. **Extreme 'Lead-Pipe' Muscle Rigidity**: Uniform, severe resistance to passive movement throughout all muscle groups.\n3. **Autonomic Instability**: Diaphoresis, profound tachycardia, labile blood pressure, tachypnea, and cardiac dysrhythmias.\n4. **Altered Mental Status**: Stupor, catatonia, delirium, progressing to coma.\n\n## Hallmark Laboratory Findings:\n- Massive elevation of **Creatine Kinase (CK / CPK)** (often > 10,000 U/L) due to rhabdomyolysis; leukocytosis; metabolic acidosis; elevated myoglobin risking renal failure.\n\n## Management:\nImmediate cessation of all neuroleptics; ICU admission, active cooling, IV fluids, and specific antidotes: **Dantrolene** (skeletal muscle relaxant) and **Bromocriptine** (dopamine D2 agonist)."
+        },
+        {
+            "id": "pharm_antipsychotics_quiz_2",
+            "type": "quiz",
+            "title": "NMS vs Serotonin Syndrome Check",
+            "content": "Assess emergency distinction between NMS and Serotonin Syndrome.",
+            "quizQuestion": "Which neuromuscular finding uniquely distinguishes Neuroleptic Malignant Syndrome (NMS) from Serotonin Syndrome?",
+            "quizOptions": [
+                "Hyperreflexia and spontaneous clonus",
+                "Generalized lead-pipe muscle rigidity with hyporeflexia",
+                "Unilateral flaccid hemiparesis",
+                "Ataxia without muscle tone alteration"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antipsychotics_7",
+            "type": "content",
+            "title": "Second-Generation Antipsychotics (SGAs / Atypicals)",
+            "content": "# Second-Generation Antipsychotics (SGAs)\n\nSGAs revolutionized psychiatric practice by decoupling antipsychotic efficacy from motor impairment.\n\n## The Serotonin-Dopamine Antagonism (SDA) Mechanism:\n- SGAs potently block **5-HT2A receptors** in addition to D2 receptors (often with higher 5-HT2A affinity than D2 affinity).\n- In the nigrostriatal pathway, serotonin naturally inhibits dopamine release.\n- By blocking 5-HT2A receptors, SGAs disinhibit (release the brake on) dopamine in the striatum, maintaining motor function and drastically reducing EPS.\n- In the mesolimbic pathway, D2 blockade remains dominant, effectively extinguishing positive psychotic symptoms.\n\n## Rapid Dissociation Theory (Kapur & Seeman):\nSGAs bind more loosely and dissociate rapidly from D2 receptors ('hit and run'), allowing normal physiological dopamine surges to pass through."
+        },
+        {
+            "id": "pharm_antipsychotics_8",
+            "type": "content",
+            "title": "Common Atypical Antipsychotics",
+            "content": "# Clinical Profiles of Prominent SGAs\n\n- **Risperidone (Risperdal)**: Most 'typical' of the atypicals; at doses > 6 mg/day, behaves like an FGA with notable EPS and significant hyperprolactinemia.\n- **Olanzapine (Zyprexa)**: Structurally related to clozapine; highly effective for positive symptoms and agitation; carries very high risk of rapid weight gain and metabolic syndrome.\n- **Quetiapine (Seroquel)**: Very low D2 affinity; high H1 affinity (highly sedating at low doses, 25-100 mg); virtually zero EPS risk; preferred in Parkinson's disease psychosis.\n- **Aripiprazole (Abilify)**: A **dopamine partial agonist**; acts as functional antagonist in hyper-dopaminergic mesolimbic tract and partial agonist in hypo-dopaminergic mesocortical tract ('dopamine stabilizer'); weight-neutral, low sedation, but causes akathisia.\n- **Ziprasidone (Geodon)**: Minimal weight gain; must be taken with a 500-calorie meal for absorption; causes mild QTc prolongation."
+        },
+        {
+            "id": "pharm_antipsychotics_9",
+            "type": "content",
+            "title": "Metabolic Syndrome and Monitoring Protocols",
+            "content": "# Metabolic Complications of SGAs\n\nWhile SGAs reduce motor side effects, they introduce substantial **metabolic liability**, significantly increasing cardiovascular morbidity and premature mortality.\n\n## The Metabolic Spectrum (Highest to Lowest Risk):\n```\nHigh Metabolic Risk:     Clozapine, Olanzapine\nModerate Metabolic Risk: Risperidone, Paliperidone, Quetiapine\nLow / Neutral Risk:      Aripiprazole, Ziprasidone, Lurasidone, Cariprazine\n```\n\n## Mechanism of Metabolic Disruption:\nCombined blockade of **Histamine H1** and **Serotonin 5-HT2C** receptors in the hypothalamus impairs satiety signaling, stimulating hyperphagia, insulin resistance, and visceral adiposity.\n\n## Mandatory ADA/APA Metabolic Monitoring Protocol:\n- **Baseline**: BMI, waist circumference, fasting plasma glucose / HbA1c, fasting lipid panel, blood pressure.\n- **Follow-up**: Weight monitored monthly for 3 months; Glucose and Lipids checked at 12 weeks and annually thereafter."
+        },
+        {
+            "id": "pharm_antipsychotics_quiz_3",
+            "type": "quiz",
+            "title": "Antipsychotic Metabolic Risk Check",
+            "content": "Verify knowledge of metabolic side effect profiles.",
+            "quizQuestion": "Which two atypical antipsychotic medications carry the highest clinical risk for severe weight gain, dyslipidemia, and new-onset Type 2 diabetes?",
+            "quizOptions": [
+                "Aripiprazole and Ziprasidone",
+                "Clozapine and Olanzapine",
+                "Haloperidol and Fluphenazine",
+                "Lurasidone and Cariprazine"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antipsychotics_10",
+            "type": "content",
+            "title": "Clozapine: The Gold Standard for Treatment Resistance",
+            "content": "# Clozapine (Clozaril)\n\n**Clozapine** is the most effective antipsychotic medication in existence. It is the only FDA-approved medication for **treatment-resistant schizophrenia (TRS)** and for reducing suicidal behavior in schizophrenia.\n\n## Definition of Treatment Resistance:\nFailure to respond to at least two adequate trials of different antipsychotics (at least one being an SGA) at therapeutic doses for 6 weeks each.\n\n## Unique Clinical Superiority:\n- Superior efficacy for positive symptoms, negative symptoms, cognitive deficits, and hostility.\n- Virtually no EPS or tardive dyskinesia.\n- Reduces all-cause psychiatric mortality despite its severe medical side effect profile."
+        },
+        {
+            "id": "pharm_antipsychotics_11",
+            "type": "content",
+            "title": "Clozapine: Black Box Warnings and REMS",
+            "content": "# Clozapine: Five Major Black Box Warnings\n\nBecause of serious toxicities, clozapine dispensing is legally restricted by mandatory **REMS** registries with absolute neutrophil count (ANC) tracking.\n\n## The Five Black Box Warnings:\n1. **Severe Neutropenia / Agranulocytosis**: Approx 0.8% of patients develop fatal bone marrow suppression (ANC < 500/microL); requires weekly ANC blood draws for first 6 months, biweekly for months 6-12, then monthly.\n2. **Myocarditis and Cardiomyopathy**: Fatal inflammation of heart muscle, typically occurring within first 8 weeks.\n3. **Seizures**: Dose-dependent reduction of seizure threshold (approx 5% risk at > 600 mg/day).\n4. **Cardiovascular / Respiratory Collapse**: Severe orthostatic hypotension and syncope.\n5. **Increased Mortality in Elderly Patients with Dementia-Related Psychosis** (class warning).\n\n*Other critical toxicity:* **Severe Gastrointestinal Hypomotility** (fatal paralytic ileus)."
+        },
+        {
+            "id": "pharm_antipsychotics_12",
+            "type": "content",
+            "title": "Long-Acting Injectable Antipsychotics (LAIs)",
+            "content": "# Long-Acting Injectables (LAIs)\n\nNon-adherence to daily oral antipsychotics exceeds 50% in schizophrenia, leading to psychotic relapse, hospitalization, and neuroprogressive cognitive decline.\n\n## Clinical Advantages of LAIs:\n- Guarantees medication delivery; clinician knows instantly if a patient misses a dose.\n- Eliminates daily pill-taking burden and reduces peak-to-trough plasma level fluctuations.\n- Reduces re-hospitalization rates by approx 20% to 30% compared to oral formulations.\n\n## Common LAI Formulations:\n- **Haloperidol Decanoate** and **Fluphenazine Decanoate** (administered every 2 to 4 weeks).\n- **Risperidone Microspheres (Risperdal Consta)**: Every 2 weeks (requires oral overlap).\n- **Paliperidone Palmitate (Invega Sustenna / Trinza / Hafyera)**: Dosed monthly, every 3 months, or every 6 months.\n- **Aripiprazole (Abilify Maintena / Aristada)**: Dosed monthly or every 2 months."
+        },
+        {
+            "id": "pharm_antipsychotics_quiz_4",
+            "type": "quiz",
+            "title": "Clozapine Monitoring Check",
+            "content": "Verify knowledge of clozapine clinical safety rules.",
+            "quizQuestion": "Regular mandatory hematological monitoring during clozapine therapy is legally mandated to detect which potentially lethal adverse effect?",
+            "quizOptions": [
+                "Hemolytic anemia",
+                "Agranulocytosis and severe neutropenia",
+                "Thrombocytopenia and petechiae",
+                "Polycythemia vera"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pharm_antipsychotics_13",
+            "type": "content",
+            "title": "Third-Generation Antipsychotics: Partial Agonists",
+            "content": "# Dopamine System Stabilizers\n\nThird-generation antipsychotics act as **dopamine partial agonists**, acting as functional buffers.\n\n## The Partial Agonist Mechanism:\n- Possess high intrinsic receptor affinity but intermediate intrinsic functional activity (approx 25% to 30% intrinsic efficacy compared to pure dopamine).\n- In brain regions with excessive dopamine (mesolimbic), they displace full dopamine, acting as **antagonists**.\n- In brain regions with deficient dopamine (mesocortical), they stimulate receptors, acting as **agonists**.\n\n## Key Partial Agonists:\n- **Aripiprazole (Abilify)**: D2 / 5-HT1A partial agonist; 5-HT2A antagonist.\n- **Brexpiprazole (Rexulti)**: Lower intrinsic D2 activity than aripiprazole, reducing akathisia liability.\n- **Cariprazine (Vraylar)**: Preferential **D3 over D2** receptor partial agonist; demonstrated clinical efficacy for negative symptoms of schizophrenia."
+        },
+        {
+            "id": "pharm_antipsychotics_14",
+            "type": "content",
+            "title": "Beyond Dopamine: Novel Mechanisms (TAAR1 & Muscarinic)",
+            "content": "# The Future of Antipsychotic Pharmacology\n\nFor 70 years, every approved antipsychotic blocked the D2 receptor. Today, non-D2 mechanism medications are transforming the field.\n\n## 1. Muscarinic Receptor Agonists (Xanomeline-Trospium / Cobenfy):\n- **Mechanism**: Xanomeline stimulates central **M1 and M4 muscarinic acetylcholine receptors**, indirectly dampening hyperactive subcortical dopamine transmission without blocking D2 receptors.\n- **Trospium Addition**: Peripheral muscarinic antagonist that does not cross the blood-brain barrier, neutralizing peripheral gastrointestinal and urinary side effects.\n- **Clinical Miracle**: Achieves robust antipsychotic efficacy completely devoid of EPS, tardive dyskinesia, weight gain, or prolactin elevation.\n\n## 2. TAAR1 Agonists (Trace Amine-Associated Receptor 1):\n- Intracellular receptors that fine-tune monoaminergic neurotransmission."
+        },
+        {
+            "id": "pharm_antipsychotics_15",
+            "type": "content",
+            "title": "Summary of Antipsychotics",
+            "content": "# Antipsychotic Pharmacology Summary\n\n## Core Principles to Master:\n1. **Four Dopamine Pathways**: Mesolimbic (positive symptoms), Mesocortical (negative/cognitive), Nigrostriatal (EPS/TD), Tuberoinfundibular (prolactin).\n2. **FGAs**: Potent D2 antagonists with high EPS, dystonia, and tardive dyskinesia risks.\n3. **SGAs**: Combined 5-HT2A and D2 antagonism minimizing motor issues at the cost of metabolic syndrome (highest with clozapine and olanzapine).\n4. **NMS**: Life-threatening emergency characterized by hyperthermia, lead-pipe rigidity, autonomic instability, and elevated creatine kinase.\n5. **Clozapine**: Unrivaled gold standard for treatment resistance; requires ANC blood tracking for agranulocytosis.\n6. **Novel Frontiers**: Muscarinic agonists (Cobenfy) allow antipsychotic treatment without direct D2 receptor blockade."
+        }
+    ]
+}

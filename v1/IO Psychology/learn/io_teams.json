@@ -1,0 +1,155 @@
+{
+    "id": "learn_io_teams",
+    "topicId": "io_teams",
+    "topicTitle": "Teams & Organizational Behavior",
+    "description": "Examine team dynamics, organizational culture, change management, and diversity frameworks that drive organizational effectiveness, analyzing Tuckman, Schein, Kotter, and Lewin.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "io_teams_1",
+            "type": "content",
+            "title": "The Collective Enterprise: Teams in Organizations",
+            "content": "# The Science of High-Performing Teams\n\nIn modern knowledge economies, virtually no complex product is created by a solitary individual. Work is executed through **Teams**.\n\n## Group vs. Team: The Critical Distinction\n- **Work Group:** An aggregate of individuals reporting to a common manager with pooled individual accountability (*\"I do my job; you do yours\"*).\n- **Work Team:** A small number of interdependent people committed to a common mission, shared performance goals, and mutual accountability (*\"We sink or swim together\"*).\n\n```\n                             [THE ARCHITECTURE OF TEAMS]\n                                          |\n         +--------------------------------+--------------------------------+\n         |                                                                 |\n   [DEVELOPMENTAL LIFE CYCLES]                                   [STRUCTURAL & COGNITIVE PROCESSES]\n   - Tuckman's 5 Stages of Development                           - Shared Mental Models & TMS\n   - Gersick's Punctuated Equilibrium                            - Task vs Relationship Conflict\n   - Input-Process-Output (IPO) Systems                          - Faultlines and Deep Diversity\n```"
+        },
+        {
+            "id": "io_teams_2",
+            "type": "content",
+            "title": "Bruce Tuckman's 5 Stages of Team Development (1965)",
+            "content": "# Bruce Tuckman: The Team Developmental Journey\n\nIn 1965, Bruce Tuckman identified the universal sequential stages every team traverses:\n\n```\n   [1. FORMING]    --> Orientation and Polite Testing:\n                       Polite, cautious interactions; high dependence on leader for direction.\n            |\n            v\n   [2. STORMING]   --> Conflict and Power Struggles:\n                       Interpersonal friction; members push boundaries and clash over leadership.\n            |\n            v\n   [3. NORMING]    --> Cohesion and Role Clarity:\n                       Shared norms, mutual trust, and collaborative standards emerge.\n            |\n            v\n   [4. PERFORMING] --> Autonomous Peak Execution:\n                       Synergistic problem-solving; high task achievement with minimal friction.\n            |\n            v\n   [5. ADJOURNING] --> Disbanding and Reflection (Added in 1977):\n                       Wrapping up deliverables, celebrating accomplishments, and mourning.\n```"
+        },
+        {
+            "id": "io_teams_3",
+            "type": "content",
+            "title": "Connie Gersick's Punctuated Equilibrium Model (1988)",
+            "content": "# Connie Gersick: The Midpoint Revolution\n\nDo real-world project teams follow Tuckman's smooth linear steps? Connie Gersick proved they do NOT!\n\n## The Punctuated Equilibrium Model:\nTeams operate under **long periods of inertia punctuated by a dramatic midpoint crisis**:\n\n```\n   PERFORMANCE\n        ^\n        |                                           COMPLETION: Final sprint\n        |                                           to delivery!\n        |                  MIDPOINT REVOLUTION:     / \n        |                  \"Half our time is GONE!  /\n        |                   We must overhaul plan!\"/\n        |                   +---------------------+\n        |                  / \n        | PHASE 1: INERTIA/\n        | (Sticking to original,\n        |  often flawed, habits)\n        +------------------+----------------------------------------------------> TIME\n        START            MIDPOINT                                                DEADLINE\n```\n\nRegardless of project length (3 hours or 6 months), teams experience their seismic wake-up call at **precisely the calendar midpoint (50% mark)**!"
+        },
+        {
+            "id": "io_teams_quiz_1",
+            "type": "quiz",
+            "title": "Team Development Models Check",
+            "content": "Verify your understanding of Tuckman and Gersick team models!",
+            "quizQuestion": "In Connie Gersick's Punctuated Equilibrium Model of team development, when does a project team experience its most dramatic paradigm overhaul and operational restructuring?",
+            "quizOptions": [
+                "During the very first 5 minutes of team formation",
+                "At precisely the calendar midpoint (50% mark) of the allotted project timeframe",
+                "Ten minutes after the project deadline has already passed",
+                "Only after the team receives an angry email from the CEO"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_teams_4",
+            "type": "content",
+            "title": "The Input-Process-Output (IPO) Framework",
+            "content": "# The Systems Model of Team Effectiveness\n\nI-O psychologists conceptualize teams as complex open systems using the **IPO Model** (McGrath, 1964):\n\n```\n   [INPUTS]                    --> [PROCESSES]                  --> [OUTPUTS]\n   - Member KSAOs                  - Psychological Safety           - Performance Quality & Speed\n   - Diversity (Surface & Deep)    - Communication Quality          - Team Viability (Desire to work\n   - Task Characteristics          - Conflict Management              together again)\n   - Organizational Resources      - Cohesion & Coordination        - Member Satisfaction & Growth\n```\n\nHigh inputs (brilliant talent) produce mediocre outputs if the team's internal social processes are crippled by toxic ego clashes!"
+        },
+        {
+            "id": "io_teams_5",
+            "type": "content",
+            "title": "Task vs. Relationship Conflict (Karen Jehn, 1995)",
+            "content": "# Not All Conflict Is Created Equal: Karen Jehn\n\nIs team conflict inherently destructive? Karen Jehn proved that the **type of conflict** determines whether a team flourishes or disintegrates:\n\n```\n   TASK CONFLICT (Cognitive / Substantive)       RELATIONSHIP CONFLICT (Affective / Interpersonal)\n   +---------------------------------------+     +----------------------------------------+\n   | - Disagreements about ideas, facts,   |     | - Interpersonal friction, personality  |\n   |   strategies, and project goals.      |       clashes, mutual dislike, and animosity.|\n   | - \"What is the best algorithm to use?\"|     | - \"I cannot stand his arrogant voice!\" |\n   | ==> MODERATE LEVELS BOOST INNOVATION, |     | ==> UNIVERSALLY DESTRUCTIVE!           |\n   |     DISSOLVES GROUPTHINK!             |     |     Slashes performance & satisfaction.|\n   +---------------------------------------+     +----------------------------------------+\n```\n\n*The Crucial Challenge:* In teams with low psychological safety, task conflict rapidly deteriorates into bitter relationship conflict!"
+        },
+        {
+            "id": "io_teams_6",
+            "type": "content",
+            "title": "Shared Mental Models & Transactive Memory Systems",
+            "content": "# The Collective Brain: Shared Mental Models & TMS\n\nHow do expert teams (trauma surgery teams, flight crews) coordinate seamlessly during acute emergencies without verbal commands?\n\n## 1. Shared Mental Models (Cannon-Bowers et al., 1993):\n- Common, overlapping mental representations of task requirements, equipment, and teammate roles (*\"Everyone is on the exact same page\"*).\n\n## 2. Transactive Memory Systems (TMS - Daniel Wegner, 1987):\n- A shared division of cognitive labor: **\"Knowing who knows what.\"**\n\n```\n   Individual A knows everything about Data Pipelines.\n   Individual B knows everything about Front-End UI.\n   Individual C knows everything about Cybersecurity.\n   ==> Nobody needs to memorize everything! They trust and query each other seamlessly!\n```"
+        },
+        {
+            "id": "io_teams_quiz_2",
+            "type": "quiz",
+            "title": "Team Conflict & Cognition Check",
+            "content": "Verify your understanding of conflict types and transactive memory!",
+            "quizQuestion": "According to Karen Jehn's research on team conflict, what distinguishes 'Task Conflict' from 'Relationship Conflict'?",
+            "quizOptions": [
+                "Task conflict involves debating the merits of strategic ideas and approaches (which can boost innovation), whereas relationship conflict involves personal hostility and animosity",
+                "Task conflict always results in physical violence",
+                "Relationship conflict improves software code quality",
+                "Task conflict is illegal under federal employment statutes"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "io_teams_7",
+            "type": "content",
+            "title": "Edgar Schein's Three Levels of Culture (1992)",
+            "content": "# Edgar Schein: The Iceberg of Organizational Culture\n\nWhat is **Organizational Culture**? Schein defined it as a pattern of shared basic assumptions learned by a group as it solved problems of external adaptation and internal integration:\n\n```\n   LEVEL 1: ARTIFACTS (Visible, Auditory Surface)\n   - Physical architecture, dress code, tech gadgets, slogans, myths, ceremonies.\n   - Easy to observe, EXTREMELY HARD TO DECIPHER TRUE MEANING!\n            |\n            v\n   LEVEL 2: ESPOUSED VALUES (Conscious, Stated)\n   - Mission statements, company core values, stated policies, public creeds.\n   - Often contradicts daily behavior! (*\"We value work-life balance\"* while demanding 80 hrs).\n            |\n            v\n   LEVEL 3: BASIC UNDERLYING ASSUMPTIONS (Invisible, Unconscious Heart)\n   - Deep, taken-for-granted beliefs about reality, human nature, time, and truth.\n   - *\"Human beings are inherently lazy and must be monitored\"* vs *\"Humans crave mastery.\"*\n   - The true subconscious operating engine of the entire enterprise!\n```"
+        },
+        {
+            "id": "io_teams_8",
+            "type": "content",
+            "title": "Organizational Climate vs. Deep Culture",
+            "content": "# Climate vs. Culture: Understanding the Difference\n\nWhile culture represents the deep historical DNA of an organization, **Organizational Climate** represents the atmospheric weather:\n\n```\n   ORGANIZATIONAL CULTURE                     ORGANIZATIONAL CLIMATE\n   ------------------------------------------------------------------------------------\n   - Deep, historical, anthropological.       - Surface-level, psychological, present-focused.\n   - Unconscious basic assumptions.           - Shared employee perceptions of formal policies,\n   - Enduring and resistant to change.          daily practices, and rewarded behaviors.\n   - Measured via qualitative ethnography.    - Measured via quantitative employee surveys.\n```\n\n## Specialized Strategic Climates:\nOrganizations intentionally cultivate target climates: **Safety Climate** (zero tolerance for cutting safety corners), **Service Climate** (customer delight), and **Innovation Climate**."
+        },
+        {
+            "id": "io_teams_9",
+            "type": "content",
+            "title": "John Kotter's 8-Step Change Model (1996)",
+            "content": "# Transforming Organizations: John Kotter\n\nOver 70% of organizational change initiatives fail due to employee resistance and leadership missteps. Harvard's John Kotter formulated an **8-Step Sequential Change Architecture**:\n\n```\n   [PHASE 1: CREATING CLIMATE FOR CHANGE]\n   1. Create Urgency            --> Shatter complacency with compelling market realities.\n   2. Build Guiding Coalition   --> Assemble a powerful cross-functional leadership team.\n   3. Form Strategic Vision     --> Clarify a simple, inspiring vision of the future.\n            |\n            v\n   [PHASE 2: ENGAGING & ENABLING THE ORGANIZATION]\n   4. Enlist Volunteer Army     --> Communicate vision across all communication channels.\n   5. Enable Action (Remove)    --> Eliminate structural roadblocks, red tape, and toxic bosses.\n   6. Generate Short-Term Wins  --> Engineer visible, unambiguous early milestone victories.\n            |\n            v\n   [PHASE 3: IMPLEMENTING & SUSTAINING CHANGE]\n   7. Sustain Acceleration      --> Press harder after early wins; avoid premature victory claims.\n   8. Institute Change          --> Anchor new habits into organizational culture and succession.\n```"
+        },
+        {
+            "id": "io_teams_quiz_3",
+            "type": "quiz",
+            "title": "Schein & Kotter Models Check",
+            "content": "Verify your understanding of culture levels and change management!",
+            "quizQuestion": "In Edgar Schein's model of organizational culture, what represents the deepest, most powerful, and yet completely invisible layer of culture that governs employee actions?",
+            "quizOptions": [
+                "Visible corporate artifacts and dress code",
+                "Espoused values written on marketing brochures",
+                "Basic underlying assumptions (unconscious, taken-for-granted beliefs about reality and human nature)",
+                "The corporate cafeteria menu"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "io_teams_10",
+            "type": "content",
+            "title": "Kurt Lewin's 3-Step Change & Force Field Analysis",
+            "content": "# Kurt Lewin: Unfreezing, Changing, Refreezing\n\nKurt Lewin established the foundational paradigm of organizational transformation:\n\n```\n   [1. UNFREEZING]      --> Dismantles the existing equilibrium; overcomes defensive inertia\n                            by making the necessity of change emotionally compelling.\n            |\n            v\n   [2. CHANGING]        --> The transition phase; learning novel behavioral patterns, adopting\n                            new software, restructuring teams.\n            |\n            v\n   [3. REFREEZING]      --> Solidifying the new habits into institutional SOPs, compensation\n                            systems, and cultural norms so people don't regress to old ways.\n```\n\n## Force Field Analysis:\nEvery status quo is held in balance by two opposing forces:\n- **Driving Forces:** Pushing toward change (new tech, competitor pressure).\n- **Restraining Forces:** Resisting change (fear of unknown, habit, loss of status).\n- *Lewin's Principle:* Rather than violently increasing driving pressure, **the most effective change strategy is to remove the restraining forces**!"
+        },
+        {
+            "id": "io_teams_11",
+            "type": "content",
+            "title": "Diversity and Faultline Theory (Lau & Murnighan)",
+            "content": "# Diversity in Teams: The Power of Faultlines\n\nDoes diversity enhance team performance? Research reveals a nuanced picture based on **Surface-Level** vs. **Deep-Level** diversity:\n\n## Dora Lau and Keith Murnighan's Faultline Theory (1998):\n**Faultlines** are hypothetical dividing lines that split a team into sub-groups based on the alignment of multiple demographic attributes:\n\n```\n   WEAK FAULTLINE (Dispersed Attributes):        STRONG FAULTLINE (Aligned Attributes):\n   - Member 1: Young White Male, Tech expert.    - Subgroup A: Young White Males, Tech engineers.\n   - Member 2: Older Black Female, Marketer.     - Subgroup B: Older Hispanic Females, Marketers.\n   - Member 3: Young Asian Female, Tech expert.  ==> SEVERE TOXIC INGROUP-OUTGROUP SCHISM!\n   - Member 4: Older White Male, HR specialist.      Communication collapses; \"Us vs Them\" war!\n```\n\nStrong faultlines create political tribalism within teams unless cross-cutting superordinate goals unite them."
+        },
+        {
+            "id": "io_teams_12",
+            "type": "content",
+            "title": "Virtual & Cross-Functional Team Dynamics",
+            "content": "# Virtual Teams in the Global Economy\n\nManaging geographically dispersed, asynchronous virtual teams requires distinct I-O principles:\n\n- **Swift Trust (Meyerson et al., 1996):** In temporary virtual teams, members must adopt a default assumption of competence and trust from day one, rather than waiting months to build rapport.\n- **Communication Cadence:** High-performing virtual teams establish predictable, asynchronous communication rhythms and transparent documentation, avoiding endless video meetings.\n- **Combatting Virtual Social Loafing:** Ensuring distinct individual output visibility on shared digital dashboards."
+        },
+        {
+            "id": "io_teams_quiz_4",
+            "type": "quiz",
+            "title": "Lewin & Faultline Theory Check",
+            "content": "Verify your understanding of change models and team faultlines!",
+            "quizQuestion": "In Kurt Lewin's Force Field Analysis, what is the most effective and psychologically durable strategy to achieve lasting organizational change?",
+            "quizOptions": [
+                "Applying overwhelming authoritative force to push driving pressures",
+                "Identifying and reducing or removing the restraining forces that resist change",
+                "Firing all current employees and hiring an entirely new workforce",
+                "Ignoring the problem and hoping it resolves naturally"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "io_teams_13",
+            "type": "content",
+            "title": "Organizational Agility & Network Structures",
+            "content": "# Reimagining Structure: The Agile Organization\n\nTraditional bureaucratic silos (tall hierarchies with slow vertical communication) are collapsing in volatile, uncertain, complex, and ambiguous (VUCA) markets:\n\n```\n   TRADITIONAL BUREAUCRACY                     AGILE NETWORK ORGANIZATION\n   +---------------------------------------+   +----------------------------------------+\n   | - Rigid command-and-control silos     |   | - Decentralized network of empowered   |\n   | - Slow, sequential approval layers    |     autonomous cross-functional squads     |\n   | - Risk-averse, compliance-focused     |   | - Rapid 2-week sprint iterations       |\n   | - Fixed annual budgeting cycles       |   | - Rapid psychological learning loops   |\n   +---------------------------------------+   +----------------------------------------+\n```"
+        },
+        {
+            "id": "io_teams_14",
+            "type": "content",
+            "title": "Comprehensive Framework of Organizational Dynamics",
+            "content": "# The Multilevel System of Organizational Behavior\n\n| Level of Analysis | Key Construct | Primary Scientific Model |\n|---|---|---|\n| **Small Group / Team** | Developmental Life Cycle | Tuckman's 5 Stages & Gersick's Midpoint Model. |\n| **Cognitive Process** | Distributed Intelligence | Transactive Memory Systems & Shared Mental Models. |\n| **Interpersonal** | Productive Disagreement | Moderate Task Conflict vs Zero Relationship Conflict. |\n| **Cultural** | Deep Operating Assumptions | Edgar Schein's 3-Level Culture Iceberg. |\n| **Macro-Change** | System Transformation | Lewin's Force Field & Kotter's 8-Step Architecture. |\n| **Structural** | Demographic Friction | Lau & Murnighan's Faultline Theory. |"
+        },
+        {
+            "id": "io_teams_15",
+            "type": "content",
+            "title": "Module Synthesis: Teams & Organizational Behavior",
+            "content": "# Key Takeaways: Teams & Organizational Behavior\n\n```\n+-----------------------------------------------------------------------------------------+\n|                                 MODULE SUMMARY MATRIX                                   |\n+-----------------------+-----------------------------+-----------------------------------+\n| Concept / Model       | Key Pioneers                | Core Scientific Principle         |\n+-----------------------+-----------------------------+-----------------------------------+\n| 5 Stages of Teams     | Bruce Tuckman (1965)        | Forming -> Storming -> Norming -> |\n|                       |                             | Performing -> Adjourning.         |\n+-----------------------+-----------------------------+-----------------------------------+\n| Punctuated Equilibrium| Connie Gersick (1988)       | Teams overhaul operating plans    |\n|                       |                             | at precisely the 50% midpoint.    |\n+-----------------------+-----------------------------+-----------------------------------+\n| 3 Levels of Culture   | Edgar Schein (1992)         | Artifacts, Espoused Values, and   |\n|                       |                             | Basic Underlying Assumptions.     |\n+-----------------------+-----------------------------+-----------------------------------+\n| 8-Step Change Model   | John Kotter (1996)          | Create urgency, build coalition,  |\n|                       |                             | generate wins, anchor new culture.|\n+-----------------------+-----------------------------+-----------------------------------+\n```\n\n## Final Lesson:\nHigh-performing organizations are not accidental; they are designed through disciplined team processes, psychologically safe cultures, and human-centered change leadership."
+        }
+    ]
+}

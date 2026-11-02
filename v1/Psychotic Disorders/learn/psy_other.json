@@ -1,0 +1,155 @@
+{
+    "id": "learn_psy_other",
+    "topicId": "psy_other",
+    "topicTitle": "Other Psychotic Disorders",
+    "description": "Understand the spectrum of other psychotic disorders including Schizoaffective Disorder, Brief Psychotic Disorder, Delusional Disorder, and secondary psychoses",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "psy_other_1",
+            "type": "content",
+            "title": "Introduction to the Psychotic Spectrum",
+            "content": "# The Spectrum of Psychotic Disorders\n\nWhile schizophrenia is the most prominent psychotic condition, DSM-5-TR delineates a broader spectrum of psychotic disorders distinguished by duration, affective involvement, and specificity of delusional content.\n\n## The Major Differential Entities:\n1. **Brief Psychotic Disorder**: Sudden, acute psychotic symptoms lasting from **1 day to less than 1 month**, with full return to premorbid functioning.\n2. **Schizophreniform Disorder**: Identical to schizophrenia in symptoms, but total duration is **at least 1 month and less than 6 months**.\n3. **Schizoaffective Disorder**: Concurrently exhibits full criteria for a major mood episode alongside active psychotic symptoms, plus a period of isolated psychosis.\n4. **Delusional Disorder**: Presence of non-bizarre or bizarre delusions for **at least 1 month**, without other hallucinations, disorganized speech, or marked behavioral impairment.\n5. **Substance/Medication-Induced Psychotic Disorder**.\n6. **Psychotic Disorder Due to Another Medical Condition**."
+        },
+        {
+            "id": "psy_other_2",
+            "type": "content",
+            "title": "The Duration Continuum: Brief Psychotic to Schizophrenia",
+            "content": "# The Duration Spectrum\n\nPsychotic disorders sharing core schizophrenic symptoms are categorized systematically by their **total duration of illness**:\n\n```\n+-------------------------------------------------------------+\n| 1. Brief Psychotic Disorder:                                |\n|    Duration: >= 1 day to < 1 month (Full Return to Baseline)|\n+-------------------------------------------------------------+\n                               |\n                               v (If symptoms persist past 1 month)\n+-------------------------------------------------------------+\n| 2. Schizophreniform Disorder:                               |\n|    Duration: >= 1 month to < 6 months (Provisional diagnosis)|\n+-------------------------------------------------------------+\n                               |\n                               v (If symptoms persist past 6 months)\n+-------------------------------------------------------------+\n| 3. Schizophrenia:                                           |\n|    Duration: >= 6 continuous months                         |\n+-------------------------------------------------------------+\n```\n\n> **Provisional Diagnosis:** When a patient presents with 2 months of active psychosis, the formal diagnosis is *'Schizophreniform Disorder (Provisional)'*. If symptoms resolve at month 4, the diagnosis remains Schizophreniform; if symptoms persist beyond month 6, the diagnosis is officially updated to Schizophrenia."
+        },
+        {
+            "id": "psy_other_3",
+            "type": "content",
+            "title": "Brief Psychotic Disorder (DSM-5-TR)",
+            "content": "# Brief Psychotic Disorder\n\n**Brief Psychotic Disorder** involves the sudden, acute onset of psychotic symptoms with eventual **complete, full remission**.\n\n## Diagnostic Criteria:\n- Sudden onset of at least one of the following:\n  1. Delusions\n  2. Hallucinations\n  3. Disorganized speech\n  4. Grossly disorganized or catatonic behavior\n- Duration of the episode is **at least 1 day but less than 1 month**.\n- Eventual **full return to the premorbid level of functioning**.\n\n## Specifiers:\n- **With Marked Stressor(s) (Brief Reactive Psychosis)**: Symptoms emerge in direct response to overwhelming traumatic events (bereavement, war, catastrophic loss).\n- **Without Marked Stressor(s)**.\n- **With Postpartum Onset**: Emerging during pregnancy or within 4 weeks postpartum (presents with high acute infanticide/suicide risk requiring emergency protection)."
+        },
+        {
+            "id": "psy_other_quiz_1",
+            "type": "quiz",
+            "title": "Duration Spectrum Check",
+            "content": "Verify knowledge of psychotic diagnostic duration thresholds.",
+            "quizQuestion": "A patient experiences sudden visual and auditory hallucinations with persecutory delusions following a severe car accident. All symptoms completely resolve on day 18, and the patient returns to their normal baseline. What is the diagnosis?",
+            "quizOptions": [
+                "Schizophrenia",
+                "Brief Psychotic Disorder (With Marked Stressor)",
+                "Schizophreniform Disorder",
+                "Delusional Disorder"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_other_4",
+            "type": "content",
+            "title": "Schizoaffective Disorder: The Diagnostic Boundary",
+            "content": "# Schizoaffective Disorder (DSM-5-TR)\n\n**Schizoaffective Disorder** resides at the diagnostic intersection between schizophrenia and mood disorders, often representing one of the most misused diagnoses in psychiatry.\n\n## Core Diagnostic Requirements:\n1. An uninterrupted period of illness during which there is a **major mood episode (Major Depressive Episode or Manic Episode)** concurrent with Criterion A of Schizophrenia.\n2. **The Mandatory 2-Week Rule of Isolated Psychosis**:\n   - **Delusions or hallucinations must be present for at least 2 weeks in the ABSENCE of a major mood episode** during the lifetime duration of the illness.\n3. Symptoms that meet criteria for a major mood episode are present for the **majority of the total duration** of the active and residual portions of the illness."
+        },
+        {
+            "id": "psy_other_5",
+            "type": "content",
+            "title": "Differentiating Schizoaffective from Mood Disorder with Psychosis",
+            "content": "# Schizoaffective vs. Major Depression with Psychotic Features\n\nUnderstanding the 2-week rule is the critical clinical differentiator:\n\n```\n+-------------------------------------------------------------+\n| Major Depressive / Bipolar Disorder with Psychotic Features:|\n| - Psychosis occurs EXCLUSIVELY during active mood episodes  |\n| - When mood normalizes, hallucinations and delusions vanish |\n+-------------------------------------------------------------+\n                               vs.\n+-------------------------------------------------------------+\n| Schizoaffective Disorder:                                   |\n| - Psychosis occurs BOTH during mood episodes AND during at  |\n|   least 2 weeks of completely normal/euthymic mood          |\n+-------------------------------------------------------------+\n```\n\n## The Two Subtypes of Schizoaffective Disorder:\n- **Bipolar Type**: If a manic episode is part of the clinical presentation (may also include major depressive episodes).\n- **Depressive Type**: If only major depressive episodes are present."
+        },
+        {
+            "id": "psy_other_6",
+            "type": "content",
+            "title": "Delusional Disorder: Criteria and Phenomenology",
+            "content": "# Delusional Disorder (DSM-5-TR)\n\n**Delusional Disorder** is characterized by the presence of circumscribed, encapsulated delusions in an otherwise intact individual.\n\n## Diagnostic Core:\n- Presence of **one (or more) delusions with a duration of at least 1 month**.\n- Criterion A for Schizophrenia has **never been met** (hallucinations, if present, are not prominent and are related to the delusional theme, e.g., smelling foul body odor in somatic delusion).\n- **Preservation of Functioning**: Apart from the direct impact of the delusion or its ramifications, **functioning is not markedly impaired, and behavior is not obviously bizarre or odd**.\n- A patient with Delusional Disorder can run a successful company or maintain normal conversations as long as the specific delusional topic is not probed."
+        },
+        {
+            "id": "psy_other_quiz_2",
+            "type": "quiz",
+            "title": "Schizoaffective Rule Check",
+            "content": "Verify understanding of the schizoaffective diagnostic rule.",
+            "quizQuestion": "To confirm a diagnosis of Schizoaffective Disorder instead of Major Depression with Psychotic Features, delusions or hallucinations must occur for at least what duration in the complete absence of a prominent mood episode?",
+            "quizOptions": [
+                "At least 48 hours",
+                "At least 2 weeks",
+                "At least 6 continuous months",
+                "At least 1 year"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_other_7",
+            "type": "content",
+            "title": "Subtypes of Delusional Disorder",
+            "content": "# The Seven Subtypes of Delusional Disorder\n\nDSM-5-TR delineates seven specific thematic subtypes:\n\n1. **Erotomanic Subtype**: Belief that another person, usually of higher social status or a celebrity, is secretly in love with them (De Clerambault's syndrome).\n2. **Grandiose Subtype**: Belief of having some great unrecognized talent, insight, or special relationship with a deity or prominent person.\n3. **Jealous Subtype (Othello Syndrome)**: Fixed, unshakeable conviction that one's spouse or lover is unfaithful, based on incorrect inferences from trivial 'clues' (risks severe domestic violence).\n4. **Persecutory Subtype**: Belief of being conspired against, spied on, cheated, poisoned, or maliciously harassed (most common subtype).\n5. **Somatic Subtype**: Belief regarding bodily functions or sensations (e.g., infestation of parasites, emission of foul body odor, misshapen body parts).\n6. **Mixed Subtype**: Features of more than one subtype.\n7. **Unspecified Subtype**."
+        },
+        {
+            "id": "psy_other_8",
+            "type": "content",
+            "title": "Rare Psychotic Syndromes: Capgras, Cotard, and Folie a Deux",
+            "content": "# Classic Neuropsychiatric Psychotic Syndromes\n\n## 1. Capgras Delusion (Delusional Misidentification Syndrome):\n- The fixed belief that a close family member (spouse, child, parent) has been replaced by an identical-looking **impostor or clone**.\n- Neurobiology: Caused by a neurological disconnection between facial recognition centers (fusiform gyrus) and emotional appraisal circuits (limbic amygdala). The patient recognizes the face visually, but feels zero internal emotional warmth, concluding: *'They look like my wife, but they must be an impostor.'*\n\n## 2. Cotard Delusion (Walking Corpse Syndrome):\n- Nihilistic delusion where the patient firmly believes they are dead, putrefying, have lost their internal organs, or no longer exist.\n\n## 3. Shared Psychotic Disorder (Folie a Deux):\n- A delusional belief developed by an individual in the context of a close relationship with another person who already has an established delusion."
+        },
+        {
+            "id": "psy_other_9",
+            "type": "content",
+            "title": "Substance/Medication-Induced Psychotic Disorder",
+            "content": "# Substance/Medication-Induced Psychosis\n\nDirect physiological intoxication or withdrawal from chemicals represents one of the most frequent causes of acute emergency psychotic presentations.\n\n## Primary Chemical Culprits:\n- **CNS Stimulants**: Methamphetamine, cocaine, prescription amphetamines (Adderall), and synthetic cathinones ('bath salts'). Cause massive synaptic dopamine surges, inducing florid paranoid psychosis, tactile hallucinations ('formication' - bugs crawling under skin), and violent delirium.\n- **Cannabinoids**: High-potency synthetic cannabinoids ('Spice / K2') and high-THC concentrates.\n- **Hallucinogens & Dissociatives**: PCP, ketamine, LSD, psilocybin.\n- **Alcohol Withdrawal**: **Delirium Tremens (DTs)** (visual and tactile hallucinations, autonomic instability, seizures, mortality > 5%) and **Alcoholic Hallucinosis** (auditory voices with clear sensorium).\n- **Prescription Drugs**: High-dose corticosteroids, anticholinergics, dopamine agonists."
+        },
+        {
+            "id": "psy_other_quiz_3",
+            "type": "quiz",
+            "title": "Rare Psychotic Syndromes Check",
+            "content": "Verify knowledge of neuropsychiatric delusional syndromes.",
+            "quizQuestion": "A patient visually recognizes his wife's facial features but adamantly insists she is an identical impostor sent by an agency because he feels zero emotional familiarity when looking at her. What syndrome is this?",
+            "quizOptions": [
+                "Cotard Delusion",
+                "Capgras Delusion",
+                "Othello Syndrome",
+                "De Clerambault Syndrome"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_other_10",
+            "type": "content",
+            "title": "Psychotic Disorder Due to Another Medical Condition",
+            "content": "# Medical Mimics of Psychosis\n\nClinicians must rigorously rule out organic systemic medical and neurological diseases prior to diagnosing a primary psychiatric illness.\n\n## Major Organic Etiologies:\n- **Anti-NMDA Receptor Encephalitis**: Autoimmune syndrome caused by antibodies against GluN1 subunits of NMDA receptors (often associated with ovarian teratomas in young women). Presents with rapid-onset psychosis, catatonia, autonomic instability, and seizures.\n- **Temporal Lobe Epilepsy (TLE)**: Complex partial seizures presenting with visual or olfactory hallucinations, d\u00e9j\u00e0 vu, and postictal psychosis.\n- **Systemic Lupus Erythematosus (CNS Lupus)**: Neuropsychiatric lupus presenting with acute confusion and delusions.\n- **Endocrine Disorders**: Severe hyperthyroidism (thyrotoxicosis) or severe hypothyroidism ('myxedema madness'); Cushing's syndrome.\n- **Infectious & Metabolic**: Neurosyphilis, HIV-associated dementia, Wilson's disease, acute intermittent porphyria."
+        },
+        {
+            "id": "psy_other_11",
+            "type": "content",
+            "title": "Postpartum Psychosis: A Medical Emergency",
+            "content": "# Postpartum Psychosis\n\n**Postpartum psychosis** is a rare (approx 1 to 2 per 1000 deliveries) but catastrophic psychiatric emergency with acute onset typically within **2 to 14 days postpartum**.\n\n## Clinical Presentation:\n- Rapid onset of insomnia, cognitive disorientation, extreme mood lability, auditory hallucinations, and bizarre delusions often centered on the infant (e.g., *'The baby is possessed by a demon and must be killed to save its soul'*).\n\n## Emergency Management:\n- **Immediate Involuntary Hospitalization**: Required to ensure maternal and infant safety (infanticide risk approx 4%; maternal suicide risk approx 5%).\n- **Strict Infant Separation**: Mother must not be left unsupervised with the infant until full clinical stabilization.\n- **Underlying Etiology**: Almost always a severe presentation of underlying **Bipolar Disorder**; treated with atypical antipsychotics, lithium, and ECT."
+        },
+        {
+            "id": "psy_other_12",
+            "type": "content",
+            "title": "Attenuated Psychosis Syndrome: The Prodromal State",
+            "content": "# Attenuated Psychosis Syndrome\n\nIncluded in DSM-5 Section III (Conditions for Further Study), **Attenuated Psychosis Syndrome** captures youth at **Clinical High Risk (CHR)** for psychosis.\n\n## Diagnostic Core:\n- Presence of at least one of the following in attenuated (sub-threshold) form: delusions, hallucinations, or disorganized speech.\n- Symptoms must occur at least **once per week for the past month** and have begun or worsened in the past year.\n- Reality testing is **preserved**: The individual recognizes that the perceptions are unusual or that the odd beliefs may not be true.\n\n## Early Intervention Paradigm:\n- Approx 20% to 30% of CHR individuals convert to full psychosis within 2-3 years.\n- Treatment: **Cognitive Behavioral Therapy for Psychosis (CBTp)** and family support; antipsychotics are NOT recommended in the prodrome due to side effect burden unless full psychosis emerges."
+        },
+        {
+            "id": "psy_other_quiz_4",
+            "type": "quiz",
+            "title": "Postpartum Psychosis Check",
+            "content": "Verify emergency clinical management of postpartum psychosis.",
+            "quizQuestion": "Why does postpartum psychosis represent an acute medical emergency requiring immediate psychiatric hospitalization?",
+            "quizOptions": [
+                "It causes immediate permanent paralysis of the mother's vocal cords",
+                "It carries an extraordinarily high immediate risk of infant injury/infanticide and maternal suicide",
+                "It leads to permanent kidney failure within 24 hours",
+                "It is caused by an untreatable airborne pathogen"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "psy_other_13",
+            "type": "content",
+            "title": "Differential Diagnosis Framework for Psychosis",
+            "content": "# Comprehensive Differential Diagnostic Algorithm\n\nWhen evaluating a psychotic patient, clinicians navigate a systematic diagnostic tree:\n\n```\n                    [Patient Presents with Psychosis]\n                                   |\n                                   v\n         [Is it due to a medical condition or substance?]\n                 YES ---> Treat underlying medical cause or detox\n                 NO  ---> Proceed to primary psychiatric tree\n                                   |\n                                   v\n         [Are mood episodes present for majority of illness?]\n                 YES ---> Schizoaffective Disorder OR Mood Disorder with Psychosis\n                 NO  ---> Proceed to non-affective psychotic tree\n                                   |\n                                   v\n         [What is the total duration of the disturbance?]\n                 < 1 Month   ---> Brief Psychotic Disorder\n                 1 - 6 Months ---> Schizophreniform Disorder\n                 >= 6 Months  ---> Schizophrenia\n```"
+        },
+        {
+            "id": "psy_other_14",
+            "type": "content",
+            "title": "Prognostic Factors across Psychotic Disorders",
+            "content": "# Prognostic Indicators in Psychotic Illness\n\nLong-term outcomes across the psychotic spectrum vary dramatically based on specific clinical parameters.\n\n## Good Prognostic Indicators:\n- Acute, sudden onset (rapid escalation over days rather than insidious onset over years).\n- Older age of onset.\n- Presence of prominent precipitating psychosocial stressors.\n- Good premorbid social, sexual, and occupational functioning.\n- Prominent mood (affective) symptoms.\n- Positive symptoms predominant over negative symptoms.\n- Strong family and social support systems.\n\n## Poor Prognostic Indicators:\n- Insidious, gradual onset with prominent prodromal negative symptoms.\n- Young age of onset (early adolescence).\n- Absence of precipitants; family history of schizophrenia.\n- Structural brain abnormalities (ventricular enlargement).\n- Long **Duration of Untreated Psychosis (DUP)**."
+        },
+        {
+            "id": "psy_other_15",
+            "type": "content",
+            "title": "Summary of Other Psychotic Disorders",
+            "content": "# Other Psychotic Disorders Summary\n\n## Master Clinical Pearls:\n1. **Duration Hierarchy**: Brief Psychotic Disorder (< 1 month), Schizophreniform (1-6 months), Schizophrenia (>= 6 months).\n2. **Schizoaffective Rule**: Requires >= 2 weeks of isolated delusions/hallucinations in the absence of a major mood episode.\n3. **Delusional Disorder**: >= 1 month of encapsulated delusions with preserved overall functioning and no bizarre behavior.\n4. **Neuropsychiatric Syndromes**: Capgras (impostor delusion from fusiform-limbic disconnection), Cotard (nihilistic belief of death), Othello (morbid jealousy).\n5. **Medical & Substance Mimics**: Always rule out Anti-NMDA encephalitis, temporal lobe epilepsy, steroid psychosis, and stimulant toxicity.\n6. **Postpartum Crisis**: Severe emergency linked to bipolar diathesis carrying acute infanticide and maternal suicide risks."
+        }
+    ]
+}

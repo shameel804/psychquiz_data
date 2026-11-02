@@ -1,0 +1,155 @@
+{
+    "id": "learn_adult_death",
+    "topicId": "adult_death",
+    "topicTitle": "Death, Dying & Bereavement",
+    "description": "Examine the psychology of mortality and loss, analyzing Kubler-Ross's stages of dying, Stroebe and Schut's dual-process model of bereavement, palliative and hospice care, and cross-cultural grieving rituals.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "adult_death_1",
+            "type": "content",
+            "title": "The Psychology of Mortality",
+            "content": "# Thanatology: The Study of Death and Dying\n\nDeath is the universal, inevitable conclusion of the human developmental journey. **Thanatology** is the interdisciplinary scientific study of death, dying, grief, and bereavement.\n\n## The Evolution of Mortality:\n- In pre-industrial societies, death occurred at home at all ages, surrounded by multi-generational family.\n- In modern post-industrial societies, death has been medicalized and institutionalized: over 70% of deaths occur in hospitals or nursing facilities, often hidden from daily view.\n\n## The Core Dimensions:\n1. The psychological journey of facing one's own terminal illness.\n2. The architecture of grief and mourning in surviving loved ones.\n3. Palliative care and hospice philosophies.\n4. Cross-cultural and philosophical frameworks of death."
+        },
+        {
+            "id": "adult_death_2",
+            "type": "content",
+            "title": "Kubler-Ross's Five Stages of Dying (1969)",
+            "content": "# Elisabeth Kubler-Ross: On Death and Dying\n\nSwiss-American psychiatrist Elisabeth Kubler-Ross revolutionized medical practice by interviewing hundreds of terminally ill hospital patients, outlining five psychological reactions:\n\n```\n[1. DENIAL]       ---> \"No, not me! The lab tests must be mistaken; there was a mix-up.\"\n         |\n         v\n[2. ANGER]        ---> \"Why me? It's not fair!\" Resentment directed at doctors, family, God.\n         |\n         v\n[3. BARGAINING]   ---> \"If I can just live to see my daughter graduate, I'll do anything.\"\n         |\n         v\n[4. DEPRESSION]   ---> Grieving impending losses (reactive) and bidding farewell to life (preparatory).\n         |\n         v\n[5. ACCEPTANCE]   ---> A quiet peace devoid of intense struggle; emotional rest before the end.\n```"
+        },
+        {
+            "id": "adult_death_3",
+            "type": "content",
+            "title": "Modern Critiques of the Stage Model",
+            "content": "# Deconstructing the Five Stages\n\nWhile Kubler-Ross broke medical taboos about discussing terminal illness, contemporary developmentalists caution against treating her model as a rigid, prescriptive sequence:\n\n## Major Scientific Critiques:\n- **No Invariant Sequence:** Patients do not progress neatly through stages 1 to 5. Real dying involves messy, fluctuating emotional waves (experiencing anger, denial, and acceptance within the same afternoon!).\n- **The Danger of Prescriptive Expectations:** Well-meaning nurses and family members sometimes criticize patients for *\"doing death wrong\"* if they fail to reach \"Acceptance\".\n- **Emotional Individuality:** How a person dies reflects their lifetime personality, cultural spirituality, and coping style."
+        },
+        {
+            "id": "adult_death_quiz_1",
+            "type": "quiz",
+            "title": "Kubler-Ross Check",
+            "content": "Verify your understanding of Kubler-Ross's stages and contemporary critiques!",
+            "quizQuestion": "According to contemporary thanatological research, what is the primary scientific critique of Elisabeth Kubler-Ross's five-stage model of dying?",
+            "quizOptions": [
+                "Patients never experience sadness or anger when facing terminal illness",
+                "Empirical evidence demonstrates that dying does not follow a universal, linear, rigid stage progression, but involves individualized, fluctuating emotional states",
+                "Denial is the only psychological state that occurs during terminal illness",
+                "Acceptance is biologically impossible"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "adult_death_4",
+            "type": "content",
+            "title": "The Terminology: Grief, Bereavement, and Mourning",
+            "content": "# Deconstructing Loss Terminology\n\nThanatologists carefully distinguish three related constructs:\n\n## 1. Bereavement\n- The objective state of loss when a loved one dies (the factual reality of having lost a spouse, parent, child, or friend).\n\n## 2. Grief\n- The internal, subjective emotional, physical, cognitive, and spiritual reaction to that loss.\n- Encompasses sorrow, shock, guilt, insomnia, physical somatic pain, anger, and longing.\n\n## 3. Mourning\n- The external, cultural, and social behavioral practices and rituals through which grief is publicly expressed (wearing black clothes, holding a wake, shiva, funeral services)."
+        },
+        {
+            "id": "adult_death_5",
+            "type": "content",
+            "title": "The Dual-Process Model of Bereavement (Stroebe & Schut)",
+            "content": "# Stroebe & Schut's Dual-Process Model (1999)\n\nMargaret Stroebe and Henk Schut replaced outdated \"grief work\" models with a dynamic, oscillatory framework:\n\n```\n                                  [THE DAILY BEREAVEMENT PROCESS]\n                                                |\n         +--------------------------------------+--------------------------------------+\n         |                                                                             |\n[LOSS-ORIENTED COPING]                                             [RESTORATION-ORIENTED COPING]\n- Focusing on the deceased person                                  - Attending to life changes & new tasks\n- Crying, yearning, looking at old photos                          - Learning new skills (cooking, banking)\n- Processing emotional pain of absence                             - Rebuilding social identity, distractions\n         |                                                                             |\n         +<====================(DYNAMIC OSCILLATION)==================================>+\n```\n\n## The Healthy Mechanism: Oscillation\n- Healthy grieving requires **oscillating** back and forth between confronting the loss and taking respite in everyday restoration activities."
+        },
+        {
+            "id": "adult_death_6",
+            "type": "content",
+            "title": "Continuing Bonds Theory (Klass, Silverman, & Nickman)",
+            "content": "# Continuing Bonds Theory (1996)\n\nFor decades, traditional Freudian psychoanalysis argued that healthy recovery required \"decathexis\"\u2014severing all emotional ties to the deceased person to free up libido for new relationships.\n\n## The Continuing Bonds Paradigm:\n- Modern developmental research proves that healthy grieving does **NOT** require severing ties!\n- Instead, bereaved individuals construct an ongoing, transformed **internal mental relationship** with the deceased:\n  * Talking mentally to the deceased loved one for guidance.\n  * Continuing family traditions they cherished.\n  * Carrying their moral values and legacy into daily choices.\n- Bereavement is about transforming the connection, not breaking it."
+        },
+        {
+            "id": "adult_death_quiz_2",
+            "type": "quiz",
+            "title": "Dual-Process & Continuing Bonds Check",
+            "content": "Evaluate your understanding of Stroebe & Schut's model and continuing bonds!",
+            "quizQuestion": "In Stroebe and Schut's Dual-Process Model of Bereavement, healthy adjustment to the death of a spouse is characterized by:",
+            "quizOptions": [
+                "Unbroken, permanent dwelling exclusively on loss-oriented grief without respite",
+                "Dynamic oscillation between loss-oriented coping (yearning/grief) and restoration-oriented coping (adapting to new daily tasks)",
+                "Complete emotional detachment and severance of all memories within two weeks",
+                "Immediate hospitalization and pharmacological sedation"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "adult_death_7",
+            "type": "content",
+            "title": "Prolonged Grief Disorder (Complicated Grief)",
+            "content": "# Prolonged Grief Disorder (DSM-5-TR)\n\nWhile intense pain is normative after bereavement, approximately **10% of bereaved individuals** develop **Prolonged Grief Disorder (PGD)**:\n\n## Diagnostic Criteria:\n- Persists for at least **12 months** following the death (6 months in children).\n- Pervasive, intense yearning/longing for the deceased or preoccupation with thoughts of the deceased most of the day nearly every day.\n- Accompanied by: identity disruption, disbelief about the death, intense emotional numbness, feeling that life is meaningless, severe loneliness.\n\n## Neurobiology of PGD:\n- Functional neuroimaging (Mary-Frances O'Connor) shows that viewing photos of the deceased in PGD activates the **nucleus accumbens (reward/craving pathway)**, treating the deceased person like an addictive drug that cannot be obtained!"
+        },
+        {
+            "id": "adult_death_8",
+            "type": "content",
+            "title": "Palliative and Hospice Care Philosophies",
+            "content": "# Hospice and Palliative Care\n\nFounded by Dame Cicely Saunders in London (St. Christopher's Hospice, 1967), the hospice movement transformed end-of-life medicine:\n\n## Curative Care vs. Palliative Care:\n- **Curative / Aggressive Care:** Goal is eradicating disease, extending biological lifespan at all costs (chemotherapy, ventilators, CPR).\n- **Palliative Care:** Specialized medical care focused on relieving symptoms, physical pain, and emotional stress of serious illness at any stage.\n- **Hospice Care:** Palliative care specifically for terminal patients with an estimated life expectancy of **6 months or less**, forgoing curative interventions.\n\n## Core Hospice Tenets:\n- Death is treated as a natural developmental milestone, not a medical failure.\n- Emphasizes pain control, dignity, psychological support, and holistic family bereavement care."
+        },
+        {
+            "id": "adult_death_9",
+            "type": "content",
+            "title": "Advance Directives and End-of-Life Autonomy",
+            "content": "# Legal Instruments of Patient Autonomy\n\nHow do individuals maintain self-determination when cognitive capacity fails?\n\n## 1. Advance Health Care Directives\n- **Living Will:** Written legal document specifying which medical treatments a person wants or rejects (e.g., mechanical ventilation, cardiopulmonary resuscitation, artificial nutrition/feeding tubes) if they become terminally ill or permanently unconscious.\n- **Durable Power of Attorney for Healthcare (Healthcare Proxy):** Designating a trusted surrogate to make medical decisions if the patient becomes incapacitated.\n\n## 2. Do-Not-Resuscitate (DNR) Orders\n- Specific medical orders instructing healthcare staff not to attempt CPR if breathing or heartbeat stops, preventing traumatic rib fractures and hypoxic brain damage in frail elders."
+        },
+        {
+            "id": "adult_death_quiz_3",
+            "type": "quiz",
+            "title": "Hospice & Legal Autonomy Check",
+            "content": "Test your mastery of hospice philosophy and advance directives!",
+            "quizQuestion": "What is the primary philosophical and clinical objective of Hospice Care for terminally ill patients?",
+            "quizOptions": [
+                "Executing aggressive experimental chemotherapy to prolong biological life at all costs",
+                "Providing holistic symptom management, pain relief, and emotional dignity while treating death as a natural developmental stage",
+                "Isolating terminal patients from family contact to maintain sterile medical hospital protocols",
+                "Forcing patients through Kubler-Ross's five stages within 48 hours"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "adult_death_10",
+            "type": "content",
+            "title": "Developmental Conceptions of Death",
+            "content": "# How Children and Adolescents Understand Death\n\nA mature, adult understanding of death requires mastering three biological sub-components (Mark Speece & Sandor Brent):\n\n1. **Irreversibility:** Once dead, living things cannot be brought back to life.\n2. **Universality:** All living things (including oneself, parents, and pets) must eventually die.\n3. **Cessation / Non-Functionality:** Death terminates all biological and mental functions (thinking, feeling, breathing, eating).\n\n## Developmental Timeline:\n- **Preschoolers (Ages 3-5):** View death as temporary, reversible, and sleep-like (*\"When will Grandpa wake up?\"*).\n- **School-Age Children (Ages 7-9):** Master all three components, often personifying death as a skeleton, boogeyman, or ghost."
+        },
+        {
+            "id": "adult_death_11",
+            "type": "content",
+            "title": "Cross-Cultural Perspectives and Death Rituals",
+            "content": "# Cultural Diversity in Mourning and Mortality\n\nMourning rituals vary dramatically across global cultures, reflecting distinct metaphysical beliefs:\n\n## 1. Judaism: Shiva and Kaddish\n- Structured, gradual communal mourning: 7 days of intensive home mourning (**Shiva**), followed by 30 days of gradual resumption (**Sheloshim**), providing collective social containment.\n\n## 2. Mexico: Dia de los Muertos (Day of the Dead)\n- Joyful annual celebration welcoming back the spirits of deceased ancestors with altars (ofrendas), marigold flowers, music, and food; death is celebrated as a continuous link with life.\n\n## 3. Ghana: Fantasy Coffins (Abebuu Adekai)\n- Sculpted wooden coffins crafted into airplanes, fish, or cars honoring the deceased's occupation and status, celebrating their life triumphantly."
+        },
+        {
+            "id": "adult_death_12",
+            "type": "content",
+            "title": "Terror Management Theory (Greenberg, Solomon, & Pyszczynski)",
+            "content": "# Terror Management Theory (TMT)\n\nBased on anthropologist Ernest Becker's Pulitzer-winning work *The Denial of Death*:\n\n## The Core Psychological Conflict:\n- Humans possess an advanced neocortex capable of anticipating our own inevitable future mortality, paired with an instinctual, evolutionary biological drive for survival.\n- This juxtaposition generates potentially paralyzing **existential terror**.\n\n## The Cultural Anxiety Buffer:\n- To manage this terror, humans cling fiercely to two psychological buffers:\n  1. **Cultural Worldviews:** Meaning systems (religions, national identities) that offer literal or symbolic immortality.\n  2. **Self-Esteem:** Believing that one is a valuable contributor within that cultural worldview.\n\n## Mortality Salience Effect:\n- Reminding people of their own death causes them to cling more dogmatically to their in-group and judge cultural outsiders more harshly."
+        },
+        {
+            "id": "adult_death_quiz_4",
+            "type": "quiz",
+            "title": "Developmental & Cultural Thanatology Check",
+            "content": "Verify your understanding of children's death concepts and Terror Management Theory!",
+            "quizQuestion": "In Terror Management Theory (TMT), what dual psychological buffer shields human beings from the paralyzing existential anxiety of knowing that death is inevitable?",
+            "quizOptions": [
+                "Cultural worldviews providing symbolic immortality and personal self-esteem",
+                "Sensory adaptation and habituation",
+                "The Stroop effect and working memory suppression",
+                "Insecure-avoidant attachment styles"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "adult_death_13",
+            "type": "content",
+            "title": "Traumatic Loss and Disenfranchised Grief",
+            "content": "# Specialized Bereavement Dilemmas\n\n## 1. Disenfranchised Grief (Kenneth Doka)\n- Grief that persons experience when they incur a loss that is not or cannot be openly acknowledged, publicly mourned, or socially supported.\n- *Examples:* Miscarriage or stillbirth, abortion, death of an ex-spouse, death of an illicit lover, death of a pet, or death from stigmatized causes (overdose, suicide).\n\n## 2. Traumatic Loss and Sudden Death\n- Sudden, violent deaths (accidents, homicide, disaster) disrupt the survivor's basic assumptions about a predictable, safe world, often precipitating co-morbid PTSD alongside bereavement."
+        },
+        {
+            "id": "adult_death_14",
+            "type": "content",
+            "title": "Post-Traumatic Growth Following Loss",
+            "content": "# Post-Traumatic Growth (Tedeschi & Calhoun)\n\nCan enduring the agony of loss produce profound positive psychological transformation?\n\n## Dimensions of Post-Traumatic Growth (PTG):\n- PTG does not mean the absence of grief or that loss was \"good\"; it represents the transformative maturation that can emerge from struggling with existential trauma:\n  1. **Deeper Appreciation of Life:** Valuing everyday moments and reprioritizing life goals.\n  2. **Enhanced Personal Strength:** *\"If I survived this, I can handle anything.\"*\n  3. **Deepened Relationships:** Closer emotional bonds with fellow survivors and greater empathy for human suffering.\n  4. **Spiritual and Existential Clarity:** Developing a profound, resilient philosophy of existence."
+        },
+        {
+            "id": "adult_death_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Death, Dying & Bereavement\n\n## Core Principles Mastered:\n\n### 1. Facing Mortality (Kubler-Ross)\n- Five reactions: Denial, Anger, Bargaining, Depression, Acceptance; modern view recognizes non-linear emotional individuality.\n\n### 2. Coping with Bereavement\n- Stroebe & Schut's Dual-Process Model: Dynamic oscillation between loss-oriented and restoration-oriented coping.\n- Continuing Bonds Theory: Healthy adaptation preserves internal transformed connections with the deceased.\n- Prolonged Grief Disorder affects reward/craving circuitry.\n\n### 3. Palliative Care & Patient Autonomy\n- Hospice philosophy focuses on dignity, pain management, and family support.\n- Advance directives, living wills, and DNR orders safeguard end-of-life choices.\n\n### 4. Cultural & Existential Frameworks\n- Children master irreversibility, universality, and cessation by age 7-9.\n- Terror Management Theory reveals how mortality salience reinforces cultural worldviews and self-esteem.\n\n> **Congratulations!** You have completed the entire **Adult Development & Aging** course! You are now prepared to explore **Moral Development**!"
+        }
+    ]
+}

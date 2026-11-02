@@ -1,0 +1,155 @@
+{
+    "id": "learn_mood_persistent",
+    "topicId": "mood_persistent",
+    "topicTitle": "Persistent Depressive & Related Disorders",
+    "description": "Examine Persistent Depressive Disorder (dysthymia), Premenstrual Dysphoric Disorder, Disruptive Mood Dysregulation Disorder, and Seasonal Affective Disorder",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mood_persistent_1",
+            "type": "content",
+            "title": "Introduction to Chronic and Related Mood Disorders",
+            "content": "# The Spectrum of Chronic and Related Mood Disorders\n\nBeyond episodic Major Depressive Disorder and Bipolar Disorder, DSM-5-TR delineates specialized affective categories characterized by chronicity, unique developmental timing, or hormonal and seasonal triggers.\n\n## Key Diagnostic Entities:\n1. **Persistent Depressive Disorder (PDD / Dysthymia)**: Chronic low-grade depressive state lasting at least 2 continuous years.\n2. **Disruptive Mood Dysregulation Disorder (DMDD)**: Chronic, severe, persistent irritability and temper outbursts in children (ages 6 to 18).\n3. **Premenstrual Dysphoric Disorder (PMDD)**: Severe affective, cognitive, and somatic symptoms emerging during the luteal phase of the menstrual cycle.\n4. **Depressive Disorder with Seasonal Pattern (Seasonal Affective Disorder / SAD)**: Recurrent depressive episodes locked to specific photoperiod seasons."
+        },
+        {
+            "id": "mood_persistent_2",
+            "type": "content",
+            "title": "Persistent Depressive Disorder (Dysthymia)",
+            "content": "# Persistent Depressive Disorder (PDD)\n\nIn DSM-5, chronic major depressive disorder and dysthymic disorder were consolidated into **Persistent Depressive Disorder (PDD)**.\n\n## Diagnostic Core (DSM-5-TR):\n- Depressed mood for most of the day, for more days than not, for **at least 2 years** (at least 1 year in children and adolescents).\n\n## Presence of At Least 2 of the Following 6 Symptoms:\n1. Poor appetite or overeating.\n2. Insomnia or hypersomnia.\n3. Low energy or chronic fatigue.\n4. Low self-esteem.\n5. Poor concentration or difficulty making decisions.\n6. Feelings of hopelessness.\n\n## The Continuity Rule:\nDuring the 2-year period, the individual has never been without symptoms for **more than 2 months at a time**."
+        },
+        {
+            "id": "mood_persistent_3",
+            "type": "content",
+            "title": "Double Depression and Clinical Burden",
+            "content": "# Double Depression and Functional Impact\n\n## Double Depression:\n- Occurs when an individual with underlying Persistent Depressive Disorder develops a superimposed **Major Depressive Episode**.\n- Characterized by profound despair: even when the major depressive episode resolves, the patient does not return to healthy euthymia, but relapses back into their chronic dysthymic baseline.\n\n## The Psychological Trap of Dysthymia:\n- Because symptoms persist for years, patients often view their chronic dysphoria as an intrinsic part of their personality: *'This is just who I am; I was born negative.'*\n- Cumulative morbidity, marital dissolution, and career impairment often exceed those of episodic MDD due to unremitting, unrelenting chronicity."
+        },
+        {
+            "id": "mood_persistent_quiz_1",
+            "type": "quiz",
+            "title": "PDD Diagnostic Criteria Check",
+            "content": "Verify knowledge of PDD diagnostic thresholds.",
+            "quizQuestion": "What is the mandatory minimum duration of persistent low mood required to diagnose Persistent Depressive Disorder in an adult?",
+            "quizOptions": [
+                "6 consecutive months",
+                "1 year without interruption",
+                "2 consecutive years (with no symptom-free period > 2 months)",
+                "5 years with continuous hospitalization"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "mood_persistent_4",
+            "type": "content",
+            "title": "Treatment of PDD: The CBASP Model",
+            "content": "# Treating Chronic Depression: CBASP\n\nTraditional therapies often struggle with PDD. **James McCullough** developed the **Cognitive Behavioral Analysis System of Psychotherapy (CBASP)** specifically for chronic depression.\n\n## Core Principles of CBASP:\n- Chronic depression leads to a developmental arrest where patients become egocentric, pre-operational in thinking, and feel disconnected from their interpersonal environment.\n- Patients believe their behavior has zero impact on how others treat them ('learned helplessness').\n\n## Primary CBASP Interventions:\n- **Situational Analysis (SA)**: A 6-step problem-solving technique analyzing specific interpersonal interactions to teach patients that their behaviors directly produce outcomes.\n- **Interpersonal Discrimination Exercise (IDE)**: Distinguishing the therapist's benign, supportive reactions from past toxic, abusive caregivers.\n- **Large-Scale Trials**: Combining CBASP with antidepressant pharmacotherapy produces significantly higher response rates (approx 73% vs. 48% monotherapy)."
+        },
+        {
+            "id": "mood_persistent_5",
+            "type": "content",
+            "title": "Disruptive Mood Dysregulation Disorder (DMDD)",
+            "content": "# Disruptive Mood Dysregulation Disorder\n\n**DMDD** was introduced in DSM-5 to address the massive overdiagnosis of pediatric bipolar disorder in irritable children.\n\n## Core Diagnostic Features (DSM-5-TR):\n- **Severe Recurrent Temper Outbursts**: Manifested verbally (verbal rages) and/or behaviorally (physical aggression toward people or property) grossly out of proportion to the provocation.\n- **Frequency**: Outbursts occur, on average, **three or more times per week**.\n- **Chronic Inter-Outburst Irritability**: The mood between temper outbursts is persistently irritable or angry most of the day, nearly every day, observable by parents, teachers, and peers in at least **two settings**.\n- **Developmental Window**: Diagnosis should NOT be made for the first time before **age 6 or after age 18**. Onset must be prior to age 10."
+        },
+        {
+            "id": "mood_persistent_6",
+            "type": "content",
+            "title": "DMDD vs. Pediatric Bipolar Disorder",
+            "content": "# Diagnostic Distinctions: DMDD vs. Bipolar\n\nUnderstanding why DMDD was created is essential for clinical practice.\n\n| Feature | DMDD | Pediatric Bipolar Disorder |\n|---------|------|---------------------------|\n| Mood Course | **Chronic, continuous, non-episodic** irritability | **Episodic** discrete shifts (baseline -> mania -> baseline) |\n| Manic Symptoms | Grandiosity, decreased sleep need are **absent** | Grandiosity, decreased sleep need are **present** |\n| Longitudinal Course | Predicts adult **Depression and Anxiety Disorders** | Predicts adult **Bipolar Disorder** |\n| Primary Treatment | Parent Management Training (PMT), CBT, SSRIs | Mood Stabilizers (Lithium, Atypical Antipsychotics) |\n\n> **Critical Insight:** Children with chronic severe rages do NOT grow up to have bipolar mania; longitudinal studies prove they develop unipolar depression and anxiety in adulthood."
+        },
+        {
+            "id": "mood_persistent_quiz_2",
+            "type": "quiz",
+            "title": "DMDD Diagnostic Check",
+            "content": "Verify comprehension of DMDD diagnostic boundaries.",
+            "quizQuestion": "Disruptive Mood Dysregulation Disorder (DMDD) was introduced into DSM-5 primarily to reduce the clinical over-diagnosis of which pediatric condition?",
+            "quizOptions": [
+                "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+                "Pediatric Bipolar Disorder",
+                "Conduct Disorder",
+                "Autism Spectrum Disorder"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_persistent_7",
+            "type": "content",
+            "title": "Premenstrual Dysphoric Disorder (PMDD)",
+            "content": "# Premenstrual Dysphoric Disorder (PMDD)\n\n**PMDD** is a severe, biologically grounded neuroendocrine mood disorder affecting approx 3% to 8% of menstruating women.\n\n## The Luteal Phase Phenomenon:\n- In the majority of menstrual cycles, at least **5 symptoms** must be present in the final week before the onset of menses (**luteal phase**).\n- Symptoms must start to improve within a few days after the onset of menses and become minimal or absent in the week post-menses (**follicular phase**).\n\n## Mandatory Prospective Tracking:\n- Criteria must be confirmed by **prospective daily symptom ratings** (e.g., Daily Record of Severity of Problems - DRSP) across at least **two consecutive symptomatic menstrual cycles** to rule out retrospective reporting bias."
+        },
+        {
+            "id": "mood_persistent_8",
+            "type": "content",
+            "title": "PMDD Symptomatology and Neurobiology",
+            "content": "# PMDD Symptom Profile and Pathophysiology\n\n## Symptom Constellation (Must include at least 1 affective symptom):\n- **Affective Lability**: Sudden tearfulness, hypersensitivity to rejection.\n- **Marked Irritability or Anger**: Increased interpersonal conflicts.\n- **Depressed Mood**: Hopelessness, self-deprecating thoughts.\n- **Marked Anxiety / Tension**: Feeling 'keyed up' or 'on edge'.\n- **Cognitive / Somatic Symptoms**: Lethargy, food cravings, insomnia/hypersomnia, feeling overwhelmed, breast tenderness, bloating, joint pain.\n\n## Neurobiology: Not a Hormonal Deficiency\n- Women with PMDD have **normal peripheral estrogen and progesterone levels**.\n- The disorder is caused by an abnormal neurocellular sensitivity to normal physiological fluctuations of **allopregnanolone** (a progesterone metabolite and potent positive allosteric modulator of GABA-A receptors).\n- Triggers paradoxical GABA-A receptor dysregulation, blunting stress resiliency."
+        },
+        {
+            "id": "mood_persistent_9",
+            "type": "content",
+            "title": "Treatment of PMDD: SSRI Regimens and GnRH",
+            "content": "# Evidence-Based PMDD Treatments\n\n## 1. Selective Serotonin Reuptake Inhibitors (SSRIs):\n- SSRIs are the undisputed first-line treatment for PMDD (Fluoxetine, Sertraline, Paroxetine are FDA-approved).\n- **Unique Fast Onset**: Unlike MDD (which requires 4-6 weeks), SSRIs relieve PMDD symptoms **within hours to days**.\n- **Dosing Regimens**:\n  - **Continuous Daily Dosing**: Standard daily administration.\n  - **Luteal-Phase Dosing**: Starting the SSRI on day 14 of the cycle (ovulation) and discontinuing at onset of menses. Highly effective and reduces side-effect exposure.\n\n## 2. Hormonal Interventions:\n- Monophasic oral contraceptives containing **drospirenone** (Yaz).\n- **GnRH Agonists (Leuprolide)**: Suppresses ovulation entirely (induces chemical menopause); reserved for severe, refractory cases."
+        },
+        {
+            "id": "mood_persistent_quiz_3",
+            "type": "quiz",
+            "title": "PMDD Pharmacology Check",
+            "content": "Verify understanding of PMDD treatment protocols.",
+            "quizQuestion": "Which unique pharmacological dosing strategy is FDA-approved and clinically effective for treating PMDD with SSRIs?",
+            "quizOptions": [
+                "High-dose intramuscular injections once yearly",
+                "Luteal-phase dosing (administering the SSRI only during the 14 days prior to menses)",
+                "Administering SSRIs only during active menstrual bleeding",
+                "Pairing SSRIs with high-dose testosterone implants"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_persistent_10",
+            "type": "content",
+            "title": "Seasonal Affective Disorder (SAD)",
+            "content": "# Major Depression with Seasonal Pattern (SAD)\n\nFirst systematically described by **Norman Rosenthal** in 1984, **Seasonal Affective Disorder (SAD)** represents mood episodes synchronized to seasonal changes.\n\n## Diagnostic Pattern (DSM-5-TR):\n- Regular temporal relationship between onset of major depressive episodes and a particular time of year (typically fall or winter).\n- Full remissions (or switch to hypomania/mania) occur at a characteristic time of year (typically spring).\n- In the past 2 years, two major depressive episodes occurred seasonally with zero non-seasonal episodes.\n\n## Latitudinal Gradient:\n- Prevalence increases directly with northern or southern distance from the equator (e.g., approx 1.4% in Florida vs. 9.9% in Alaska)."
+        },
+        {
+            "id": "mood_persistent_11",
+            "type": "content",
+            "title": "The Atypical Symptom Profile of Winter SAD",
+            "content": "# Clinical Manifestations of Winter SAD\n\nWhile melancholic depression typically features insomnia and weight loss, Winter SAD presents with a classic **atypical neurovegetative profile** mimicking animal hibernation.\n\n## Hallmark Atypical Symptoms:\n- **Hypersomnia**: Prolonged sleep duration (sleeping 10-14 hours) accompanied by profound morning grogginess and sleep inertia.\n- **Hyperphagia & Carbohydrate Craving**: Intense cravings for starches and sweets, leading to noticeable seasonal weight gain.\n- **Leaden Paralysis**: Heavy, leaden feeling in the arms and legs.\n- **Extreme Fatigue**: Severe afternoon energy crashes.\n\n## Summer SAD (Reverse SAD):\n- Less common (approx 10% of SAD cases). Features classic melancholic symptoms: insomnia, decreased appetite, agitation, and weight loss triggered by excessive heat and light."
+        },
+        {
+            "id": "mood_persistent_12",
+            "type": "content",
+            "title": "Pathophysiology and Light Therapy for SAD",
+            "content": "# Circadian Biology and Phototherapy\n\n## Pathophysiology of SAD:\n- **Phase-Shift Hypothesis (Lewy)**: Diminished winter photoperiod causes a circadian phase-delay relative to the sleep-wake cycle.\n- **Melatonin Dysregulation**: Melatonin secretion duration is abnormally prolonged during long winter nights.\n- **Retinohypothalamic Tract**: Reduced blue-light stimulation of intrinsically photosensitive retinal ganglion cells (ipRGCs) expressing melanopsin, dampening suprachiasmatic nucleus (SCN) signaling.\n\n## Bright Light Therapy (BLT) Protocol:\n- **Intensity**: **10,000 Lux** of cool-white fluorescent or LED light (UV-filtered).\n- **Timing**: Immediately upon morning awakening for **30 minutes**.\n- **Distance**: 12 to 24 inches from eyes, positioned at a downward angle (eyes open, glancing periodically without staring).\n- Response occurs within 1 to 2 weeks, resetting circadian phase."
+        },
+        {
+            "id": "mood_persistent_quiz_4",
+            "type": "quiz",
+            "title": "SAD Phototherapy Check",
+            "content": "Verify knowledge of bright light therapy parameters.",
+            "quizQuestion": "What is the standard clinical prescription for bright light therapy (BLT) in the treatment of winter Seasonal Affective Disorder?",
+            "quizOptions": [
+                "500 Lux incandescent bulb for 10 minutes at bedtime",
+                "10,000 Lux UV-filtered light for 30 minutes upon morning awakening",
+                "50,000 Lux ultraviolet light directly into pupil for 2 hours",
+                "Continuous red-light exposure during overnight sleep"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mood_persistent_13",
+            "type": "content",
+            "title": "Substance/Medication-Induced Depressive Disorder",
+            "content": "# Secondary Depressive Etiologies\n\nMany depressive presentations are direct physiological consequences of external chemicals or medical illnesses.\n\n## Common Pharmacological Culprits:\n- **Antihypertensives**: Reserpine, beta-blockers, clonidine.\n- **Corticosteroids**: Prednisone, dexamethasone (frequently trigger euphoria/mania acutely, followed by severe depression upon taper).\n- **Interferon-Alpha**: Used in hepatitis C and cancer; induces severe depression with high suicide risk in up to 50% of patients.\n- **Substance Withdrawal**: Acute withdrawal from CNS stimulants (cocaine, methamphetamine, amphetamines) induces profound crash depression and suicidal thoughts.\n\n## Clinical Rule:\nAlways obtain urine toxicology, comprehensive metabolic panels, and complete medication histories before diagnosing primary psychiatric illness."
+        },
+        {
+            "id": "mood_persistent_14",
+            "type": "content",
+            "title": "Depression Due to Another Medical Condition",
+            "content": "# Medical Illnesses Masquerading as Depression\n\nMultiple organic systemic diseases present with prominent depressive phenotypes.\n\n## Endocrine and Neurological Mimics:\n- **Hypothyroidism**: Fatigue, weight gain, constipation, cold intolerance, cognitive slowing, and depressed mood (TSH screening is mandatory in all depressive evaluations).\n- **Cushing's Disease**: Hypercortisolemia causing depression, central obesity, buffalo hump, and purple striae.\n- **Parkinson's Disease**: Depressive symptoms often precede motor symptoms by years due to early substantia nigra and locus coeruleus degeneration.\n- **Stroke (Post-Stroke Depression - PSD)**: Particularly common following left anterior frontal cortical and basal ganglia infarctions.\n- **Pancreatic Carcinoma**: Unexplained new-onset depression in an older adult without personal psychiatric history."
+        },
+        {
+            "id": "mood_persistent_15",
+            "type": "content",
+            "title": "Summary of Chronic & Related Mood Disorders",
+            "content": "# Persistent & Related Mood Disorders Summary\n\n## Core Formulations:\n1. **Persistent Depressive Disorder (PDD)**: Depressed mood for >= 2 years without > 2 months remission; treated effectively with CBASP and antidepressants.\n2. **Double Depression**: Major depressive episodes superimposed on chronic dysthymia.\n3. **DMDD**: Chronic, non-episodic severe temper outbursts (>= 3/week) and persistent irritability in children (ages 6-18); predicts adult depression, not bipolar disorder.\n4. **PMDD**: Severe luteal-phase affective lability confirmed by prospective daily charting; responsive to luteal-phase SSRIs.\n5. **SAD**: Seasonal winter depression featuring atypical symptoms (hypersomnia, carb cravings); treated with 10,000 Lux morning bright light therapy.\n6. **Medical Rule-Outs**: Thyroid panels, medication reviews, and neuro-medical evaluations are required to exclude secondary depressive syndromes."
+        }
+    ]
+}

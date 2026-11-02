@@ -1,0 +1,155 @@
+{
+  "id": "learn_comm_prevention",
+  "topicId": "comm_prevention",
+  "topicTitle": "Prevention & Early Intervention",
+  "description": "Master the principles of prevention and early intervention in community psychology, analyzing primary/secondary/tertiary frameworks (Caplan), community needs assessment, program evaluation, and citizen empowerment.",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "comm_prevention_1",
+      "type": "content",
+      "title": "Introduction to Community Psychology",
+      "content": "# The Community Psychology Paradigm\n\nBorn at the historic **Swampscott Conference in 1965**, **Community Psychology** shifted the fundamental locus of psychological science from the isolated individual to the **ecological relationship between individuals and their social communities**.\n\n## The Core Shift in Clinical Philosophy:\n- Traditional clinical psychology waits in a private office for individuals to become broken, diagnosing internal pathology and offering individual treatment (**The Treatment / Medical Model**).\n- Community psychology asks: *'Why wait for people to fall into the river and drown? Why not walk upstream and fix the broken bridge that is causing them to fall into the river in the first place?'* (**The Prevention Model**).\n\n## Core Values of the Field:\n1. Prevention and Promotion of Competence\n2. Social Justice and Human Rights\n3. Ecological Context and Environmental Design\n4. Citizen Empowerment and Community Strengths\n5. Collaboration and Community Ownership"
+    },
+    {
+      "id": "comm_prevention_2",
+      "type": "content",
+      "title": "Gerald Caplan: The Three Tiers of Prevention",
+      "content": "# Caplan's Prevention Taxonomy (1964)\n\nAdapted from public health epidemiology, **Gerald Caplan** formulated the classic three-tiered model of psychological prevention.\n\n```\n                                THE PREVENTION PYRAMID\n                                          /\\\n                                         /  \\\n                                        /TERT\\     <--- Tertiary: Treatment & Rehabilitation\n                                       /------\\         (Reduces relapse, disability)\n                                      / SECOND \\   <--- Secondary: Early Intervention\n                                     /----------\\       (Early detection in high-risk)\n                                    /  PRIMARY   \\ <--- Primary: Universal Inoculation\n                                   /--------------\\     (Stops illness before it ever occurs)\n```\n\n## 1. Primary Prevention (Universal Prevention):\n- Targets the entire population or broad unaffected groups to prevent new cases of disorder from ever emerging (**reducing incidence**).\n- *Examples:* Fluoridating drinking water to prevent cavities; universal school anti-bullying programs; universal vaccination campaigns."
+    },
+    {
+      "id": "comm_prevention_3",
+      "type": "content",
+      "title": "Secondary and Tertiary Prevention",
+      "content": "# Secondary & Tertiary Interventions\n\n## 2. Secondary Prevention (Targeted / Selective Early Intervention):\n- Targets individuals or subgroups who are displaying early subclinical symptoms or who possess identified high-risk factors, intervening early to halt disease progression (**reducing prevalence**).\n- *Examples:* Screening kindergarteners for early reading deficits and providing immediate tutoring; crisis counseling following a neighborhood disaster; smoking cessation programs for pregnant mothers.\n\n## 3. Tertiary Prevention (Indicated Intervention / Rehabilitation):\n- Targets individuals already diagnosed with a chronic psychiatric disorder or disability, intervening to reduce severity, minimize relapse, prevent disability, and foster community rehabilitation.\n- *Examples:* Halfway houses for chronic schizophrenia; vocational rehabilitation; AA meetings for alcohol addiction."
+    },
+    {
+      "id": "comm_prevention_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Caplan's Prevention Tiers",
+      "content": "Verify your understanding of primary, secondary, and tertiary prevention.",
+      "quizQuestion": "A school psychologist conducts a universal stress-inoculation and emotional resilience curriculum for ALL 6th-grade students in a school district, before any symptoms appear. What tier of Caplan's prevention framework is being deployed?",
+      "quizOptions": [
+        "Primary Prevention",
+        "Secondary Prevention",
+        "Tertiary Prevention",
+        "Quaternary Prevention"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "comm_prevention_4",
+      "type": "content",
+      "title": "Gordon's Institute of Medicine (IOM) Model",
+      "content": "# The IOM Modern Prevention Framework\n\nIn 1994, the Institute of Medicine (IOM) updated Caplan's taxonomy into three operationally precise population categories (Robert Gordon).\n\n## The IOM Continuum:\n1. **Universal Prevention:** Targeted to the general public or an entire population cohort that has not been identified based on individual risk (e.g., suicide prevention hotlines advertised across public transit).\n2. **Selective Prevention:** Targeted to individuals or subgroups whose risk of developing mental disorders is significantly higher than average based on biological, psychological, or social risk factors (e.g., support groups for children of divorce or children of alcoholic parents).\n3. **Indicated Prevention:** Targeted to high-risk individuals who are identified as having minimal but detectable signs or symptoms foreshadowing a mental disorder, but who do not meet full diagnostic criteria (e.g., social anxiety skills training for adolescents displaying acute peer withdrawal)."
+    },
+    {
+      "id": "comm_prevention_5",
+      "type": "content",
+      "title": "Community Needs Assessment: Mapping Assets",
+      "content": "# Community Needs Assessment & Asset Mapping\n\nBefore designing any community program, psychologists conduct a rigorous **Community Needs Assessment**.\n\n## Needs Assessment vs. Deficit Blaming:\n- Traditional outsiders enter a poor neighborhood and record only deficits: crime, drugs, poverty, broken families.\n- **Asset-Based Community Development (ABCD - Kretzmann & McKnight):** Focuses equally on identifying community **assets, strengths, and capacities**:\n  - Local informal leaders, churches, youth mentors, cultural traditions, and community gardens.\n\n## Methodological Tools:\n- Key Informant Interviews, Community Town Halls, Epidemiological Census Audits, and Geographical Information Systems (GIS) spatial mapping."
+    },
+    {
+      "id": "comm_prevention_6",
+      "type": "content",
+      "title": "Program Development and the Logic Model",
+      "content": "# Program Design & The Logic Model\n\nEffective community interventions are structured using a systematic **Logic Model**\u2014a visual roadmap depicting the shared relationships among resources, activities, and desired results.\n\n```\n[ INPUTS ] --------> [ ACTIVITIES ] --------> [ OUTPUTS ] --------> [ OUTCOMES ] --------> [ IMPACT ]\n(Budget, Staff)      (Workshops, Tutoring)   (50 youth trained)    (Grades improve)       (Poverty reduced)\n```\n\n## The Five Components of a Logic Model:\n1. **Inputs:** Human, financial, and organizational resources invested.\n2. **Activities:** The actual interventional processes delivered (e.g., 10 weekly peer workshops).\n3. **Outputs:** The direct quantifiable products of activities (e.g., number of participants served, hours delivered).\n4. **Short-Term Outcomes:** Immediate changes in knowledge, attitudes, or skills.\n5. **Long-Term Impact:** Enduring, systemic community transformations (e.g., reduced drop-out rates, decreased juvenile arrests)."
+    },
+    {
+      "id": "comm_prevention_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: IOM Model & Logic Models",
+      "content": "Assess your understanding of the IOM classification and program logic models.",
+      "quizQuestion": "In the Institute of Medicine (IOM) prevention framework, what characterizes 'Selective Prevention'?",
+      "quizOptions": [
+        "Interventions applied exclusively to patients inside psychiatric hospitals",
+        "Interventions targeted to subgroups who share biological or social risk factors placing them at above-average risk, though they do not yet exhibit symptoms",
+        "Interventions delivered only to millionaires",
+        "Universal vaccines administered to 100% of citizens"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_prevention_7",
+      "type": "content",
+      "title": "Program Evaluation: Process vs. Outcome",
+      "content": "# Program Evaluation Methodologies\n\nCommunity programs require continuous empirical auditing to prove effectiveness and justify grant funding.\n\n## 1. Process (Formative) Evaluation:\n- Evaluates how the program is being implemented and delivered in real time.\n- *Questions:* Are sessions starting on time? Are fidelity manuals being followed? Are participants dropping out?\n- Enables rapid mid-course corrections before the program concludes.\n\n## 2. Outcome (Summative) Evaluation:\n- Evaluates whether the program achieved its ultimate stated objectives and changes.\n- *Questions:* Did juvenile arrests drop? Did student reading scores improve?\n- Uses randomized control trials or interrupted time-series designs to demonstrate causality."
+    },
+    {
+      "id": "comm_prevention_8",
+      "type": "content",
+      "title": "Julian Rappaport: The Empowerment Paradigm",
+      "content": "# Julian Rappaport: Empowerment Theory (1981, 1987)\n\n**Julian Rappaport** introduced **Empowerment** as the foundational core philosophy of community psychology.\n\n## Operational Definition of Empowerment:\n- *'Empowerment is an intentional, ongoing process centered in the local community, involving mutual respect, critical reflection, caring, and group participation, through which people lacking an equal share of valued resources gain greater access to and control over those resources.'*\n\n## Citizen Participation vs. Paternalistic Charity:\n- Paternalistic charity treats poor communities as passive, helpless victims needing expert rescue.\n- Empowerment treats community members as sovereign citizens possessing indigenous expertise, agency, and rights to determine their own community destiny."
+    },
+    {
+      "id": "comm_prevention_9",
+      "type": "content",
+      "title": "Levels of Empowerment: Psychological to Organizational",
+      "content": "# Multilevel Empowerment (Zimmerman, 2000)\n\nMarc Zimmerman demonstrated that empowerment operates across multiple interdependent ecological levels.\n\n## The Three Levels of Empowerment:\n\n### 1. Psychological Empowerment (Individual Level):\n- **Intrapersonal Component:** Domain-specific self-efficacy, perceived control, and motivation to influence sociopolitical life.\n- **Interactional Component:** Critical awareness of how local power structures, policies, and resources function.\n- **Behavioral Component:** Active participation in community organizations and civic voting.\n\n### 2. Organizational Empowerment:\n- Organizations that provide democratic decision-making structures, empowering members internally while advocating successfully for external resources.\n\n### 3. Community Empowerment:\n- Municipalities, coalitions, and neighborhoods possessing collaborative competence to solve collective crises."
+    },
+    {
+      "id": "comm_prevention_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Evaluation & Empowerment",
+      "content": "Verify your understanding of formative evaluation and Rappaport's empowerment theory.",
+      "quizQuestion": "In community psychology, what is the core philosophical premise of Julian Rappaport's Empowerment Theory?",
+      "quizOptions": [
+        "Community members should remain completely passive while government experts make all decisions",
+        "People lacking equal resources gain greater control over their lives through critical reflection, mutual respect, and active civic participation",
+        "Mental illness should be treated exclusively with pharmaceutical drugs",
+        "All community organizations should be closed"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_prevention_10",
+      "type": "content",
+      "title": "Advocacy: Systems and Policy Change",
+      "content": "# Advocacy in Community Psychology\n\nCommunity psychologists do not confine themselves to therapy offices; they engage in active **sociopolitical advocacy** to transform harmful public policies.\n\n## Levels of Advocacy:\n- **Case Advocacy:** Fighting on behalf of an individual client to secure housing, educational accommodations, or medical benefits.\n- **Class / Systems Advocacy:** Changing institutional rules, corporate practices, or state/federal legislative statutes to dismantle structural barriers for thousands of marginalized citizens (e.g., reforming unjust bail systems, passing environmental clean water laws)."
+    },
+    {
+      "id": "comm_prevention_11",
+      "type": "content",
+      "title": "Head Start and The Perry Preschool Project",
+      "content": "# The High/Scope Perry Preschool Study\n\nOne of the most historic, influential longitudinal early intervention studies in world history, tracking impoverished African American children from age 3 into their 40s (David Weikart).\n\n## The Intervention:\n- Two years of high-quality active learning preschool (Monday-Friday) paired with weekly 90-minute home visits by teachers.\n\n## The Astonishing Longitudinal Outcomes (Age 40):\n- **Educational:** Significantly higher high school graduation rates (65% vs. 45%).\n- **Economic:** Significantly higher median annual earnings and homeownership rates.\n- **Criminal:** 46% fewer lifetime prison sentences.\n- **Cost-Benefit Ratio:** Every $1 invested in the preschool program returned **$17 in societal economic savings** (reduced prison costs, increased taxes paid, decreased welfare dependency)!"
+    },
+    {
+      "id": "comm_prevention_12",
+      "type": "content",
+      "title": "The Nurse-Family Partnership (David Olds)",
+      "content": "# The Nurse-Family Partnership (NFP)\n\nDeveloped by **David Olds**, the **Nurse-Family Partnership** is a gold-standard home visiting prevention program for low-income, first-time young mothers.\n\n## The Protocol:\n- Specialized registered nurses conduct structured home visits during pregnancy and through the child's second birthday.\n\n## Empirically Documented Outcomes (Across 30-Year Follow-ups):\n- 48% reduction in verified child abuse and neglect.\n- 59% reduction in juvenile arrests by age 15.\n- Substantial reductions in maternal substance abuse and welfare dependency.\n- Proves that early primary prevention during infancy fundamentally alters life-course trajectories."
+    },
+    {
+      "id": "comm_prevention_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Perry Preschool & NFP",
+      "content": "Assess your understanding of landmark early intervention studies.",
+      "quizQuestion": "What was the economic return on investment documented by age 40 in the High/Scope Perry Preschool Project?",
+      "quizOptions": [
+        "Zero return; the program lost money",
+        "Every $1 invested in the preschool program returned $17 in societal economic savings through reduced crime, higher earnings, and lower welfare costs",
+        "A return of exactly $2 per million dollars",
+        "Preschool was shown to have no effect on adult outcomes"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_prevention_13",
+      "type": "content",
+      "title": "Challenges in Community Program Scaling",
+      "content": "# The Dissemination and Implementation Challenge\n\nWhy do successful evidence-based programs frequently fail when scaled up nationally?\n\n## The Voltage Drop Effect:\n- Programs that show massive effect sizes under strict university supervision often experience a dramatic drop in efficacy (**voltage drop**) when implemented in chaotic community settings.\n- **Causes:** Staff turnover, lack of implementation fidelity, insufficient budget, and ignoring local cultural adaptations.\n\n## Implementation Science:\nFocusing on the systems, organizational climate, and coaching infrastructure needed to maintain fidelity and sustainable community adoption."
+    },
+    {
+      "id": "comm_prevention_14",
+      "type": "content",
+      "title": "The Role of the Community Psychologist",
+      "content": "# The Community Psychologist as Collaborative Change Agent\n\nCommunity psychologists reject the role of the detached, all-knowing outside academic expert.\n\n## Alternative Professional Roles:\n- **Facilitator / Catalyst:** Helping community coalitions clarify goals and organize action.\n- **Action Researcher:** Co-designing empirical studies with citizens.\n- **Resource Linker:** Connecting grassroots organizations to philanthropic grants and policy leaders.\n- **Systemic Reformer:** Advocating for institutional policy changes that eliminate root causes of suffering."
+    },
+    {
+      "id": "comm_prevention_15",
+      "type": "content",
+      "title": "Summary of Prevention & Early Intervention",
+      "content": "# Synthesis of Community Prevention\n\nCommunity prevention shifts psychological science from downstream band-aids to upstream structural health, proving that empowering communities transforms human destinies.\n\n## Core Principles Review:\n1. **Prevention Hierarchy:** Caplan's Primary, Secondary, and Tertiary models; IOM's Universal, Selective, and Indicated tiers.\n2. **Empowerment Core:** Treating citizens as sovereign experts possessing community assets and agency (Rappaport & Zimmerman).\n3. **Empirical Design:** Structuring programs using Logic Models (Inputs -> Activities -> Outputs -> Outcomes -> Impact).\n4. **Formative vs. Summative:** Monitoring process fidelity while evaluating long-term community outcomes.\n5. **Longitudinal Proof:** Perry Preschool and Nurse-Family Partnership demonstrate that early investment returns exponential societal dividends."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_rm_stats",
+    "topicId": "rm_stats",
+    "topicTitle": "Basic Statistics",
+    "description": "Master psychological statistics: descriptive vs. inferential statistics, central tendency, variability, correlation coefficients, hypothesis testing, and statistical significance.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "rm_stats_1",
+            "type": "content",
+            "title": "Introduction to Psychological Statistics",
+            "content": "# Statistics in Psychological Science\n\nWhy must every aspiring psychologist master statistics? Because without statistics, human beings are hopelessly prone to seeing patterns where none exist, overestimating coincidences, and confirming their own biases.\n\nStatistics provides the objective mathematical language that allows psychologists to make sense of quantitative data, detect true psychological patterns, and make valid scientific inferences.\n\n## The Two Grand Branches:\n1. **Descriptive Statistics:** Organizing, summarizing, and presenting numerical data clearly (central tendency, dispersion, distributions).\n2. **Inferential Statistics:** Using sample data to draw probabilistic conclusions about broader populations and test formal hypotheses.\n\nLet us explore the core statistical tools every psychologist relies on daily!"
+        },
+        {
+            "id": "rm_stats_2",
+            "type": "content",
+            "title": "Descriptive vs. Inferential Statistics",
+            "content": "# Descriptive vs. Inferential Statistics\n\n| Dimension | Descriptive Statistics | Inferential Statistics |\n|---|---|---|\n| **Primary Purpose** | Summarize and describe observed sample data | Make probabilistic inferences about unobserved populations |\n| **Core Questions** | What is the average score? How spread out are the scores? | Did the drug truly work? Could this result be random chance? |\n| **Common Metrics** | Mean, Median, Mode, Range, Standard Deviation | t-tests, ANOVA, Chi-Square, Regression, **p-value** |\n| **Population Focus** | Confined strictly to the participants tested | Generalizes from sample (mean **x-bar**) to population (mean **mu**) |\n| **Hypothesis Testing** | Does not test hypotheses | Formally tests **H0** (null) against **Ha** (alternative) |"
+        },
+        {
+            "id": "rm_stats_3",
+            "type": "content",
+            "title": "Measures of Central Tendency",
+            "content": "# Measures of Central Tendency\n\nCentral tendency identifies the single central score that best represents an entire distribution of numbers:\n\n### 1. Mean (Arithmetic Average)\n- Calculated by summing all scores and dividing by the total count (n).\n- Sample mean is designated as **x-bar**; population mean is designated as **mu**.\n- Highly sensitive to extreme outliers (skewing the average upward or downward).\n\n### 2. Median (The Middle Score)\n- The exact 50th percentile score that divides an ordered distribution in half.\n- Completely resistant (robust) to extreme outliers. The preferred measure for skewed distributions (such as annual household income or clinical recovery days).\n\n### 3. Mode (The Most Frequent Score)\n- The score or response category that occurs with the highest frequency.\n- The only measure of central tendency usable with nominal categorical data (e.g., most common psychiatric diagnosis)."
+        },
+        {
+            "id": "rm_stats_quiz_1",
+            "type": "quiz",
+            "title": "Central Tendency Check",
+            "content": "Assess your understanding of central tendency metrics!",
+            "quizQuestion": "In a distribution of annual household incomes where a few multi-billionaire residents severely skew the data to the right, which measure of central tendency provides the most accurate and unskewed representation of typical income?",
+            "quizOptions": [
+                "Arithmetic mean x-bar",
+                "Median",
+                "Range",
+                "Standard deviation s"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rm_stats_4",
+            "type": "content",
+            "title": "Measures of Variability: Range & Variance",
+            "content": "# Measures of Variability (Dispersion)\n\nCentral tendency tells only half the story. Two distributions can have the exact same mean (**x-bar** = 100), yet look radically different:\n- Distribution A: scores range from 98 to 102 (clustered tightly).\n- Distribution B: scores range from 20 to 180 (scattered widely).\n\n## 1. Range\n- The difference between the highest and lowest scores in a distribution.\n- `Range = Maximum Score - Minimum Score`\n- Crude and vulnerable to single extreme outliers.\n\n## 2. Variance\n- The average of the squared deviations from the mean score.\n- Measures how far, on average, individual data points deviate from the center."
+        },
+        {
+            "id": "rm_stats_5",
+            "type": "content",
+            "title": "Standard Deviation: The Master Metric",
+            "content": "# Standard Deviation (s & sigma)\n\nThe **Standard Deviation** is the square root of the variance, representing the average distance between individual scores and the mean score in the original units of measurement.\n\n## Notation Key:\n- **s** = Sample standard deviation\n- **sigma** = Population standard deviation\n\n## The Normal Distribution (Bell Curve):\nMany human psychological traits (IQ, height, reaction time) follow a symmetrical, bell-shaped normal curve with these exact empirical properties:\n\n```\n               [ Normal Bell Curve ]\n                   mean (mu)\n                       |\n           -1 sd <---- + ----> +1 sd   ===> approx 68% of population\n     -2 sd <---------- + ----------> +2 sd  ===> approx 95% of population\n -3 sd <-------------- + --------------> +3 sd ===> approx 99.7% of population\n```\n\n- Approx 68% of scores fall within **mu** +- 1 **sigma**\n- Approx 95% of scores fall within **mu** +- 2 **sigma**\n- Approx 99.7% of scores fall within **mu** +- 3 **sigma**"
+        },
+        {
+            "id": "rm_stats_6",
+            "type": "content",
+            "title": "Correlation Coefficients (r)",
+            "content": "# Correlation Coefficients (Pearson's r)\n\nThe **correlation coefficient (r)** is a numerical index quantifying the strength and direction of the linear relationship between two quantitative variables.\n\n## Mathematical Boundaries of r:\n- The value of r ranges strictly from **-1.00 to +1.00**.\n- `r = 0.00` indicates **zero linear correlation** between variables.\n\n## Direction of Correlation:\n- **Positive Correlation (0.00 < r <= +1.00):** Both variables move in the same direction. As Variable X increases, Variable Y increases (e.g., hours of study and exam score).\n- **Negative Correlation (-1.00 <= r < 0.00):** Variables move in opposite directions. As Variable X increases, Variable Y decreases (e.g., hours of video gaming before bed and total sleep duration).\n\n## Strength of Correlation:\n- The closer r is to -1.00 or +1.00, the **stronger** the relationship. An r of -0.85 is substantially stronger than an r of +0.35!"
+        },
+        {
+            "id": "rm_stats_quiz_2",
+            "type": "quiz",
+            "title": "Correlation Coefficient Check",
+            "content": "Evaluate your understanding of correlation strength and direction!",
+            "quizQuestion": "Which of the following correlation coefficients indicates the strongest statistical relationship between two psychological variables?",
+            "quizOptions": [
+                "r = +0.55",
+                "r = -0.78",
+                "r = +0.10",
+                "r = 0.00"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "rm_stats_7",
+            "type": "content",
+            "title": "Correlation Hazards: Curvilinearity & Restriction",
+            "content": "# Hazards in Correlational Analysis\n\nCareless researchers frequently misinterpret correlational data due to two common statistical traps:\n\n## 1. Curvilinear Relationships (Yerkes-Dodson Law)\n- Pearson's r tests **only linear relationships**.\n- If a relationship is curved (e.g., the Yerkes-Dodson Law where moderate physiological arousal yields optimal performance, but very low or very high arousal yields terrible performance), Pearson's r will calculate a value near **0.00**!\n- Looking at the number alone would falsely suggest no relationship exists.\n\n## 2. Restriction of Range\n- Calculating a correlation within an artificially restricted, narrow slice of a population severely depresses the observed r value.\n- *Example:* Correlating SAT scores and freshman GPA exclusively among Harvard students (who all scored near perfect on the SAT) yields an artificially weak correlation."
+        },
+        {
+            "id": "rm_stats_8",
+            "type": "content",
+            "title": "Hypothesis Testing: H0 vs. Ha",
+            "content": "# Hypothesis Testing: H0 vs. Ha\n\nInferential statistics operates by formal hypothesis testing, setting up two competing mathematical assertions:\n\n## 1. The Null Hypothesis (H0)\n- Asserts that there is **no true effect, no difference, and no relationship** between variables in the population.\n- Any observed difference in sample means (**x-bar**) is merely random sampling noise.\n- *Example:* `H0: mu_treatment = mu_control` (The new antidepressant produces no difference in mood compared to placebo).\n\n## 2. The Alternative Hypothesis (Ha)\n- The researcher's actual prediction: asserts that there is a genuine, non-random effect or difference in the population.\n- *Example:* `Ha: mu_treatment != mu_control` (The antidepressant produces a statistically meaningful difference in mood)."
+        },
+        {
+            "id": "rm_stats_9",
+            "type": "content",
+            "title": "Statistical Significance and p-values",
+            "content": "# Statistical Significance & The p-value\n\nHow do psychologists decide whether to reject the null hypothesis (**H0**)? They calculate the **p-value**.\n\n## Definition of the p-value:\n- The **p-value** is the probability of obtaining test results at least as extreme as the observed sample data, assuming that the null hypothesis (**H0**) is 100% true.\n\n## The Significance Level (alpha):\n- The predetermined cutoff threshold for rejecting **H0**, conventionally set at **alpha = 0.05** (5%) in psychological science.\n\n## The Decision Rule:\n- **If p-value <= alpha (p-value <= 0.05):** The observed result is statistically significant! We reject the null hypothesis (**H0**) and conclude that the effect is highly unlikely to be random chance.\n- **If p-value > alpha (p-value > 0.05):** Fail to reject **H0**. The evidence is insufficient to conclude an effect exists."
+        },
+        {
+            "id": "rm_stats_quiz_3",
+            "type": "quiz",
+            "title": "Hypothesis & p-value Check",
+            "content": "Verify your comprehension of null hypotheses and statistical significance criteria!",
+            "quizQuestion": "In an experiment testing a cognitive therapy app, researchers calculate a p-value of 0.02. Using the standard significance level of alpha = 0.05, what is the correct scientific decision?",
+            "quizOptions": [
+                "Reject the null hypothesis H0 because the p-value is less than or equal to alpha",
+                "Accept the null hypothesis H0 and conclude the app has zero effect",
+                "Conclude that exactly 2% of patients were successfully cured",
+                "Declare the experiment unscientific because the p-value was not zero"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "rm_stats_10",
+            "type": "content",
+            "title": "Type I and Type II Errors",
+            "content": "# Type I and Type II Errors\n\nBecause inferential statistics deals with probabilities rather than absolute certainties, researchers can make two distinct classification errors:\n\n```\n                                TRUE STATE OF REALITY\n                         H0 is True (No Effect) | H0 is False (Real Effect)\n                      +-------------------------+--------------------------+\nREJECT H0             |      TYPE I ERROR       |     CORRECT DECISION     |\n(Claim Effect Exists) |     (False Positive)    |          (Power)         |\n                      |     Probability = alpha |   Probability = 1 - beta |\n                      +-------------------------+--------------------------+\nFAIL TO REJECT H0     |     CORRECT DECISION    |      TYPE II ERROR       |\n(Claim No Effect)     |     (True Negative)     |     (False Negative)     |\n                      |  Probability = 1 - alpha|    Probability = beta    |\n                      +-------------------------+--------------------------+\n```\n\n- **Type I Error (False Positive):** Rejecting **H0** when **H0** is actually true. Claiming a drug cures depression when it actually does nothing. Probability equals **alpha** (0.05).\n- **Type II Error (False Negative):** Failing to reject **H0** when **H0** is actually false. Missing a real therapeutic breakthrough due to an underpowered sample size. Probability equals beta."
+        },
+        {
+            "id": "rm_stats_11",
+            "type": "content",
+            "title": "Effect Size: Cohen's d",
+            "content": "# Statistical Significance vs. Practical Significance\n\nA critical lesson in modern statistics is that **statistical significance (p-value <= 0.05) is NOT the same as practical clinical importance**!\n\nWith a massive sample size (e.g., n = 100,000), a tiny, completely meaningless difference of 0.1 IQ points will yield a significant **p-value** < 0.001.\n\n## Effect Size (Cohen's d):\n- **Effect size** measures the magnitude or strength of an experimental effect, independent of sample size.\n- **Cohen's d** measures the difference between two sample means in standard deviation units:\n\n| Value of Cohen's d | Benchmark Interpretation |\n|---|---|\n| **d = 0.20** | Small effect (subtle difference) |\n| **d = 0.50** | Medium effect (visible to trained observer) |\n| **d = 0.80 or greater** | Large effect (clinically substantial difference) |"
+        },
+        {
+            "id": "rm_stats_12",
+            "type": "content",
+            "title": "Confidence Intervals (95% CI)",
+            "content": "# Confidence Intervals (95% CI)\n\nModern psychological journals increasingly mandate reporting **Confidence Intervals** alongside p-values.\n\n## What is a 95% Confidence Interval?\n- A calculated numerical range derived from sample data that has a **95% confidence level** of capturing the true, unknown population mean (**mu**).\n\n```\n95% CI = [ Sample Mean (x-bar) - Margin of Error ]  to  [ Sample Mean (x-bar) + Margin of Error ]\n```\n\n## Practical Interpretation:\n- If a memory drug produces an improvement of **x-bar** = 8 points with a 95% CI of `[+5.5, +10.5]`, the interval does not include zero; we can be 95% confident that the true population improvement is substantial.\n- If the 95% CI spans `[-1.2, +7.4]`, the interval contains zero, indicating that the true population effect could be zero (statistically non-significant)!"
+        },
+        {
+            "id": "rm_stats_quiz_4",
+            "type": "quiz",
+            "title": "Effect Size & Errors Check",
+            "content": "Assess your understanding of statistical error types and effect size!",
+            "quizQuestion": "When a researcher claims that a psychological intervention is effective when in reality the intervention has zero true therapeutic effect, what specific error has been committed?",
+            "quizOptions": [
+                "Type I Error (False Positive)",
+                "Type II Error (False Negative)",
+                "Sampling Frame Attrition",
+                "Hawthorne Reactivity Bias"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "rm_stats_13",
+            "type": "content",
+            "title": "Common Inferential Statistical Tests",
+            "content": "# The Psychologist's Statistical Toolkit\n\nDepending on the design and variable types, researchers select specific inferential tests:\n\n### 1. Independent Samples t-test\n- Compares the means (**x-bar**) of two completely independent groups (e.g., Experimental Drug Group vs. Control Placebo Group).\n\n### 2. Paired Samples (Repeated Measures) t-test\n- Compares the means of the same group tested twice (e.g., Pre-test Anxiety vs. Post-test Anxiety).\n\n### 3. One-Way Analysis of Variance (ANOVA)\n- Compares the means of **three or more groups** simultaneously (e.g., Low Dose, High Dose, Placebo) without inflating Type I error rates.\n\n### 4. Chi-Square Test of Independence (Chi-Square)\n- Tests whether two categorical nominal variables are significantly associated (e.g., Biological Sex and Voting Preference)."
+        },
+        {
+            "id": "rm_stats_14",
+            "type": "content",
+            "title": "Open Science & Statistical Integrity",
+            "content": "# Statistical Integrity in Modern Science\n\nHistorical misuse of statistics contributed directly to psychology's replication crisis. Modern ethical standards demand strict integrity:\n\n## Practices Banned by Open Science:\n- **p-Hacking:** Adding or removing subjects sequentially until **p-value** drops below 0.05, then stopping data collection.\n- **HARKing (Hypothesizing After Results are Known):** Presenting an unexpected post-hoc finding as if it were the original a priori hypothesis.\n- **Data Peeking:** Running preliminary statistical tests during ongoing data collection without mathematical alpha corrections.\n\n## Modern Best Practices:\n- Study Pre-registration, publicly archiving raw anonymized datasets, transparent reporting of all collected variables, and calculating statistical power before testing."
+        },
+        {
+            "id": "rm_stats_15",
+            "type": "content",
+            "title": "Summary & Statistical Reference",
+            "content": "# Summary: Psychological Statistics\n\n## Plain-Language Statistical Glossary:\n- **mu:** Population mean\n- **x-bar:** Sample mean\n- **sigma:** Population standard deviation\n- **s:** Sample standard deviation\n- **H0:** Null hypothesis (assumes zero effect or difference)\n- **Ha:** Alternative hypothesis (assumes real effect exists)\n- **alpha:** Significance level threshold (conventionally 0.05)\n- **p-value:** Probability of observing data given **H0** is true (significant if **p-value** <= **alpha**)\n- **Cohen's d:** Standardized effect size magnitude (0.2 = small, 0.5 = medium, 0.8 = large)\n- **95% CI:** Interval capturing true population mean with 95% confidence level\n- **Type I Error:** False positive (rejecting true **H0**)\n- **Type II Error:** False negative (failing to reject false **H0**)\n\n> **Looking Ahead:** In our final module of this course, we examine Research Ethics, IRBs, informed consent, and animal welfare in psychological studies!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "learn_comm_social",
+  "topicId": "comm_social",
+  "topicTitle": "Social Justice & Equity",
+  "description": "Examine social justice and health equity in community psychology, analyzing health disparities, community organizing methodologies (Alinsky), policy advocacy, and Participatory Action Research (PAR).",
+  "baseKP": 75,
+  "slides": [
+    {
+      "id": "comm_social_1",
+      "type": "content",
+      "title": "The Social Justice Foundation of Psychology",
+      "content": "# Social Justice in Psychological Science\n\n**Social Justice** in community psychology is both a core moral value and an empirical orienting framework. It asserts that psychological well-being cannot be achieved in a society characterized by structural oppression, institutional racism, economic exploitation, and systemic disenfranchisement.\n\n## Distributive vs. Procedural Justice:\n- **Distributive Justice:** The fair and equitable allocation of societal resources, burdens, healthcare, and educational opportunities across all social groups.\n- **Procedural Justice:** The fairness, transparency, and dignity of the decision-making processes that allocate those resources, ensuring that marginalized communities have an authentic voice and vote in municipal decisions."
+    },
+    {
+      "id": "comm_social_2",
+      "type": "content",
+      "title": "Social Determinants of Health (SDOH)",
+      "content": "# The Social Determinants of Health (SDOH)\n\nAccording to the World Health Organization (WHO), the **Social Determinants of Health** are the non-medical conditions in which people are born, grow, live, work, and age.\n\n## The Five Broad SDOH Domains:\n1. **Economic Stability:** Poverty, employment security, debt, food security.\n2. **Education Access & Quality:** Literacy, early childhood education, high school graduation.\n3. **Healthcare Access & Quality:** Health insurance coverage, health literacy, culturally competent providers.\n4. **Neighborhood & Built Environment:** Housing quality, exposure to environmental toxins, crime rates, green space.\n5. **Social & Community Context:** Discrimination, social cohesion, civic participation, voting rights.\n\n> *The Medical Truth:* Your zip code is a vastly more powerful predictor of your life expectancy than your genetic code!"
+    },
+    {
+      "id": "comm_social_3",
+      "type": "content",
+      "title": "Health Disparities & Institutional Oppression",
+      "content": "# Health Disparities and Systemic Inequity\n\nA **health disparity** is a particular type of health difference that is closely linked with social, economic, or environmental disadvantage, adversely affecting groups who have systematically experienced greater obstacles to health.\n\n## Documented Inequities:\n- **Maternal Mortality:** African American women in the United States are three to four times more likely to die from pregnancy-related complications than white women, independent of income and education.\n- **Chronic Disease Burden:** Disproportionate rates of diabetes, hypertension, and asthma concentrated in low-income minority communities.\n- **Environmental Racism:** Siting toxic waste dumps, chemical refineries, and polluting freeways adjacent to poor minority neighborhoods (e.g., 'Cancer Alley' in Louisiana)."
+    },
+    {
+      "id": "comm_social_quiz_1",
+      "type": "quiz",
+      "title": "Concept Check: Social Justice & SDOH",
+      "content": "Verify your understanding of social justice definitions and the social determinants of health.",
+      "quizQuestion": "In public health and community psychology, what are the 'Social Determinants of Health' (SDOH)?",
+      "quizOptions": [
+        "A list of pharmaceutical prescriptions",
+        "The non-medical environmental, economic, and social conditions (housing, education, discrimination, income) in which people are born, live, work, and age",
+        "The specific genetic chromosomes that cause schizophrenia",
+        "The personal dietary choices of hospital doctors"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_social_4",
+      "type": "content",
+      "title": "Intersectionality in Community Work: Kimberl\u00e9 Crenshaw",
+      "content": "# Intersectional Analysis in Community Psychology\n\nFormulated by legal scholar and critical race theorist **Kimberl\u00e9 Crenshaw** (1989), **Intersectionality** provides an indispensable lens for understanding compounding forms of structural disadvantage.\n\n## Beyond Single-Axis Frameworks:\n- Human identity does not exist in single, isolated categories (race alone, gender alone, class alone, disability alone).\n- Systems of oppression (racism, sexism, classism, ableism, heterosexism) intersect to create unique, qualitatively distinct lived experiences of privilege and marginalization.\n- *Community Example:* An undocumented, low-income Latina woman with a disability faces structural barriers that cannot be addressed by an immigrant rights organization alone, a women's shelter alone, or a disability agency alone; interventions must address the intersection."
+    },
+    {
+      "id": "comm_social_5",
+      "type": "content",
+      "title": "Participatory Action Research (PAR)",
+      "content": "# Participatory Action Research (PAR)\n\nDeveloped by Latin American sociologists like **Orlando Fals Borda** and Brazilian educator **Paulo Freire** (*Pedagogy of the Oppressed*), **PAR** fundamentally democratizes the research enterprise.\n\n## The Core Principles of PAR:\n- **1. Participation:** Community members are NOT 'subjects' studied by outside scientists; they are equal, respected **co-researchers** involved in every stage (formulating questions, collecting data, analyzing findings).\n- **2. Action:** Research must not sit quietly in academic libraries; the investigation is intentionally designed to culminate in direct political, social, or legislative action.\n- **3. Research:** Maintaining rigorous empirical methods (interviews, surveys, spatial audits) to provide credible evidence that compels policy change."
+    },
+    {
+      "id": "comm_social_6",
+      "type": "content",
+      "title": "Youth Participatory Action Research (YPAR)",
+      "content": "# Youth Participatory Action Research (YPAR)\n\n**YPAR** applies participatory research methodologies specifically with children and adolescents in schools and community centers.\n\n## The Empowering Process:\n- High school students identify pressing issues affecting their daily lives (e.g., crumbling school infrastructure, lead in drinking water, aggressive police stop-and-frisk policies).\n- Students learn scientific research methods, design surveys, photograph evidence, and analyze data.\n- **The Culmination:** Students present empirical findings directly to city councils, school boards, and state legislators, demanding and securing structural funding."
+    },
+    {
+      "id": "comm_social_quiz_2",
+      "type": "quiz",
+      "title": "Concept Check: PAR & Intersectionality",
+      "content": "Assess your understanding of Participatory Action Research and intersectionality.",
+      "quizQuestion": "In Participatory Action Research (PAR), what is the role of community residents?",
+      "quizOptions": [
+        "They are passive, anonymous experimental subjects who are not told the study purpose",
+        "They are full, equal co-researchers who participate in formulating questions, collecting data, and taking direct social action based on findings",
+        "They are paid to sit quietly in laboratory waiting rooms",
+        "They are prohibited from speaking with academic scientists"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_social_7",
+      "type": "content",
+      "title": "Community Organizing: Saul Alinsky",
+      "content": "# The Foundations of Community Organizing: Saul Alinsky\n\n**Saul Alinsky** (*Rules for Radicals*, 1971), operating in the back of the Chicago stockyards, established the modern tactical framework for grassroots **community organizing**.\n\n## The Alinsky Philosophy of Power:\n- Power is not static; power is the ability to act.\n- Organizers build power by uniting organized people and organized resources to challenge organized money.\n\n## Core Alinsky Principles:\n1. **Agitate to Elevate:** Scratching the sores of discontent to turn passive apathy into active political outrage.\n2. **Start Where the People Are:** Working with local churches, labor unions, and neighborhood groups.\n3. **Tactics:** Keep the pressure on; never go outside the expertise of your people; hold opponents accountable to their own moral book of rules."
+    },
+    {
+      "id": "comm_social_8",
+      "type": "content",
+      "title": "Models of Community Change: Jack Rothman",
+      "content": "# Rothman's Three Models of Community Intervention (1970)\n\nJack Rothman categorized community change interventions into three distinct strategic models.\n\n| Model | Strategy | Primary Focus | Role of Community |\n|-------|----------|---------------|-------------------|\n| **1. Locality Development** | Consensus & Collaboration | Building community cohesion, self-help, and neighborhood pride | Broad civic participation and civic dialogue |\n| **2. Social Planning / Policy** | Data & Technical Expertise | Designing practical policy solutions via expert planners | Clients and consumers of professional services |\n| **3. Social Action** | Conflict & Confrontation | Overturning oppressive power structures and demanding rights | Mobilized grassroots activists challenging power |"
+    },
+    {
+      "id": "comm_social_9",
+      "type": "content",
+      "title": "Paulo Freire: Critical Consciousness (Conscientiza\u00e7\u00e3o)",
+      "content": "# Critical Consciousness: Paulo Freire (1970)\n\nIn *Pedagogy of the Oppressed*, Brazilian philosopher and educator **Paulo Freire** outlined how oppressed populations can achieve liberation through **Conscientiza\u00e7\u00e3o (Critical Consciousness)**.\n\n## The Three Stages of Consciousness:\n1. **Magical Consciousness:** Passive resignation; believing oppression is an unchangeable act of God or fate (*'There is nothing we can do'*).\n2. **Na\u00efve Consciousness:** Blaming individual leaders or oneself rather than recognizing systemic institutional structures.\n3. **Critical Consciousness:** Deep understanding of the systemic economic, historical, and political structures of oppression, paired with **collective collective action (Praxis = Reflection + Action)** to transform reality."
+    },
+    {
+      "id": "comm_social_quiz_3",
+      "type": "quiz",
+      "title": "Concept Check: Community Organizing & Freire",
+      "content": "Verify your understanding of Rothman's change models and Freire's critical consciousness.",
+      "quizQuestion": "In Paulo Freire's pedagogy, what does 'Critical Consciousness' (Conscientiza\u00e7\u00e3o) describe?",
+      "quizOptions": [
+        "A state of hypnotic meditation",
+        "The capacity to critically analyze the systemic, political, and historical root causes of oppression, paired with collective action (praxis) to transform them",
+        "A severe psychiatric delusion",
+        "Memorizing government laws word-for-word"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_social_10",
+      "type": "content",
+      "title": "Policy Advocacy and Legislative Change",
+      "content": "# Translating Psychology into Public Policy\n\nCommunity psychologists translate behavioral data into binding legislative and institutional policy changes.\n\n## Policy Advocacy Strategies:\n- **Writing Policy Briefs:** Translating dense, complex meta-analyses into concise 2-page executive summaries for state senators and governors.\n- **Expert Legislative Testimony:** Testifying before congressional subcommittees regarding the developmental impacts of poverty, solitary confinement, or environmental toxins.\n- **Building Broad Coalitions:** Forming multi-stakeholder alliances uniting grassroots community activists, labor unions, religious leaders, and public health physicians."
+    },
+    {
+      "id": "comm_social_11",
+      "type": "content",
+      "title": "Food Insecurity & Food Deserts",
+      "content": "# Environmental & Nutritional Inequity\n\nA **Food Desert** is an urban neighborhood or rural town where residents lack access to fresh, healthy, affordable whole foods due to an absence of grocery stores and supermarkets.\n\n## The Health Consequence:\n- Residents are forced to rely on corner convenience stores and fast food outlets selling cheap, hyper-palatable processed foods rich in refined sugars and trans fats.\n- Drives epidemic rates of childhood obesity, Type 2 diabetes, and cardiovascular disease in low-income minority zip codes.\n- *Community Solution:* Community-owned food cooperatives, urban rooftop farms, and zoning policies banning fast food density near public schools."
+    },
+    {
+      "id": "comm_social_12",
+      "type": "content",
+      "title": "Housing First: Sam Tsemberis",
+      "content": "# Ending Chronic Homelessness: Housing First\n\nDeveloped by psychologist **Sam Tsemberis** in New York City (Pathways to Housing), **Housing First** revolutionized clinical and community approaches to chronic homelessness.\n\n## The Traditional Model (The Staircase / Treatment-First):\n- Required chronically homeless individuals with severe psychiatric illness and addiction to become 'housing ready'\u2014demanding sobriety and psychiatric compliance before granting housing.\n- *Result:* Massive failure; individuals remained homeless for decades.\n\n## The Housing First Paradigm:\n- Housing is an unconditional fundamental human right, NOT a reward for good behavior.\n- Provides immediate, permanent independent apartment housing **without preconditions of sobriety or treatment attendance**, while surrounding the individual with intensive voluntary wraparound supportive services.\n- **The Empirical Result:** Over **85% to 90% housing retention rates**, massive drops in emergency room visits and arrests, and millions in municipal tax savings!"
+    },
+    {
+      "id": "comm_social_quiz_4",
+      "type": "quiz",
+      "title": "Concept Check: Housing First & Food Deserts",
+      "content": "Assess your understanding of Sam Tsemberis's Housing First model and urban nutrition inequities.",
+      "quizQuestion": "What is the core operational principle of Sam Tsemberis's evidence-based 'Housing First' model for chronic homelessness?",
+      "quizOptions": [
+        "Requiring 100% complete sobriety and psychiatric cure before an individual is allowed into housing",
+        "Providing immediate, permanent independent housing as an unconditional human right without sobriety preconditions, accompanied by voluntary wraparound supportive services",
+        "Building temporary tents in public parks",
+        "Purchasing one-way bus tickets to other states"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "comm_social_13",
+      "type": "content",
+      "title": "Environmental Justice and Climate Psychology",
+      "content": "# Environmental Justice in Psychology\n\n**Environmental Justice** asserts that no community\u2014regardless of race, income, or national origin\u2014should bear a disproportionate burden of negative environmental consequences.\n\n## Climate Anxiety & Inequity:\n- Climate change acts as a 'threat multiplier', exacerbating preexisting poverty, drought, and displacement.\n- Low-income minority communities suffer worst from urban 'heat island' effects and industrial pollution, mobilizing psychologists to partner in climate resilience advocacy."
+    },
+    {
+      "id": "comm_social_14",
+      "type": "content",
+      "title": "Decolonizing Psychological Practice",
+      "content": "# Decolonizing Psychology\n\nCommunity psychology critically examines how Western academic psychology has historically operated as an instrument of cultural imperialism, pathologizing indigenous coping mechanisms and imposing Eurocentric individualism.\n\n## Decolonial Practice in Community Science:\n- Elevating indigenous epistemologies, communal storytelling, and traditional kinship networks.\n- Shifting power and grant funding directly into the hands of local communities.\n- Ensuring research explicitly challenges colonial power dynamics."
+    },
+    {
+      "id": "comm_social_15",
+      "type": "content",
+      "title": "Summary of Social Justice & Equity",
+      "content": "# Synthesis of Social Justice in Community Science\n\nSocial justice in community psychology proves that true mental health is inseparable from human rights, collective equity, and systemic liberation.\n\n## Core Principles Review:\n1. **Social Determinants:** Health is driven by neighborhood conditions, housing, income, and systemic discrimination (SDOH).\n2. **Participatory Research:** PAR democratizes science, turning community members into equal co-researchers taking direct action.\n3. **Community Organizing:** Uniting people to challenge institutional power and build collective efficacy (Alinsky & Rothman).\n4. **Critical Consciousness:** Freire's praxis (reflection + collective action) awakens communities from passive resignation.\n5. **Evidence-Based Equity:** Landmark innovations like Housing First prove that honoring fundamental human rights produces profound psychological healing."
+    }
+  ]
+}

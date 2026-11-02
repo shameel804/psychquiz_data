@@ -1,0 +1,155 @@
+{
+    "id": "learn_dm_biases",
+    "topicId": "dm_biases",
+    "topicTitle": "Cognitive Biases",
+    "description": "Examine the systematic deviations from normative rationality that characterize human choice, analyzing confirmation bias, anchoring, availability, framing effects, and overconfidence.",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "dm_biases_1",
+            "type": "content",
+            "title": "The Predictably Irrational Mind",
+            "content": "# The Architecture of Cognitive Biases\n\nFor centuries, classical economic models assumed that human decision-makers are **Homo economicus**: perfectly rational calculating agents who objectively evaluate probabilities to maximize personal utility.\n\n## The Behavioral Revolution:\n- Amos Tversky and Daniel Kahneman shattered this classical myth.\n- Human minds do not operate like linear statistical computers.\n- Instead, human judgment is shaped by **cognitive biases**: systematic, predictable patterns of deviation from normative rationality.\n\n## Biases vs. Random Errors:\n- A random error is statistical noise (sometimes guessing too high, sometimes too low; average error = 0).\n- A **bias** is a directional skew: human intuition systematically errs in the same predictable direction across diverse populations and cultures!"
+        },
+        {
+            "id": "dm_biases_2",
+            "type": "content",
+            "title": "Confirmation Bias in Belief and Action",
+            "content": "# Confirmation Bias\n\n**Confirmation bias** is the pervasive tendency to search for, interpret, favor, and recall information that confirms pre-existing hypotheses, while ignoring or dismissing disconfirming data.\n\n## Three Manifestations:\n1. **Biased Information Search:** Choosing news sources and search queries tailored to support existing political or personal views.\n2. **Biased Interpretation:** Evaluating ambiguous evidence as highly supportive of one's own stance, while subjecting counter-evidence to hyper-critical skepticism.\n3. **Biased Memory Recall:** Selectively remembering instances that proved one's intuition right while forgetting times one was wrong.\n\n## Real-World Consequence:\n- Contributes to medical misdiagnosis when a physician settles prematurely on an initial diagnostic hunch and ignores laboratory tests contradicting it."
+        },
+        {
+            "id": "dm_biases_3",
+            "type": "content",
+            "title": "Anchoring and Adjustment",
+            "content": "# The Anchoring Effect (Tversky & Kahneman, 1974)\n\n**Anchoring** occurs when people rely disproportionately on an initial piece of information (the **anchor**) when making numerical estimates, failing to adjust sufficiently away from it.\n\n## The Wheel of Fortune Experiment:\n- Participants watched a roulette wheel rigged to stop on either **10** or **65**.\n- They were then asked: *\"What percentage of African nations belong to the United Nations?\"*\n\n| Arbitrary Anchor Value | Median Participant Estimate |\n|---|---|\n| **Low Anchor (10)** | **25%** |\n| **High Anchor (65)** | **45%** |\n\n## Why Anchoring Occurs:\n- **Selective Accessibility:** The anchor value primes semantically consistent knowledge in memory.\n- **Insufficient Adjustment:** Adjusting away from an anchor requires effortful System 2 calculation, which terminates prematurely as soon as an estimate enters a plausible range."
+        },
+        {
+            "id": "dm_biases_quiz_1",
+            "type": "quiz",
+            "title": "Confirmation & Anchoring Check",
+            "content": "Verify your understanding of confirmation bias and anchoring mechanisms!",
+            "quizQuestion": "A real estate agent lists a home at a sky-high asking price. Even after negotiations and price cuts, buyers end up paying significantly more than the fair market value. What cognitive phenomenon explains this outcome?",
+            "quizOptions": [
+                "The Availability Cascade",
+                "The Anchoring and Adjustment Heuristic",
+                "Hindsight Bias",
+                "The Sunk Cost Fallacy"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_biases_4",
+            "type": "content",
+            "title": "The Availability Heuristic & Salience",
+            "content": "# The Availability Heuristic in Decision Making\n\nHow do people judge the risk or probability of dangerous events?\n\n## The Rule of Availability:\n- People estimate the frequency or probability of an event by the ease with which relevant instances come to conscious mind.\n\n```\nSensational Media Event (Plane Crash) ---> High Vividness / Emotional Salience ---> Effortless Memory Retrieval ---> Inflated Risk Estimate!\n```\n\n## Dramatic Empirical Asymmetries (Lichtenstein et al.):\n- **Stroke vs. Accidents:** Stroke kills 40 times more people than accidental trauma, yet 80% of participants judged accidental deaths as more frequent!\n- **Tornadoes vs. Asthma:** Asthma kills 20 times more individuals than tornadoes, but tornado deaths are judged far more probable because they are visually dramatic."
+        },
+        {
+            "id": "dm_biases_5",
+            "type": "content",
+            "title": "Framing Effects (Tversky & Kahneman, 1981)",
+            "content": "# The Framing Effect\n\n**Framing effects** occur when people draw completely different conclusions and make opposing choices from the same identical information depending on how it is presented (**framed**).\n\n## The Asian Disease Problem:\nThe US is preparing for an outbreak of an unusual disease expected to kill 600 people. Two alternative programs are proposed:\n\n### Gain Frame (Lives Saved):\n- **Program A:** 200 people will be saved. (Chosen by **72%** - Risk-Averse!)\n- **Program B:** 1/3 probability that 600 people will be saved, 2/3 probability that no people will be saved.\n\n### Loss Frame (Deaths):\n- **Program C:** 400 people will die.\n- **Program D:** 1/3 probability that nobody will die, 2/3 probability that 600 people will die. (Chosen by **78%** - Risk-Seeking!)\n\n> **Mathematical Reality:** Program A is 100% identical to Program C! Changing the phrasing from \"lives saved\" to \"deaths\" flipped human preference from cautious risk aversion to reckless gambling!"
+        },
+        {
+            "id": "dm_biases_6",
+            "type": "content",
+            "title": "Loss Aversion and the Endowment Effect",
+            "content": "# Loss Aversion: Losses Loom Larger Than Gains\n\nWhy does framing have such a titanic hold over human psychology?\n\n## The Core Principle of Loss Aversion:\n- The psychological pain of losing an amount (e.g., losing \\$100) is approximately **twice as intense** as the pleasure of gaining that exact same amount (gaining \\$100)!\n\n## The Endowment Effect (Richard Thaler, 1980):\n- People demand significantly more money to sell an object they own than they would be willing to pay to purchase it.\n- **The Coffee Mug Study (Kahneman, Knetsch, & Thaler):**\n  * Students given a university coffee mug refused to sell it for less than a median of **\\$7.12**.\n  * Students without a mug were willing to pay only a median of **\\$2.87** to buy one!\n- Ownership turns a transaction from a potential gain into a painful loss."
+        },
+        {
+            "id": "dm_biases_quiz_2",
+            "type": "quiz",
+            "title": "Framing & Loss Aversion Check",
+            "content": "Evaluate your understanding of framing shifts and loss aversion ratios!",
+            "quizQuestion": "In Tversky and Kahneman's Asian Disease Problem, why do participants overwhelmingly prefer the risky gamble when the options are framed in terms of lives lost rather than lives saved?",
+            "quizOptions": [
+                "Human psychology is naturally risk-averse in the domain of gains, but becomes risk-seeking to avoid certain losses",
+                "Participants fail to understand basic fractions and percentages",
+                "Loss frames completely suppress working memory updating in the prefrontal cortex",
+                "Loss frames activate the Default Mode Network"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "dm_biases_7",
+            "type": "content",
+            "title": "The Overconfidence Bias",
+            "content": "# The Overconfidence Phenomenon\n\nHuman beings routinely exhibit unwarranted confidence in their own knowledge, abilities, and future prospects.\n\n## Three Manifestations of Overconfidence:\n1. **Overestimation:** Believing that one's actual performance, skill level, or control is higher than objective reality (e.g., 93% of US drivers claim they are \"above average\" in driving skill\u2014a statistical impossibility!).\n2. **Overprecision:** Excessive certainty regarding the accuracy of one's beliefs (e.g., when asked to set a 90% confidence range for historical facts, participants miss the range 30-40% of the time).\n3. **Overplacement (Better-Than-Average Effect):** Believing that one is superior to peers in desirable traits like ethics, intelligence, and leadership."
+        },
+        {
+            "id": "dm_biases_8",
+            "type": "content",
+            "title": "The Dunning-Kruger Effect",
+            "content": "# The Dunning-Kruger Effect (1999)\n\nDavid Dunning and Justin Kruger demonstrated an inverse relationship between actual expertise and self-assessed competence in unskilled domains:\n\n```\nConfidence Level:\nHigh |   * (Peak of Mt. Stupid: Incompetent & Unaware)\n     |  / \\\n     | /   \\\n     |/     \\____ (Valley of Despair: Learning Complexity)\n     |           \\________                               * (Slope of Enlightenment / Mastery)\nLow  |____________________********************************\n     Low Competence                               High Competence\n```\n\n## The Double Curse of Incompetence:\n- Individuals who lack expertise in a domain lack the very metacognitive skills necessary to recognize their own errors!\n- Conversely, true experts often underestimate their relative superiority, assuming tasks that are easy for them are easy for everyone."
+        },
+        {
+            "id": "dm_biases_9",
+            "type": "content",
+            "title": "Hindsight Bias & Outcome Bias",
+            "content": "# Retrospective Cognitive Traps\n\n## 1. Hindsight Bias (\"I-Knew-It-All-Along Effect\")\n- The tendency to exaggerate one's ability to have foreseen an outcome after the outcome is already known.\n- Baruch Fischhoff (1975) showed that learning that an event occurred immediately reshapes people's memory of their prior probability estimates, creating an illusion of predictability.\n\n## 2. Outcome Bias\n- Evaluating the quality of a decision based purely on its eventual outcome rather than the quality of the decision-making process at the time the decision was made under uncertainty.\n- **Example:** A surgeon performs a highly risky, medically contraindicated surgery; the patient miraculously survives. Applauding the surgeon's choice constitutes outcome bias!"
+        },
+        {
+            "id": "dm_biases_quiz_3",
+            "type": "quiz",
+            "title": "Overconfidence & Hindsight Check",
+            "content": "Test your mastery of the Dunning-Kruger effect and retrospective evaluation errors!",
+            "quizQuestion": "What metacognitive deficit specifically explains the Dunning-Kruger effect among novices in a skill domain?",
+            "quizOptions": [
+                "Novices suffer from selective damage to the arcuate fasciculus",
+                "The skills required to produce correct answers are the exact same skills needed to evaluate competence, leaving novices unaware of their shortcomings",
+                "Novices possess excessive baseline dopamine in the striatum",
+                "Novices experience retrograde interference from prior mastery"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_biases_10",
+            "type": "content",
+            "title": "The Sunk Cost Fallacy",
+            "content": "# The Sunk Cost Fallacy (Concorde Effect)\n\n**The Sunk Cost Fallacy** is the tendency to continue investing resources (money, time, emotional energy) into a failing endeavor simply because of the resources already invested, which cannot be recovered.\n\n## Historical Example: The Concorde Supersonic Jet\n- British and French governments knew the commercial supersonic jet was financially non-viable, but continued pouring billions into development because they had \"already invested too much to stop\".\n\n## The Rational Normative Principle:\n- Rational decision-making considers only **future marginal costs and benefits**.\n- Sunk costs are gone forever; honoring them throws good resources after bad.\n- Driven by loss aversion and an ego defense mechanism against admitting past waste."
+        },
+        {
+            "id": "dm_biases_11",
+            "type": "content",
+            "title": "Affect Heuristic and Risk Perception (Slovic)",
+            "content": "# The Affect Heuristic (Paul Slovic)\n\nHow do emotional feelings drive statistical risk evaluations?\n\n## The Affective Shortcut:\n- People consult their instantaneous emotional reaction (**\"How do I feel about it?\"**) rather than calculating statistical hazard tables.\n\n## The Inverse Risk-Benefit Correlation:\n- In the real world, risk and benefit are typically positively correlated (high benefits like nuclear power or surgery carry high risks).\n- In human minds, risk and benefit are perceived as **negatively correlated**:\n  * If people *like* an activity (e.g., cell phones, skiing), they judge its benefits as enormous and its risks as negligible.\n  * If people *dislike* an activity (e.g., chemical plants, food preservatives), they judge its risks as catastrophic and its benefits as nonexistent!"
+        },
+        {
+            "id": "dm_biases_12",
+            "type": "content",
+            "title": "Evolutionary Psychology of Biases",
+            "content": "# Are Biases Actually Adaptive?\n\nCognitive biases are not merely design flaws; evolutionary psychologists (Gerd Gigerenzer, Leda Cosmides, John Tooby) argue they represent **ecologically rational adaptations**.\n\n## Error Management Theory (Haselton & Buss):\n- In ancestral environments, the fitness costs of different errors were deeply asymmetric:\n\n```\nError Type 1: Hearing a rustle in the bushes and assuming it is a tiger when it is just wind (False Alarm).\n              Cost: Low (burn a few calories running away).\n\nError Type 2: Hearing a rustle and assuming it is wind when it is a hungry tiger (Miss).\n              Cost: Fatal death (Zero reproductive fitness!).\n```\n\n- Natural selection hardwired human cognition to be hyper-sensitive and paranoid, favoring false alarms to maximize survival!"
+        },
+        {
+            "id": "dm_biases_quiz_4",
+            "type": "quiz",
+            "title": "Sunk Costs & Ecological Rationality Check",
+            "content": "Verify your understanding of sunk costs and error management theory!",
+            "quizQuestion": "According to Error Management Theory, why did natural selection engineer human cognition to exhibit systematic biases rather than perfect mathematical objectivity?",
+            "quizOptions": [
+                "Human brains lacked the physical volume to house neocortical tissue",
+                "When survival error costs are asymmetrical, natural selection favors the less costly error (false alarm) over a lethal miss",
+                "Biases were invented solely by modern marketing institutions",
+                "Dopaminergic signaling was absent in ancestral primates"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "dm_biases_13",
+            "type": "content",
+            "title": "Organizational & Financial Impact of Biases",
+            "content": "# Macroeconomic and Corporate Consequences\n\nCognitive biases shape financial markets and geopolitical events on an immense scale:\n\n## 1. Mergers & Acquisitions (CEO Hubris)\n- Overconfidence leads corporate executives to pay massive premiums for acquisitions, destroying shareholder value in over 70% of major corporate mergers.\n\n## 2. Market Bubbles & Panics\n- Herding behavior and availability cascades inflate speculative bubbles (cryptocurrency, housing, dot-com stocks).\n- Sudden market drops trigger frantic loss aversion selling at market bottoms.\n\n## 3. Intelligence Failures in Defense\n- Confirmation bias causes intelligence agencies to interpret ambiguous satellite photos as verifying pre-existing military assumptions."
+        },
+        {
+            "id": "dm_biases_14",
+            "type": "content",
+            "title": "Debiasing Interventions & Checklists",
+            "content": "# Systemic Debiasing Strategies\n\nHow can professionals insulate themselves from cognitive biases?\n\n## Proven Debiasing Protocols:\n1. **Premortem Analysis (Gary Klein):** Before launching a project, the team assumes the plan has failed catastrophically in the future and writes a retrospective history of why it crashed, breaking confirmation bias and overconfidence.\n2. **Decision Checklists (Atul Gawande):** Forcing surgeons and pilots to follow standardized procedural checklists suppresses heuristic shortcuts.\n3. **Blind Auditions in Symphony Orchestras:** Auditioning musicians behind an opaque screen eliminated gender and prestige biases in orchestral hiring."
+        },
+        {
+            "id": "dm_biases_15",
+            "type": "content",
+            "title": "Module Summary & Key Concepts",
+            "content": "# Module Summary: Cognitive Biases\n\n## Core Principles Mastered:\n\n### 1. Directional Cognitive Distortions\n- **Confirmation Bias:** Selectively seeking confirming evidence and rejecting contradictory data.\n- **Anchoring:** Insufficient adjustment away from arbitrary starting values.\n\n### 2. Evaluative Heuristics\n- **Availability:** Estimating risk based on ease of recall and emotional salience.\n- **Affect Heuristic:** Evaluating risks and benefits based on emotional feelings.\n\n### 3. Asymmetric Choice Dynamics\n- **Framing Effects:** Decisions flip depending on whether outcomes are phrased as gains or losses.\n- **Loss Aversion:** Losses hurt approx twice as much as equivalent gains feel good.\n\n### 4. Overconfidence & Retrospective Errors\n- Dunning-Kruger effect illustrates incompetence unawareness; Hindsight bias exaggerates predictability.\n- Sunk Cost Fallacy honors irrecoverable past investments.\n\n> **Up Next:** Explore the formal mathematical and descriptive models in **Decision-Making Theories**!"
+        }
+    ]
+}
